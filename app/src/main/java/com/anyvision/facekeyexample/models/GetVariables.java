@@ -1,16 +1,18 @@
 package com.anyvision.facekeyexample.models;
-import android.content.SharedPreferences;
-import android.preference.PreferenceManager;
+import android.hardware.Camera;
+import android.media.MediaRecorder;
 import android.widget.TextView;
 import com.anyvision.facekeyexample.prysm.Authentication;
+
+import java.io.File;
 
 public class GetVariables {
 
     private static String localServerUrl;
     private static GetVariables getVariablesInstance;
     private static TextView etLocalServerUrl;
-    private static TextView textviewAnyvision;
-    private static String etAnyvisionUrl;
+    private static TextView textviewFindFace;
+    private static String etFindFaceUrl;
     private static String etUsername;
     private static String etRegisterUsername;
     private static String spTypeAccount;
@@ -21,6 +23,11 @@ public class GetVariables {
     private static String etRegisterLocalAgencia;
     private static String txtLabelSliceClickChart;
     private static String txtOpcaoFacilities;
+
+    private static MediaRecorder mediaRecorder;
+    private static boolean statusMediaRecord = false;
+    private static File fileMediaRecord;
+    private static Camera camera;
 
     private GetVariables(){
         localServerUrl = "";
@@ -107,20 +114,20 @@ public class GetVariables {
         GetVariables.spTypeAccount = spTypeAccount;
     }
 
-    public String getEtAnyvisionUrl() {
-        return etAnyvisionUrl;
+    public String getEtFindFaceUrl() {
+        return etFindFaceUrl;
     }
 
-    public void setEtAnyvisionUrl(String etAnyvisionUrl) {
-        GetVariables.etAnyvisionUrl = etAnyvisionUrl;
+    public void setEtFindFace(String etAnyvisionUrl) {
+        GetVariables.etFindFaceUrl = etAnyvisionUrl;
     }
 
-    public TextView getTextviewAnyvision() {
-        return textviewAnyvision;
+    public TextView getTextviewFindFace() {
+        return textviewFindFace;
     }
 
-    public void setTextviewAnyvision(TextView textviewAnyvision) {
-        GetVariables.textviewAnyvision = textviewAnyvision;
+    public void setTextviewFindFace(TextView textviewAnyvision) {
+        GetVariables.textviewFindFace = textviewAnyvision;
     }
 
     public String getNameAgencia() {return nameAgencia; }
@@ -133,5 +140,57 @@ public class GetVariables {
 
     public void setTxtOpcaoFacilities(String opcaoFacilities) {
         GetVariables.txtOpcaoFacilities = opcaoFacilities;
+    }
+
+    public boolean setCamera(Camera cam){
+        camera = cam;
+        return true;
+    }
+
+    public Camera getCamera(){
+        return camera;
+    }
+
+    public boolean unlockCamera(){
+        camera.unlock();
+        return true;
+    }
+
+    public void lockCamera(){
+        camera.lock();
+    }
+
+    public MediaRecorder getMediaRecorder() {
+        if(mediaRecorder == null) {
+            mediaRecorder = new MediaRecorder();
+        }
+        return mediaRecorder;
+    }
+
+    public void setMediaRecorder(MediaRecorder mdRecorder){
+        if(mediaRecorder == null){
+            getMediaRecorder();
+        }
+        mediaRecorder = mdRecorder;
+
+    }
+
+    public void setFileMediaRecorder(File file){
+        if(mediaRecorder == null)
+            mediaRecorder = new MediaRecorder();
+
+        fileMediaRecord = file;
+    }
+
+    public File getFileMediaRecord(){
+        return fileMediaRecord;
+    }
+
+    public void setStatusMediaRecord(boolean isRecord){
+        statusMediaRecord = isRecord;
+    }
+
+    public boolean isRecording(){
+        return statusMediaRecord;
     }
 }

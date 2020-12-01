@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Projeto-Android\\PROJETOS\\FacekeyClientComSesameNormal-SEM-LOGO\\FacekeyClientComSesameNormal-SEM-LOGO\\app\\build\\intermediates\\incremental\\mergeClientDebugResources\\merged.dir\\values-v24\\values-v24.xml",
+            "outputFile": "C:\\Users\\ewerton.richieri\\Documents\\FindFace-Security-V4\\app\\build\\intermediates\\incremental\\mergeClientDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
                     "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dba7a81331f0adbff93a3c50a5d10b3e\\res\\values-v24\\values-v24.xml",

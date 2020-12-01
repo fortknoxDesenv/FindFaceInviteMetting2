@@ -19,20 +19,30 @@ import com.android.volley.error.VolleyError;
 import com.android.volley.request.JsonObjectRequest;
 import com.android.volley.toolbox.Volley;
 import com.anyvision.facekeyexample.FacekeyApplication;
+import com.anyvision.facekeyexample.activities.face.FindFaceResultActivity;
 import com.anyvision.facekeyexample.activities.logged.SolicitationExtensionActivity;
 import com.anyvision.facekeyexample.activities.logged.SolicitationHistoryApproved;
 import com.anyvision.facekeyexample.activities.logged.SolicitationHistoryReproved;
 import com.anyvision.facekeyexample.models.ChamadoGrafico;
+import com.anyvision.facekeyexample.models.FaceDetection.DossierFaces;
+import com.anyvision.facekeyexample.models.FaceDetection.Dossiers.NomeDossier;
+import com.anyvision.facekeyexample.models.FaceDetection.Dossiers.Result;
+import com.anyvision.facekeyexample.models.FaceDetection.Liveness;
 import com.anyvision.facekeyexample.models.Facilities;
 import com.anyvision.facekeyexample.models.GetVariables;
 import com.anyvision.facekeyexample.models.MessageTopic;
 import com.anyvision.facekeyexample.models.SolicitationExtension;
 import com.anyvision.facekeyexample.models.VariableRow;
 import com.anyvision.facekeyexample.models.VariableRowChamado;
+import com.anyvision.facekeyexample.utils.BasicAuthInterceptor;
 import com.anyvision.facekeyexample.utils.Enum;
 
 import org.json.JSONObject;
 
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.io.InputStream;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.ArrayList;
@@ -40,12 +50,15 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.TimeUnit;
 
+import okhttp3.MediaType;
 import okhttp3.OkHttpClient;
+import okhttp3.RequestBody;
 import okhttp3.ResponseBody;
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;
 import retrofit2.Retrofit;
+import retrofit2.converter.gson.GsonConverterFactory;
 import retrofit2.converter.scalars.ScalarsConverterFactory;
 import retrofit2.converter.simplexml.SimpleXmlConverterFactory;
 
@@ -53,6 +66,8 @@ public class Authentication extends Application {
     private String serverLocalUrl;
     private boolean statusServer;
     private static Context mContext;
+    private static boolean cadastradoNoDossier = false;
+    private static String serverFindFace = GetVariables.getInstance().getEtFindFaceUrl();
 
     @Override
     public void onCreate() {
@@ -925,6 +940,158 @@ public class Authentication extends Application {
         });
     }
 
+    public static void livenessFindFace(File file) {
+//        String servidor = "http://192.168.5.199:18301";
+        String porta = ":18301";
+
+        OkHttpClient okhttpclient = new OkHttpClient.Builder()
+                .connectTimeout(20, TimeUnit.SECONDS)
+                .readTimeout(30, TimeUnit.SECONDS)
+                .writeTimeout(15, TimeUnit.SECONDS)
+                .build();
+
+        Retrofit retrofit = new Retrofit.Builder()
+                .baseUrl(serverFindFace+porta)
+                .addConverterFactory(GsonConverterFactory.create())
+                .client(okhttpclient)
+                .build();
+        AuthToken tokenAuth = retrofit.create(AuthToken.class);
+
+        RequestBody requestBody = null;
+        try {
+            InputStream in = new FileInputStream(file);
+            byte[] buf;
+            buf = new byte[in.available()];
+            while (in.read(buf) != -1) ;
+            requestBody = RequestBody.create(MediaType.parse("video/mp4"), buf);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        Call<Liveness> call = tokenAuth.posLiveness(requestBody);
+        call.enqueue(new Callback<Liveness>() {
+            @Override
+            public void onResponse(Call<Liveness> call, Response<Liveness> response) {
+                Log.d("teste", response.toString());
+                if (response.isSuccessful()) {
+                    boolean validado = response.body().getAlive();
+
+                    String id = response.body().getId();
+
+                    if (validado && (!id.isEmpty())) {
+                        getNomesDossiers("detection:"+id);
+                    } else {
+                        FindFaceResultActivity.onResult("Liveness não aprovou o teste!");
+                    }
+                }
+                else if(response.code() == 406){
+                    FindFaceResultActivity.onResult("Face não identificada, por favor tente novamente.");
+                }
+            }
+
+            @Override
+            public void onFailure(Call<Liveness> call, Throwable t) {
+                Log.d("ErroConexao", t.getMessage());
+                FindFaceResultActivity.onResult("Falha na conexão, Por favor verifique a conexão da VPN e tente novamente!");
+            }
+        });
+    }
+
+    public static void getNomesDossiers(final String face1) {
+        final String nome = GetVariables.getInstance().getEtUsername();
+        String username = "admin";
+        String password = "admin";
+        OkHttpClient okHttpClient = new OkHttpClient.Builder()
+                .addInterceptor(new BasicAuthInterceptor(username, password))
+                .build();
+
+        Retrofit retrofit = new Retrofit.Builder()
+                .baseUrl(serverFindFace)
+                .addConverterFactory(GsonConverterFactory.create())
+                .client(okHttpClient)
+                .build();
+        AuthToken authToken = retrofit.create(AuthToken.class);
+        Call<NomeDossier> call = authToken.getNomesDossiers(nome);
+        call.enqueue(new Callback<NomeDossier>() {
+            @Override
+            public void onResponse(Call<NomeDossier> call, Response<NomeDossier> response) {
+                Log.d("message", response.body().toString());
+                //NomeDossier result = response.body();
+                ArrayList<Result> result = response.body().getResults();
+
+                boolean validado = false;
+                int id_dossier = 0;
+                String nomeUsuarioDossier = "";
+                for(int i=0; i < result.size(); i++ ){
+                    if(result.get(i).name.compareTo(nome) == 0){
+                        validado = true;
+                        id_dossier = result.get(i).id;
+                        nomeUsuarioDossier = result.get(i).name;
+                    }
+                }
+
+//                String[] liNomes = result.getNamesDossiers();
+//
+//                boolean validado = false;
+//                for(int i=0; i < result.results.size(); i++ ){
+//                    if(liNomes[i].compareTo(nome) == 0)
+//                        validado = true;
+//                }
+                if (validado) {
+                    getComparaFaceComDossie(face1, id_dossier, nomeUsuarioDossier);
+//                    FindFaceResultActivity.onSuccess();
+                } else {
+                    FindFaceResultActivity.onResult("Usuário "+nome+" não está registrado. Por favor realize o cadastro");
+                }
+            }
+            @Override
+            public void onFailure(Call<NomeDossier> call, Throwable t) {
+                Log.d("message", t.getMessage());
+            }
+        });
+
+    }
+
+    public static void getComparaFaceComDossie(final String face1, final int dossier_id, final String nome) {
+        String username = "admin";
+        String password = "admin";
+
+        OkHttpClient okHttpClient = new OkHttpClient.Builder()
+                .addInterceptor(new BasicAuthInterceptor(username, password))
+                .build();
+
+        Retrofit retrofit = new Retrofit.Builder()
+                .baseUrl(serverFindFace)
+                .client(okHttpClient)
+                .addConverterFactory(GsonConverterFactory.create())
+                .build();
+        AuthToken authToken = retrofit.create(AuthToken.class);
+
+        Call<DossierFaces> call = authToken.getVerificaFaceDossie(face1, dossier_id);
+        call.enqueue(new Callback<DossierFaces>() {
+            @Override
+            public void onResponse(Call<DossierFaces> call, Response<DossierFaces> response) {
+                Log.d("FindFace", response.toString());
+                DossierFaces result = response.body();
+
+                double valido = result.getResultado();
+                if (valido > 0.6)
+                    cadastradoNoDossier = true;
+
+                if (cadastradoNoDossier) {
+                    cadastradoNoDossier = false;
+                    FindFaceResultActivity.onSuccess();
+                } else {
+                    FindFaceResultActivity.onResult("Validação inconsistente.");
+                }
+            }
+
+            @Override
+            public void onFailure(Call<DossierFaces> call, Throwable t) {
+                Log.d("FindFaceErro", t.getMessage());
+                FindFaceResultActivity.onResult("Falha na conexão");
+            }
+        });
+    }
 
     public static Context getContext() {
         return mContext;

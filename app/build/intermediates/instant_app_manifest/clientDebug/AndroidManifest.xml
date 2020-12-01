@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.anyvision.facekeyexample.client"
+    package="com.anyvision.facekeyexample.ntec"
     android:targetSandboxVersion="2"
-    android:versionCode="7"
-    android:versionName="11" >
+    android:versionCode="2"
+    android:versionName="2" >
 
     <uses-sdk
         android:minSdkVersion="21"
@@ -51,7 +51,6 @@
         android:label="@string/app_name"
         android:largeHeap="true"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
         <activity
@@ -214,7 +213,7 @@
 
         <provider
             android:name="androidx.work.impl.WorkManagerInitializer"
-            android:authorities="com.anyvision.facekeyexample.client.workmanager-init"
+            android:authorities="com.anyvision.facekeyexample.ntec.workmanager-init"
             android:directBootAware="false"
             android:exported="false"
             android:multiprocess="true" />
@@ -304,6 +303,27 @@
             android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
+        <service
+            android:name="com.google.mlkit.common.internal.MlKitComponentDiscoveryService"
+            android:directBootAware="true"
+            android:exported="false" >
+            <meta-data
+                android:name="com.google.firebase.components:com.google.mlkit.vision.face.internal.FaceRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.mlkit.vision.common.internal.VisionCommonRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
+                android:name="com.google.firebase.components:com.google.mlkit.common.internal.CommonComponentRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+        </service>
+
+        <provider
+            android:name="com.google.mlkit.common.internal.MlKitInitProvider"
+            android:authorities="com.anyvision.facekeyexample.ntec.mlkitinitprovider"
+            android:exported="false"
+            android:initOrder="99" />
+
         <receiver
             android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
             android:exported="true"
@@ -336,7 +356,7 @@
 
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
-            android:authorities="com.anyvision.facekeyexample.client.firebaseinitprovider"
+            android:authorities="com.anyvision.facekeyexample.ntec.firebaseinitprovider"
             android:exported="false"
             android:initOrder="100" />
 
@@ -350,7 +370,7 @@
 
         <provider
             android:name="com.squareup.picasso.PicassoProvider"
-            android:authorities="com.anyvision.facekeyexample.client.com.squareup.picasso"
+            android:authorities="com.anyvision.facekeyexample.ntec.com.squareup.picasso"
             android:exported="false" />
 
         <service
@@ -372,7 +392,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="com.anyvision.facekeyexample.client.fileProvider"
+            android:authorities="com.anyvision.facekeyexample.ntec.fileProvider"
             android:exported="false"
             android:grantUriPermissions="true" >
             <meta-data

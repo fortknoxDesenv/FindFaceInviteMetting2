@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "D:\\Projeto-Android\\PROJETOS\\FacekeyClientComSesameNormal-SEM-LOGO\\FacekeyClientComSesameNormal-SEM-LOGO\\app\\build\\intermediates\\incremental\\mergeClientDebugResources\\merged.dir\\values-tr\\values-tr.xml",
+            "outputFile": "C:\\Users\\ewerton.richieri\\Documents\\FindFace-Security-V4\\app\\build\\intermediates\\incremental\\mergeClientDebugResources\\merged.dir\\values-tr\\values-tr.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\4b6fcf3f0333f279d69dc6b8ef26adec\\res\\values-tr\\values-tr.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,215,286,363,459,547,613,693,751,819,892,960,1031,1079,1147,1208,1290",
-                        "endColumns": "159,70,76,95,87,65,79,57,67,72,67,70,47,67,60,81,55",
-                        "endOffsets": "210,281,358,454,542,608,688,746,814,887,955,1026,1074,1142,1203,1285,1341"
-                    },
-                    "to": {
-                        "startLines": "50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "5812,5972,6043,6120,6216,6304,6370,6450,6508,6576,6649,6717,6788,6836,6904,6965,7047",
-                        "endColumns": "159,70,76,95,87,65,79,57,67,72,67,70,47,67,60,81,55",
-                        "endOffsets": "5967,6038,6115,6211,6299,6365,6445,6503,6571,6644,6712,6783,6831,6899,6960,7042,7098"
-                    }
-                },
                 {
                     "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\values-tr\\values-tr.xml",
                     "from": {
@@ -35,6 +18,23 @@
                         "startOffsets": "105,210,309,421,506,612,732,811,887,978,1071,1164,1258,1356,1449,1551,1646,1737,1828,1907,2014,2119,2215,2322,2424,2532,2688,5632",
                         "endColumns": "104,98,111,84,105,119,78,75,90,92,92,93,97,92,101,94,90,90,78,106,104,95,106,101,107,155,97,78",
                         "endOffsets": "205,304,416,501,607,727,806,882,973,1066,1159,1253,1351,1444,1546,1641,1732,1823,1902,2009,2114,2210,2317,2419,2527,2683,2781,5706"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\5c7274f3157ee331d3f89d6d94a97c16\\res\\values-tr\\values-tr.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,215,286,363,459,547,613,693,751,819,892,960,1031,1079,1147,1208,1290",
+                        "endColumns": "159,70,76,95,87,65,79,57,67,72,67,70,47,67,60,81,55",
+                        "endOffsets": "210,281,358,454,542,608,688,746,814,887,955,1026,1074,1142,1203,1285,1341"
+                    },
+                    "to": {
+                        "startLines": "50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "5812,5972,6043,6120,6216,6304,6370,6450,6508,6576,6649,6717,6788,6836,6904,6965,7047",
+                        "endColumns": "159,70,76,95,87,65,79,57,67,72,67,70,47,67,60,81,55",
+                        "endOffsets": "5967,6038,6115,6211,6299,6365,6445,6503,6571,6644,6712,6783,6831,6899,6960,7042,7098"
                     }
                 },
                 {

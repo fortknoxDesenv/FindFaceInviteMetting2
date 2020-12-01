@@ -58,7 +58,7 @@ public final class R {
 
         public static final int below_section_mark = 0x7f090065;
         public static final int bottom_sides = 0x7f09006c;
-        public static final int sides = 0x7f0901dc;
+        public static final int sides = 0x7f0901e3;
     }
     public static final class string {
         private string() {}

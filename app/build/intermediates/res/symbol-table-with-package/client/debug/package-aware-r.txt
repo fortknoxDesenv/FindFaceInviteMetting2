@@ -1,4 +1,4 @@
-com.anyvision.facekeyexample.client
+com.anyvision.facekeyexample.ntec
 anim abc_fade_in
 anim abc_fade_out
 anim abc_grow_fade_in_from_bottom
@@ -1608,6 +1608,7 @@ id faceMessageEvent
 id faceNotFoundBackground
 id faceOval
 id fake
+id fake_find_face
 id fieldsContainer
 id fill
 id fill_horizontal
@@ -1616,6 +1617,8 @@ id filled
 id filterControl1
 id filterControl2
 id finishedDatagroupsLv
+id fireFaceOverlay
+id firePreview
 id fixed
 id fkLogo
 id flash
@@ -1653,6 +1656,7 @@ id hardware
 id home
 id homeAsUp
 id horizontal_separator
+id horizontal_separator_find_face
 id icon
 id icon_group
 id icon_only
@@ -1768,6 +1772,7 @@ id progressBarHistory
 id progressBarSolicit
 id progressDb
 id progress_bar
+id progress_bar_find_face
 id progress_circular
 id progress_horizontal
 id radio
@@ -1779,7 +1784,9 @@ id recylerItem
 id regulaLogoLayout
 id restart
 id result_img
+id result_img_find_face
 id result_text
+id result_text_find_face
 id resultsFinish
 id resultsHeader
 id resultsHeaderBgImage
@@ -1877,6 +1884,7 @@ id surface
 id surface_view
 id surface_view_root
 id survey_container
+id survey_container_find_face
 id swapCameraBtn
 id tabMode
 id tab_layout
@@ -1933,10 +1941,13 @@ id transition_transform
 id tryAgainNoFace
 id try_again
 id try_again_container
+id try_again_container_find_face
+id try_again_find_face
 id tutorialBackBtn
 id tutorialPageDescription
 id tutorialTryAgain
 id txtInfoTelaProfissao
+id txtIntrucaoCamera
 id txtMenuAprovReprov
 id txtSolicitation
 id txtsenha
@@ -2028,6 +2039,8 @@ layout activity_chamado_grafico_barra
 layout activity_enrollment
 layout activity_facilities
 layout activity_facilities_controle
+layout activity_find_face_camera
+layout activity_find_face_result
 layout activity_gestao
 layout activity_instructions
 layout activity_login
@@ -2312,6 +2325,7 @@ string cameraview_filter_sharpness
 string cameraview_filter_temperature
 string cameraview_filter_tint
 string cameraview_filter_vignette
+string centralizeRosto
 string character_counter_content_description
 string character_counter_pattern
 string chd_BackgroundComparisonError
@@ -2600,6 +2614,7 @@ string livness_try_again_cant_find_face
 string livness_tutorial_align_face
 string mtrl_chip_close_icon_content_description
 string name_error
+string naoSeMexa
 string next
 string no_face_in_video
 string no_faces_in_video
@@ -2827,7 +2842,7 @@ string scan_id_processing
 string scan_id_too_many_faces
 string scanning_id_text
 string search_menu_title
-string server_anyvision
+string server_findFace
 string server_url
 string servidorSesame
 string sesameVideoMp4
@@ -3509,6 +3524,7 @@ string typefaceBoldPath
 string typefaceLightPath
 string typefaceMedPath
 string usuarioJaCadastrado
+string validando
 string verifique_status_servidor
 string vid_time
 string video_process_failed

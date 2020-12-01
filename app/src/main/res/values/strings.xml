@@ -79,7 +79,8 @@
     <string name="sesameVideoMp4">/SesameVideo.mp4</string>
     <string name="registrado">Registrado</string>
     <!--    <string name="server_anyvision">http://latam-sesame.anyvision.co:3003</string>-->
-    <string name="server_anyvision">http://200.188.213.130:3003</string>
+    <!--    <string name="server_anyvision">http://200.188.213.130:3003</string>-->
+    <string name="server_findFace">http://192.168.5.199</string>
 
     <!-- LoginActivity -->
     <string name="enableBtnRegister">enableBtnRegister</string>
@@ -92,7 +93,13 @@
     <string name="verifique_status_servidor">Por favor, verifique o status do servidor local!</string>
 
     <!-- Servidor -->
-    <string name="servidorSesame">http://200.188.213.130:3003</string>
+    <!--    <string name="servidorSesame">http://200.188.213.130:3003</string>-->
+    <string name="servidorSesame">http://192.168.5.199</string>
     <string name="password">#FKtec202000#</string>
+
+    <!-- Intrução Câmera -->
+    <string name="centralizeRosto">Centralize seu rosto</string>
+    <string name="naoSeMexa">Não se mexa</string>
+    <string name="validando">Validação iniciada, não se mexa</string>
 
 </resources>

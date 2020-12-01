@@ -6515,364 +6515,375 @@ public final class R {
     public static final int faceNotFoundBackground=0x7f0900f0;
     public static final int faceOval=0x7f0900f1;
     public static final int fake=0x7f0900f2;
-    public static final int fieldsContainer=0x7f0900f3;
-    public static final int fill=0x7f0900f4;
-    public static final int fill_horizontal=0x7f0900f5;
-    public static final int fill_vertical=0x7f0900f6;
-    public static final int filled=0x7f0900f7;
-    public static final int filterControl1=0x7f0900f8;
-    public static final int filterControl2=0x7f0900f9;
-    public static final int finishedDatagroupsLv=0x7f0900fa;
-    public static final int fixed=0x7f0900fb;
-    public static final int fkLogo=0x7f0900fc;
-    public static final int flash=0x7f0900fd;
-    public static final int flashEmulator=0x7f0900fe;
-    public static final int flashEmulatorBlack=0x7f0900ff;
-    public static final int flashLayout=0x7f090100;
-    public static final int flipInAnimation=0x7f090101;
-    public static final int flipOutAnimation=0x7f090102;
-    public static final int floatingCurrentStatusClockTv=0x7f090103;
-    public static final int floatingCurrentStatusCounterTv=0x7f090104;
-    public static final int floatingCurrentStatusPortTv=0x7f090105;
-    public static final int floatingStatusLandscapeClockTv=0x7f090106;
-    public static final int floatingStatusLandscapeCounterTv=0x7f090107;
-    public static final int floatingStatusTv=0x7f090108;
-    public static final int fluorescent=0x7f090109;
-    public static final int focusMarkerContainer=0x7f09010a;
-    public static final int focusMarkerFill=0x7f09010b;
-    public static final int forever=0x7f09010c;
-    public static final int fragmentsHolder=0x7f09010d;
-    public static final int frameBorders=0x7f09010e;
-    public static final int frameShape=0x7f09010f;
-    public static final int frameShapeContainer=0x7f090110;
-    public static final int front=0x7f090111;
-    public static final int frontBackIDText=0x7f090112;
-    public static final int gallery=0x7f090113;
-    public static final int ghost_view=0x7f090114;
-    public static final int glSurface=0x7f090115;
-    public static final int gl_surface_view=0x7f090116;
-    public static final int gone=0x7f090117;
-    public static final int group_divider=0x7f090118;
-    public static final int groups=0x7f090119;
-    public static final int h263=0x7f09011a;
-    public static final int h264=0x7f09011b;
-    public static final int hardware=0x7f09011c;
-    public static final int home=0x7f09011d;
-    public static final int homeAsUp=0x7f09011e;
-    public static final int horizontal_separator=0x7f09011f;
-    public static final int icon=0x7f090120;
-    public static final int icon_group=0x7f090121;
-    public static final int icon_only=0x7f090122;
-    public static final int idMessageContainer=0x7f090123;
-    public static final int idMessageEvent=0x7f090124;
-    public static final int ifRoom=0x7f090125;
-    public static final int image=0x7f090126;
-    public static final int imageProgressBar=0x7f090127;
-    public static final int imageTakenCard=0x7f090128;
-    public static final int imageView=0x7f090129;
-    public static final int img_result=0x7f09012a;
-    public static final int incandescent=0x7f09012b;
-    public static final int indicatorPb=0x7f09012c;
-    public static final int info=0x7f09012d;
-    public static final int infoBtn=0x7f09012e;
-    public static final int innerFaceAnimation=0x7f09012f;
-    public static final int inst1=0x7f090130;
-    public static final int instructionLayout=0x7f090131;
-    public static final int invisible=0x7f090132;
-    public static final int italic=0x7f090133;
-    public static final int item_touch_helper_previous_elevation=0x7f090134;
-    public static final int labeled=0x7f090135;
-    public static final int largeLabel=0x7f090136;
-    public static final int left=0x7f090137;
-    public static final int leftTextViewGroup=0x7f090138;
-    public static final int letsTryBtn=0x7f090139;
-    public static final int light=0x7f09013a;
-    public static final int lightBtn=0x7f09013b;
-    public static final int line1=0x7f09013c;
-    public static final int line3=0x7f09013d;
-    public static final int linearLayout=0x7f09013e;
-    public static final int listMode=0x7f09013f;
-    public static final int list_item=0x7f090140;
-    public static final int livenessAnimation=0x7f090141;
-    public static final int livenessBackBtn=0x7f090142;
-    public static final int livenessInstHomeBtn=0x7f090143;
-    public static final int livenessInstructions=0x7f090144;
-    public static final int livenessResContainer=0x7f090145;
-    public static final int livenessResDesc=0x7f090146;
-    public static final int livenessResDone=0x7f090147;
-    public static final int livenessResImg=0x7f090148;
-    public static final int livenessResTryAgain=0x7f090149;
-    public static final int livenessResultsLoader=0x7f09014a;
-    public static final int livenessResultsLoaderContainer=0x7f09014b;
-    public static final int livenessRootView=0x7f09014c;
-    public static final int livenessTitle=0x7f09014d;
-    public static final int livenessTutorialView=0x7f09014e;
-    public static final int livenessValidationText=0x7f09014f;
-    public static final int livenessView=0x7f090150;
-    public static final int loadingPb=0x7f090151;
-    public static final int login=0x7f090152;
-    public static final int loginCameraLiveness=0x7f090153;
-    public static final int loginPanico=0x7f090154;
-    public static final int logo=0x7f090155;
-    public static final int logoImg=0x7f090156;
-    public static final int logoLabel=0x7f090157;
-    public static final int logoSicredi=0x7f090158;
-    public static final int looksGoodBtn=0x7f090159;
-    public static final int lottieFeedbackView=0x7f09015a;
-    public static final int lottieShutter=0x7f09015b;
-    public static final int lottie_layer_name=0x7f09015c;
-    public static final int mainStatusClockTv=0x7f09015d;
-    public static final int mainStatusCounterTv=0x7f09015e;
-    public static final int mainStatusPortTv=0x7f09015f;
-    public static final int masked=0x7f090160;
-    public static final int media_actions=0x7f090161;
-    public static final int menu=0x7f090162;
-    public static final int message=0x7f090163;
-    public static final int middle=0x7f090164;
-    public static final int mini=0x7f090165;
-    public static final int mono=0x7f090166;
-    public static final int mtrl_child_content_container=0x7f090167;
-    public static final int mtrl_internal_children_alpha_tag=0x7f090168;
-    public static final int multiply=0x7f090169;
-    public static final int navigation_header_container=0x7f09016a;
-    public static final int needHelp=0x7f09016b;
-    public static final int needHelpTutorialText=0x7f09016c;
-    public static final int never=0x7f09016d;
-    public static final int noFaceAlertView=0x7f09016e;
-    public static final int none=0x7f09016f;
-    public static final int normal=0x7f090170;
-    public static final int notification_background=0x7f090171;
-    public static final int notification_main_column=0x7f090172;
-    public static final int notification_main_column_container=0x7f090173;
-    public static final int off=0x7f090174;
-    public static final int on=0x7f090175;
-    public static final int outline=0x7f090176;
-    public static final int overlay=0x7f090177;
-    public static final int overlayDrawView=0x7f090178;
-    public static final int overlayFocusView=0x7f090179;
-    public static final int overlayFrameView=0x7f09017a;
-    public static final int packed=0x7f09017b;
-    public static final int pageTitle=0x7f09017c;
-    public static final int page_four=0x7f09017d;
-    public static final int page_one=0x7f09017e;
-    public static final int page_three=0x7f09017f;
-    public static final int page_two=0x7f090180;
-    public static final int parallax=0x7f090181;
-    public static final int parent=0x7f090182;
-    public static final int parentPanel=0x7f090183;
-    public static final int parent_matrix=0x7f090184;
-    public static final int percent=0x7f090185;
-    public static final int permissionBtn=0x7f090186;
-    public static final int picContainer=0x7f090187;
-    public static final int picContainerBack=0x7f090188;
-    public static final int picContainerHeader=0x7f090189;
-    public static final int picture=0x7f09018a;
-    public static final int pie_chart=0x7f09018b;
-    public static final int pie_chart_barra=0x7f09018c;
-    public static final int pin=0x7f09018d;
-    public static final int previewParent=0x7f09018e;
-    public static final int progressBarHistory=0x7f09018f;
-    public static final int progressBarSolicit=0x7f090190;
-    public static final int progressDb=0x7f090191;
-    public static final int progress_bar=0x7f090192;
-    public static final int progress_circular=0x7f090193;
-    public static final int progress_horizontal=0x7f090194;
-    public static final int radio=0x7f090195;
-    public static final int real=0x7f090196;
-    public static final int record=0x7f090197;
-    public static final int recyclerViewHistorySolicitation=0x7f090198;
-    public static final int recyclerViewMain=0x7f090199;
-    public static final int recylerItem=0x7f09019a;
-    public static final int regulaLogoLayout=0x7f09019b;
-    public static final int restart=0x7f09019c;
-    public static final int result_img=0x7f09019d;
-    public static final int result_text=0x7f09019e;
-    public static final int resultsFinish=0x7f09019f;
-    public static final int resultsHeader=0x7f0901a0;
-    public static final int resultsHeaderBgImage=0x7f0901a1;
-    public static final int resultsHeaderContainer=0x7f0901a2;
-    public static final int resultsHeaderGradient=0x7f0901a3;
-    public static final int retakeBtn=0x7f0901a4;
-    public static final int reverse=0x7f0901a5;
-    public static final int rfidIcon=0x7f0901a6;
-    public static final int rfidNotFoundTv=0x7f0901a7;
-    public static final int rfidStatus=0x7f0901a8;
-    public static final int right=0x7f0901a9;
-    public static final int rightTextViewGroup=0x7f0901aa;
-    public static final int right_icon=0x7f0901ab;
-    public static final int right_side=0x7f0901ac;
-    public static final int root=0x7f0901ad;
-    public static final int rootView=0x7f0901ae;
-    public static final int save_image_matrix=0x7f0901af;
-    public static final int save_non_transition_alpha=0x7f0901b0;
-    public static final int save_scale_type=0x7f0901b1;
-    public static final int scanAnimation=0x7f0901b2;
-    public static final int scanIDHomeBtn=0x7f0901b3;
-    public static final int scanIdInstructions=0x7f0901b4;
-    public static final int scanOnBoardingBack=0x7f0901b5;
-    public static final int scanResultsBack=0x7f0901b6;
-    public static final int scanResultsEditText=0x7f0901b7;
-    public static final int scanResultsEditTextTitle=0x7f0901b8;
-    public static final int scanResultsTextView=0x7f0901b9;
-    public static final int scanResultsTextViewTitle=0x7f0901ba;
-    public static final int scan_face_bg=0x7f0901bb;
-    public static final int scanner=0x7f0901bc;
-    public static final int screen=0x7f0901bd;
-    public static final int scroll=0x7f0901be;
-    public static final int scrollIndicatorDown=0x7f0901bf;
-    public static final int scrollIndicatorUp=0x7f0901c0;
-    public static final int scrollView=0x7f0901c1;
-    public static final int scrollable=0x7f0901c2;
-    public static final int search_badge=0x7f0901c3;
-    public static final int search_bar=0x7f0901c4;
-    public static final int search_button=0x7f0901c5;
-    public static final int search_close_btn=0x7f0901c6;
-    public static final int search_edit_frame=0x7f0901c7;
-    public static final int search_go_btn=0x7f0901c8;
-    public static final int search_mag_icon=0x7f0901c9;
-    public static final int search_plate=0x7f0901ca;
-    public static final int search_src_text=0x7f0901cb;
-    public static final int search_voice_btn=0x7f0901cc;
-    public static final int select_dialog_listview=0x7f0901cd;
-    public static final int selected=0x7f0901ce;
-    public static final int selfieAnimation=0x7f0901cf;
-    public static final int selfieInstructions=0x7f0901d0;
-    public static final int serverLocalUrl=0x7f0901d1;
-    public static final int server_url=0x7f0901d2;
-    public static final int sesame_url=0x7f0901d3;
-    public static final int settings=0x7f0901d4;
-    public static final int shortcut=0x7f0901d5;
-    public static final int showCustom=0x7f0901d6;
-    public static final int showHome=0x7f0901d7;
-    public static final int showTitle=0x7f0901d8;
-    public static final int sicredi=0x7f0901d9;
-    public static final int sicredi_1=0x7f0901da;
-    public static final int sicredi_2=0x7f0901db;
-    public static final int sides=0x7f0901dc;
-    public static final int signup=0x7f0901dd;
-    public static final int skipHelpBtn=0x7f0901de;
-    public static final int skipPageBtn=0x7f0901df;
-    public static final int skipRfidBtn=0x7f0901e0;
-    public static final int slow_connection=0x7f0901e1;
-    public static final int smallLabel=0x7f0901e2;
-    public static final int snackbar_action=0x7f0901e3;
-    public static final int snackbar_text=0x7f0901e4;
-    public static final int snap=0x7f0901e5;
-    public static final int snapMargins=0x7f0901e6;
-    public static final int software=0x7f0901e7;
-    public static final int spAgencia=0x7f0901e8;
-    public static final int spCargo=0x7f0901e9;
-    public static final int spType=0x7f0901ea;
-    public static final int spacer=0x7f0901eb;
-    public static final int split_action_bar=0x7f0901ec;
-    public static final int spread=0x7f0901ed;
-    public static final int spread_inside=0x7f0901ee;
-    public static final int src_atop=0x7f0901ef;
-    public static final int src_in=0x7f0901f0;
-    public static final int src_over=0x7f0901f1;
-    public static final int standard=0x7f0901f2;
-    public static final int start=0x7f0901f3;
-    public static final int startLivenessCam=0x7f0901f4;
-    public static final int startScanIdCam=0x7f0901f5;
-    public static final int startSelfieCam=0x7f0901f6;
-    public static final int status_bar_latest_event_content=0x7f0901f7;
-    public static final int stereo=0x7f0901f8;
-    public static final int stretch=0x7f0901f9;
-    public static final int submenuarrow=0x7f0901fa;
-    public static final int submit_area=0x7f0901fb;
-    public static final int surface=0x7f0901fc;
-    public static final int surface_view=0x7f0901fd;
-    public static final int surface_view_root=0x7f0901fe;
-    public static final int survey_container=0x7f0901ff;
-    public static final int swapCameraBtn=0x7f090200;
-    public static final int tabMode=0x7f090201;
-    public static final int tab_layout=0x7f090202;
-    public static final int tag_accessibility_actions=0x7f090203;
-    public static final int tag_accessibility_clickable_spans=0x7f090204;
-    public static final int tag_accessibility_heading=0x7f090205;
-    public static final int tag_accessibility_pane_title=0x7f090206;
-    public static final int tag_screen_reader_focusable=0x7f090207;
-    public static final int tag_transition_group=0x7f090208;
-    public static final int tag_unhandled_key_event_manager=0x7f090209;
-    public static final int tag_unhandled_key_listeners=0x7f09020a;
-    public static final int takeNewPic=0x7f09020b;
-    public static final int takePicture=0x7f09020c;
-    public static final int take_picture=0x7f09020d;
-    public static final int text=0x7f09020e;
-    public static final int text2=0x7f09020f;
-    public static final int textSpacerNoButtons=0x7f090210;
-    public static final int textSpacerNoTitle=0x7f090211;
-    public static final int textStart=0x7f090212;
-    public static final int textView=0x7f090213;
-    public static final int textViewRecycler_Main=0x7f090214;
-    public static final int textViewRecycler_solicitApproved=0x7f090215;
-    public static final int textViewRecycler_solicitReproved=0x7f090216;
-    public static final int text_input_password_toggle=0x7f090217;
-    public static final int text_title=0x7f090218;
-    public static final int textinput_counter=0x7f090219;
-    public static final int textinput_error=0x7f09021a;
-    public static final int textinput_helper_text=0x7f09021b;
-    public static final int texture=0x7f09021c;
-    public static final int texture_view=0x7f09021d;
-    public static final int threshold_label=0x7f09021e;
-    public static final int threshold_seekbar=0x7f09021f;
-    public static final int time=0x7f090220;
-    public static final int timePicker=0x7f090221;
-    public static final int title=0x7f090222;
-    public static final int titleDividerNoCustom=0x7f090223;
-    public static final int title_template=0x7f090224;
-    public static final int toolbar=0x7f090225;
-    public static final int top=0x7f090226;
-    public static final int topPanel=0x7f090227;
-    public static final int topTextViewGroup=0x7f090228;
-    public static final int torch=0x7f090229;
-    public static final int torchOnPhoneTxt=0x7f09022a;
-    public static final int torchOnTxt=0x7f09022b;
-    public static final int torchStatusLeftLl=0x7f09022c;
-    public static final int torchStatusLl=0x7f09022d;
-    public static final int torchStatusRightLl=0x7f09022e;
-    public static final int touch_outside=0x7f09022f;
-    public static final int transition_current_scene=0x7f090230;
-    public static final int transition_layout_save=0x7f090231;
-    public static final int transition_position=0x7f090232;
-    public static final int transition_scene_layoutid_cache=0x7f090233;
-    public static final int transition_transform=0x7f090234;
-    public static final int tryAgainNoFace=0x7f090235;
-    public static final int try_again=0x7f090236;
-    public static final int try_again_container=0x7f090237;
-    public static final int tutorialBackBtn=0x7f090238;
-    public static final int tutorialPageDescription=0x7f090239;
-    public static final int tutorialTryAgain=0x7f09023a;
-    public static final int txtInfoTelaProfissao=0x7f09023b;
-    public static final int txtMenuAprovReprov=0x7f09023c;
-    public static final int txtSolicitation=0x7f09023d;
-    public static final int txtsenha=0x7f09023e;
-    public static final int uniform=0x7f09023f;
-    public static final int unlabeled=0x7f090240;
-    public static final int up=0x7f090241;
-    public static final int useLogo=0x7f090242;
-    public static final int userIdBackBtn=0x7f090243;
-    public static final int userIdInput=0x7f090244;
-    public static final int userIdInputTitle=0x7f090245;
-    public static final int userImageContainer=0x7f090246;
-    public static final int username=0x7f090247;
-    public static final int vid_time_label=0x7f090248;
-    public static final int vid_time_seekbar=0x7f090249;
-    public static final int video=0x7f09024a;
-    public static final int view1=0x7f09024b;
-    public static final int view2=0x7f09024c;
-    public static final int view3=0x7f09024d;
-    public static final int view4=0x7f09024e;
-    public static final int view5=0x7f09024f;
-    public static final int view_offset_helper=0x7f090250;
-    public static final int viewpager=0x7f090251;
-    public static final int visible=0x7f090252;
-    public static final int vvMainLayout=0x7f090253;
-    public static final int wide=0x7f090254;
-    public static final int withText=0x7f090255;
-    public static final int wrap=0x7f090256;
-    public static final int wrap_content=0x7f090257;
-    public static final int zoom=0x7f090258;
+    public static final int fake_find_face=0x7f0900f3;
+    public static final int fieldsContainer=0x7f0900f4;
+    public static final int fill=0x7f0900f5;
+    public static final int fill_horizontal=0x7f0900f6;
+    public static final int fill_vertical=0x7f0900f7;
+    public static final int filled=0x7f0900f8;
+    public static final int filterControl1=0x7f0900f9;
+    public static final int filterControl2=0x7f0900fa;
+    public static final int finishedDatagroupsLv=0x7f0900fb;
+    public static final int fireFaceOverlay=0x7f0900fc;
+    public static final int firePreview=0x7f0900fd;
+    public static final int fixed=0x7f0900fe;
+    public static final int fkLogo=0x7f0900ff;
+    public static final int flash=0x7f090100;
+    public static final int flashEmulator=0x7f090101;
+    public static final int flashEmulatorBlack=0x7f090102;
+    public static final int flashLayout=0x7f090103;
+    public static final int flipInAnimation=0x7f090104;
+    public static final int flipOutAnimation=0x7f090105;
+    public static final int floatingCurrentStatusClockTv=0x7f090106;
+    public static final int floatingCurrentStatusCounterTv=0x7f090107;
+    public static final int floatingCurrentStatusPortTv=0x7f090108;
+    public static final int floatingStatusLandscapeClockTv=0x7f090109;
+    public static final int floatingStatusLandscapeCounterTv=0x7f09010a;
+    public static final int floatingStatusTv=0x7f09010b;
+    public static final int fluorescent=0x7f09010c;
+    public static final int focusMarkerContainer=0x7f09010d;
+    public static final int focusMarkerFill=0x7f09010e;
+    public static final int forever=0x7f09010f;
+    public static final int fragmentsHolder=0x7f090110;
+    public static final int frameBorders=0x7f090111;
+    public static final int frameShape=0x7f090112;
+    public static final int frameShapeContainer=0x7f090113;
+    public static final int front=0x7f090114;
+    public static final int frontBackIDText=0x7f090115;
+    public static final int gallery=0x7f090116;
+    public static final int ghost_view=0x7f090117;
+    public static final int glSurface=0x7f090118;
+    public static final int gl_surface_view=0x7f090119;
+    public static final int gone=0x7f09011a;
+    public static final int group_divider=0x7f09011b;
+    public static final int groups=0x7f09011c;
+    public static final int h263=0x7f09011d;
+    public static final int h264=0x7f09011e;
+    public static final int hardware=0x7f09011f;
+    public static final int home=0x7f090120;
+    public static final int homeAsUp=0x7f090121;
+    public static final int horizontal_separator=0x7f090122;
+    public static final int horizontal_separator_find_face=0x7f090123;
+    public static final int icon=0x7f090124;
+    public static final int icon_group=0x7f090125;
+    public static final int icon_only=0x7f090126;
+    public static final int idMessageContainer=0x7f090127;
+    public static final int idMessageEvent=0x7f090128;
+    public static final int ifRoom=0x7f090129;
+    public static final int image=0x7f09012a;
+    public static final int imageProgressBar=0x7f09012b;
+    public static final int imageTakenCard=0x7f09012c;
+    public static final int imageView=0x7f09012d;
+    public static final int img_result=0x7f09012e;
+    public static final int incandescent=0x7f09012f;
+    public static final int indicatorPb=0x7f090130;
+    public static final int info=0x7f090131;
+    public static final int infoBtn=0x7f090132;
+    public static final int innerFaceAnimation=0x7f090133;
+    public static final int inst1=0x7f090134;
+    public static final int instructionLayout=0x7f090135;
+    public static final int invisible=0x7f090136;
+    public static final int italic=0x7f090137;
+    public static final int item_touch_helper_previous_elevation=0x7f090138;
+    public static final int labeled=0x7f090139;
+    public static final int largeLabel=0x7f09013a;
+    public static final int left=0x7f09013b;
+    public static final int leftTextViewGroup=0x7f09013c;
+    public static final int letsTryBtn=0x7f09013d;
+    public static final int light=0x7f09013e;
+    public static final int lightBtn=0x7f09013f;
+    public static final int line1=0x7f090140;
+    public static final int line3=0x7f090141;
+    public static final int linearLayout=0x7f090142;
+    public static final int listMode=0x7f090143;
+    public static final int list_item=0x7f090144;
+    public static final int livenessAnimation=0x7f090145;
+    public static final int livenessBackBtn=0x7f090146;
+    public static final int livenessInstHomeBtn=0x7f090147;
+    public static final int livenessInstructions=0x7f090148;
+    public static final int livenessResContainer=0x7f090149;
+    public static final int livenessResDesc=0x7f09014a;
+    public static final int livenessResDone=0x7f09014b;
+    public static final int livenessResImg=0x7f09014c;
+    public static final int livenessResTryAgain=0x7f09014d;
+    public static final int livenessResultsLoader=0x7f09014e;
+    public static final int livenessResultsLoaderContainer=0x7f09014f;
+    public static final int livenessRootView=0x7f090150;
+    public static final int livenessTitle=0x7f090151;
+    public static final int livenessTutorialView=0x7f090152;
+    public static final int livenessValidationText=0x7f090153;
+    public static final int livenessView=0x7f090154;
+    public static final int loadingPb=0x7f090155;
+    public static final int login=0x7f090156;
+    public static final int loginCameraLiveness=0x7f090157;
+    public static final int loginPanico=0x7f090158;
+    public static final int logo=0x7f090159;
+    public static final int logoImg=0x7f09015a;
+    public static final int logoLabel=0x7f09015b;
+    public static final int logoSicredi=0x7f09015c;
+    public static final int looksGoodBtn=0x7f09015d;
+    public static final int lottieFeedbackView=0x7f09015e;
+    public static final int lottieShutter=0x7f09015f;
+    public static final int lottie_layer_name=0x7f090160;
+    public static final int mainStatusClockTv=0x7f090161;
+    public static final int mainStatusCounterTv=0x7f090162;
+    public static final int mainStatusPortTv=0x7f090163;
+    public static final int masked=0x7f090164;
+    public static final int media_actions=0x7f090165;
+    public static final int menu=0x7f090166;
+    public static final int message=0x7f090167;
+    public static final int middle=0x7f090168;
+    public static final int mini=0x7f090169;
+    public static final int mono=0x7f09016a;
+    public static final int mtrl_child_content_container=0x7f09016b;
+    public static final int mtrl_internal_children_alpha_tag=0x7f09016c;
+    public static final int multiply=0x7f09016d;
+    public static final int navigation_header_container=0x7f09016e;
+    public static final int needHelp=0x7f09016f;
+    public static final int needHelpTutorialText=0x7f090170;
+    public static final int never=0x7f090171;
+    public static final int noFaceAlertView=0x7f090172;
+    public static final int none=0x7f090173;
+    public static final int normal=0x7f090174;
+    public static final int notification_background=0x7f090175;
+    public static final int notification_main_column=0x7f090176;
+    public static final int notification_main_column_container=0x7f090177;
+    public static final int off=0x7f090178;
+    public static final int on=0x7f090179;
+    public static final int outline=0x7f09017a;
+    public static final int overlay=0x7f09017b;
+    public static final int overlayDrawView=0x7f09017c;
+    public static final int overlayFocusView=0x7f09017d;
+    public static final int overlayFrameView=0x7f09017e;
+    public static final int packed=0x7f09017f;
+    public static final int pageTitle=0x7f090180;
+    public static final int page_four=0x7f090181;
+    public static final int page_one=0x7f090182;
+    public static final int page_three=0x7f090183;
+    public static final int page_two=0x7f090184;
+    public static final int parallax=0x7f090185;
+    public static final int parent=0x7f090186;
+    public static final int parentPanel=0x7f090187;
+    public static final int parent_matrix=0x7f090188;
+    public static final int percent=0x7f090189;
+    public static final int permissionBtn=0x7f09018a;
+    public static final int picContainer=0x7f09018b;
+    public static final int picContainerBack=0x7f09018c;
+    public static final int picContainerHeader=0x7f09018d;
+    public static final int picture=0x7f09018e;
+    public static final int pie_chart=0x7f09018f;
+    public static final int pie_chart_barra=0x7f090190;
+    public static final int pin=0x7f090191;
+    public static final int previewParent=0x7f090192;
+    public static final int progressBarHistory=0x7f090193;
+    public static final int progressBarSolicit=0x7f090194;
+    public static final int progressDb=0x7f090195;
+    public static final int progress_bar=0x7f090196;
+    public static final int progress_bar_find_face=0x7f090197;
+    public static final int progress_circular=0x7f090198;
+    public static final int progress_horizontal=0x7f090199;
+    public static final int radio=0x7f09019a;
+    public static final int real=0x7f09019b;
+    public static final int record=0x7f09019c;
+    public static final int recyclerViewHistorySolicitation=0x7f09019d;
+    public static final int recyclerViewMain=0x7f09019e;
+    public static final int recylerItem=0x7f09019f;
+    public static final int regulaLogoLayout=0x7f0901a0;
+    public static final int restart=0x7f0901a1;
+    public static final int result_img=0x7f0901a2;
+    public static final int result_img_find_face=0x7f0901a3;
+    public static final int result_text=0x7f0901a4;
+    public static final int result_text_find_face=0x7f0901a5;
+    public static final int resultsFinish=0x7f0901a6;
+    public static final int resultsHeader=0x7f0901a7;
+    public static final int resultsHeaderBgImage=0x7f0901a8;
+    public static final int resultsHeaderContainer=0x7f0901a9;
+    public static final int resultsHeaderGradient=0x7f0901aa;
+    public static final int retakeBtn=0x7f0901ab;
+    public static final int reverse=0x7f0901ac;
+    public static final int rfidIcon=0x7f0901ad;
+    public static final int rfidNotFoundTv=0x7f0901ae;
+    public static final int rfidStatus=0x7f0901af;
+    public static final int right=0x7f0901b0;
+    public static final int rightTextViewGroup=0x7f0901b1;
+    public static final int right_icon=0x7f0901b2;
+    public static final int right_side=0x7f0901b3;
+    public static final int root=0x7f0901b4;
+    public static final int rootView=0x7f0901b5;
+    public static final int save_image_matrix=0x7f0901b6;
+    public static final int save_non_transition_alpha=0x7f0901b7;
+    public static final int save_scale_type=0x7f0901b8;
+    public static final int scanAnimation=0x7f0901b9;
+    public static final int scanIDHomeBtn=0x7f0901ba;
+    public static final int scanIdInstructions=0x7f0901bb;
+    public static final int scanOnBoardingBack=0x7f0901bc;
+    public static final int scanResultsBack=0x7f0901bd;
+    public static final int scanResultsEditText=0x7f0901be;
+    public static final int scanResultsEditTextTitle=0x7f0901bf;
+    public static final int scanResultsTextView=0x7f0901c0;
+    public static final int scanResultsTextViewTitle=0x7f0901c1;
+    public static final int scan_face_bg=0x7f0901c2;
+    public static final int scanner=0x7f0901c3;
+    public static final int screen=0x7f0901c4;
+    public static final int scroll=0x7f0901c5;
+    public static final int scrollIndicatorDown=0x7f0901c6;
+    public static final int scrollIndicatorUp=0x7f0901c7;
+    public static final int scrollView=0x7f0901c8;
+    public static final int scrollable=0x7f0901c9;
+    public static final int search_badge=0x7f0901ca;
+    public static final int search_bar=0x7f0901cb;
+    public static final int search_button=0x7f0901cc;
+    public static final int search_close_btn=0x7f0901cd;
+    public static final int search_edit_frame=0x7f0901ce;
+    public static final int search_go_btn=0x7f0901cf;
+    public static final int search_mag_icon=0x7f0901d0;
+    public static final int search_plate=0x7f0901d1;
+    public static final int search_src_text=0x7f0901d2;
+    public static final int search_voice_btn=0x7f0901d3;
+    public static final int select_dialog_listview=0x7f0901d4;
+    public static final int selected=0x7f0901d5;
+    public static final int selfieAnimation=0x7f0901d6;
+    public static final int selfieInstructions=0x7f0901d7;
+    public static final int serverLocalUrl=0x7f0901d8;
+    public static final int server_url=0x7f0901d9;
+    public static final int sesame_url=0x7f0901da;
+    public static final int settings=0x7f0901db;
+    public static final int shortcut=0x7f0901dc;
+    public static final int showCustom=0x7f0901dd;
+    public static final int showHome=0x7f0901de;
+    public static final int showTitle=0x7f0901df;
+    public static final int sicredi=0x7f0901e0;
+    public static final int sicredi_1=0x7f0901e1;
+    public static final int sicredi_2=0x7f0901e2;
+    public static final int sides=0x7f0901e3;
+    public static final int signup=0x7f0901e4;
+    public static final int skipHelpBtn=0x7f0901e5;
+    public static final int skipPageBtn=0x7f0901e6;
+    public static final int skipRfidBtn=0x7f0901e7;
+    public static final int slow_connection=0x7f0901e8;
+    public static final int smallLabel=0x7f0901e9;
+    public static final int snackbar_action=0x7f0901ea;
+    public static final int snackbar_text=0x7f0901eb;
+    public static final int snap=0x7f0901ec;
+    public static final int snapMargins=0x7f0901ed;
+    public static final int software=0x7f0901ee;
+    public static final int spAgencia=0x7f0901ef;
+    public static final int spCargo=0x7f0901f0;
+    public static final int spType=0x7f0901f1;
+    public static final int spacer=0x7f0901f2;
+    public static final int split_action_bar=0x7f0901f3;
+    public static final int spread=0x7f0901f4;
+    public static final int spread_inside=0x7f0901f5;
+    public static final int src_atop=0x7f0901f6;
+    public static final int src_in=0x7f0901f7;
+    public static final int src_over=0x7f0901f8;
+    public static final int standard=0x7f0901f9;
+    public static final int start=0x7f0901fa;
+    public static final int startLivenessCam=0x7f0901fb;
+    public static final int startScanIdCam=0x7f0901fc;
+    public static final int startSelfieCam=0x7f0901fd;
+    public static final int status_bar_latest_event_content=0x7f0901fe;
+    public static final int stereo=0x7f0901ff;
+    public static final int stretch=0x7f090200;
+    public static final int submenuarrow=0x7f090201;
+    public static final int submit_area=0x7f090202;
+    public static final int surface=0x7f090203;
+    public static final int surface_view=0x7f090204;
+    public static final int surface_view_root=0x7f090205;
+    public static final int survey_container=0x7f090206;
+    public static final int survey_container_find_face=0x7f090207;
+    public static final int swapCameraBtn=0x7f090208;
+    public static final int tabMode=0x7f090209;
+    public static final int tab_layout=0x7f09020a;
+    public static final int tag_accessibility_actions=0x7f09020b;
+    public static final int tag_accessibility_clickable_spans=0x7f09020c;
+    public static final int tag_accessibility_heading=0x7f09020d;
+    public static final int tag_accessibility_pane_title=0x7f09020e;
+    public static final int tag_screen_reader_focusable=0x7f09020f;
+    public static final int tag_transition_group=0x7f090210;
+    public static final int tag_unhandled_key_event_manager=0x7f090211;
+    public static final int tag_unhandled_key_listeners=0x7f090212;
+    public static final int takeNewPic=0x7f090213;
+    public static final int takePicture=0x7f090214;
+    public static final int take_picture=0x7f090215;
+    public static final int text=0x7f090216;
+    public static final int text2=0x7f090217;
+    public static final int textSpacerNoButtons=0x7f090218;
+    public static final int textSpacerNoTitle=0x7f090219;
+    public static final int textStart=0x7f09021a;
+    public static final int textView=0x7f09021b;
+    public static final int textViewRecycler_Main=0x7f09021c;
+    public static final int textViewRecycler_solicitApproved=0x7f09021d;
+    public static final int textViewRecycler_solicitReproved=0x7f09021e;
+    public static final int text_input_password_toggle=0x7f09021f;
+    public static final int text_title=0x7f090220;
+    public static final int textinput_counter=0x7f090221;
+    public static final int textinput_error=0x7f090222;
+    public static final int textinput_helper_text=0x7f090223;
+    public static final int texture=0x7f090224;
+    public static final int texture_view=0x7f090225;
+    public static final int threshold_label=0x7f090226;
+    public static final int threshold_seekbar=0x7f090227;
+    public static final int time=0x7f090228;
+    public static final int timePicker=0x7f090229;
+    public static final int title=0x7f09022a;
+    public static final int titleDividerNoCustom=0x7f09022b;
+    public static final int title_template=0x7f09022c;
+    public static final int toolbar=0x7f09022d;
+    public static final int top=0x7f09022e;
+    public static final int topPanel=0x7f09022f;
+    public static final int topTextViewGroup=0x7f090230;
+    public static final int torch=0x7f090231;
+    public static final int torchOnPhoneTxt=0x7f090232;
+    public static final int torchOnTxt=0x7f090233;
+    public static final int torchStatusLeftLl=0x7f090234;
+    public static final int torchStatusLl=0x7f090235;
+    public static final int torchStatusRightLl=0x7f090236;
+    public static final int touch_outside=0x7f090237;
+    public static final int transition_current_scene=0x7f090238;
+    public static final int transition_layout_save=0x7f090239;
+    public static final int transition_position=0x7f09023a;
+    public static final int transition_scene_layoutid_cache=0x7f09023b;
+    public static final int transition_transform=0x7f09023c;
+    public static final int tryAgainNoFace=0x7f09023d;
+    public static final int try_again=0x7f09023e;
+    public static final int try_again_container=0x7f09023f;
+    public static final int try_again_container_find_face=0x7f090240;
+    public static final int try_again_find_face=0x7f090241;
+    public static final int tutorialBackBtn=0x7f090242;
+    public static final int tutorialPageDescription=0x7f090243;
+    public static final int tutorialTryAgain=0x7f090244;
+    public static final int txtInfoTelaProfissao=0x7f090245;
+    public static final int txtIntrucaoCamera=0x7f090246;
+    public static final int txtMenuAprovReprov=0x7f090247;
+    public static final int txtSolicitation=0x7f090248;
+    public static final int txtsenha=0x7f090249;
+    public static final int uniform=0x7f09024a;
+    public static final int unlabeled=0x7f09024b;
+    public static final int up=0x7f09024c;
+    public static final int useLogo=0x7f09024d;
+    public static final int userIdBackBtn=0x7f09024e;
+    public static final int userIdInput=0x7f09024f;
+    public static final int userIdInputTitle=0x7f090250;
+    public static final int userImageContainer=0x7f090251;
+    public static final int username=0x7f090252;
+    public static final int vid_time_label=0x7f090253;
+    public static final int vid_time_seekbar=0x7f090254;
+    public static final int video=0x7f090255;
+    public static final int view1=0x7f090256;
+    public static final int view2=0x7f090257;
+    public static final int view3=0x7f090258;
+    public static final int view4=0x7f090259;
+    public static final int view5=0x7f09025a;
+    public static final int view_offset_helper=0x7f09025b;
+    public static final int viewpager=0x7f09025c;
+    public static final int visible=0x7f09025d;
+    public static final int vvMainLayout=0x7f09025e;
+    public static final int wide=0x7f09025f;
+    public static final int withText=0x7f090260;
+    public static final int wrap=0x7f090261;
+    public static final int wrap_content=0x7f090262;
+    public static final int zoom=0x7f090263;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f0a0000;
@@ -6941,92 +6952,94 @@ public final class R {
     public static final int activity_enrollment=0x7f0c0020;
     public static final int activity_facilities=0x7f0c0021;
     public static final int activity_facilities_controle=0x7f0c0022;
-    public static final int activity_gestao=0x7f0c0023;
-    public static final int activity_instructions=0x7f0c0024;
-    public static final int activity_login=0x7f0c0025;
-    public static final int activity_login_camera=0x7f0c0026;
-    public static final int activity_login_result=0x7f0c0027;
-    public static final int activity_main=0x7f0c0028;
-    public static final int activity_photo=0x7f0c0029;
-    public static final int activity_register=0x7f0c002a;
-    public static final int activity_result=0x7f0c002b;
-    public static final int activity_settings=0x7f0c002c;
-    public static final int activity_solicitation_extension=0x7f0c002d;
-    public static final int activity_solicitation_history=0x7f0c002e;
-    public static final int activity_time=0x7f0c002f;
-    public static final int activity_video=0x7f0c0030;
-    public static final int alert_dialog=0x7f0c0031;
-    public static final int anv_camera_view=0x7f0c0032;
-    public static final int camera_instructions_layout=0x7f0c0033;
-    public static final int camera_liveness_view=0x7f0c0034;
-    public static final int cameraview_gl_view=0x7f0c0035;
-    public static final int cameraview_layout_focus_marker=0x7f0c0036;
-    public static final int cameraview_surface_view=0x7f0c0037;
-    public static final int cameraview_texture_view=0x7f0c0038;
-    public static final int custom_dialog=0x7f0c0039;
-    public static final int design_bottom_navigation_item=0x7f0c003a;
-    public static final int design_bottom_sheet_dialog=0x7f0c003b;
-    public static final int design_layout_snackbar=0x7f0c003c;
-    public static final int design_layout_snackbar_include=0x7f0c003d;
-    public static final int design_layout_tab_icon=0x7f0c003e;
-    public static final int design_layout_tab_text=0x7f0c003f;
-    public static final int design_menu_item_action_area=0x7f0c0040;
-    public static final int design_navigation_item=0x7f0c0041;
-    public static final int design_navigation_item_header=0x7f0c0042;
-    public static final int design_navigation_item_separator=0x7f0c0043;
-    public static final int design_navigation_item_subheader=0x7f0c0044;
-    public static final int design_navigation_menu=0x7f0c0045;
-    public static final int design_navigation_menu_item=0x7f0c0046;
-    public static final int design_text_input_password_icon=0x7f0c0047;
-    public static final int face_not_found_layout=0x7f0c0048;
-    public static final int fragment_camera=0x7f0c0049;
-    public static final int fragment_scan_id=0x7f0c004a;
-    public static final int fragment_scan_id_on_boarding=0x7f0c004b;
-    public static final int fragment_scan_results=0x7f0c004c;
-    public static final int help_bt_device_fragment=0x7f0c004d;
-    public static final int liveness_fragment=0x7f0c004e;
-    public static final int liveness_instrcutions_fragment=0x7f0c004f;
-    public static final int liveness_results_fragment=0x7f0c0050;
-    public static final int liveness_view=0x7f0c0051;
-    public static final int mtrl_layout_snackbar=0x7f0c0052;
-    public static final int mtrl_layout_snackbar_include=0x7f0c0053;
-    public static final int no_face_in_id_layout=0x7f0c0054;
-    public static final int notification_action=0x7f0c0055;
-    public static final int notification_action_tombstone=0x7f0c0056;
-    public static final int notification_media_action=0x7f0c0057;
-    public static final int notification_media_cancel_action=0x7f0c0058;
-    public static final int notification_template_big_media=0x7f0c0059;
-    public static final int notification_template_big_media_custom=0x7f0c005a;
-    public static final int notification_template_big_media_narrow=0x7f0c005b;
-    public static final int notification_template_big_media_narrow_custom=0x7f0c005c;
-    public static final int notification_template_custom_big=0x7f0c005d;
-    public static final int notification_template_icon_group=0x7f0c005e;
-    public static final int notification_template_lines_media=0x7f0c005f;
-    public static final int notification_template_media=0x7f0c0060;
-    public static final int notification_template_media_custom=0x7f0c0061;
-    public static final int notification_template_part_chronometer=0x7f0c0062;
-    public static final int notification_template_part_time=0x7f0c0063;
-    public static final int please_avoid_movements_alert=0x7f0c0064;
-    public static final int recycler_solicit_items_approved=0x7f0c0065;
-    public static final int recycler_solicit_items_reproved=0x7f0c0066;
-    public static final int recycler_solicitation_extension_main=0x7f0c0067;
-    public static final int reg_activity_capture=0x7f0c0068;
-    public static final int reg_activity_rfid=0x7f0c0069;
-    public static final int reg_fragment_camera=0x7f0c006a;
-    public static final int reg_fragment_camera2=0x7f0c006b;
-    public static final int reg_powered=0x7f0c006c;
-    public static final int reg_rfid_dg_item=0x7f0c006d;
-    public static final int scan_result_edittext_layout=0x7f0c006e;
-    public static final int scan_results_line_layout=0x7f0c006f;
-    public static final int select_dialog_item_material=0x7f0c0070;
-    public static final int select_dialog_multichoice_material=0x7f0c0071;
-    public static final int select_dialog_singlechoice_material=0x7f0c0072;
-    public static final int spinner_item=0x7f0c0073;
-    public static final int support_simple_spinner_dropdown_item=0x7f0c0074;
-    public static final int tutorial_page=0x7f0c0075;
-    public static final int tutorial_page_info=0x7f0c0076;
-    public static final int tutorial_view_layout=0x7f0c0077;
-    public static final int user_id_input_dialog=0x7f0c0078;
+    public static final int activity_find_face_camera=0x7f0c0023;
+    public static final int activity_find_face_result=0x7f0c0024;
+    public static final int activity_gestao=0x7f0c0025;
+    public static final int activity_instructions=0x7f0c0026;
+    public static final int activity_login=0x7f0c0027;
+    public static final int activity_login_camera=0x7f0c0028;
+    public static final int activity_login_result=0x7f0c0029;
+    public static final int activity_main=0x7f0c002a;
+    public static final int activity_photo=0x7f0c002b;
+    public static final int activity_register=0x7f0c002c;
+    public static final int activity_result=0x7f0c002d;
+    public static final int activity_settings=0x7f0c002e;
+    public static final int activity_solicitation_extension=0x7f0c002f;
+    public static final int activity_solicitation_history=0x7f0c0030;
+    public static final int activity_time=0x7f0c0031;
+    public static final int activity_video=0x7f0c0032;
+    public static final int alert_dialog=0x7f0c0033;
+    public static final int anv_camera_view=0x7f0c0034;
+    public static final int camera_instructions_layout=0x7f0c0035;
+    public static final int camera_liveness_view=0x7f0c0036;
+    public static final int cameraview_gl_view=0x7f0c0037;
+    public static final int cameraview_layout_focus_marker=0x7f0c0038;
+    public static final int cameraview_surface_view=0x7f0c0039;
+    public static final int cameraview_texture_view=0x7f0c003a;
+    public static final int custom_dialog=0x7f0c003b;
+    public static final int design_bottom_navigation_item=0x7f0c003c;
+    public static final int design_bottom_sheet_dialog=0x7f0c003d;
+    public static final int design_layout_snackbar=0x7f0c003e;
+    public static final int design_layout_snackbar_include=0x7f0c003f;
+    public static final int design_layout_tab_icon=0x7f0c0040;
+    public static final int design_layout_tab_text=0x7f0c0041;
+    public static final int design_menu_item_action_area=0x7f0c0042;
+    public static final int design_navigation_item=0x7f0c0043;
+    public static final int design_navigation_item_header=0x7f0c0044;
+    public static final int design_navigation_item_separator=0x7f0c0045;
+    public static final int design_navigation_item_subheader=0x7f0c0046;
+    public static final int design_navigation_menu=0x7f0c0047;
+    public static final int design_navigation_menu_item=0x7f0c0048;
+    public static final int design_text_input_password_icon=0x7f0c0049;
+    public static final int face_not_found_layout=0x7f0c004a;
+    public static final int fragment_camera=0x7f0c004b;
+    public static final int fragment_scan_id=0x7f0c004c;
+    public static final int fragment_scan_id_on_boarding=0x7f0c004d;
+    public static final int fragment_scan_results=0x7f0c004e;
+    public static final int help_bt_device_fragment=0x7f0c004f;
+    public static final int liveness_fragment=0x7f0c0050;
+    public static final int liveness_instrcutions_fragment=0x7f0c0051;
+    public static final int liveness_results_fragment=0x7f0c0052;
+    public static final int liveness_view=0x7f0c0053;
+    public static final int mtrl_layout_snackbar=0x7f0c0054;
+    public static final int mtrl_layout_snackbar_include=0x7f0c0055;
+    public static final int no_face_in_id_layout=0x7f0c0056;
+    public static final int notification_action=0x7f0c0057;
+    public static final int notification_action_tombstone=0x7f0c0058;
+    public static final int notification_media_action=0x7f0c0059;
+    public static final int notification_media_cancel_action=0x7f0c005a;
+    public static final int notification_template_big_media=0x7f0c005b;
+    public static final int notification_template_big_media_custom=0x7f0c005c;
+    public static final int notification_template_big_media_narrow=0x7f0c005d;
+    public static final int notification_template_big_media_narrow_custom=0x7f0c005e;
+    public static final int notification_template_custom_big=0x7f0c005f;
+    public static final int notification_template_icon_group=0x7f0c0060;
+    public static final int notification_template_lines_media=0x7f0c0061;
+    public static final int notification_template_media=0x7f0c0062;
+    public static final int notification_template_media_custom=0x7f0c0063;
+    public static final int notification_template_part_chronometer=0x7f0c0064;
+    public static final int notification_template_part_time=0x7f0c0065;
+    public static final int please_avoid_movements_alert=0x7f0c0066;
+    public static final int recycler_solicit_items_approved=0x7f0c0067;
+    public static final int recycler_solicit_items_reproved=0x7f0c0068;
+    public static final int recycler_solicitation_extension_main=0x7f0c0069;
+    public static final int reg_activity_capture=0x7f0c006a;
+    public static final int reg_activity_rfid=0x7f0c006b;
+    public static final int reg_fragment_camera=0x7f0c006c;
+    public static final int reg_fragment_camera2=0x7f0c006d;
+    public static final int reg_powered=0x7f0c006e;
+    public static final int reg_rfid_dg_item=0x7f0c006f;
+    public static final int scan_result_edittext_layout=0x7f0c0070;
+    public static final int scan_results_line_layout=0x7f0c0071;
+    public static final int select_dialog_item_material=0x7f0c0072;
+    public static final int select_dialog_multichoice_material=0x7f0c0073;
+    public static final int select_dialog_singlechoice_material=0x7f0c0074;
+    public static final int spinner_item=0x7f0c0075;
+    public static final int support_simple_spinner_dropdown_item=0x7f0c0076;
+    public static final int tutorial_page=0x7f0c0077;
+    public static final int tutorial_page_info=0x7f0c0078;
+    public static final int tutorial_view_layout=0x7f0c0079;
+    public static final int user_id_input_dialog=0x7f0c007a;
   }
   public static final class mipmap {
     public static final int ic_launcher=0x7f0d0000;
@@ -7231,1210 +7244,1213 @@ public final class R {
     public static final int cameraview_filter_temperature=0x7f0f00ac;
     public static final int cameraview_filter_tint=0x7f0f00ad;
     public static final int cameraview_filter_vignette=0x7f0f00ae;
-    public static final int character_counter_content_description=0x7f0f00af;
-    public static final int character_counter_pattern=0x7f0f00b0;
-    public static final int chd_BackgroundComparisonError=0x7f0f00b1;
-    public static final int chd_BadAreaInAxial=0x7f0f00b2;
-    public static final int chd_BarcodeDataFormatError=0x7f0f00b3;
-    public static final int chd_BarcodeReadedWithErrors=0x7f0f00b4;
-    public static final int chd_BarcodeSizeParamsError=0x7f0f00b5;
-    public static final int chd_DocumentIsCancelling=0x7f0f00b6;
-    public static final int chd_ElementShouldBeColored=0x7f0f00b7;
-    public static final int chd_ElementShouldBeGrayscale=0x7f0f00b8;
-    public static final int chd_ExceptionInModule=0x7f0f00b9;
-    public static final int chd_FalseIPIParameters=0x7f0f00ba;
-    public static final int chd_FalseLuminiscenceError=0x7f0f00bb;
-    public static final int chd_FalseLuminiscenceInBlank=0x7f0f00bc;
-    public static final int chd_FalseLuminiscenceInMRZ=0x7f0f00bd;
-    public static final int chd_FibersNotFound=0x7f0f00be;
-    public static final int chd_FieldPosCorrector_Highlight_IR=0x7f0f00bf;
-    public static final int chd_FieldsComparisonLogicError=0x7f0f00c0;
-    public static final int chd_FixedPatternError=0x7f0f00c1;
-    public static final int chd_HologramElementAbsent=0x7f0f00c2;
-    public static final int chd_Hologram_Side_Top_Images_Absent=0x7f0f00c3;
-    public static final int chd_IncorrectBackgroundLight=0x7f0f00c4;
-    public static final int chd_IncorrectTextColor=0x7f0f00c5;
-    public static final int chd_InternalError=0x7f0f00c6;
-    public static final int chd_InvalidChecksum=0x7f0f00c7;
-    public static final int chd_InvalidFieldFormat=0x7f0f00c8;
-    public static final int chd_InvalidInputData=0x7f0f00c9;
-    public static final int chd_InvisibleElementPresent=0x7f0f00ca;
-    public static final int chd_LogicError=0x7f0f00cb;
-    public static final int chd_LowContrastInIRLight=0x7f0f00cc;
-    public static final int chd_NecessaryImageNotFound=0x7f0f00cd;
-    public static final int chd_NotAllBarcodesRead=0x7f0f00ce;
-    public static final int chd_OVI_BadColor_Front=0x7f0f00cf;
-    public static final int chd_OVI_BadColor_Percent=0x7f0f00d0;
-    public static final int chd_OVI_BadColor_Side=0x7f0f00d1;
-    public static final int chd_OVI_ColorInvariable=0x7f0f00d2;
-    public static final int chd_OVI_IR_Invisible=0x7f0f00d3;
-    public static final int chd_OVI_InsufficientArea=0x7f0f00d4;
-    public static final int chd_OVI_Wide_Color_Spread=0x7f0f00d5;
-    public static final int chd_Pass=0x7f0f00d6;
-    public static final int chd_PhotoFalseLuminiscence=0x7f0f00d7;
-    public static final int chd_PhotoPattern_DifferentColors=0x7f0f00d8;
-    public static final int chd_PhotoPattern_DifferentLinesThickness=0x7f0f00d9;
-    public static final int chd_PhotoPattern_IR_Visible=0x7f0f00da;
-    public static final int chd_PhotoPattern_Interrupted=0x7f0f00db;
-    public static final int chd_PhotoPattern_InvalidColor=0x7f0f00dc;
-    public static final int chd_PhotoPattern_Not_Intersect=0x7f0f00dd;
-    public static final int chd_PhotoPattern_PatternNotFound=0x7f0f00de;
-    public static final int chd_PhotoPattern_Shifted=0x7f0f00df;
-    public static final int chd_PhotoPattern_Shifted_Vert=0x7f0f00e0;
-    public static final int chd_PhotoSidesNotFound=0x7f0f00e1;
-    public static final int chd_PhotoSize_Is_Wrong=0x7f0f00e2;
-    public static final int chd_Photo_Corners_Is_Wrong=0x7f0f00e3;
-    public static final int chd_Photo_IsNot_Rectangle=0x7f0f00e4;
-    public static final int chd_PortraitComparison_NoLivePhoto=0x7f0f00e5;
-    public static final int chd_PortraitComparison_NoServiceLicense=0x7f0f00e6;
-    public static final int chd_PortraitComparison_NoServiceReply=0x7f0f00e7;
-    public static final int chd_PortraitComparison_NotEnoughImages=0x7f0f00e8;
-    public static final int chd_PortraitComparison_PortraitsDiffer=0x7f0f00e9;
-    public static final int chd_PortraitComparison_ServiceError=0x7f0f00ea;
-    public static final int chd_SourcesComparisonError=0x7f0f00eb;
-    public static final int chd_SpecksInUV=0x7f0f00ec;
-    public static final int chd_SyntaxError=0x7f0f00ed;
-    public static final int chd_TextColorShouldBeBlue=0x7f0f00ee;
-    public static final int chd_TextColorShouldBeGreen=0x7f0f00ef;
-    public static final int chd_TextColorShouldBeRed=0x7f0f00f0;
-    public static final int chd_TextShouldBeBlack=0x7f0f00f1;
-    public static final int chd_TooLowResolution=0x7f0f00f2;
-    public static final int chd_TooManyObjects=0x7f0f00f3;
-    public static final int chd_TooMuchShift=0x7f0f00f4;
-    public static final int chd_TrueLuminiscenceError=0x7f0f00f5;
-    public static final int chd_UVDullPaperError=0x7f0f00f6;
-    public static final int chd_UVDullPaper_Blank=0x7f0f00f7;
-    public static final int chd_UVDullPaper_MRZ=0x7f0f00f8;
-    public static final int chd_UVDullPaper_Photo=0x7f0f00f9;
-    public static final int chd_UncertainVerification=0x7f0f00fa;
-    public static final int chd_Unknown=0x7f0f00fb;
-    public static final int chd_VisibleElementAbsent=0x7f0f00fc;
-    public static final int choose_face=0x7f0f00fd;
-    public static final int common_google_play_services_enable_button=0x7f0f00fe;
-    public static final int common_google_play_services_enable_text=0x7f0f00ff;
-    public static final int common_google_play_services_enable_title=0x7f0f0100;
-    public static final int common_google_play_services_install_button=0x7f0f0101;
-    public static final int common_google_play_services_install_text=0x7f0f0102;
-    public static final int common_google_play_services_install_title=0x7f0f0103;
-    public static final int common_google_play_services_notification_channel_name=0x7f0f0104;
-    public static final int common_google_play_services_notification_ticker=0x7f0f0105;
-    public static final int common_google_play_services_unknown_issue=0x7f0f0106;
-    public static final int common_google_play_services_unsupported_text=0x7f0f0107;
-    public static final int common_google_play_services_update_button=0x7f0f0108;
-    public static final int common_google_play_services_update_text=0x7f0f0109;
-    public static final int common_google_play_services_update_title=0x7f0f010a;
-    public static final int common_google_play_services_updating_text=0x7f0f010b;
-    public static final int common_google_play_services_wear_update_text=0x7f0f010c;
-    public static final int common_open_on_phone=0x7f0f010d;
-    public static final int common_signin_button_text=0x7f0f010e;
-    public static final int common_signin_button_text_long=0x7f0f010f;
-    public static final int cont=0x7f0f0110;
-    public static final int could_not_connect=0x7f0f0111;
-    public static final int date_of_birth=0x7f0f0112;
-    public static final int date_of_issue=0x7f0f0113;
-    public static final int default_notification_channel_id=0x7f0f0114;
-    public static final int default_notification_channel_name=0x7f0f0115;
-    public static final int default_web_client_id=0x7f0f0116;
-    public static final int define_easypreferences=0x7f0f0117;
-    public static final int digite_nome_usuario=0x7f0f0118;
-    public static final int do_delete=0x7f0f0119;
-    public static final int do_survey=0x7f0f011a;
-    public static final int enableBtnRegister=0x7f0f011b;
-    public static final int errLDS_AA_IncorrectTrailer=0x7f0f011c;
-    public static final int errLDS_AA_PublicKey_IncorrectData=0x7f0f011d;
-    public static final int errLDS_AA_PublicKey_IncorrectParameters=0x7f0f011e;
-    public static final int errLDS_AA_PublicKey_UndefinedParameters=0x7f0f011f;
-    public static final int errLDS_AA_PublicKey_UnsupportedAlgorithm=0x7f0f0120;
-    public static final int errLDS_AA_Signature_IncorrectData=0x7f0f0121;
-    public static final int errLDS_AA_UnsupportedDigestAlgorithm=0x7f0f0122;
-    public static final int errLDS_AA_UnsupportedRecoveryScheme=0x7f0f0123;
-    public static final int errLDS_ASN_Certificate_Extensions_IncorrectData=0x7f0f0124;
-    public static final int errLDS_ASN_Certificate_IncorrectData=0x7f0f0125;
-    public static final int errLDS_ASN_Certificate_Issuer_IncorrectData=0x7f0f0126;
-    public static final int errLDS_ASN_Certificate_SN_IncorrectData=0x7f0f0127;
-    public static final int errLDS_ASN_Certificate_Signature_IncorrectData=0x7f0f0128;
-    public static final int errLDS_ASN_Certificate_SubjectPK_IncorrectData=0x7f0f0129;
-    public static final int errLDS_ASN_Certificate_Subject_IncorrectData=0x7f0f012a;
-    public static final int errLDS_ASN_Certificate_Validity_IncorrectData=0x7f0f012b;
-    public static final int errLDS_ASN_Certificate_Version_IncorrectData=0x7f0f012c;
-    public static final int errLDS_ASN_Contents_UnexpectedData=0x7f0f012d;
-    public static final int errLDS_ASN_IncorrectData=0x7f0f012e;
-    public static final int errLDS_ASN_LDSObject_DGHashes_IncorrectData=0x7f0f012f;
-    public static final int errLDS_ASN_LDSObject_DigestAlgorithm_IncorrectData=0x7f0f0130;
-    public static final int errLDS_ASN_LDSObject_IncorrectData=0x7f0f0131;
-    public static final int errLDS_ASN_LDSObject_VersionInfo_IncorrectData=0x7f0f0132;
-    public static final int errLDS_ASN_LDSObject_Version_IncorrectData=0x7f0f0133;
-    public static final int errLDS_ASN_NotEnoughData=0x7f0f0134;
-    public static final int errLDS_ASN_SignedData_DigestAlgorithms_IncorrectData=0x7f0f0135;
-    public static final int errLDS_ASN_SignedData_EncapContents_IncorrectData=0x7f0f0136;
-    public static final int errLDS_ASN_SignedData_IncorrectData=0x7f0f0137;
-    public static final int errLDS_ASN_SignedData_Version_IncorrectData=0x7f0f0138;
-    public static final int errLDS_ASN_SignerInfo_DigestAlg_IncorrectData=0x7f0f0139;
-    public static final int errLDS_ASN_SignerInfo_IncorrectData=0x7f0f013a;
-    public static final int errLDS_ASN_SignerInfo_SID_IncorrectData=0x7f0f013b;
-    public static final int errLDS_ASN_SignerInfo_SignAlg_IncorrectData=0x7f0f013c;
-    public static final int errLDS_ASN_SignerInfo_Signature_IncorrectData=0x7f0f013d;
-    public static final int errLDS_ASN_SignerInfo_SignedAttrs_IncorrectData=0x7f0f013e;
-    public static final int errLDS_ASN_SignerInfo_UnsignedAttrs_IncorrectData=0x7f0f013f;
-    public static final int errLDS_ASN_SignerInfo_Version_IncorrectData=0x7f0f0140;
-    public static final int errLDS_Auth_AlgorithmParametersDataInvalid=0x7f0f0141;
-    public static final int errLDS_Auth_AlgorithmParametersNotDefined=0x7f0f0142;
-    public static final int errLDS_Auth_Error=0x7f0f0143;
-    public static final int errLDS_Auth_MessedAlgorithms=0x7f0f0144;
-    public static final int errLDS_Auth_PublicKeyDataInvalid=0x7f0f0145;
-    public static final int errLDS_Auth_SignatureCheckFailed=0x7f0f0146;
-    public static final int errLDS_Auth_SignatureDataIncorrect=0x7f0f0147;
-    public static final int errLDS_Auth_SignatureDataInvalid=0x7f0f0148;
-    public static final int errLDS_Auth_SignerInfo_CantFindCertificate=0x7f0f0149;
-    public static final int errLDS_Auth_UnsupportedDigestAlgorithm=0x7f0f014a;
-    public static final int errLDS_Auth_UnsupportedPublicKeyAlgorithm=0x7f0f014b;
-    public static final int errLDS_Auth_UnsupportedSignatureAlgorithm=0x7f0f014c;
-    public static final int errLDS_CA_CantFindDomainParameters=0x7f0f014d;
-    public static final int errLDS_CA_CantFindInfo=0x7f0f014e;
-    public static final int errLDS_CA_CantFindPublicKey=0x7f0f014f;
-    public static final int errLDS_CA_EphemeralKeys_CantCreate=0x7f0f0150;
-    public static final int errLDS_CA_IncorrectVersion=0x7f0f0151;
-    public static final int errLDS_CA_KeyAgreement_CantInitialize=0x7f0f0152;
-    public static final int errLDS_CA_NonMatchingAuthTokens=0x7f0f0153;
-    public static final int errLDS_CA_PublicKey_UnsupportedAlgorithm=0x7f0f0154;
-    public static final int errLDS_CA_SharedSecret_CantCreate=0x7f0f0155;
-    public static final int errLDS_CVCertificate_MissingMandatoryData_PK=0x7f0f0156;
-    public static final int errLDS_CV_Certificate_CAR_IncorrectData=0x7f0f0157;
-    public static final int errLDS_CV_Certificate_CHAT_IncorrectData=0x7f0f0158;
-    public static final int errLDS_CV_Certificate_CHAT_UnsupportedTerminalType=0x7f0f0159;
-    public static final int errLDS_CV_Certificate_CHR_IncorrectData=0x7f0f015a;
-    public static final int errLDS_CV_Certificate_CPI_IncorrectData=0x7f0f015b;
-    public static final int errLDS_CV_Certificate_Extensions_IncorrectData=0x7f0f015c;
-    public static final int errLDS_CV_Certificate_IncorrectData=0x7f0f015d;
-    public static final int errLDS_CV_Certificate_PrivateKey_IncorrectData=0x7f0f015e;
-    public static final int errLDS_CV_Certificate_PrivateKey_InvalidParams=0x7f0f015f;
-    public static final int errLDS_CV_Certificate_PrivateKey_Missing=0x7f0f0160;
-    public static final int errLDS_CV_Certificate_PrivateKey_Unsupported=0x7f0f0161;
-    public static final int errLDS_CV_Certificate_PublicKey_IncorrectData=0x7f0f0162;
-    public static final int errLDS_CV_Certificate_PublicKey_Unsupported=0x7f0f0163;
-    public static final int errLDS_CV_Certificate_ValidFrom_IncorrectData=0x7f0f0164;
-    public static final int errLDS_CV_Certificate_ValidTo_IncorrectData=0x7f0f0165;
-    public static final int errLDS_DG_WrongTag=0x7f0f0166;
-    public static final int errLDS_ICAO_LDSObject_UnsupportedDigestAlgorithm=0x7f0f0167;
-    public static final int errLDS_ICAO_SignedData_SignerInfos_Empty=0x7f0f0168;
-    public static final int errLDS_ICAO_SignerInfo_MessageDigestError=0x7f0f0169;
-    public static final int errLDS_ICAO_SignerInfo_SignedAttrs_Missed=0x7f0f016a;
-    public static final int errLDS_ICAO_SignerInfo_UnsupportedDigestAlgorithm=0x7f0f016b;
-    public static final int errLDS_ICAO_SignerInfo_UnsupportedSignatureAlgorithm=0x7f0f016c;
-    public static final int errLDS_Ok=0x7f0f016d;
-    public static final int errLDS_PACE_DomainParams_UnsupportedFormat=0x7f0f016e;
-    public static final int errLDS_PACE_EphemeralKeys_CantCreate=0x7f0f016f;
-    public static final int errLDS_PACE_EphemeralKeys_Incorrect=0x7f0f0170;
-    public static final int errLDS_PACE_Info_NotAvailable=0x7f0f0171;
-    public static final int errLDS_PACE_KeyAgreement_CantInitialize=0x7f0f0172;
-    public static final int errLDS_PACE_Mapping_CantDecodeNonce=0x7f0f0173;
-    public static final int errLDS_PACE_Mapping_CantPerform=0x7f0f0174;
-    public static final int errLDS_PACE_Mapping_EphemeralKeys_Incorrect=0x7f0f0175;
-    public static final int errLDS_PACE_NonMatchingAuthTokens=0x7f0f0176;
-    public static final int errLDS_PACE_SharedSecret_CantCreate=0x7f0f0177;
-    public static final int errLDS_PACE_SymmetricCypher_CantInitialize=0x7f0f0178;
-    public static final int errLDS_RI_SectorKey_CantFind=0x7f0f0179;
-    public static final int errLDS_RI_SectorKey_IncompleteData=0x7f0f017a;
-    public static final int errLDS_RI_SectorKey_IncorrectData=0x7f0f017b;
-    public static final int errLDS_TA_CantBuildCertificateChain=0x7f0f017c;
-    public static final int errLDS_TA_CantFindISPrivateKey=0x7f0f017d;
-    public static final int errLDS_TA_IncorrectVersion=0x7f0f017e;
-    public static final int errLDS_TA_InvalidKeyAlgorithmParameters=0x7f0f017f;
-    public static final int errLDS_TA_PublicKey_UnsupportedAlgorithm=0x7f0f0180;
-    public static final int errLDS_TA_SignatureBuildingError=0x7f0f0181;
-    public static final int fab_transformation_scrim_behavior=0x7f0f0182;
-    public static final int fab_transformation_sheet_behavior=0x7f0f0183;
-    public static final int faceNaoIdentificadaNoDocumento=0x7f0f0184;
-    public static final int face_too_large=0x7f0f0185;
-    public static final int face_too_small=0x7f0f0186;
-    public static final int falhaNaVerificacao=0x7f0f0187;
-    public static final int fcm_fallback_notification_channel_label=0x7f0f0188;
-    public static final int fcm_token=0x7f0f0189;
-    public static final int firebase_database_url=0x7f0f018a;
-    public static final int first_name=0x7f0f018b;
-    public static final int gcm_defaultSenderId=0x7f0f018c;
-    public static final int generic_error=0x7f0f018d;
-    public static final int generic_server_down=0x7f0f018e;
-    public static final int generic_server_timeout=0x7f0f018f;
-    public static final int geral=0x7f0f0190;
-    public static final int get_ready=0x7f0f0191;
-    public static final int google_api_key=0x7f0f0192;
-    public static final int google_app_id=0x7f0f0193;
-    public static final int google_crash_reporting_api_key=0x7f0f0194;
-    public static final int google_storage_bucket=0x7f0f0195;
-    public static final int hide_bottom_view_on_scroll_behavior=0x7f0f0196;
-    public static final int id_number=0x7f0f0197;
-    public static final int idscan_camera_bubble_capturing=0x7f0f0198;
-    public static final int idscan_camera_bubble_done=0x7f0f0199;
-    public static final int idscan_camera_bubble_flip=0x7f0f019a;
-    public static final int idscan_camera_bubble_looking=0x7f0f019b;
-    public static final int idscan_camera_headline_back=0x7f0f019c;
-    public static final int idscan_camera_headline_front=0x7f0f019d;
-    public static final int idscan_camera_title=0x7f0f019e;
-    public static final int idscan_error_face_body=0x7f0f019f;
-    public static final int idscan_error_face_button=0x7f0f01a0;
-    public static final int idscan_error_face_headline=0x7f0f01a1;
-    public static final int idscan_onboarding_body=0x7f0f01a2;
-    public static final int idscan_onboarding_button=0x7f0f01a3;
-    public static final int idscan_onboarding_headline=0x7f0f01a4;
-    public static final int idscan_onboarding_note=0x7f0f01a5;
-    public static final int idscan_result_body=0x7f0f01a6;
-    public static final int idscan_result_button=0x7f0f01a7;
-    public static final int idscan_result_headline=0x7f0f01a8;
-    public static final int idscan_result_rescan=0x7f0f01a9;
-    public static final int img_quality=0x7f0f01aa;
-    public static final int inst_1=0x7f0f01ab;
-    public static final int inst_2=0x7f0f01ac;
-    public static final int issue_state_name=0x7f0f01ad;
-    public static final int last_name=0x7f0f01ae;
-    public static final int library_easypreferences_author=0x7f0f01af;
-    public static final int library_easypreferences_authorWebsite=0x7f0f01b0;
-    public static final int library_easypreferences_classPath=0x7f0f01b1;
-    public static final int library_easypreferences_isOpenSource=0x7f0f01b2;
-    public static final int library_easypreferences_libraryDescription=0x7f0f01b3;
-    public static final int library_easypreferences_libraryName=0x7f0f01b4;
-    public static final int library_easypreferences_libraryVersion=0x7f0f01b5;
-    public static final int library_easypreferences_libraryWebsite=0x7f0f01b6;
-    public static final int library_easypreferences_licenseId=0x7f0f01b7;
-    public static final int library_easypreferences_repositoryLink=0x7f0f01b8;
-    public static final int livness_cant_find_face_in_image=0x7f0f01b9;
-    public static final int livness_dont_tilt_your_head=0x7f0f01ba;
-    public static final int livness_face_detector_not_operational=0x7f0f01bb;
-    public static final int livness_get_ready=0x7f0f01bc;
-    public static final int livness_keep_phone_levelled=0x7f0f01bd;
-    public static final int livness_look_good_question_mark=0x7f0f01be;
-    public static final int livness_looks_good=0x7f0f01bf;
-    public static final int livness_no_face_in_video=0x7f0f01c0;
-    public static final int livness_no_meta_data_tag_found=0x7f0f01c1;
-    public static final int livness_now_take_selfie=0x7f0f01c2;
-    public static final int livness_oops_cant_find_face=0x7f0f01c3;
-    public static final int livness_processing=0x7f0f01c4;
-    public static final int livness_retake=0x7f0f01c5;
-    public static final int livness_selfie_ops_desc=0x7f0f01c6;
-    public static final int livness_smiling_text=0x7f0f01c7;
-    public static final int livness_start_blinking=0x7f0f01c8;
-    public static final int livness_take_a_photo=0x7f0f01c9;
-    public static final int livness_too_many_in_video=0x7f0f01ca;
-    public static final int livness_try_again_cant_find_face=0x7f0f01cb;
-    public static final int livness_tutorial_align_face=0x7f0f01cc;
-    public static final int mtrl_chip_close_icon_content_description=0x7f0f01cd;
-    public static final int name_error=0x7f0f01ce;
-    public static final int next=0x7f0f01cf;
-    public static final int no_face_in_video=0x7f0f01d0;
-    public static final int no_faces_in_video=0x7f0f01d1;
-    public static final int no_internet=0x7f0f01d2;
-    public static final int no_network_connection=0x7f0f01d3;
-    public static final int ntfLDS_ASN_Certificate_DuplicatingExtensions=0x7f0f01d4;
-    public static final int ntfLDS_ASN_Certificate_EmptyIssuer=0x7f0f01d5;
-    public static final int ntfLDS_ASN_Certificate_EmptySubject=0x7f0f01d6;
-    public static final int ntfLDS_ASN_Certificate_ForcedDefaultCSCARole=0x7f0f01d7;
-    public static final int ntfLDS_ASN_Certificate_ForcedDefaultDSRole=0x7f0f01d8;
-    public static final int ntfLDS_ASN_Certificate_IncorrectIssuerSubjectDS=0x7f0f01d9;
-    public static final int ntfLDS_ASN_Certificate_IncorrectTimeCoding=0x7f0f01da;
-    public static final int ntfLDS_ASN_Certificate_IncorrectUseOfGeneralizedTime=0x7f0f01db;
-    public static final int ntfLDS_ASN_Certificate_IncorrectVersion=0x7f0f01dc;
-    public static final int ntfLDS_ASN_Certificate_NonMatchingSignatureAlgorithm=0x7f0f01dd;
-    public static final int ntfLDS_ASN_Certificate_UnsupportedCriticalExtension=0x7f0f01de;
-    public static final int ntfLDS_ASN_SignedData_OID_Incorrect=0x7f0f01df;
-    public static final int ntfLDS_ASN_SignedData_Version_Incorrect=0x7f0f01e0;
-    public static final int ntfLDS_ASN_SignerInfo_ContentTypeAttr_Data=0x7f0f01e1;
-    public static final int ntfLDS_ASN_SignerInfo_ContentTypeAttr_Missing=0x7f0f01e2;
-    public static final int ntfLDS_ASN_SignerInfo_ContentTypeAttr_Value=0x7f0f01e3;
-    public static final int ntfLDS_ASN_SignerInfo_MessageDigestAttr_Data=0x7f0f01e4;
-    public static final int ntfLDS_ASN_SignerInfo_MessageDigestAttr_Missing=0x7f0f01e5;
-    public static final int ntfLDS_ASN_SignerInfo_MessageDigestAttr_Value=0x7f0f01e6;
-    public static final int ntfLDS_ASN_SignerInfo_SID_DigestAlgorithmNotListed=0x7f0f01e7;
-    public static final int ntfLDS_ASN_SignerInfo_SID_IncorrectChoice=0x7f0f01e8;
-    public static final int ntfLDS_ASN_SignerInfo_SigningTimeAttr_Data=0x7f0f01e9;
-    public static final int ntfLDS_ASN_SignerInfo_SigningTimeAttr_Missing=0x7f0f01ea;
-    public static final int ntfLDS_ASN_SignerInfo_SigningTimeAttr_Value=0x7f0f01eb;
-    public static final int ntfLDS_ASN_SignerInfo_Version_Incorrect=0x7f0f01ec;
-    public static final int ntfLDS_Auth_MLSignerInfo_Certificate_CantFindCSCA=0x7f0f01ed;
-    public static final int ntfLDS_Auth_MLSignerInfo_Certificate_Revoked=0x7f0f01ee;
-    public static final int ntfLDS_Auth_MLSignerInfo_Certificate_RootIsNotTrusted=0x7f0f01ef;
-    public static final int ntfLDS_Auth_MLSignerInfo_Certificate_SignatureInvalid=0x7f0f01f0;
-    public static final int ntfLDS_Auth_MLSignerInfo_Certificate_Validity=0x7f0f01f1;
-    public static final int ntfLDS_Auth_SignerInfo_Certificate_CantFindCSCA=0x7f0f01f2;
-    public static final int ntfLDS_Auth_SignerInfo_Certificate_Revoked=0x7f0f01f3;
-    public static final int ntfLDS_Auth_SignerInfo_Certificate_RootIsNotTrusted=0x7f0f01f4;
-    public static final int ntfLDS_Auth_SignerInfo_Certificate_SignatureInvalid=0x7f0f01f5;
-    public static final int ntfLDS_Auth_SignerInfo_Certificate_Validity=0x7f0f01f6;
-    public static final int ntfLDS_Biometrics_BDB_DataLength_Incorrect=0x7f0f01f7;
-    public static final int ntfLDS_Biometrics_BDB_Data_EyeColor=0x7f0f01f8;
-    public static final int ntfLDS_Biometrics_BDB_Data_FaceImageType=0x7f0f01f9;
-    public static final int ntfLDS_Biometrics_BDB_Data_Gender=0x7f0f01fa;
-    public static final int ntfLDS_Biometrics_BDB_Data_HairColor=0x7f0f01fb;
-    public static final int ntfLDS_Biometrics_BDB_Data_ImageDataType=0x7f0f01fc;
-    public static final int ntfLDS_Biometrics_BDB_Data_PoseAngleU_Pitch=0x7f0f01fd;
-    public static final int ntfLDS_Biometrics_BDB_Data_PoseAngleU_Roll=0x7f0f01fe;
-    public static final int ntfLDS_Biometrics_BDB_Data_PoseAngleU_Yaw=0x7f0f01ff;
-    public static final int ntfLDS_Biometrics_BDB_Data_PoseAngle_Pitch=0x7f0f0200;
-    public static final int ntfLDS_Biometrics_BDB_Data_PoseAngle_Roll=0x7f0f0201;
-    public static final int ntfLDS_Biometrics_BDB_Data_PoseAngle_Yaw=0x7f0f0202;
-    public static final int ntfLDS_Biometrics_BDB_FormatID_Incorrect=0x7f0f0203;
-    public static final int ntfLDS_Biometrics_BDB_Image_Missing=0x7f0f0204;
-    public static final int ntfLDS_Biometrics_BDB_Version_Incorrect=0x7f0f0205;
-    public static final int ntfLDS_Biometrics_FormatOwner_Incorrect=0x7f0f0206;
-    public static final int ntfLDS_Biometrics_FormatOwner_Missing=0x7f0f0207;
-    public static final int ntfLDS_Biometrics_FormatType_Incorrect=0x7f0f0208;
-    public static final int ntfLDS_Biometrics_FormatType_Missing=0x7f0f0209;
-    public static final int ntfLDS_Biometrics_SubType_Incorrect=0x7f0f020a;
-    public static final int ntfLDS_Biometrics_SubType_Missing=0x7f0f020b;
-    public static final int ntfLDS_Biometrics_Type_Incorrect=0x7f0f020c;
-    public static final int ntfLDS_CVCertificate_NonCVCADomainParameters=0x7f0f020d;
-    public static final int ntfLDS_CVCertificate_Profile_IncorrectVersion=0x7f0f020e;
-    public static final int ntfLDS_CVCertificate_Validity=0x7f0f020f;
-    public static final int ntfLDS_CV_Certificate_PrivateKey_IncorrectVersion=0x7f0f0210;
-    public static final int ntfLDS_ICAO_Application_LDSVersion_Inconsistent=0x7f0f0211;
-    public static final int ntfLDS_ICAO_Application_LDSVersion_Unsupported=0x7f0f0212;
-    public static final int ntfLDS_ICAO_Application_UnicodeVersion_Inconsistent=0x7f0f0213;
-    public static final int ntfLDS_ICAO_Application_UnicodeVersion_Unsupported=0x7f0f0214;
-    public static final int ntfLDS_ICAO_COM_DGPM_Incorrect=0x7f0f0215;
-    public static final int ntfLDS_ICAO_COM_DGPM_Missing=0x7f0f0216;
-    public static final int ntfLDS_ICAO_COM_DGPM_Unexpected=0x7f0f0217;
-    public static final int ntfLDS_ICAO_COM_LDS_Version_Incorrect=0x7f0f0218;
-    public static final int ntfLDS_ICAO_COM_LDS_Version_Missing=0x7f0f0219;
-    public static final int ntfLDS_ICAO_COM_Unicode_Version_Incorrect=0x7f0f021a;
-    public static final int ntfLDS_ICAO_COM_Unicode_Version_Missing=0x7f0f021b;
-    public static final int ntfLDS_ICAO_Certificate_Ext_AuthKeyID_IncorrectData=0x7f0f021c;
-    public static final int ntfLDS_ICAO_Certificate_Ext_AuthKeyID_KeyID_Missed=0x7f0f021d;
-    public static final int ntfLDS_ICAO_Certificate_Ext_AuthKeyID_Missed=0x7f0f021e;
-    public static final int ntfLDS_ICAO_Certificate_Ext_BasicC_IncorrectData=0x7f0f021f;
-    public static final int ntfLDS_ICAO_Certificate_Ext_BasicC_IncorrectUsage1=0x7f0f0220;
-    public static final int ntfLDS_ICAO_Certificate_Ext_BasicC_IncorrectUsage2=0x7f0f0221;
-    public static final int ntfLDS_ICAO_Certificate_Ext_BasicC_Missed=0x7f0f0222;
-    public static final int ntfLDS_ICAO_Certificate_Ext_BasicC_NotCritical=0x7f0f0223;
-    public static final int ntfLDS_ICAO_Certificate_Ext_BasicC_PathLenC_Incorrect=0x7f0f0224;
-    public static final int ntfLDS_ICAO_Certificate_Ext_BasicC_PathLenC_Missed=0x7f0f0225;
-    public static final int ntfLDS_ICAO_Certificate_Ext_CRLDistPoint_Empty=0x7f0f0226;
-    public static final int ntfLDS_ICAO_Certificate_Ext_CRLDistPoint_IncorrectData=0x7f0f0227;
-    public static final int ntfLDS_ICAO_Certificate_Ext_CRLDistPoint_Missed=0x7f0f0228;
-    public static final int ntfLDS_ICAO_Certificate_Ext_CRLDistPoint_PointMissed=0x7f0f0229;
-    public static final int ntfLDS_ICAO_Certificate_Ext_CertPolicies_Empty=0x7f0f022a;
-    public static final int ntfLDS_ICAO_Certificate_Ext_CertPolicies_IncorrectData=0x7f0f022b;
-    public static final int ntfLDS_ICAO_Certificate_Ext_CertPolicies_PolicyID_Missed=0x7f0f022c;
-    public static final int ntfLDS_ICAO_Certificate_Ext_DocTypeList_DocTypes=0x7f0f022d;
-    public static final int ntfLDS_ICAO_Certificate_Ext_DocTypeList_DocTypes_Empty=0x7f0f022e;
-    public static final int ntfLDS_ICAO_Certificate_Ext_DocTypeList_IncorrectData=0x7f0f022f;
-    public static final int ntfLDS_ICAO_Certificate_Ext_DocTypeList_Missed=0x7f0f0230;
-    public static final int ntfLDS_ICAO_Certificate_Ext_DocTypeList_Version=0x7f0f0231;
-    public static final int ntfLDS_ICAO_Certificate_Ext_ExtKeyUsage_IncorrectData=0x7f0f0232;
-    public static final int ntfLDS_ICAO_Certificate_Ext_ExtKeyUsage_IncorrectUsage=0x7f0f0233;
-    public static final int ntfLDS_ICAO_Certificate_Ext_ExtKeyUsage_NotCritical=0x7f0f0234;
-    public static final int ntfLDS_ICAO_Certificate_Ext_IssuerAltName_DN_Empty=0x7f0f0235;
-    public static final int ntfLDS_ICAO_Certificate_Ext_IssuerAltName_DN_Incorrect=0x7f0f0236;
-    public static final int ntfLDS_ICAO_Certificate_Ext_IssuerAltName_DN_Missed=0x7f0f0237;
-    public static final int ntfLDS_ICAO_Certificate_Ext_IssuerAltName_DN_NonCompliant=0x7f0f0238;
-    public static final int ntfLDS_ICAO_Certificate_Ext_IssuerAltName_Empty=0x7f0f0239;
-    public static final int ntfLDS_ICAO_Certificate_Ext_IssuerAltName_IncorrectData=0x7f0f023a;
-    public static final int ntfLDS_ICAO_Certificate_Ext_IssuerAltName_Info_Missed=0x7f0f023b;
-    public static final int ntfLDS_ICAO_Certificate_Ext_IssuerAltName_Missed=0x7f0f023c;
-    public static final int ntfLDS_ICAO_Certificate_Ext_IssuerAltName_NonCompliant=0x7f0f023d;
-    public static final int ntfLDS_ICAO_Certificate_Ext_KeyUsage_Missed=0x7f0f023e;
-    public static final int ntfLDS_ICAO_Certificate_Ext_KeyUsage_NotCritical=0x7f0f023f;
-    public static final int ntfLDS_ICAO_Certificate_Ext_PrivateKeyUP_Empty=0x7f0f0240;
-    public static final int ntfLDS_ICAO_Certificate_Ext_PrivateKeyUP_IncorrectData=0x7f0f0241;
-    public static final int ntfLDS_ICAO_Certificate_Ext_PrivateKeyUP_Missed=0x7f0f0242;
-    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectAltName_DN_Empty=0x7f0f0243;
-    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectAltName_DN_Incorrect=0x7f0f0244;
-    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectAltName_DN_Missed=0x7f0f0245;
-    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectAltName_DN_NonCompliant=0x7f0f0246;
-    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectAltName_Empty=0x7f0f0247;
-    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectAltName_IncorrectData=0x7f0f0248;
-    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectAltName_Info_Missed=0x7f0f0249;
-    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectAltName_Missed=0x7f0f024a;
-    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectAltName_NonCompliant=0x7f0f024b;
-    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectKeyID_IncorrectData=0x7f0f024c;
-    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectKeyID_Missed=0x7f0f024d;
-    public static final int ntfLDS_ICAO_Certificate_Ext_UsingNonCompliantData=0x7f0f024e;
-    public static final int ntfLDS_ICAO_Certificate_Issuer_CommonName_Missed=0x7f0f024f;
-    public static final int ntfLDS_ICAO_Certificate_Issuer_CountryNonCompliant=0x7f0f0250;
-    public static final int ntfLDS_ICAO_Certificate_Issuer_Country_Missed=0x7f0f0251;
-    public static final int ntfLDS_ICAO_Certificate_MissedExtensions=0x7f0f0252;
-    public static final int ntfLDS_ICAO_Certificate_Subject_CommonName_Missed=0x7f0f0253;
-    public static final int ntfLDS_ICAO_Certificate_Subject_CountryNonCompliant=0x7f0f0254;
-    public static final int ntfLDS_ICAO_Certificate_Subject_Country_Missed=0x7f0f0255;
-    public static final int ntfLDS_ICAO_Certificate_UnsupportedPublicKeyAlgorithm=0x7f0f0256;
-    public static final int ntfLDS_ICAO_Certificate_UnsupportedSignatureAlgorithm=0x7f0f0257;
-    public static final int ntfLDS_ICAO_Certificate_UsingNonCompliantData=0x7f0f0258;
-    public static final int ntfLDS_ICAO_Certificate_Validity=0x7f0f0259;
-    public static final int ntfLDS_ICAO_Certificate_Version_Incorrect=0x7f0f025a;
-    public static final int ntfLDS_ICAO_Certificate_Version_Missed=0x7f0f025b;
-    public static final int ntfLDS_ICAO_LDSObject_DGHash_Extra=0x7f0f025c;
-    public static final int ntfLDS_ICAO_LDSObject_DGHash_Missing=0x7f0f025d;
-    public static final int ntfLDS_ICAO_LDSObject_DGNumber_Incorrect=0x7f0f025e;
-    public static final int ntfLDS_ICAO_LDSObject_IncorrectContentOID=0x7f0f025f;
-    public static final int ntfLDS_ICAO_LDSObject_Version_Incorrect=0x7f0f0260;
-    public static final int ntfLDS_ICAO_MasterList_Version_Incorrect=0x7f0f0261;
-    public static final int ntfLDS_ICAO_SignedData_CRLs_IncorrectUsage=0x7f0f0262;
-    public static final int ntfLDS_ICAO_SignedData_Certificates_Empty=0x7f0f0263;
-    public static final int ntfLDS_ICAO_SignedData_Certificates_Missed=0x7f0f0264;
-    public static final int ntfLDS_ICAO_SignedData_DigestAlgorithms_Empty=0x7f0f0265;
-    public static final int ntfLDS_ICAO_SignedData_DigestAlgorithms_Unsupported=0x7f0f0266;
-    public static final int ntfLDS_ICAO_SignedData_SignerInfos_MultipleEntries=0x7f0f0267;
-    public static final int ntfLDS_ICAO_SignedData_Version_Incorrect=0x7f0f0268;
-    public static final int ntfLDS_MRZ_DOB_Error=0x7f0f0269;
-    public static final int ntfLDS_MRZ_DOB_IncorrectChecksum=0x7f0f026a;
-    public static final int ntfLDS_MRZ_DOB_SyntaxError=0x7f0f026b;
-    public static final int ntfLDS_MRZ_DOE_Error=0x7f0f026c;
-    public static final int ntfLDS_MRZ_DOE_IncorrectChecksum=0x7f0f026d;
-    public static final int ntfLDS_MRZ_DOE_SyntaxError=0x7f0f026e;
-    public static final int ntfLDS_MRZ_DocumentType_Unknown=0x7f0f026f;
-    public static final int ntfLDS_MRZ_Incorrect=0x7f0f0270;
-    public static final int ntfLDS_MRZ_IncorrectChecksum=0x7f0f0271;
-    public static final int ntfLDS_MRZ_IssuingState_SyntaxError=0x7f0f0272;
-    public static final int ntfLDS_MRZ_Name_IsVoid=0x7f0f0273;
-    public static final int ntfLDS_MRZ_Nationality_SyntaxError=0x7f0f0274;
-    public static final int ntfLDS_MRZ_Number_IncorrectChecksum=0x7f0f0275;
-    public static final int ntfLDS_MRZ_OptionalData_IncorrectChecksum=0x7f0f0276;
-    public static final int ntfLDS_MRZ_Sex_Incorrect=0x7f0f0277;
-    public static final int ntfLDS_SI_AA_Info_InconsistentAlgorithmReference=0x7f0f0278;
-    public static final int ntfLDS_SI_AA_Info_IncorrectVersion=0x7f0f0279;
-    public static final int ntfLDS_SI_AA_Info_UnsupportedAlgorithm=0x7f0f027a;
-    public static final int ntfLDS_SI_CA_DomainParams_UnsupportedAlgorithm=0x7f0f027b;
-    public static final int ntfLDS_SI_CA_Info_IncorrectVersion=0x7f0f027c;
-    public static final int ntfLDS_SI_CA_PublicKey_UnsupportedAlgorithm=0x7f0f027d;
-    public static final int ntfLDS_SI_PACE_DomainParams_UnsupportedAlgorithm=0x7f0f027e;
-    public static final int ntfLDS_SI_PACE_DomainParams_UsingStdRef=0x7f0f027f;
-    public static final int ntfLDS_SI_PACE_Info_DeprecatedVersion=0x7f0f0280;
-    public static final int ntfLDS_SI_PACE_Info_UnsupportedStdParameters=0x7f0f0281;
-    public static final int ntfLDS_SI_RI_DomainParams_UnsupportedAlgorithm=0x7f0f0282;
-    public static final int ntfLDS_SI_RI_Info_IncorrectVersion=0x7f0f0283;
-    public static final int ntfLDS_SI_Storage_CA_AnonymousInfos=0x7f0f0284;
-    public static final int ntfLDS_SI_Storage_CA_DomainParams_NoRequiredOption=0x7f0f0285;
-    public static final int ntfLDS_SI_Storage_CA_DomainParams_NotAvailable=0x7f0f0286;
-    public static final int ntfLDS_SI_Storage_CA_IncorrectInfosQuantity=0x7f0f0287;
-    public static final int ntfLDS_SI_Storage_CA_Info_NoMatchingDomainParams=0x7f0f0288;
-    public static final int ntfLDS_SI_Storage_CA_Info_NoMatchingPublicKey=0x7f0f0289;
-    public static final int ntfLDS_SI_Storage_CA_Info_NotAvailable=0x7f0f028a;
-    public static final int ntfLDS_SI_Storage_CardInfoLocator_MultipleEntries=0x7f0f028b;
-    public static final int ntfLDS_SI_Storage_PACEInfos_NonConsistant=0x7f0f028c;
-    public static final int ntfLDS_SI_Storage_PACE_Info_NoMatchingDomainParams=0x7f0f028d;
-    public static final int ntfLDS_SI_Storage_PACE_Info_NoStdParameters=0x7f0f028e;
-    public static final int ntfLDS_SI_Storage_PACE_Info_NotAvailable=0x7f0f028f;
-    public static final int ntfLDS_SI_Storage_PrivilegedTI_IncorrectUsage=0x7f0f0290;
-    public static final int ntfLDS_SI_Storage_PrivilegedTI_MultipleEntries=0x7f0f0291;
-    public static final int ntfLDS_SI_Storage_RI_DomainParams_MultipleEntries=0x7f0f0292;
-    public static final int ntfLDS_SI_Storage_TA_Info_NotAvailable=0x7f0f0293;
-    public static final int ntfLDS_SI_Storage_eIDSecurityInfo_MultipleEntries=0x7f0f0294;
-    public static final int ntfLDS_SI_TA_Info_FileIDForVersion2=0x7f0f0295;
-    public static final int ntfLDS_SI_TA_Info_IncorrectVersion=0x7f0f0296;
-    public static final int ntfLDS_SI_eIDSecurity_UnsupportedDigestAlgorithm=0x7f0f0297;
-    public static final int ntfLDS_TA_PACEStaticBindingUsed=0x7f0f0298;
-    public static final int ntfLDS_UnsupportedImageFormat=0x7f0f0299;
-    public static final int parsing_failed=0x7f0f029a;
-    public static final int password=0x7f0f029b;
-    public static final int password_toggle_content_description=0x7f0f029c;
-    public static final int path_password_eye=0x7f0f029d;
-    public static final int path_password_eye_mask_strike_through=0x7f0f029e;
-    public static final int path_password_eye_mask_visible=0x7f0f029f;
-    public static final int path_password_strike_through=0x7f0f02a0;
-    public static final int pipe_inactive=0x7f0f02a1;
-    public static final int processing=0x7f0f02a2;
-    public static final int project_id=0x7f0f02a3;
-    public static final int put_face_text=0x7f0f02a4;
-    public static final int put_id_text=0x7f0f02a5;
-    public static final int registrado=0x7f0f02a6;
-    public static final int result_failure_network=0x7f0f02a7;
-    public static final int result_failure_no_face=0x7f0f02a8;
-    public static final int result_failure_no_match=0x7f0f02a9;
-    public static final int result_failure_not_live=0x7f0f02aa;
-    public static final int result_success=0x7f0f02ab;
-    public static final int scan_id_download_db=0x7f0f02ac;
-    public static final int scan_id_number=0x7f0f02ad;
-    public static final int scan_id_processing=0x7f0f02ae;
-    public static final int scan_id_too_many_faces=0x7f0f02af;
-    public static final int scanning_id_text=0x7f0f02b0;
-    public static final int search_menu_title=0x7f0f02b1;
-    public static final int server_anyvision=0x7f0f02b2;
-    public static final int server_url=0x7f0f02b3;
-    public static final int servidorSesame=0x7f0f02b4;
-    public static final int sesameVideoMp4=0x7f0f02b5;
-    public static final int sesame_camera_bubble_angle=0x7f0f02b6;
-    public static final int sesame_camera_bubble_close=0x7f0f02b7;
-    public static final int sesame_camera_bubble_far=0x7f0f02b8;
-    public static final int sesame_camera_bubble_hold=0x7f0f02b9;
-    public static final int sesame_camera_bubble_lowlight=0x7f0f02ba;
-    public static final int sesame_camera_bubble_noface=0x7f0f02bb;
-    public static final int sesame_camera_bubble_notaligned=0x7f0f02bc;
-    public static final int sesame_camera_bubble_stronglight=0x7f0f02bd;
-    public static final int sesame_camera_error_movement_body=0x7f0f02be;
-    public static final int sesame_camera_error_movement_button=0x7f0f02bf;
-    public static final int sesame_camera_error_movement_headline=0x7f0f02c0;
-    public static final int sesame_camera_helper=0x7f0f02c1;
-    public static final int sesame_camera_title=0x7f0f02c2;
-    public static final int sesame_help_1_body=0x7f0f02c3;
-    public static final int sesame_help_1_headline=0x7f0f02c4;
-    public static final int sesame_help_2_body=0x7f0f02c5;
-    public static final int sesame_help_2_headline=0x7f0f02c6;
-    public static final int sesame_help_3_body=0x7f0f02c7;
-    public static final int sesame_help_3_headline=0x7f0f02c8;
-    public static final int sesame_help_4_body=0x7f0f02c9;
-    public static final int sesame_help_4_headline=0x7f0f02ca;
-    public static final int sesame_help_button=0x7f0f02cb;
-    public static final int sesame_onboarding_body=0x7f0f02cc;
-    public static final int sesame_onboarding_button=0x7f0f02cd;
-    public static final int sesame_onboarding_headline=0x7f0f02ce;
-    public static final int sesame_onboarding_note=0x7f0f02cf;
-    public static final int sesame_result_fail_body=0x7f0f02d0;
-    public static final int sesame_result_fail_button=0x7f0f02d1;
-    public static final int sesame_result_fail_ghostbutton=0x7f0f02d2;
-    public static final int sesame_result_fail_headline=0x7f0f02d3;
-    public static final int sesame_result_loadingnote=0x7f0f02d4;
-    public static final int sesame_result_success_body=0x7f0f02d5;
-    public static final int sesame_result_success_button=0x7f0f02d6;
-    public static final int sesame_result_success_headline=0x7f0f02d7;
-    public static final int sesame_url=0x7f0f02d8;
-    public static final int slow_connection=0x7f0f02d9;
-    public static final int status_bar_notification_info_overflow=0x7f0f02da;
-    public static final int strAGY=0x7f0f02db;
-    public static final int strAKADateofBirth=0x7f0f02dc;
-    public static final int strAKAGivenNames=0x7f0f02dd;
-    public static final int strAKANamePrefix=0x7f0f02de;
-    public static final int strAKANameSuffix=0x7f0f02df;
-    public static final int strAKASocialSecurityNumber=0x7f0f02e0;
-    public static final int strAKASurname=0x7f0f02e1;
-    public static final int strAKASurnameAndGivenNames=0x7f0f02e2;
-    public static final int strALTCode=0x7f0f02e3;
-    public static final int strAa=0x7f0f02e4;
-    public static final int strAcademicTitle=0x7f0f02e5;
-    public static final int strAccessibilityCameraButton=0x7f0f02e6;
-    public static final int strAccessibilityCloseButton=0x7f0f02e7;
-    public static final int strAccessibilityTorchButton=0x7f0f02e8;
-    public static final int strAccompaniedby=0x7f0f02e9;
-    public static final int strAddress=0x7f0f02ea;
-    public static final int strAddressArea=0x7f0f02eb;
-    public static final int strAddressBuilding=0x7f0f02ec;
-    public static final int strAddressCity=0x7f0f02ed;
-    public static final int strAddressFlat=0x7f0f02ee;
-    public static final int strAddressHouse=0x7f0f02ef;
-    public static final int strAddressJurisdictionCode=0x7f0f02f0;
-    public static final int strAddressLocation=0x7f0f02f1;
-    public static final int strAddressMunicipality=0x7f0f02f2;
-    public static final int strAddressPostalCode=0x7f0f02f3;
-    public static final int strAddressState=0x7f0f02f4;
-    public static final int strAddressStreet=0x7f0f02f5;
-    public static final int strAdministrativeNumber=0x7f0f02f6;
-    public static final int strAdressCountry=0x7f0f02f7;
-    public static final int strAdressZipcode=0x7f0f02f8;
-    public static final int strAge=0x7f0f02f9;
-    public static final int strAgeAtIssue=0x7f0f02fa;
-    public static final int strAirlineDesignatorofboardingpassissuer=0x7f0f02fb;
-    public static final int strAirlineName=0x7f0f02fc;
-    public static final int strAirlineNameFrequentFlyer=0x7f0f02fd;
-    public static final int strAirlineNumericCode=0x7f0f02fe;
-    public static final int strAirportFrom=0x7f0f02ff;
-    public static final int strAirportTo=0x7f0f0300;
-    public static final int strAllergies=0x7f0f0301;
-    public static final int strApplicationDoNotHavePermission=0x7f0f0302;
-    public static final int strApplicationNumber=0x7f0f0303;
-    public static final int strArtisticName=0x7f0f0304;
-    public static final int strAuditInformation=0x7f0f0305;
-    public static final int strAuthenticatorAttached=0x7f0f0306;
-    public static final int strAuthenticatorTurnedOn=0x7f0f0307;
-    public static final int strAuthentification=0x7f0f0308;
-    public static final int strAuthority=0x7f0f0309;
-    public static final int strAuthorityCode=0x7f0f030a;
-    public static final int strAuthorityRUS=0x7f0f030b;
-    public static final int strAuthorizationNumber=0x7f0f030c;
-    public static final int strAxialProtection=0x7f0f030d;
-    public static final int strBDBType=0x7f0f030e;
-    public static final int strBac=0x7f0f030f;
-    public static final int strBankCardNumber=0x7f0f0310;
-    public static final int strBankCardValidThru=0x7f0f0311;
-    public static final int strBanknoteNumber=0x7f0f0312;
-    public static final int strBarcode=0x7f0f0313;
-    public static final int strBarcodeFormatCheck=0x7f0f0314;
-    public static final int strBenefitsNumber=0x7f0f0315;
-    public static final int strBinaryCode=0x7f0f0316;
-    public static final int strBiometricFormatOwner=0x7f0f0317;
-    public static final int strBiometricFormatType=0x7f0f0318;
-    public static final int strBiometricProductID=0x7f0f0319;
-    public static final int strBiometricSubtype=0x7f0f031a;
-    public static final int strBiometricType=0x7f0f031b;
-    public static final int strBlankElement=0x7f0f031c;
-    public static final int strBloodGroup=0x7f0f031d;
-    public static final int strBluetoothEnabled=0x7f0f031e;
-    public static final int strBookletNumber=0x7f0f031f;
-    public static final int strCCWUntil=0x7f0f0320;
-    public static final int strCDLClass=0x7f0f0321;
-    public static final int strCSCCode=0x7f0f0322;
-    public static final int strCa=0x7f0f0323;
-    public static final int strCameraUnavailable=0x7f0f0324;
-    public static final int strCardAccessNumber=0x7f0f0325;
-    public static final int strCardInfo=0x7f0f0326;
-    public static final int strCategory=0x7f0f0327;
-    public static final int strCenturyDateOfBirth=0x7f0f0328;
-    public static final int strChassisNumber=0x7f0f0329;
-    public static final int strCheckInSequenceNumber=0x7f0f032a;
-    public static final int strChildren=0x7f0f032b;
-    public static final int strCivilStatus=0x7f0f032c;
-    public static final int strColorDynamic=0x7f0f032d;
-    public static final int strCommercialVehicleCodes=0x7f0f032e;
-    public static final int strCompanyName=0x7f0f032f;
-    public static final int strCompartmentCode=0x7f0f0330;
-    public static final int strComplexion=0x7f0f0331;
-    public static final int strComplianceType=0x7f0f0332;
-    public static final int strConditions=0x7f0f0333;
-    public static final int strConfiguration=0x7f0f0334;
-    public static final int strControlNo=0x7f0f0335;
-    public static final int strCopy=0x7f0f0336;
-    public static final int strCourtCode=0x7f0f0337;
-    public static final int strCty=0x7f0f0338;
-    public static final int strCustodyInfo=0x7f0f0339;
-    public static final int strDFTAppDirectory=0x7f0f033a;
-    public static final int strDFTCertificate=0x7f0f033b;
-    public static final int strDG1=0x7f0f033c;
-    public static final int strDG10=0x7f0f033d;
-    public static final int strDG11=0x7f0f033e;
-    public static final int strDG12=0x7f0f033f;
-    public static final int strDG13=0x7f0f0340;
-    public static final int strDG14=0x7f0f0341;
-    public static final int strDG15=0x7f0f0342;
-    public static final int strDG16=0x7f0f0343;
-    public static final int strDG17=0x7f0f0344;
-    public static final int strDG18=0x7f0f0345;
-    public static final int strDG19=0x7f0f0346;
-    public static final int strDG2=0x7f0f0347;
-    public static final int strDG20=0x7f0f0348;
-    public static final int strDG21=0x7f0f0349;
-    public static final int strDG3=0x7f0f034a;
-    public static final int strDG4=0x7f0f034b;
-    public static final int strDG5=0x7f0f034c;
-    public static final int strDG6=0x7f0f034d;
-    public static final int strDG7=0x7f0f034e;
-    public static final int strDG8=0x7f0f034f;
-    public static final int strDG9=0x7f0f0350;
-    public static final int strDLCDLRestrictionCode=0x7f0f0351;
-    public static final int strDLClass=0x7f0f0352;
-    public static final int strDLClassCodeA1From=0x7f0f0353;
-    public static final int strDLClassCodeA1Notes=0x7f0f0354;
-    public static final int strDLClassCodeA1To=0x7f0f0355;
-    public static final int strDLClassCodeA2From=0x7f0f0356;
-    public static final int strDLClassCodeA2Notes=0x7f0f0357;
-    public static final int strDLClassCodeA2To=0x7f0f0358;
-    public static final int strDLClassCodeA3From=0x7f0f0359;
-    public static final int strDLClassCodeA3Notes=0x7f0f035a;
-    public static final int strDLClassCodeA3To=0x7f0f035b;
-    public static final int strDLClassCodeAFrom=0x7f0f035c;
-    public static final int strDLClassCodeAMFrom=0x7f0f035d;
-    public static final int strDLClassCodeAMNotes=0x7f0f035e;
-    public static final int strDLClassCodeAMTo=0x7f0f035f;
-    public static final int strDLClassCodeANotes=0x7f0f0360;
-    public static final int strDLClassCodeATo=0x7f0f0361;
-    public static final int strDLClassCodeB1From=0x7f0f0362;
-    public static final int strDLClassCodeB1Notes=0x7f0f0363;
-    public static final int strDLClassCodeB1To=0x7f0f0364;
-    public static final int strDLClassCodeB2EFrom=0x7f0f0365;
-    public static final int strDLClassCodeB2ENotes=0x7f0f0366;
-    public static final int strDLClassCodeB2ETo=0x7f0f0367;
-    public static final int strDLClassCodeB2From=0x7f0f0368;
-    public static final int strDLClassCodeB2Notes=0x7f0f0369;
-    public static final int strDLClassCodeB2To=0x7f0f036a;
-    public static final int strDLClassCodeBEFrom=0x7f0f036b;
-    public static final int strDLClassCodeBENotes=0x7f0f036c;
-    public static final int strDLClassCodeBETo=0x7f0f036d;
-    public static final int strDLClassCodeBFrom=0x7f0f036e;
-    public static final int strDLClassCodeBNotes=0x7f0f036f;
-    public static final int strDLClassCodeBTo=0x7f0f0370;
-    public static final int strDLClassCodeC1EFrom=0x7f0f0371;
-    public static final int strDLClassCodeC1ENotes=0x7f0f0372;
-    public static final int strDLClassCodeC1ETo=0x7f0f0373;
-    public static final int strDLClassCodeC1From=0x7f0f0374;
-    public static final int strDLClassCodeC1Notes=0x7f0f0375;
-    public static final int strDLClassCodeC1To=0x7f0f0376;
-    public static final int strDLClassCodeC2From=0x7f0f0377;
-    public static final int strDLClassCodeC2Notes=0x7f0f0378;
-    public static final int strDLClassCodeC2To=0x7f0f0379;
-    public static final int strDLClassCodeCEFrom=0x7f0f037a;
-    public static final int strDLClassCodeCENotes=0x7f0f037b;
-    public static final int strDLClassCodeCETo=0x7f0f037c;
-    public static final int strDLClassCodeCFrom=0x7f0f037d;
-    public static final int strDLClassCodeCNotes=0x7f0f037e;
-    public static final int strDLClassCodeCTo=0x7f0f037f;
-    public static final int strDLClassCodeD1EFrom=0x7f0f0380;
-    public static final int strDLClassCodeD1ENotes=0x7f0f0381;
-    public static final int strDLClassCodeD1ETo=0x7f0f0382;
-    public static final int strDLClassCodeD1From=0x7f0f0383;
-    public static final int strDLClassCodeD1Notes=0x7f0f0384;
-    public static final int strDLClassCodeD1To=0x7f0f0385;
-    public static final int strDLClassCodeD2From=0x7f0f0386;
-    public static final int strDLClassCodeD2Notes=0x7f0f0387;
-    public static final int strDLClassCodeD2To=0x7f0f0388;
-    public static final int strDLClassCodeDEFrom=0x7f0f0389;
-    public static final int strDLClassCodeDENotes=0x7f0f038a;
-    public static final int strDLClassCodeDETo=0x7f0f038b;
-    public static final int strDLClassCodeDFrom=0x7f0f038c;
-    public static final int strDLClassCodeDNotes=0x7f0f038d;
-    public static final int strDLClassCodeDTo=0x7f0f038e;
-    public static final int strDLClassCodeGFrom=0x7f0f038f;
-    public static final int strDLClassCodeGNotes=0x7f0f0390;
-    public static final int strDLClassCodeGTo=0x7f0f0391;
-    public static final int strDLClassCodeJFrom=0x7f0f0392;
-    public static final int strDLClassCodeJNotes=0x7f0f0393;
-    public static final int strDLClassCodeJTo=0x7f0f0394;
-    public static final int strDLClassCodeLCFrom=0x7f0f0395;
-    public static final int strDLClassCodeLCNotes=0x7f0f0396;
-    public static final int strDLClassCodeLCTo=0x7f0f0397;
-    public static final int strDLClassCodeLFrom=0x7f0f0398;
-    public static final int strDLClassCodeLNotes=0x7f0f0399;
-    public static final int strDLClassCodeLTo=0x7f0f039a;
-    public static final int strDLClassCodeMFrom=0x7f0f039b;
-    public static final int strDLClassCodeMNotes=0x7f0f039c;
-    public static final int strDLClassCodeMTo=0x7f0f039d;
-    public static final int strDLClassCodeTFrom=0x7f0f039e;
-    public static final int strDLClassCodeTNotes=0x7f0f039f;
-    public static final int strDLClassCodeTTo=0x7f0f03a0;
-    public static final int strDLDuplicateDate=0x7f0f03a1;
-    public static final int strDLEndorsed=0x7f0f03a2;
-    public static final int strDLIssType=0x7f0f03a3;
-    public static final int strDLRecordCreated=0x7f0f03a4;
-    public static final int strDLRestrictionCode=0x7f0f03a5;
-    public static final int strDLUnder18Date=0x7f0f03a6;
-    public static final int strDLUnder19Date=0x7f0f03a7;
-    public static final int strDLUnder21Date=0x7f0f03a8;
-    public static final int strDNINumber=0x7f0f03a9;
-    public static final int strDSCertificateIssuer=0x7f0f03aa;
-    public static final int strDSCertificateSubject=0x7f0f03ab;
-    public static final int strDSCertificateValidFrom=0x7f0f03ac;
-    public static final int strDSCertificateValidTo=0x7f0f03ad;
-    public static final int strDUFNumber=0x7f0f03ae;
-    public static final int strDataDiscriminator=0x7f0f03af;
-    public static final int strDateFirstRenewal=0x7f0f03b0;
-    public static final int strDateSecondRenewal=0x7f0f03b1;
-    public static final int strDateofBirth=0x7f0f03b2;
-    public static final int strDateofBirthCheckDigit=0x7f0f03b3;
-    public static final int strDateofBirthChecksum=0x7f0f03b4;
-    public static final int strDateofCreation=0x7f0f03b5;
-    public static final int strDateofExpiry=0x7f0f03b6;
-    public static final int strDateofExpiryCheckDigit=0x7f0f03b7;
-    public static final int strDateofExpiryChecksum=0x7f0f03b8;
-    public static final int strDateofFlight=0x7f0f03b9;
-    public static final int strDateofIssue=0x7f0f03ba;
-    public static final int strDateofIssueBoardingPass=0x7f0f03bb;
-    public static final int strDateofIssueCheckDigit=0x7f0f03bc;
-    public static final int strDateofIssueChecksum=0x7f0f03bd;
-    public static final int strDateofPersonalization=0x7f0f03be;
-    public static final int strDateofRegistration=0x7f0f03bf;
-    public static final int strDay=0x7f0f03c0;
-    public static final int strDepartment=0x7f0f03c1;
-    public static final int strDeptNumber=0x7f0f03c2;
-    public static final int strDestination=0x7f0f03c3;
-    public static final int strDisableNFC=0x7f0f03c4;
-    public static final int strDiscretionaryData=0x7f0f03c5;
-    public static final int strDoDNumber=0x7f0f03c6;
-    public static final int strDocumentClassCode=0x7f0f03c7;
-    public static final int strDocumentClassName=0x7f0f03c8;
-    public static final int strDocumentDiscriminator=0x7f0f03c9;
-    public static final int strDocumentFront=0x7f0f03ca;
-    public static final int strDocumentNumber=0x7f0f03cb;
-    public static final int strDocumentNumberCheckDigit=0x7f0f03cc;
-    public static final int strDocumentNumberChecksum=0x7f0f03cd;
-    public static final int strDocumentRear=0x7f0f03ce;
-    public static final int strDocumentSeries=0x7f0f03cf;
-    public static final int strDocumentTooSmall=0x7f0f03d0;
-    public static final int strDonor=0x7f0f03d1;
-    public static final int strDossierNumber=0x7f0f03d2;
-    public static final int strDurationofStay=0x7f0f03d3;
-    public static final int strECEnvironmentalType=0x7f0f03d4;
-    public static final int strEDLDG1=0x7f0f03d5;
-    public static final int strEDLDG10=0x7f0f03d6;
-    public static final int strEDLDG11=0x7f0f03d7;
-    public static final int strEDLDG12=0x7f0f03d8;
-    public static final int strEDLDG13=0x7f0f03d9;
-    public static final int strEDLDG14=0x7f0f03da;
-    public static final int strEDLDG2=0x7f0f03db;
-    public static final int strEDLDG3=0x7f0f03dc;
-    public static final int strEDLDG4=0x7f0f03dd;
-    public static final int strEDLDG5=0x7f0f03de;
-    public static final int strEDLDG6=0x7f0f03df;
-    public static final int strEDLDG7=0x7f0f03e0;
-    public static final int strEDLDG8=0x7f0f03e1;
-    public static final int strEDLDG9=0x7f0f03e2;
-    public static final int strEFCOM=0x7f0f03e3;
-    public static final int strEFCVCA=0x7f0f03e4;
-    public static final int strEFCardAccess=0x7f0f03e5;
-    public static final int strEFCardSecurity=0x7f0f03e6;
-    public static final int strEFChipSecurity=0x7f0f03e7;
-    public static final int strEFSOD=0x7f0f03e8;
-    public static final int strEQVCode=0x7f0f03e9;
-    public static final int strElectronicTicketIndicator=0x7f0f03ea;
-    public static final int strElement=0x7f0f03eb;
-    public static final int strEnableNFC=0x7f0f03ec;
-    public static final int strEndorsementExpirationDate=0x7f0f03ed;
-    public static final int strEngineModel=0x7f0f03ee;
-    public static final int strEngineNumber=0x7f0f03ef;
-    public static final int strEnginePower=0x7f0f03f0;
-    public static final int strEngineVolume=0x7f0f03f1;
-    public static final int strError=0x7f0f03f2;
-    public static final int strExamDate=0x7f0f03f3;
-    public static final int strExeptInTanks=0x7f0f03f4;
-    public static final int strEye=0x7f0f03f5;
-    public static final int strEyesColor=0x7f0f03f6;
-    public static final int strFaculty=0x7f0f03f7;
-    public static final int strFalseLuminescence=0x7f0f03f8;
-    public static final int strFamilyName=0x7f0f03f9;
-    public static final int strFamilyNameTruncation=0x7f0f03fa;
-    public static final int strFastTrack=0x7f0f03fb;
-    public static final int strFatherCountryOfBirth=0x7f0f03fc;
-    public static final int strFatherDateOfBirth=0x7f0f03fd;
-    public static final int strFatherGivenName=0x7f0f03fe;
-    public static final int strFatherPersonalNumber=0x7f0f03ff;
-    public static final int strFatherPlaceOfBirth=0x7f0f0400;
-    public static final int strFatherSurname=0x7f0f0401;
-    public static final int strFathersName=0x7f0f0402;
-    public static final int strFathersNameRUS=0x7f0f0403;
-    public static final int strFederalElections=0x7f0f0404;
-    public static final int strFee=0x7f0f0405;
-    public static final int strFieldFromMRZ=0x7f0f0406;
-    public static final int strFieldTypeDocumentImage=0x7f0f0407;
-    public static final int strFillElement=0x7f0f0408;
-    public static final int strFinalCheckDigit=0x7f0f0409;
-    public static final int strFinalChecksum=0x7f0f040a;
-    public static final int strFingerprint=0x7f0f040b;
-    public static final int strFirstIssueDate=0x7f0f040c;
-    public static final int strFirstNameTruncation=0x7f0f040d;
-    public static final int strFlightNumber=0x7f0f040e;
-    public static final int strFolioNumber=0x7f0f040f;
-    public static final int strFormOfEducation=0x7f0f0410;
-    public static final int strFreeBaggageAllowance=0x7f0f0411;
-    public static final int strFrequentFlyerAirlineDesignator=0x7f0f0412;
-    public static final int strFrequentFlyerNumber=0x7f0f0413;
-    public static final int strFromAirportCode=0x7f0f0414;
-    public static final int strFuelType=0x7f0f0415;
-    public static final int strGNIBNumber=0x7f0f0416;
-    public static final int strGhostPortrait=0x7f0f0417;
-    public static final int strGivenNames=0x7f0f0418;
-    public static final int strGivenNamesRUS=0x7f0f0419;
-    public static final int strGlaresOnDocument=0x7f0f041a;
-    public static final int strGrandfatherName=0x7f0f041b;
-    public static final int strHairColor=0x7f0f041c;
-    public static final int strHealthNumber=0x7f0f041d;
-    public static final int strHeight=0x7f0f041e;
-    public static final int strHoldDocumentStraight=0x7f0f041f;
-    public static final int strHoloSimple=0x7f0f0420;
-    public static final int strHoloVerifyDinamic=0x7f0f0421;
-    public static final int strHoloVerifyMultiStatic=0x7f0f0422;
-    public static final int strHoloVerifyStatic=0x7f0f0423;
-    public static final int strHolograms=0x7f0f0424;
-    public static final int strIPI=0x7f0f0425;
-    public static final int strIRB900=0x7f0f0426;
-    public static final int strIRLuminescense=0x7f0f0427;
-    public static final int strIRPhotoProtection=0x7f0f0428;
-    public static final int strIRVis=0x7f0f0429;
-    public static final int strISOIssuerIDNumber=0x7f0f042a;
-    public static final int strIdentifier=0x7f0f042b;
-    public static final int strIdentityCardNumber=0x7f0f042c;
-    public static final int strIdentityCardNumberCheckDigit=0x7f0f042d;
-    public static final int strIdentityCardNumberChecksum=0x7f0f042e;
-    public static final int strImagePattern=0x7f0f042f;
-    public static final int strInTanks=0x7f0f0430;
-    public static final int strInventoryNumber=0x7f0f0431;
-    public static final int strInvitationNumber=0x7f0f0432;
-    public static final int strInvitationNumberCheckDigit=0x7f0f0433;
-    public static final int strInvitationNumberChecksum=0x7f0f0434;
-    public static final int strInvitedBy=0x7f0f0435;
-    public static final int strIssueTimestamp=0x7f0f0436;
-    public static final int strIssuingStateCode=0x7f0f0437;
-    public static final int strIssuingStateCodeNumeric=0x7f0f0438;
-    public static final int strIssuingStateName=0x7f0f0439;
-    public static final int strJurisdictionEndorsementCode=0x7f0f043a;
-    public static final int strJurisdictionRestrictionCode=0x7f0f043b;
-    public static final int strJurisdictionVehicleClass=0x7f0f043c;
-    public static final int strKeepDeviceStill=0x7f0f043d;
-    public static final int strLicenseNumber=0x7f0f043e;
-    public static final int strLimitedDurationDocumentIndicator=0x7f0f043f;
-    public static final int strLine1CheckDigit=0x7f0f0440;
-    public static final int strLine1Checksum=0x7f0f0441;
-    public static final int strLine1OptionalData=0x7f0f0442;
-    public static final int strLine2CheckDigit=0x7f0f0443;
-    public static final int strLine2Checksum=0x7f0f0444;
-    public static final int strLine2OptionalData=0x7f0f0445;
-    public static final int strLine3CheckDigit=0x7f0f0446;
-    public static final int strLine3Checksum=0x7f0f0447;
-    public static final int strLine3OptionalData=0x7f0f0448;
-    public static final int strLookingDocument=0x7f0f0449;
-    public static final int strMCNoviceDate=0x7f0f044a;
-    public static final int strMRZ=0x7f0f044b;
-    public static final int strMRZLinesICAORFID=0x7f0f044c;
-    public static final int strMRZString1=0x7f0f044d;
-    public static final int strMRZString2=0x7f0f044e;
-    public static final int strMRZString3=0x7f0f044f;
-    public static final int strMRZStrings=0x7f0f0450;
-    public static final int strMRZStringsWithCorrectCheckSums=0x7f0f0451;
-    public static final int strMRZType=0x7f0f0452;
-    public static final int strMailingAddressCity=0x7f0f0453;
-    public static final int strMailingAddressJurisdictionCode=0x7f0f0454;
-    public static final int strMailingAddressPostalCode=0x7f0f0455;
-    public static final int strMailingAddressStreet=0x7f0f0456;
-    public static final int strMakeSure=0x7f0f0457;
-    public static final int strMaritalStatus=0x7f0f0458;
-    public static final int strMaxMassofTrailerBraked=0x7f0f0459;
-    public static final int strMaxMassofTrailerUnbraked=0x7f0f045a;
-    public static final int strMaxSpeed=0x7f0f045b;
-    public static final int strMedicalIndicatorCodes=0x7f0f045c;
-    public static final int strMiddleName=0x7f0f045d;
-    public static final int strMiddleNameTruncation=0x7f0f045e;
-    public static final int strMifareData=0x7f0f045f;
-    public static final int strMifareValidity=0x7f0f0460;
-    public static final int strMilitaryBookNumber=0x7f0f0461;
-    public static final int strMonth=0x7f0f0462;
-    public static final int strMotherCountryOfBirth=0x7f0f0463;
-    public static final int strMotherDateOfBirth=0x7f0f0464;
-    public static final int strMotherGivenName=0x7f0f0465;
-    public static final int strMotherPersonalNumber=0x7f0f0466;
-    public static final int strMotherPlaceOfBirth=0x7f0f0467;
-    public static final int strMotherSurname=0x7f0f0468;
-    public static final int strMothersName=0x7f0f0469;
-    public static final int strNamePrefix=0x7f0f046a;
-    public static final int strNameSuffix=0x7f0f046b;
-    public static final int strNationality=0x7f0f046c;
-    public static final int strNationalityCode=0x7f0f046d;
-    public static final int strNationalityCodeNumeric=0x7f0f046e;
-    public static final int strNfcTagNotFound=0x7f0f046f;
-    public static final int strNonResidentIndicator=0x7f0f0470;
-    public static final int strNone=0x7f0f0471;
-    public static final int strNotDefined=0x7f0f0472;
-    public static final int strNumberOfCardIssuance=0x7f0f0473;
-    public static final int strNumberOfCardIssuanceCheckDigit=0x7f0f0474;
-    public static final int strNumberOfCardIssuanceChecksum=0x7f0f0475;
-    public static final int strNumberofAxels=0x7f0f0476;
-    public static final int strNumberofDuplicates=0x7f0f0477;
-    public static final int strNumberofEntries=0x7f0f0478;
-    public static final int strNumberofSeats=0x7f0f0479;
-    public static final int strNumberofStandingPlaces=0x7f0f047a;
-    public static final int strOCRNumber=0x7f0f047b;
-    public static final int strOK=0x7f0f047c;
-    public static final int strOVICheck=0x7f0f047d;
-    public static final int strObservations=0x7f0f047e;
-    public static final int strOptionalData=0x7f0f047f;
-    public static final int strOptionalDataCheckDigit=0x7f0f0480;
-    public static final int strOptionalDataChecksum=0x7f0f0481;
-    public static final int strOptionalDetails=0x7f0f0482;
-    public static final int strOrganization=0x7f0f0483;
-    public static final int strOther=0x7f0f0484;
-    public static final int strOtherName=0x7f0f0485;
-    public static final int strOtherPersonName=0x7f0f0486;
-    public static final int strOtherValidID=0x7f0f0487;
-    public static final int strOwner=0x7f0f0488;
-    public static final int strPDF417Codec=0x7f0f0489;
-    public static final int strPNRCode=0x7f0f048a;
-    public static final int strPa=0x7f0f048b;
-    public static final int strPace=0x7f0f048c;
-    public static final int strParrentsGivenNames=0x7f0f048d;
-    public static final int strPassportNumber=0x7f0f048e;
-    public static final int strPassportNumberCheckDigit=0x7f0f048f;
-    public static final int strPassportNumberChecksum=0x7f0f0490;
-    public static final int strPatronHeaderVersion=0x7f0f0491;
-    public static final int strPatternDifferentLinesThickness=0x7f0f0492;
-    public static final int strPatternIRInvisible=0x7f0f0493;
-    public static final int strPatternNotInterrupted=0x7f0f0494;
-    public static final int strPatternNotShifted=0x7f0f0495;
-    public static final int strPatternSameColors=0x7f0f0496;
-    public static final int strPaused=0x7f0f0497;
-    public static final int strPayGrade=0x7f0f0498;
-    public static final int strPayloadCapacity=0x7f0f0499;
-    public static final int strPermissibleAxleLoad=0x7f0f049a;
-    public static final int strPermitDLClass=0x7f0f049b;
-    public static final int strPermitDateofExpiry=0x7f0f049c;
-    public static final int strPermitDateofIssue=0x7f0f049d;
-    public static final int strPermitEndorsed=0x7f0f049e;
-    public static final int strPermitIdentifier=0x7f0f049f;
-    public static final int strPermitRestrictionCode=0x7f0f04a0;
-    public static final int strPersonToNotifyAddress=0x7f0f04a1;
-    public static final int strPersonToNotifyDateofRecord=0x7f0f04a2;
-    public static final int strPersonToNotifyName=0x7f0f04a3;
-    public static final int strPersonToNotifyPhone=0x7f0f04a4;
-    public static final int strPersonalNumber=0x7f0f04a5;
-    public static final int strPersonalNumberCheckDigit=0x7f0f04a6;
-    public static final int strPersonalNumberChecksum=0x7f0f04a7;
-    public static final int strPersonalSummary=0x7f0f04a8;
-    public static final int strPersonalizationSN=0x7f0f04a9;
-    public static final int strPhone=0x7f0f04aa;
-    public static final int strPhotoArea=0x7f0f04ab;
-    public static final int strPhotoColor=0x7f0f04ac;
-    public static final int strPhotoCorners=0x7f0f04ad;
-    public static final int strPhotoElement=0x7f0f04ae;
-    public static final int strPhotoEmbedType=0x7f0f04af;
-    public static final int strPhotoProcessing=0x7f0f04b0;
-    public static final int strPhotoShape=0x7f0f04b1;
-    public static final int strPhotoSizeCheck=0x7f0f04b2;
-    public static final int strPlace1120OnTheDocument=0x7f0f04b3;
-    public static final int strPlaceDocumentInFrame=0x7f0f04b4;
-    public static final int strPlaceOfBirthRUS=0x7f0f04b5;
-    public static final int strPlaceOfBirthStateCode=0x7f0f04b6;
-    public static final int strPlaceOfExamination=0x7f0f04b7;
-    public static final int strPlaceOfIssue=0x7f0f04b8;
-    public static final int strPlacePhoneOnDoc=0x7f0f04b9;
-    public static final int strPlaceofBirth=0x7f0f04ba;
-    public static final int strPlaceofBirthArea=0x7f0f04bb;
-    public static final int strPlaceofRegistration=0x7f0f04bc;
-    public static final int strPoliceDistrict=0x7f0f04bd;
-    public static final int strPortrait=0x7f0f04be;
-    public static final int strPortraitComparison=0x7f0f04bf;
-    public static final int strPortraitOfChild=0x7f0f04c0;
-    public static final int strPortraitVSCamera=0x7f0f04c1;
-    public static final int strPortraitVSGhost=0x7f0f04c2;
-    public static final int strPortraitVSRFID=0x7f0f04c3;
-    public static final int strPowerWeightRatio=0x7f0f04c4;
-    public static final int strPrecinct=0x7f0f04c5;
-    public static final int strPrepareCamera=0x7f0f04c6;
-    public static final int strPresentNextPage=0x7f0f04c7;
-    public static final int strPreviousType=0x7f0f04c8;
-    public static final int strProcessingDocument=0x7f0f04c9;
-    public static final int strProfession=0x7f0f04ca;
-    public static final int strProfessionalIdNumber=0x7f0f04cb;
-    public static final int strProofOfCitizenship=0x7f0f04cc;
-    public static final int strPseudoCode=0x7f0f04cd;
-    public static final int strPurposeOfEntry=0x7f0f04ce;
-    public static final int strRFIDVSCamera=0x7f0f04cf;
-    public static final int strRaceEthnicity=0x7f0f04d0;
-    public static final int strRank=0x7f0f04d1;
-    public static final int strReadingRFID=0x7f0f04d2;
-    public static final int strReadingRFIDDG=0x7f0f04d3;
-    public static final int strRecognizedDocumentType=0x7f0f04d4;
-    public static final int strReferenceNumber=0x7f0f04d5;
-    public static final int strReferenceNumberCheckDigit=0x7f0f04d6;
-    public static final int strReferenceNumberChecksum=0x7f0f04d7;
-    public static final int strRegCertBodyNumber=0x7f0f04d8;
-    public static final int strRegCertBodyType=0x7f0f04d9;
-    public static final int strRegCertCarColor=0x7f0f04da;
-    public static final int strRegCertCarMark=0x7f0f04db;
-    public static final int strRegCertCarModel=0x7f0f04dc;
-    public static final int strRegCertCarType=0x7f0f04dd;
-    public static final int strRegCertMaxWeight=0x7f0f04de;
-    public static final int strRegCertRegNumber=0x7f0f04df;
-    public static final int strRegCertRegNumberCheckDigit=0x7f0f04e0;
-    public static final int strRegCertRegNumberChecksum=0x7f0f04e1;
-    public static final int strRegCertVIN=0x7f0f04e2;
-    public static final int strRegCertVINCheckDigit=0x7f0f04e3;
-    public static final int strRegCertVINChecksum=0x7f0f04e4;
-    public static final int strRegCertVehicleITSCode=0x7f0f04e5;
-    public static final int strRegCertWeight=0x7f0f04e6;
-    public static final int strRelationship=0x7f0f04e7;
-    public static final int strReligion=0x7f0f04e8;
-    public static final int strRemainderTerm=0x7f0f04e9;
-    public static final int strResidentFrom=0x7f0f04ea;
-    public static final int strResidentUntil=0x7f0f04eb;
-    public static final int strRetirementNumber=0x7f0f04ec;
-    public static final int strRevisionDate=0x7f0f04ed;
-    public static final int strRi=0x7f0f04ee;
-    public static final int strRoomNumber=0x7f0f04ef;
-    public static final int strSBHIntegrityOptions=0x7f0f04f0;
-    public static final int strSBHSecurityOptions=0x7f0f04f1;
-    public static final int strScenarioNameCapture=0x7f0f04f2;
-    public static final int strScenarioNameCaptureDesc=0x7f0f04f3;
-    public static final int strSeatNumber=0x7f0f04f4;
-    public static final int strSecondSurname=0x7f0f04f5;
-    public static final int strSection=0x7f0f04f6;
-    public static final int strSecurityText=0x7f0f04f7;
-    public static final int strSelectScenario=0x7f0f04f8;
-    public static final int strSelecteeIndicator=0x7f0f04f9;
-    public static final int strSequenceNumber=0x7f0f04fa;
-    public static final int strSerialNumber=0x7f0f04fb;
-    public static final int strSettings=0x7f0f04fc;
-    public static final int strSex=0x7f0f04fd;
-    public static final int strSignature=0x7f0f04fe;
-    public static final int strSkinColor=0x7f0f04ff;
-    public static final int strSocialSecurityNumber=0x7f0f0500;
-    public static final int strSpCode=0x7f0f0501;
-    public static final int strSpecialNotes=0x7f0f0502;
-    public static final int strSponsor=0x7f0f0503;
-    public static final int strSponsorSSN=0x7f0f0504;
-    public static final int strSponsorService=0x7f0f0505;
-    public static final int strSponsorStatus=0x7f0f0506;
-    public static final int strStamp=0x7f0f0507;
-    public static final int strStampNumber=0x7f0f0508;
-    public static final int strStatusDateofExpiry=0x7f0f0509;
-    public static final int strSurname=0x7f0f050a;
-    public static final int strSurnameAndGivenNames=0x7f0f050b;
-    public static final int strSurnameAndGivenNamesCheckDigit=0x7f0f050c;
-    public static final int strSurnameAndGivenNamesChecksum=0x7f0f050d;
-    public static final int strSurnameAndGivenNamesRUS=0x7f0f050e;
-    public static final int strSurnameAtBirth=0x7f0f050f;
-    public static final int strSurnameofSpose=0x7f0f0510;
-    public static final int strTa=0x7f0f0511;
-    public static final int strTax=0x7f0f0512;
-    public static final int strTaxNumber=0x7f0f0513;
-    public static final int strTelexCode=0x7f0f0514;
-    public static final int strTerritorialValidity=0x7f0f0515;
-    public static final int strTicketNumber=0x7f0f0516;
-    public static final int strTitle=0x7f0f0517;
-    public static final int strToAirportCode=0x7f0f0518;
-    public static final int strTorchUnavailable=0x7f0f0519;
-    public static final int strTrackingNumber=0x7f0f051a;
-    public static final int strTrailerHitch=0x7f0f051b;
-    public static final int strTransactionNumber=0x7f0f051c;
-    public static final int strTransmissionType=0x7f0f051d;
-    public static final int strTypeApprovalNumber=0x7f0f051e;
-    public static final int strUSCIS=0x7f0f051f;
-    public static final int strUV=0x7f0f0520;
-    public static final int strUVBackgroundComp=0x7f0f0521;
-    public static final int strUVFibers=0x7f0f0522;
-    public static final int strUVLuminescence=0x7f0f0523;
-    public static final int strUnableCaptureMedia=0x7f0f0524;
-    public static final int strUniqueCustomerIdentifier=0x7f0f0525;
-    public static final int strVRCDataObjectEntry=0x7f0f0526;
-    public static final int strValidityPeriod=0x7f0f0527;
-    public static final int strValue=0x7f0f0528;
-    public static final int strVehicleCategory=0x7f0f0529;
-    public static final int strVeteran=0x7f0f052a;
-    public static final int strVisaClass=0x7f0f052b;
-    public static final int strVisaID=0x7f0f052c;
-    public static final int strVisaIDCheckDigit=0x7f0f052d;
-    public static final int strVisaIDChecksum=0x7f0f052e;
-    public static final int strVisaIDRUS=0x7f0f052f;
-    public static final int strVisaNumber=0x7f0f0530;
-    public static final int strVisaNumberCheckDigit=0x7f0f0531;
-    public static final int strVisaNumberChecksum=0x7f0f0532;
-    public static final int strVisaSubClass=0x7f0f0533;
-    public static final int strVisaType=0x7f0f0534;
-    public static final int strVisaValidFrom=0x7f0f0535;
-    public static final int strVisaValidUntil=0x7f0f0536;
-    public static final int strVisaValidUntilCheckDigit=0x7f0f0537;
-    public static final int strVisaValidUntilChecksum=0x7f0f0538;
-    public static final int strVisibleLight=0x7f0f0539;
-    public static final int strVoter=0x7f0f053a;
-    public static final int strVoterKey=0x7f0f053b;
-    public static final int strVoucherNumber=0x7f0f053c;
-    public static final int strWHITE=0x7f0f053d;
-    public static final int strWeight=0x7f0f053e;
-    public static final int strWeightPound=0x7f0f053f;
-    public static final int strYear=0x7f0f0540;
-    public static final int strYearsSinceIssue=0x7f0f0541;
-    public static final int streIDPlaceOfBirthCity=0x7f0f0542;
-    public static final int streIDPlaceOfBirthCountry=0x7f0f0543;
-    public static final int streIDPlaceOfBirthState=0x7f0f0544;
-    public static final int streIDPlaceOfBirthStreet=0x7f0f0545;
-    public static final int streIDPlaceOfBirthZipcode=0x7f0f0546;
-    public static final int streIDResidencePermit1=0x7f0f0547;
-    public static final int streIDResidencePermit2=0x7f0f0548;
-    public static final int strfppLeftIndexFinger=0x7f0f0549;
-    public static final int strfppLeftLittleFinger=0x7f0f054a;
-    public static final int strfppLeftMiddleFinger=0x7f0f054b;
-    public static final int strfppLeftRingFinger=0x7f0f054c;
-    public static final int strfppLeftThumb=0x7f0f054d;
-    public static final int strfppRightIndexFinger=0x7f0f054e;
-    public static final int strfppRightLittleFinger=0x7f0f054f;
-    public static final int strfppRightMiddleFinger=0x7f0f0550;
-    public static final int strfppRightRingFinger=0x7f0f0551;
-    public static final int strfppRightThumb=0x7f0f0552;
-    public static final int survey_text_fake=0x7f0f0553;
-    public static final int survey_text_real=0x7f0f0554;
-    public static final int threshold=0x7f0f0555;
-    public static final int too_many_in_video=0x7f0f0556;
-    public static final int try_again=0x7f0f0557;
-    public static final int typefaceBoldPath=0x7f0f0558;
-    public static final int typefaceLightPath=0x7f0f0559;
-    public static final int typefaceMedPath=0x7f0f055a;
-    public static final int usuarioJaCadastrado=0x7f0f055b;
-    public static final int verifique_status_servidor=0x7f0f055c;
-    public static final int vid_time=0x7f0f055d;
-    public static final int video_process_failed=0x7f0f055e;
-    public static final int video_upload_failed=0x7f0f055f;
-    public static final int voltar_menu=0x7f0f0560;
-    public static final int writing_permission_alert_message=0x7f0f0561;
-    public static final int writing_permission_alert_title=0x7f0f0562;
+    public static final int centralizeRosto=0x7f0f00af;
+    public static final int character_counter_content_description=0x7f0f00b0;
+    public static final int character_counter_pattern=0x7f0f00b1;
+    public static final int chd_BackgroundComparisonError=0x7f0f00b2;
+    public static final int chd_BadAreaInAxial=0x7f0f00b3;
+    public static final int chd_BarcodeDataFormatError=0x7f0f00b4;
+    public static final int chd_BarcodeReadedWithErrors=0x7f0f00b5;
+    public static final int chd_BarcodeSizeParamsError=0x7f0f00b6;
+    public static final int chd_DocumentIsCancelling=0x7f0f00b7;
+    public static final int chd_ElementShouldBeColored=0x7f0f00b8;
+    public static final int chd_ElementShouldBeGrayscale=0x7f0f00b9;
+    public static final int chd_ExceptionInModule=0x7f0f00ba;
+    public static final int chd_FalseIPIParameters=0x7f0f00bb;
+    public static final int chd_FalseLuminiscenceError=0x7f0f00bc;
+    public static final int chd_FalseLuminiscenceInBlank=0x7f0f00bd;
+    public static final int chd_FalseLuminiscenceInMRZ=0x7f0f00be;
+    public static final int chd_FibersNotFound=0x7f0f00bf;
+    public static final int chd_FieldPosCorrector_Highlight_IR=0x7f0f00c0;
+    public static final int chd_FieldsComparisonLogicError=0x7f0f00c1;
+    public static final int chd_FixedPatternError=0x7f0f00c2;
+    public static final int chd_HologramElementAbsent=0x7f0f00c3;
+    public static final int chd_Hologram_Side_Top_Images_Absent=0x7f0f00c4;
+    public static final int chd_IncorrectBackgroundLight=0x7f0f00c5;
+    public static final int chd_IncorrectTextColor=0x7f0f00c6;
+    public static final int chd_InternalError=0x7f0f00c7;
+    public static final int chd_InvalidChecksum=0x7f0f00c8;
+    public static final int chd_InvalidFieldFormat=0x7f0f00c9;
+    public static final int chd_InvalidInputData=0x7f0f00ca;
+    public static final int chd_InvisibleElementPresent=0x7f0f00cb;
+    public static final int chd_LogicError=0x7f0f00cc;
+    public static final int chd_LowContrastInIRLight=0x7f0f00cd;
+    public static final int chd_NecessaryImageNotFound=0x7f0f00ce;
+    public static final int chd_NotAllBarcodesRead=0x7f0f00cf;
+    public static final int chd_OVI_BadColor_Front=0x7f0f00d0;
+    public static final int chd_OVI_BadColor_Percent=0x7f0f00d1;
+    public static final int chd_OVI_BadColor_Side=0x7f0f00d2;
+    public static final int chd_OVI_ColorInvariable=0x7f0f00d3;
+    public static final int chd_OVI_IR_Invisible=0x7f0f00d4;
+    public static final int chd_OVI_InsufficientArea=0x7f0f00d5;
+    public static final int chd_OVI_Wide_Color_Spread=0x7f0f00d6;
+    public static final int chd_Pass=0x7f0f00d7;
+    public static final int chd_PhotoFalseLuminiscence=0x7f0f00d8;
+    public static final int chd_PhotoPattern_DifferentColors=0x7f0f00d9;
+    public static final int chd_PhotoPattern_DifferentLinesThickness=0x7f0f00da;
+    public static final int chd_PhotoPattern_IR_Visible=0x7f0f00db;
+    public static final int chd_PhotoPattern_Interrupted=0x7f0f00dc;
+    public static final int chd_PhotoPattern_InvalidColor=0x7f0f00dd;
+    public static final int chd_PhotoPattern_Not_Intersect=0x7f0f00de;
+    public static final int chd_PhotoPattern_PatternNotFound=0x7f0f00df;
+    public static final int chd_PhotoPattern_Shifted=0x7f0f00e0;
+    public static final int chd_PhotoPattern_Shifted_Vert=0x7f0f00e1;
+    public static final int chd_PhotoSidesNotFound=0x7f0f00e2;
+    public static final int chd_PhotoSize_Is_Wrong=0x7f0f00e3;
+    public static final int chd_Photo_Corners_Is_Wrong=0x7f0f00e4;
+    public static final int chd_Photo_IsNot_Rectangle=0x7f0f00e5;
+    public static final int chd_PortraitComparison_NoLivePhoto=0x7f0f00e6;
+    public static final int chd_PortraitComparison_NoServiceLicense=0x7f0f00e7;
+    public static final int chd_PortraitComparison_NoServiceReply=0x7f0f00e8;
+    public static final int chd_PortraitComparison_NotEnoughImages=0x7f0f00e9;
+    public static final int chd_PortraitComparison_PortraitsDiffer=0x7f0f00ea;
+    public static final int chd_PortraitComparison_ServiceError=0x7f0f00eb;
+    public static final int chd_SourcesComparisonError=0x7f0f00ec;
+    public static final int chd_SpecksInUV=0x7f0f00ed;
+    public static final int chd_SyntaxError=0x7f0f00ee;
+    public static final int chd_TextColorShouldBeBlue=0x7f0f00ef;
+    public static final int chd_TextColorShouldBeGreen=0x7f0f00f0;
+    public static final int chd_TextColorShouldBeRed=0x7f0f00f1;
+    public static final int chd_TextShouldBeBlack=0x7f0f00f2;
+    public static final int chd_TooLowResolution=0x7f0f00f3;
+    public static final int chd_TooManyObjects=0x7f0f00f4;
+    public static final int chd_TooMuchShift=0x7f0f00f5;
+    public static final int chd_TrueLuminiscenceError=0x7f0f00f6;
+    public static final int chd_UVDullPaperError=0x7f0f00f7;
+    public static final int chd_UVDullPaper_Blank=0x7f0f00f8;
+    public static final int chd_UVDullPaper_MRZ=0x7f0f00f9;
+    public static final int chd_UVDullPaper_Photo=0x7f0f00fa;
+    public static final int chd_UncertainVerification=0x7f0f00fb;
+    public static final int chd_Unknown=0x7f0f00fc;
+    public static final int chd_VisibleElementAbsent=0x7f0f00fd;
+    public static final int choose_face=0x7f0f00fe;
+    public static final int common_google_play_services_enable_button=0x7f0f00ff;
+    public static final int common_google_play_services_enable_text=0x7f0f0100;
+    public static final int common_google_play_services_enable_title=0x7f0f0101;
+    public static final int common_google_play_services_install_button=0x7f0f0102;
+    public static final int common_google_play_services_install_text=0x7f0f0103;
+    public static final int common_google_play_services_install_title=0x7f0f0104;
+    public static final int common_google_play_services_notification_channel_name=0x7f0f0105;
+    public static final int common_google_play_services_notification_ticker=0x7f0f0106;
+    public static final int common_google_play_services_unknown_issue=0x7f0f0107;
+    public static final int common_google_play_services_unsupported_text=0x7f0f0108;
+    public static final int common_google_play_services_update_button=0x7f0f0109;
+    public static final int common_google_play_services_update_text=0x7f0f010a;
+    public static final int common_google_play_services_update_title=0x7f0f010b;
+    public static final int common_google_play_services_updating_text=0x7f0f010c;
+    public static final int common_google_play_services_wear_update_text=0x7f0f010d;
+    public static final int common_open_on_phone=0x7f0f010e;
+    public static final int common_signin_button_text=0x7f0f010f;
+    public static final int common_signin_button_text_long=0x7f0f0110;
+    public static final int cont=0x7f0f0111;
+    public static final int could_not_connect=0x7f0f0112;
+    public static final int date_of_birth=0x7f0f0113;
+    public static final int date_of_issue=0x7f0f0114;
+    public static final int default_notification_channel_id=0x7f0f0115;
+    public static final int default_notification_channel_name=0x7f0f0116;
+    public static final int default_web_client_id=0x7f0f0117;
+    public static final int define_easypreferences=0x7f0f0118;
+    public static final int digite_nome_usuario=0x7f0f0119;
+    public static final int do_delete=0x7f0f011a;
+    public static final int do_survey=0x7f0f011b;
+    public static final int enableBtnRegister=0x7f0f011c;
+    public static final int errLDS_AA_IncorrectTrailer=0x7f0f011d;
+    public static final int errLDS_AA_PublicKey_IncorrectData=0x7f0f011e;
+    public static final int errLDS_AA_PublicKey_IncorrectParameters=0x7f0f011f;
+    public static final int errLDS_AA_PublicKey_UndefinedParameters=0x7f0f0120;
+    public static final int errLDS_AA_PublicKey_UnsupportedAlgorithm=0x7f0f0121;
+    public static final int errLDS_AA_Signature_IncorrectData=0x7f0f0122;
+    public static final int errLDS_AA_UnsupportedDigestAlgorithm=0x7f0f0123;
+    public static final int errLDS_AA_UnsupportedRecoveryScheme=0x7f0f0124;
+    public static final int errLDS_ASN_Certificate_Extensions_IncorrectData=0x7f0f0125;
+    public static final int errLDS_ASN_Certificate_IncorrectData=0x7f0f0126;
+    public static final int errLDS_ASN_Certificate_Issuer_IncorrectData=0x7f0f0127;
+    public static final int errLDS_ASN_Certificate_SN_IncorrectData=0x7f0f0128;
+    public static final int errLDS_ASN_Certificate_Signature_IncorrectData=0x7f0f0129;
+    public static final int errLDS_ASN_Certificate_SubjectPK_IncorrectData=0x7f0f012a;
+    public static final int errLDS_ASN_Certificate_Subject_IncorrectData=0x7f0f012b;
+    public static final int errLDS_ASN_Certificate_Validity_IncorrectData=0x7f0f012c;
+    public static final int errLDS_ASN_Certificate_Version_IncorrectData=0x7f0f012d;
+    public static final int errLDS_ASN_Contents_UnexpectedData=0x7f0f012e;
+    public static final int errLDS_ASN_IncorrectData=0x7f0f012f;
+    public static final int errLDS_ASN_LDSObject_DGHashes_IncorrectData=0x7f0f0130;
+    public static final int errLDS_ASN_LDSObject_DigestAlgorithm_IncorrectData=0x7f0f0131;
+    public static final int errLDS_ASN_LDSObject_IncorrectData=0x7f0f0132;
+    public static final int errLDS_ASN_LDSObject_VersionInfo_IncorrectData=0x7f0f0133;
+    public static final int errLDS_ASN_LDSObject_Version_IncorrectData=0x7f0f0134;
+    public static final int errLDS_ASN_NotEnoughData=0x7f0f0135;
+    public static final int errLDS_ASN_SignedData_DigestAlgorithms_IncorrectData=0x7f0f0136;
+    public static final int errLDS_ASN_SignedData_EncapContents_IncorrectData=0x7f0f0137;
+    public static final int errLDS_ASN_SignedData_IncorrectData=0x7f0f0138;
+    public static final int errLDS_ASN_SignedData_Version_IncorrectData=0x7f0f0139;
+    public static final int errLDS_ASN_SignerInfo_DigestAlg_IncorrectData=0x7f0f013a;
+    public static final int errLDS_ASN_SignerInfo_IncorrectData=0x7f0f013b;
+    public static final int errLDS_ASN_SignerInfo_SID_IncorrectData=0x7f0f013c;
+    public static final int errLDS_ASN_SignerInfo_SignAlg_IncorrectData=0x7f0f013d;
+    public static final int errLDS_ASN_SignerInfo_Signature_IncorrectData=0x7f0f013e;
+    public static final int errLDS_ASN_SignerInfo_SignedAttrs_IncorrectData=0x7f0f013f;
+    public static final int errLDS_ASN_SignerInfo_UnsignedAttrs_IncorrectData=0x7f0f0140;
+    public static final int errLDS_ASN_SignerInfo_Version_IncorrectData=0x7f0f0141;
+    public static final int errLDS_Auth_AlgorithmParametersDataInvalid=0x7f0f0142;
+    public static final int errLDS_Auth_AlgorithmParametersNotDefined=0x7f0f0143;
+    public static final int errLDS_Auth_Error=0x7f0f0144;
+    public static final int errLDS_Auth_MessedAlgorithms=0x7f0f0145;
+    public static final int errLDS_Auth_PublicKeyDataInvalid=0x7f0f0146;
+    public static final int errLDS_Auth_SignatureCheckFailed=0x7f0f0147;
+    public static final int errLDS_Auth_SignatureDataIncorrect=0x7f0f0148;
+    public static final int errLDS_Auth_SignatureDataInvalid=0x7f0f0149;
+    public static final int errLDS_Auth_SignerInfo_CantFindCertificate=0x7f0f014a;
+    public static final int errLDS_Auth_UnsupportedDigestAlgorithm=0x7f0f014b;
+    public static final int errLDS_Auth_UnsupportedPublicKeyAlgorithm=0x7f0f014c;
+    public static final int errLDS_Auth_UnsupportedSignatureAlgorithm=0x7f0f014d;
+    public static final int errLDS_CA_CantFindDomainParameters=0x7f0f014e;
+    public static final int errLDS_CA_CantFindInfo=0x7f0f014f;
+    public static final int errLDS_CA_CantFindPublicKey=0x7f0f0150;
+    public static final int errLDS_CA_EphemeralKeys_CantCreate=0x7f0f0151;
+    public static final int errLDS_CA_IncorrectVersion=0x7f0f0152;
+    public static final int errLDS_CA_KeyAgreement_CantInitialize=0x7f0f0153;
+    public static final int errLDS_CA_NonMatchingAuthTokens=0x7f0f0154;
+    public static final int errLDS_CA_PublicKey_UnsupportedAlgorithm=0x7f0f0155;
+    public static final int errLDS_CA_SharedSecret_CantCreate=0x7f0f0156;
+    public static final int errLDS_CVCertificate_MissingMandatoryData_PK=0x7f0f0157;
+    public static final int errLDS_CV_Certificate_CAR_IncorrectData=0x7f0f0158;
+    public static final int errLDS_CV_Certificate_CHAT_IncorrectData=0x7f0f0159;
+    public static final int errLDS_CV_Certificate_CHAT_UnsupportedTerminalType=0x7f0f015a;
+    public static final int errLDS_CV_Certificate_CHR_IncorrectData=0x7f0f015b;
+    public static final int errLDS_CV_Certificate_CPI_IncorrectData=0x7f0f015c;
+    public static final int errLDS_CV_Certificate_Extensions_IncorrectData=0x7f0f015d;
+    public static final int errLDS_CV_Certificate_IncorrectData=0x7f0f015e;
+    public static final int errLDS_CV_Certificate_PrivateKey_IncorrectData=0x7f0f015f;
+    public static final int errLDS_CV_Certificate_PrivateKey_InvalidParams=0x7f0f0160;
+    public static final int errLDS_CV_Certificate_PrivateKey_Missing=0x7f0f0161;
+    public static final int errLDS_CV_Certificate_PrivateKey_Unsupported=0x7f0f0162;
+    public static final int errLDS_CV_Certificate_PublicKey_IncorrectData=0x7f0f0163;
+    public static final int errLDS_CV_Certificate_PublicKey_Unsupported=0x7f0f0164;
+    public static final int errLDS_CV_Certificate_ValidFrom_IncorrectData=0x7f0f0165;
+    public static final int errLDS_CV_Certificate_ValidTo_IncorrectData=0x7f0f0166;
+    public static final int errLDS_DG_WrongTag=0x7f0f0167;
+    public static final int errLDS_ICAO_LDSObject_UnsupportedDigestAlgorithm=0x7f0f0168;
+    public static final int errLDS_ICAO_SignedData_SignerInfos_Empty=0x7f0f0169;
+    public static final int errLDS_ICAO_SignerInfo_MessageDigestError=0x7f0f016a;
+    public static final int errLDS_ICAO_SignerInfo_SignedAttrs_Missed=0x7f0f016b;
+    public static final int errLDS_ICAO_SignerInfo_UnsupportedDigestAlgorithm=0x7f0f016c;
+    public static final int errLDS_ICAO_SignerInfo_UnsupportedSignatureAlgorithm=0x7f0f016d;
+    public static final int errLDS_Ok=0x7f0f016e;
+    public static final int errLDS_PACE_DomainParams_UnsupportedFormat=0x7f0f016f;
+    public static final int errLDS_PACE_EphemeralKeys_CantCreate=0x7f0f0170;
+    public static final int errLDS_PACE_EphemeralKeys_Incorrect=0x7f0f0171;
+    public static final int errLDS_PACE_Info_NotAvailable=0x7f0f0172;
+    public static final int errLDS_PACE_KeyAgreement_CantInitialize=0x7f0f0173;
+    public static final int errLDS_PACE_Mapping_CantDecodeNonce=0x7f0f0174;
+    public static final int errLDS_PACE_Mapping_CantPerform=0x7f0f0175;
+    public static final int errLDS_PACE_Mapping_EphemeralKeys_Incorrect=0x7f0f0176;
+    public static final int errLDS_PACE_NonMatchingAuthTokens=0x7f0f0177;
+    public static final int errLDS_PACE_SharedSecret_CantCreate=0x7f0f0178;
+    public static final int errLDS_PACE_SymmetricCypher_CantInitialize=0x7f0f0179;
+    public static final int errLDS_RI_SectorKey_CantFind=0x7f0f017a;
+    public static final int errLDS_RI_SectorKey_IncompleteData=0x7f0f017b;
+    public static final int errLDS_RI_SectorKey_IncorrectData=0x7f0f017c;
+    public static final int errLDS_TA_CantBuildCertificateChain=0x7f0f017d;
+    public static final int errLDS_TA_CantFindISPrivateKey=0x7f0f017e;
+    public static final int errLDS_TA_IncorrectVersion=0x7f0f017f;
+    public static final int errLDS_TA_InvalidKeyAlgorithmParameters=0x7f0f0180;
+    public static final int errLDS_TA_PublicKey_UnsupportedAlgorithm=0x7f0f0181;
+    public static final int errLDS_TA_SignatureBuildingError=0x7f0f0182;
+    public static final int fab_transformation_scrim_behavior=0x7f0f0183;
+    public static final int fab_transformation_sheet_behavior=0x7f0f0184;
+    public static final int faceNaoIdentificadaNoDocumento=0x7f0f0185;
+    public static final int face_too_large=0x7f0f0186;
+    public static final int face_too_small=0x7f0f0187;
+    public static final int falhaNaVerificacao=0x7f0f0188;
+    public static final int fcm_fallback_notification_channel_label=0x7f0f0189;
+    public static final int fcm_token=0x7f0f018a;
+    public static final int firebase_database_url=0x7f0f018b;
+    public static final int first_name=0x7f0f018c;
+    public static final int gcm_defaultSenderId=0x7f0f018d;
+    public static final int generic_error=0x7f0f018e;
+    public static final int generic_server_down=0x7f0f018f;
+    public static final int generic_server_timeout=0x7f0f0190;
+    public static final int geral=0x7f0f0191;
+    public static final int get_ready=0x7f0f0192;
+    public static final int google_api_key=0x7f0f0193;
+    public static final int google_app_id=0x7f0f0194;
+    public static final int google_crash_reporting_api_key=0x7f0f0195;
+    public static final int google_storage_bucket=0x7f0f0196;
+    public static final int hide_bottom_view_on_scroll_behavior=0x7f0f0197;
+    public static final int id_number=0x7f0f0198;
+    public static final int idscan_camera_bubble_capturing=0x7f0f0199;
+    public static final int idscan_camera_bubble_done=0x7f0f019a;
+    public static final int idscan_camera_bubble_flip=0x7f0f019b;
+    public static final int idscan_camera_bubble_looking=0x7f0f019c;
+    public static final int idscan_camera_headline_back=0x7f0f019d;
+    public static final int idscan_camera_headline_front=0x7f0f019e;
+    public static final int idscan_camera_title=0x7f0f019f;
+    public static final int idscan_error_face_body=0x7f0f01a0;
+    public static final int idscan_error_face_button=0x7f0f01a1;
+    public static final int idscan_error_face_headline=0x7f0f01a2;
+    public static final int idscan_onboarding_body=0x7f0f01a3;
+    public static final int idscan_onboarding_button=0x7f0f01a4;
+    public static final int idscan_onboarding_headline=0x7f0f01a5;
+    public static final int idscan_onboarding_note=0x7f0f01a6;
+    public static final int idscan_result_body=0x7f0f01a7;
+    public static final int idscan_result_button=0x7f0f01a8;
+    public static final int idscan_result_headline=0x7f0f01a9;
+    public static final int idscan_result_rescan=0x7f0f01aa;
+    public static final int img_quality=0x7f0f01ab;
+    public static final int inst_1=0x7f0f01ac;
+    public static final int inst_2=0x7f0f01ad;
+    public static final int issue_state_name=0x7f0f01ae;
+    public static final int last_name=0x7f0f01af;
+    public static final int library_easypreferences_author=0x7f0f01b0;
+    public static final int library_easypreferences_authorWebsite=0x7f0f01b1;
+    public static final int library_easypreferences_classPath=0x7f0f01b2;
+    public static final int library_easypreferences_isOpenSource=0x7f0f01b3;
+    public static final int library_easypreferences_libraryDescription=0x7f0f01b4;
+    public static final int library_easypreferences_libraryName=0x7f0f01b5;
+    public static final int library_easypreferences_libraryVersion=0x7f0f01b6;
+    public static final int library_easypreferences_libraryWebsite=0x7f0f01b7;
+    public static final int library_easypreferences_licenseId=0x7f0f01b8;
+    public static final int library_easypreferences_repositoryLink=0x7f0f01b9;
+    public static final int livness_cant_find_face_in_image=0x7f0f01ba;
+    public static final int livness_dont_tilt_your_head=0x7f0f01bb;
+    public static final int livness_face_detector_not_operational=0x7f0f01bc;
+    public static final int livness_get_ready=0x7f0f01bd;
+    public static final int livness_keep_phone_levelled=0x7f0f01be;
+    public static final int livness_look_good_question_mark=0x7f0f01bf;
+    public static final int livness_looks_good=0x7f0f01c0;
+    public static final int livness_no_face_in_video=0x7f0f01c1;
+    public static final int livness_no_meta_data_tag_found=0x7f0f01c2;
+    public static final int livness_now_take_selfie=0x7f0f01c3;
+    public static final int livness_oops_cant_find_face=0x7f0f01c4;
+    public static final int livness_processing=0x7f0f01c5;
+    public static final int livness_retake=0x7f0f01c6;
+    public static final int livness_selfie_ops_desc=0x7f0f01c7;
+    public static final int livness_smiling_text=0x7f0f01c8;
+    public static final int livness_start_blinking=0x7f0f01c9;
+    public static final int livness_take_a_photo=0x7f0f01ca;
+    public static final int livness_too_many_in_video=0x7f0f01cb;
+    public static final int livness_try_again_cant_find_face=0x7f0f01cc;
+    public static final int livness_tutorial_align_face=0x7f0f01cd;
+    public static final int mtrl_chip_close_icon_content_description=0x7f0f01ce;
+    public static final int name_error=0x7f0f01cf;
+    public static final int naoSeMexa=0x7f0f01d0;
+    public static final int next=0x7f0f01d1;
+    public static final int no_face_in_video=0x7f0f01d2;
+    public static final int no_faces_in_video=0x7f0f01d3;
+    public static final int no_internet=0x7f0f01d4;
+    public static final int no_network_connection=0x7f0f01d5;
+    public static final int ntfLDS_ASN_Certificate_DuplicatingExtensions=0x7f0f01d6;
+    public static final int ntfLDS_ASN_Certificate_EmptyIssuer=0x7f0f01d7;
+    public static final int ntfLDS_ASN_Certificate_EmptySubject=0x7f0f01d8;
+    public static final int ntfLDS_ASN_Certificate_ForcedDefaultCSCARole=0x7f0f01d9;
+    public static final int ntfLDS_ASN_Certificate_ForcedDefaultDSRole=0x7f0f01da;
+    public static final int ntfLDS_ASN_Certificate_IncorrectIssuerSubjectDS=0x7f0f01db;
+    public static final int ntfLDS_ASN_Certificate_IncorrectTimeCoding=0x7f0f01dc;
+    public static final int ntfLDS_ASN_Certificate_IncorrectUseOfGeneralizedTime=0x7f0f01dd;
+    public static final int ntfLDS_ASN_Certificate_IncorrectVersion=0x7f0f01de;
+    public static final int ntfLDS_ASN_Certificate_NonMatchingSignatureAlgorithm=0x7f0f01df;
+    public static final int ntfLDS_ASN_Certificate_UnsupportedCriticalExtension=0x7f0f01e0;
+    public static final int ntfLDS_ASN_SignedData_OID_Incorrect=0x7f0f01e1;
+    public static final int ntfLDS_ASN_SignedData_Version_Incorrect=0x7f0f01e2;
+    public static final int ntfLDS_ASN_SignerInfo_ContentTypeAttr_Data=0x7f0f01e3;
+    public static final int ntfLDS_ASN_SignerInfo_ContentTypeAttr_Missing=0x7f0f01e4;
+    public static final int ntfLDS_ASN_SignerInfo_ContentTypeAttr_Value=0x7f0f01e5;
+    public static final int ntfLDS_ASN_SignerInfo_MessageDigestAttr_Data=0x7f0f01e6;
+    public static final int ntfLDS_ASN_SignerInfo_MessageDigestAttr_Missing=0x7f0f01e7;
+    public static final int ntfLDS_ASN_SignerInfo_MessageDigestAttr_Value=0x7f0f01e8;
+    public static final int ntfLDS_ASN_SignerInfo_SID_DigestAlgorithmNotListed=0x7f0f01e9;
+    public static final int ntfLDS_ASN_SignerInfo_SID_IncorrectChoice=0x7f0f01ea;
+    public static final int ntfLDS_ASN_SignerInfo_SigningTimeAttr_Data=0x7f0f01eb;
+    public static final int ntfLDS_ASN_SignerInfo_SigningTimeAttr_Missing=0x7f0f01ec;
+    public static final int ntfLDS_ASN_SignerInfo_SigningTimeAttr_Value=0x7f0f01ed;
+    public static final int ntfLDS_ASN_SignerInfo_Version_Incorrect=0x7f0f01ee;
+    public static final int ntfLDS_Auth_MLSignerInfo_Certificate_CantFindCSCA=0x7f0f01ef;
+    public static final int ntfLDS_Auth_MLSignerInfo_Certificate_Revoked=0x7f0f01f0;
+    public static final int ntfLDS_Auth_MLSignerInfo_Certificate_RootIsNotTrusted=0x7f0f01f1;
+    public static final int ntfLDS_Auth_MLSignerInfo_Certificate_SignatureInvalid=0x7f0f01f2;
+    public static final int ntfLDS_Auth_MLSignerInfo_Certificate_Validity=0x7f0f01f3;
+    public static final int ntfLDS_Auth_SignerInfo_Certificate_CantFindCSCA=0x7f0f01f4;
+    public static final int ntfLDS_Auth_SignerInfo_Certificate_Revoked=0x7f0f01f5;
+    public static final int ntfLDS_Auth_SignerInfo_Certificate_RootIsNotTrusted=0x7f0f01f6;
+    public static final int ntfLDS_Auth_SignerInfo_Certificate_SignatureInvalid=0x7f0f01f7;
+    public static final int ntfLDS_Auth_SignerInfo_Certificate_Validity=0x7f0f01f8;
+    public static final int ntfLDS_Biometrics_BDB_DataLength_Incorrect=0x7f0f01f9;
+    public static final int ntfLDS_Biometrics_BDB_Data_EyeColor=0x7f0f01fa;
+    public static final int ntfLDS_Biometrics_BDB_Data_FaceImageType=0x7f0f01fb;
+    public static final int ntfLDS_Biometrics_BDB_Data_Gender=0x7f0f01fc;
+    public static final int ntfLDS_Biometrics_BDB_Data_HairColor=0x7f0f01fd;
+    public static final int ntfLDS_Biometrics_BDB_Data_ImageDataType=0x7f0f01fe;
+    public static final int ntfLDS_Biometrics_BDB_Data_PoseAngleU_Pitch=0x7f0f01ff;
+    public static final int ntfLDS_Biometrics_BDB_Data_PoseAngleU_Roll=0x7f0f0200;
+    public static final int ntfLDS_Biometrics_BDB_Data_PoseAngleU_Yaw=0x7f0f0201;
+    public static final int ntfLDS_Biometrics_BDB_Data_PoseAngle_Pitch=0x7f0f0202;
+    public static final int ntfLDS_Biometrics_BDB_Data_PoseAngle_Roll=0x7f0f0203;
+    public static final int ntfLDS_Biometrics_BDB_Data_PoseAngle_Yaw=0x7f0f0204;
+    public static final int ntfLDS_Biometrics_BDB_FormatID_Incorrect=0x7f0f0205;
+    public static final int ntfLDS_Biometrics_BDB_Image_Missing=0x7f0f0206;
+    public static final int ntfLDS_Biometrics_BDB_Version_Incorrect=0x7f0f0207;
+    public static final int ntfLDS_Biometrics_FormatOwner_Incorrect=0x7f0f0208;
+    public static final int ntfLDS_Biometrics_FormatOwner_Missing=0x7f0f0209;
+    public static final int ntfLDS_Biometrics_FormatType_Incorrect=0x7f0f020a;
+    public static final int ntfLDS_Biometrics_FormatType_Missing=0x7f0f020b;
+    public static final int ntfLDS_Biometrics_SubType_Incorrect=0x7f0f020c;
+    public static final int ntfLDS_Biometrics_SubType_Missing=0x7f0f020d;
+    public static final int ntfLDS_Biometrics_Type_Incorrect=0x7f0f020e;
+    public static final int ntfLDS_CVCertificate_NonCVCADomainParameters=0x7f0f020f;
+    public static final int ntfLDS_CVCertificate_Profile_IncorrectVersion=0x7f0f0210;
+    public static final int ntfLDS_CVCertificate_Validity=0x7f0f0211;
+    public static final int ntfLDS_CV_Certificate_PrivateKey_IncorrectVersion=0x7f0f0212;
+    public static final int ntfLDS_ICAO_Application_LDSVersion_Inconsistent=0x7f0f0213;
+    public static final int ntfLDS_ICAO_Application_LDSVersion_Unsupported=0x7f0f0214;
+    public static final int ntfLDS_ICAO_Application_UnicodeVersion_Inconsistent=0x7f0f0215;
+    public static final int ntfLDS_ICAO_Application_UnicodeVersion_Unsupported=0x7f0f0216;
+    public static final int ntfLDS_ICAO_COM_DGPM_Incorrect=0x7f0f0217;
+    public static final int ntfLDS_ICAO_COM_DGPM_Missing=0x7f0f0218;
+    public static final int ntfLDS_ICAO_COM_DGPM_Unexpected=0x7f0f0219;
+    public static final int ntfLDS_ICAO_COM_LDS_Version_Incorrect=0x7f0f021a;
+    public static final int ntfLDS_ICAO_COM_LDS_Version_Missing=0x7f0f021b;
+    public static final int ntfLDS_ICAO_COM_Unicode_Version_Incorrect=0x7f0f021c;
+    public static final int ntfLDS_ICAO_COM_Unicode_Version_Missing=0x7f0f021d;
+    public static final int ntfLDS_ICAO_Certificate_Ext_AuthKeyID_IncorrectData=0x7f0f021e;
+    public static final int ntfLDS_ICAO_Certificate_Ext_AuthKeyID_KeyID_Missed=0x7f0f021f;
+    public static final int ntfLDS_ICAO_Certificate_Ext_AuthKeyID_Missed=0x7f0f0220;
+    public static final int ntfLDS_ICAO_Certificate_Ext_BasicC_IncorrectData=0x7f0f0221;
+    public static final int ntfLDS_ICAO_Certificate_Ext_BasicC_IncorrectUsage1=0x7f0f0222;
+    public static final int ntfLDS_ICAO_Certificate_Ext_BasicC_IncorrectUsage2=0x7f0f0223;
+    public static final int ntfLDS_ICAO_Certificate_Ext_BasicC_Missed=0x7f0f0224;
+    public static final int ntfLDS_ICAO_Certificate_Ext_BasicC_NotCritical=0x7f0f0225;
+    public static final int ntfLDS_ICAO_Certificate_Ext_BasicC_PathLenC_Incorrect=0x7f0f0226;
+    public static final int ntfLDS_ICAO_Certificate_Ext_BasicC_PathLenC_Missed=0x7f0f0227;
+    public static final int ntfLDS_ICAO_Certificate_Ext_CRLDistPoint_Empty=0x7f0f0228;
+    public static final int ntfLDS_ICAO_Certificate_Ext_CRLDistPoint_IncorrectData=0x7f0f0229;
+    public static final int ntfLDS_ICAO_Certificate_Ext_CRLDistPoint_Missed=0x7f0f022a;
+    public static final int ntfLDS_ICAO_Certificate_Ext_CRLDistPoint_PointMissed=0x7f0f022b;
+    public static final int ntfLDS_ICAO_Certificate_Ext_CertPolicies_Empty=0x7f0f022c;
+    public static final int ntfLDS_ICAO_Certificate_Ext_CertPolicies_IncorrectData=0x7f0f022d;
+    public static final int ntfLDS_ICAO_Certificate_Ext_CertPolicies_PolicyID_Missed=0x7f0f022e;
+    public static final int ntfLDS_ICAO_Certificate_Ext_DocTypeList_DocTypes=0x7f0f022f;
+    public static final int ntfLDS_ICAO_Certificate_Ext_DocTypeList_DocTypes_Empty=0x7f0f0230;
+    public static final int ntfLDS_ICAO_Certificate_Ext_DocTypeList_IncorrectData=0x7f0f0231;
+    public static final int ntfLDS_ICAO_Certificate_Ext_DocTypeList_Missed=0x7f0f0232;
+    public static final int ntfLDS_ICAO_Certificate_Ext_DocTypeList_Version=0x7f0f0233;
+    public static final int ntfLDS_ICAO_Certificate_Ext_ExtKeyUsage_IncorrectData=0x7f0f0234;
+    public static final int ntfLDS_ICAO_Certificate_Ext_ExtKeyUsage_IncorrectUsage=0x7f0f0235;
+    public static final int ntfLDS_ICAO_Certificate_Ext_ExtKeyUsage_NotCritical=0x7f0f0236;
+    public static final int ntfLDS_ICAO_Certificate_Ext_IssuerAltName_DN_Empty=0x7f0f0237;
+    public static final int ntfLDS_ICAO_Certificate_Ext_IssuerAltName_DN_Incorrect=0x7f0f0238;
+    public static final int ntfLDS_ICAO_Certificate_Ext_IssuerAltName_DN_Missed=0x7f0f0239;
+    public static final int ntfLDS_ICAO_Certificate_Ext_IssuerAltName_DN_NonCompliant=0x7f0f023a;
+    public static final int ntfLDS_ICAO_Certificate_Ext_IssuerAltName_Empty=0x7f0f023b;
+    public static final int ntfLDS_ICAO_Certificate_Ext_IssuerAltName_IncorrectData=0x7f0f023c;
+    public static final int ntfLDS_ICAO_Certificate_Ext_IssuerAltName_Info_Missed=0x7f0f023d;
+    public static final int ntfLDS_ICAO_Certificate_Ext_IssuerAltName_Missed=0x7f0f023e;
+    public static final int ntfLDS_ICAO_Certificate_Ext_IssuerAltName_NonCompliant=0x7f0f023f;
+    public static final int ntfLDS_ICAO_Certificate_Ext_KeyUsage_Missed=0x7f0f0240;
+    public static final int ntfLDS_ICAO_Certificate_Ext_KeyUsage_NotCritical=0x7f0f0241;
+    public static final int ntfLDS_ICAO_Certificate_Ext_PrivateKeyUP_Empty=0x7f0f0242;
+    public static final int ntfLDS_ICAO_Certificate_Ext_PrivateKeyUP_IncorrectData=0x7f0f0243;
+    public static final int ntfLDS_ICAO_Certificate_Ext_PrivateKeyUP_Missed=0x7f0f0244;
+    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectAltName_DN_Empty=0x7f0f0245;
+    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectAltName_DN_Incorrect=0x7f0f0246;
+    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectAltName_DN_Missed=0x7f0f0247;
+    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectAltName_DN_NonCompliant=0x7f0f0248;
+    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectAltName_Empty=0x7f0f0249;
+    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectAltName_IncorrectData=0x7f0f024a;
+    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectAltName_Info_Missed=0x7f0f024b;
+    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectAltName_Missed=0x7f0f024c;
+    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectAltName_NonCompliant=0x7f0f024d;
+    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectKeyID_IncorrectData=0x7f0f024e;
+    public static final int ntfLDS_ICAO_Certificate_Ext_SubjectKeyID_Missed=0x7f0f024f;
+    public static final int ntfLDS_ICAO_Certificate_Ext_UsingNonCompliantData=0x7f0f0250;
+    public static final int ntfLDS_ICAO_Certificate_Issuer_CommonName_Missed=0x7f0f0251;
+    public static final int ntfLDS_ICAO_Certificate_Issuer_CountryNonCompliant=0x7f0f0252;
+    public static final int ntfLDS_ICAO_Certificate_Issuer_Country_Missed=0x7f0f0253;
+    public static final int ntfLDS_ICAO_Certificate_MissedExtensions=0x7f0f0254;
+    public static final int ntfLDS_ICAO_Certificate_Subject_CommonName_Missed=0x7f0f0255;
+    public static final int ntfLDS_ICAO_Certificate_Subject_CountryNonCompliant=0x7f0f0256;
+    public static final int ntfLDS_ICAO_Certificate_Subject_Country_Missed=0x7f0f0257;
+    public static final int ntfLDS_ICAO_Certificate_UnsupportedPublicKeyAlgorithm=0x7f0f0258;
+    public static final int ntfLDS_ICAO_Certificate_UnsupportedSignatureAlgorithm=0x7f0f0259;
+    public static final int ntfLDS_ICAO_Certificate_UsingNonCompliantData=0x7f0f025a;
+    public static final int ntfLDS_ICAO_Certificate_Validity=0x7f0f025b;
+    public static final int ntfLDS_ICAO_Certificate_Version_Incorrect=0x7f0f025c;
+    public static final int ntfLDS_ICAO_Certificate_Version_Missed=0x7f0f025d;
+    public static final int ntfLDS_ICAO_LDSObject_DGHash_Extra=0x7f0f025e;
+    public static final int ntfLDS_ICAO_LDSObject_DGHash_Missing=0x7f0f025f;
+    public static final int ntfLDS_ICAO_LDSObject_DGNumber_Incorrect=0x7f0f0260;
+    public static final int ntfLDS_ICAO_LDSObject_IncorrectContentOID=0x7f0f0261;
+    public static final int ntfLDS_ICAO_LDSObject_Version_Incorrect=0x7f0f0262;
+    public static final int ntfLDS_ICAO_MasterList_Version_Incorrect=0x7f0f0263;
+    public static final int ntfLDS_ICAO_SignedData_CRLs_IncorrectUsage=0x7f0f0264;
+    public static final int ntfLDS_ICAO_SignedData_Certificates_Empty=0x7f0f0265;
+    public static final int ntfLDS_ICAO_SignedData_Certificates_Missed=0x7f0f0266;
+    public static final int ntfLDS_ICAO_SignedData_DigestAlgorithms_Empty=0x7f0f0267;
+    public static final int ntfLDS_ICAO_SignedData_DigestAlgorithms_Unsupported=0x7f0f0268;
+    public static final int ntfLDS_ICAO_SignedData_SignerInfos_MultipleEntries=0x7f0f0269;
+    public static final int ntfLDS_ICAO_SignedData_Version_Incorrect=0x7f0f026a;
+    public static final int ntfLDS_MRZ_DOB_Error=0x7f0f026b;
+    public static final int ntfLDS_MRZ_DOB_IncorrectChecksum=0x7f0f026c;
+    public static final int ntfLDS_MRZ_DOB_SyntaxError=0x7f0f026d;
+    public static final int ntfLDS_MRZ_DOE_Error=0x7f0f026e;
+    public static final int ntfLDS_MRZ_DOE_IncorrectChecksum=0x7f0f026f;
+    public static final int ntfLDS_MRZ_DOE_SyntaxError=0x7f0f0270;
+    public static final int ntfLDS_MRZ_DocumentType_Unknown=0x7f0f0271;
+    public static final int ntfLDS_MRZ_Incorrect=0x7f0f0272;
+    public static final int ntfLDS_MRZ_IncorrectChecksum=0x7f0f0273;
+    public static final int ntfLDS_MRZ_IssuingState_SyntaxError=0x7f0f0274;
+    public static final int ntfLDS_MRZ_Name_IsVoid=0x7f0f0275;
+    public static final int ntfLDS_MRZ_Nationality_SyntaxError=0x7f0f0276;
+    public static final int ntfLDS_MRZ_Number_IncorrectChecksum=0x7f0f0277;
+    public static final int ntfLDS_MRZ_OptionalData_IncorrectChecksum=0x7f0f0278;
+    public static final int ntfLDS_MRZ_Sex_Incorrect=0x7f0f0279;
+    public static final int ntfLDS_SI_AA_Info_InconsistentAlgorithmReference=0x7f0f027a;
+    public static final int ntfLDS_SI_AA_Info_IncorrectVersion=0x7f0f027b;
+    public static final int ntfLDS_SI_AA_Info_UnsupportedAlgorithm=0x7f0f027c;
+    public static final int ntfLDS_SI_CA_DomainParams_UnsupportedAlgorithm=0x7f0f027d;
+    public static final int ntfLDS_SI_CA_Info_IncorrectVersion=0x7f0f027e;
+    public static final int ntfLDS_SI_CA_PublicKey_UnsupportedAlgorithm=0x7f0f027f;
+    public static final int ntfLDS_SI_PACE_DomainParams_UnsupportedAlgorithm=0x7f0f0280;
+    public static final int ntfLDS_SI_PACE_DomainParams_UsingStdRef=0x7f0f0281;
+    public static final int ntfLDS_SI_PACE_Info_DeprecatedVersion=0x7f0f0282;
+    public static final int ntfLDS_SI_PACE_Info_UnsupportedStdParameters=0x7f0f0283;
+    public static final int ntfLDS_SI_RI_DomainParams_UnsupportedAlgorithm=0x7f0f0284;
+    public static final int ntfLDS_SI_RI_Info_IncorrectVersion=0x7f0f0285;
+    public static final int ntfLDS_SI_Storage_CA_AnonymousInfos=0x7f0f0286;
+    public static final int ntfLDS_SI_Storage_CA_DomainParams_NoRequiredOption=0x7f0f0287;
+    public static final int ntfLDS_SI_Storage_CA_DomainParams_NotAvailable=0x7f0f0288;
+    public static final int ntfLDS_SI_Storage_CA_IncorrectInfosQuantity=0x7f0f0289;
+    public static final int ntfLDS_SI_Storage_CA_Info_NoMatchingDomainParams=0x7f0f028a;
+    public static final int ntfLDS_SI_Storage_CA_Info_NoMatchingPublicKey=0x7f0f028b;
+    public static final int ntfLDS_SI_Storage_CA_Info_NotAvailable=0x7f0f028c;
+    public static final int ntfLDS_SI_Storage_CardInfoLocator_MultipleEntries=0x7f0f028d;
+    public static final int ntfLDS_SI_Storage_PACEInfos_NonConsistant=0x7f0f028e;
+    public static final int ntfLDS_SI_Storage_PACE_Info_NoMatchingDomainParams=0x7f0f028f;
+    public static final int ntfLDS_SI_Storage_PACE_Info_NoStdParameters=0x7f0f0290;
+    public static final int ntfLDS_SI_Storage_PACE_Info_NotAvailable=0x7f0f0291;
+    public static final int ntfLDS_SI_Storage_PrivilegedTI_IncorrectUsage=0x7f0f0292;
+    public static final int ntfLDS_SI_Storage_PrivilegedTI_MultipleEntries=0x7f0f0293;
+    public static final int ntfLDS_SI_Storage_RI_DomainParams_MultipleEntries=0x7f0f0294;
+    public static final int ntfLDS_SI_Storage_TA_Info_NotAvailable=0x7f0f0295;
+    public static final int ntfLDS_SI_Storage_eIDSecurityInfo_MultipleEntries=0x7f0f0296;
+    public static final int ntfLDS_SI_TA_Info_FileIDForVersion2=0x7f0f0297;
+    public static final int ntfLDS_SI_TA_Info_IncorrectVersion=0x7f0f0298;
+    public static final int ntfLDS_SI_eIDSecurity_UnsupportedDigestAlgorithm=0x7f0f0299;
+    public static final int ntfLDS_TA_PACEStaticBindingUsed=0x7f0f029a;
+    public static final int ntfLDS_UnsupportedImageFormat=0x7f0f029b;
+    public static final int parsing_failed=0x7f0f029c;
+    public static final int password=0x7f0f029d;
+    public static final int password_toggle_content_description=0x7f0f029e;
+    public static final int path_password_eye=0x7f0f029f;
+    public static final int path_password_eye_mask_strike_through=0x7f0f02a0;
+    public static final int path_password_eye_mask_visible=0x7f0f02a1;
+    public static final int path_password_strike_through=0x7f0f02a2;
+    public static final int pipe_inactive=0x7f0f02a3;
+    public static final int processing=0x7f0f02a4;
+    public static final int project_id=0x7f0f02a5;
+    public static final int put_face_text=0x7f0f02a6;
+    public static final int put_id_text=0x7f0f02a7;
+    public static final int registrado=0x7f0f02a8;
+    public static final int result_failure_network=0x7f0f02a9;
+    public static final int result_failure_no_face=0x7f0f02aa;
+    public static final int result_failure_no_match=0x7f0f02ab;
+    public static final int result_failure_not_live=0x7f0f02ac;
+    public static final int result_success=0x7f0f02ad;
+    public static final int scan_id_download_db=0x7f0f02ae;
+    public static final int scan_id_number=0x7f0f02af;
+    public static final int scan_id_processing=0x7f0f02b0;
+    public static final int scan_id_too_many_faces=0x7f0f02b1;
+    public static final int scanning_id_text=0x7f0f02b2;
+    public static final int search_menu_title=0x7f0f02b3;
+    public static final int server_findFace=0x7f0f02b4;
+    public static final int server_url=0x7f0f02b5;
+    public static final int servidorSesame=0x7f0f02b6;
+    public static final int sesameVideoMp4=0x7f0f02b7;
+    public static final int sesame_camera_bubble_angle=0x7f0f02b8;
+    public static final int sesame_camera_bubble_close=0x7f0f02b9;
+    public static final int sesame_camera_bubble_far=0x7f0f02ba;
+    public static final int sesame_camera_bubble_hold=0x7f0f02bb;
+    public static final int sesame_camera_bubble_lowlight=0x7f0f02bc;
+    public static final int sesame_camera_bubble_noface=0x7f0f02bd;
+    public static final int sesame_camera_bubble_notaligned=0x7f0f02be;
+    public static final int sesame_camera_bubble_stronglight=0x7f0f02bf;
+    public static final int sesame_camera_error_movement_body=0x7f0f02c0;
+    public static final int sesame_camera_error_movement_button=0x7f0f02c1;
+    public static final int sesame_camera_error_movement_headline=0x7f0f02c2;
+    public static final int sesame_camera_helper=0x7f0f02c3;
+    public static final int sesame_camera_title=0x7f0f02c4;
+    public static final int sesame_help_1_body=0x7f0f02c5;
+    public static final int sesame_help_1_headline=0x7f0f02c6;
+    public static final int sesame_help_2_body=0x7f0f02c7;
+    public static final int sesame_help_2_headline=0x7f0f02c8;
+    public static final int sesame_help_3_body=0x7f0f02c9;
+    public static final int sesame_help_3_headline=0x7f0f02ca;
+    public static final int sesame_help_4_body=0x7f0f02cb;
+    public static final int sesame_help_4_headline=0x7f0f02cc;
+    public static final int sesame_help_button=0x7f0f02cd;
+    public static final int sesame_onboarding_body=0x7f0f02ce;
+    public static final int sesame_onboarding_button=0x7f0f02cf;
+    public static final int sesame_onboarding_headline=0x7f0f02d0;
+    public static final int sesame_onboarding_note=0x7f0f02d1;
+    public static final int sesame_result_fail_body=0x7f0f02d2;
+    public static final int sesame_result_fail_button=0x7f0f02d3;
+    public static final int sesame_result_fail_ghostbutton=0x7f0f02d4;
+    public static final int sesame_result_fail_headline=0x7f0f02d5;
+    public static final int sesame_result_loadingnote=0x7f0f02d6;
+    public static final int sesame_result_success_body=0x7f0f02d7;
+    public static final int sesame_result_success_button=0x7f0f02d8;
+    public static final int sesame_result_success_headline=0x7f0f02d9;
+    public static final int sesame_url=0x7f0f02da;
+    public static final int slow_connection=0x7f0f02db;
+    public static final int status_bar_notification_info_overflow=0x7f0f02dc;
+    public static final int strAGY=0x7f0f02dd;
+    public static final int strAKADateofBirth=0x7f0f02de;
+    public static final int strAKAGivenNames=0x7f0f02df;
+    public static final int strAKANamePrefix=0x7f0f02e0;
+    public static final int strAKANameSuffix=0x7f0f02e1;
+    public static final int strAKASocialSecurityNumber=0x7f0f02e2;
+    public static final int strAKASurname=0x7f0f02e3;
+    public static final int strAKASurnameAndGivenNames=0x7f0f02e4;
+    public static final int strALTCode=0x7f0f02e5;
+    public static final int strAa=0x7f0f02e6;
+    public static final int strAcademicTitle=0x7f0f02e7;
+    public static final int strAccessibilityCameraButton=0x7f0f02e8;
+    public static final int strAccessibilityCloseButton=0x7f0f02e9;
+    public static final int strAccessibilityTorchButton=0x7f0f02ea;
+    public static final int strAccompaniedby=0x7f0f02eb;
+    public static final int strAddress=0x7f0f02ec;
+    public static final int strAddressArea=0x7f0f02ed;
+    public static final int strAddressBuilding=0x7f0f02ee;
+    public static final int strAddressCity=0x7f0f02ef;
+    public static final int strAddressFlat=0x7f0f02f0;
+    public static final int strAddressHouse=0x7f0f02f1;
+    public static final int strAddressJurisdictionCode=0x7f0f02f2;
+    public static final int strAddressLocation=0x7f0f02f3;
+    public static final int strAddressMunicipality=0x7f0f02f4;
+    public static final int strAddressPostalCode=0x7f0f02f5;
+    public static final int strAddressState=0x7f0f02f6;
+    public static final int strAddressStreet=0x7f0f02f7;
+    public static final int strAdministrativeNumber=0x7f0f02f8;
+    public static final int strAdressCountry=0x7f0f02f9;
+    public static final int strAdressZipcode=0x7f0f02fa;
+    public static final int strAge=0x7f0f02fb;
+    public static final int strAgeAtIssue=0x7f0f02fc;
+    public static final int strAirlineDesignatorofboardingpassissuer=0x7f0f02fd;
+    public static final int strAirlineName=0x7f0f02fe;
+    public static final int strAirlineNameFrequentFlyer=0x7f0f02ff;
+    public static final int strAirlineNumericCode=0x7f0f0300;
+    public static final int strAirportFrom=0x7f0f0301;
+    public static final int strAirportTo=0x7f0f0302;
+    public static final int strAllergies=0x7f0f0303;
+    public static final int strApplicationDoNotHavePermission=0x7f0f0304;
+    public static final int strApplicationNumber=0x7f0f0305;
+    public static final int strArtisticName=0x7f0f0306;
+    public static final int strAuditInformation=0x7f0f0307;
+    public static final int strAuthenticatorAttached=0x7f0f0308;
+    public static final int strAuthenticatorTurnedOn=0x7f0f0309;
+    public static final int strAuthentification=0x7f0f030a;
+    public static final int strAuthority=0x7f0f030b;
+    public static final int strAuthorityCode=0x7f0f030c;
+    public static final int strAuthorityRUS=0x7f0f030d;
+    public static final int strAuthorizationNumber=0x7f0f030e;
+    public static final int strAxialProtection=0x7f0f030f;
+    public static final int strBDBType=0x7f0f0310;
+    public static final int strBac=0x7f0f0311;
+    public static final int strBankCardNumber=0x7f0f0312;
+    public static final int strBankCardValidThru=0x7f0f0313;
+    public static final int strBanknoteNumber=0x7f0f0314;
+    public static final int strBarcode=0x7f0f0315;
+    public static final int strBarcodeFormatCheck=0x7f0f0316;
+    public static final int strBenefitsNumber=0x7f0f0317;
+    public static final int strBinaryCode=0x7f0f0318;
+    public static final int strBiometricFormatOwner=0x7f0f0319;
+    public static final int strBiometricFormatType=0x7f0f031a;
+    public static final int strBiometricProductID=0x7f0f031b;
+    public static final int strBiometricSubtype=0x7f0f031c;
+    public static final int strBiometricType=0x7f0f031d;
+    public static final int strBlankElement=0x7f0f031e;
+    public static final int strBloodGroup=0x7f0f031f;
+    public static final int strBluetoothEnabled=0x7f0f0320;
+    public static final int strBookletNumber=0x7f0f0321;
+    public static final int strCCWUntil=0x7f0f0322;
+    public static final int strCDLClass=0x7f0f0323;
+    public static final int strCSCCode=0x7f0f0324;
+    public static final int strCa=0x7f0f0325;
+    public static final int strCameraUnavailable=0x7f0f0326;
+    public static final int strCardAccessNumber=0x7f0f0327;
+    public static final int strCardInfo=0x7f0f0328;
+    public static final int strCategory=0x7f0f0329;
+    public static final int strCenturyDateOfBirth=0x7f0f032a;
+    public static final int strChassisNumber=0x7f0f032b;
+    public static final int strCheckInSequenceNumber=0x7f0f032c;
+    public static final int strChildren=0x7f0f032d;
+    public static final int strCivilStatus=0x7f0f032e;
+    public static final int strColorDynamic=0x7f0f032f;
+    public static final int strCommercialVehicleCodes=0x7f0f0330;
+    public static final int strCompanyName=0x7f0f0331;
+    public static final int strCompartmentCode=0x7f0f0332;
+    public static final int strComplexion=0x7f0f0333;
+    public static final int strComplianceType=0x7f0f0334;
+    public static final int strConditions=0x7f0f0335;
+    public static final int strConfiguration=0x7f0f0336;
+    public static final int strControlNo=0x7f0f0337;
+    public static final int strCopy=0x7f0f0338;
+    public static final int strCourtCode=0x7f0f0339;
+    public static final int strCty=0x7f0f033a;
+    public static final int strCustodyInfo=0x7f0f033b;
+    public static final int strDFTAppDirectory=0x7f0f033c;
+    public static final int strDFTCertificate=0x7f0f033d;
+    public static final int strDG1=0x7f0f033e;
+    public static final int strDG10=0x7f0f033f;
+    public static final int strDG11=0x7f0f0340;
+    public static final int strDG12=0x7f0f0341;
+    public static final int strDG13=0x7f0f0342;
+    public static final int strDG14=0x7f0f0343;
+    public static final int strDG15=0x7f0f0344;
+    public static final int strDG16=0x7f0f0345;
+    public static final int strDG17=0x7f0f0346;
+    public static final int strDG18=0x7f0f0347;
+    public static final int strDG19=0x7f0f0348;
+    public static final int strDG2=0x7f0f0349;
+    public static final int strDG20=0x7f0f034a;
+    public static final int strDG21=0x7f0f034b;
+    public static final int strDG3=0x7f0f034c;
+    public static final int strDG4=0x7f0f034d;
+    public static final int strDG5=0x7f0f034e;
+    public static final int strDG6=0x7f0f034f;
+    public static final int strDG7=0x7f0f0350;
+    public static final int strDG8=0x7f0f0351;
+    public static final int strDG9=0x7f0f0352;
+    public static final int strDLCDLRestrictionCode=0x7f0f0353;
+    public static final int strDLClass=0x7f0f0354;
+    public static final int strDLClassCodeA1From=0x7f0f0355;
+    public static final int strDLClassCodeA1Notes=0x7f0f0356;
+    public static final int strDLClassCodeA1To=0x7f0f0357;
+    public static final int strDLClassCodeA2From=0x7f0f0358;
+    public static final int strDLClassCodeA2Notes=0x7f0f0359;
+    public static final int strDLClassCodeA2To=0x7f0f035a;
+    public static final int strDLClassCodeA3From=0x7f0f035b;
+    public static final int strDLClassCodeA3Notes=0x7f0f035c;
+    public static final int strDLClassCodeA3To=0x7f0f035d;
+    public static final int strDLClassCodeAFrom=0x7f0f035e;
+    public static final int strDLClassCodeAMFrom=0x7f0f035f;
+    public static final int strDLClassCodeAMNotes=0x7f0f0360;
+    public static final int strDLClassCodeAMTo=0x7f0f0361;
+    public static final int strDLClassCodeANotes=0x7f0f0362;
+    public static final int strDLClassCodeATo=0x7f0f0363;
+    public static final int strDLClassCodeB1From=0x7f0f0364;
+    public static final int strDLClassCodeB1Notes=0x7f0f0365;
+    public static final int strDLClassCodeB1To=0x7f0f0366;
+    public static final int strDLClassCodeB2EFrom=0x7f0f0367;
+    public static final int strDLClassCodeB2ENotes=0x7f0f0368;
+    public static final int strDLClassCodeB2ETo=0x7f0f0369;
+    public static final int strDLClassCodeB2From=0x7f0f036a;
+    public static final int strDLClassCodeB2Notes=0x7f0f036b;
+    public static final int strDLClassCodeB2To=0x7f0f036c;
+    public static final int strDLClassCodeBEFrom=0x7f0f036d;
+    public static final int strDLClassCodeBENotes=0x7f0f036e;
+    public static final int strDLClassCodeBETo=0x7f0f036f;
+    public static final int strDLClassCodeBFrom=0x7f0f0370;
+    public static final int strDLClassCodeBNotes=0x7f0f0371;
+    public static final int strDLClassCodeBTo=0x7f0f0372;
+    public static final int strDLClassCodeC1EFrom=0x7f0f0373;
+    public static final int strDLClassCodeC1ENotes=0x7f0f0374;
+    public static final int strDLClassCodeC1ETo=0x7f0f0375;
+    public static final int strDLClassCodeC1From=0x7f0f0376;
+    public static final int strDLClassCodeC1Notes=0x7f0f0377;
+    public static final int strDLClassCodeC1To=0x7f0f0378;
+    public static final int strDLClassCodeC2From=0x7f0f0379;
+    public static final int strDLClassCodeC2Notes=0x7f0f037a;
+    public static final int strDLClassCodeC2To=0x7f0f037b;
+    public static final int strDLClassCodeCEFrom=0x7f0f037c;
+    public static final int strDLClassCodeCENotes=0x7f0f037d;
+    public static final int strDLClassCodeCETo=0x7f0f037e;
+    public static final int strDLClassCodeCFrom=0x7f0f037f;
+    public static final int strDLClassCodeCNotes=0x7f0f0380;
+    public static final int strDLClassCodeCTo=0x7f0f0381;
+    public static final int strDLClassCodeD1EFrom=0x7f0f0382;
+    public static final int strDLClassCodeD1ENotes=0x7f0f0383;
+    public static final int strDLClassCodeD1ETo=0x7f0f0384;
+    public static final int strDLClassCodeD1From=0x7f0f0385;
+    public static final int strDLClassCodeD1Notes=0x7f0f0386;
+    public static final int strDLClassCodeD1To=0x7f0f0387;
+    public static final int strDLClassCodeD2From=0x7f0f0388;
+    public static final int strDLClassCodeD2Notes=0x7f0f0389;
+    public static final int strDLClassCodeD2To=0x7f0f038a;
+    public static final int strDLClassCodeDEFrom=0x7f0f038b;
+    public static final int strDLClassCodeDENotes=0x7f0f038c;
+    public static final int strDLClassCodeDETo=0x7f0f038d;
+    public static final int strDLClassCodeDFrom=0x7f0f038e;
+    public static final int strDLClassCodeDNotes=0x7f0f038f;
+    public static final int strDLClassCodeDTo=0x7f0f0390;
+    public static final int strDLClassCodeGFrom=0x7f0f0391;
+    public static final int strDLClassCodeGNotes=0x7f0f0392;
+    public static final int strDLClassCodeGTo=0x7f0f0393;
+    public static final int strDLClassCodeJFrom=0x7f0f0394;
+    public static final int strDLClassCodeJNotes=0x7f0f0395;
+    public static final int strDLClassCodeJTo=0x7f0f0396;
+    public static final int strDLClassCodeLCFrom=0x7f0f0397;
+    public static final int strDLClassCodeLCNotes=0x7f0f0398;
+    public static final int strDLClassCodeLCTo=0x7f0f0399;
+    public static final int strDLClassCodeLFrom=0x7f0f039a;
+    public static final int strDLClassCodeLNotes=0x7f0f039b;
+    public static final int strDLClassCodeLTo=0x7f0f039c;
+    public static final int strDLClassCodeMFrom=0x7f0f039d;
+    public static final int strDLClassCodeMNotes=0x7f0f039e;
+    public static final int strDLClassCodeMTo=0x7f0f039f;
+    public static final int strDLClassCodeTFrom=0x7f0f03a0;
+    public static final int strDLClassCodeTNotes=0x7f0f03a1;
+    public static final int strDLClassCodeTTo=0x7f0f03a2;
+    public static final int strDLDuplicateDate=0x7f0f03a3;
+    public static final int strDLEndorsed=0x7f0f03a4;
+    public static final int strDLIssType=0x7f0f03a5;
+    public static final int strDLRecordCreated=0x7f0f03a6;
+    public static final int strDLRestrictionCode=0x7f0f03a7;
+    public static final int strDLUnder18Date=0x7f0f03a8;
+    public static final int strDLUnder19Date=0x7f0f03a9;
+    public static final int strDLUnder21Date=0x7f0f03aa;
+    public static final int strDNINumber=0x7f0f03ab;
+    public static final int strDSCertificateIssuer=0x7f0f03ac;
+    public static final int strDSCertificateSubject=0x7f0f03ad;
+    public static final int strDSCertificateValidFrom=0x7f0f03ae;
+    public static final int strDSCertificateValidTo=0x7f0f03af;
+    public static final int strDUFNumber=0x7f0f03b0;
+    public static final int strDataDiscriminator=0x7f0f03b1;
+    public static final int strDateFirstRenewal=0x7f0f03b2;
+    public static final int strDateSecondRenewal=0x7f0f03b3;
+    public static final int strDateofBirth=0x7f0f03b4;
+    public static final int strDateofBirthCheckDigit=0x7f0f03b5;
+    public static final int strDateofBirthChecksum=0x7f0f03b6;
+    public static final int strDateofCreation=0x7f0f03b7;
+    public static final int strDateofExpiry=0x7f0f03b8;
+    public static final int strDateofExpiryCheckDigit=0x7f0f03b9;
+    public static final int strDateofExpiryChecksum=0x7f0f03ba;
+    public static final int strDateofFlight=0x7f0f03bb;
+    public static final int strDateofIssue=0x7f0f03bc;
+    public static final int strDateofIssueBoardingPass=0x7f0f03bd;
+    public static final int strDateofIssueCheckDigit=0x7f0f03be;
+    public static final int strDateofIssueChecksum=0x7f0f03bf;
+    public static final int strDateofPersonalization=0x7f0f03c0;
+    public static final int strDateofRegistration=0x7f0f03c1;
+    public static final int strDay=0x7f0f03c2;
+    public static final int strDepartment=0x7f0f03c3;
+    public static final int strDeptNumber=0x7f0f03c4;
+    public static final int strDestination=0x7f0f03c5;
+    public static final int strDisableNFC=0x7f0f03c6;
+    public static final int strDiscretionaryData=0x7f0f03c7;
+    public static final int strDoDNumber=0x7f0f03c8;
+    public static final int strDocumentClassCode=0x7f0f03c9;
+    public static final int strDocumentClassName=0x7f0f03ca;
+    public static final int strDocumentDiscriminator=0x7f0f03cb;
+    public static final int strDocumentFront=0x7f0f03cc;
+    public static final int strDocumentNumber=0x7f0f03cd;
+    public static final int strDocumentNumberCheckDigit=0x7f0f03ce;
+    public static final int strDocumentNumberChecksum=0x7f0f03cf;
+    public static final int strDocumentRear=0x7f0f03d0;
+    public static final int strDocumentSeries=0x7f0f03d1;
+    public static final int strDocumentTooSmall=0x7f0f03d2;
+    public static final int strDonor=0x7f0f03d3;
+    public static final int strDossierNumber=0x7f0f03d4;
+    public static final int strDurationofStay=0x7f0f03d5;
+    public static final int strECEnvironmentalType=0x7f0f03d6;
+    public static final int strEDLDG1=0x7f0f03d7;
+    public static final int strEDLDG10=0x7f0f03d8;
+    public static final int strEDLDG11=0x7f0f03d9;
+    public static final int strEDLDG12=0x7f0f03da;
+    public static final int strEDLDG13=0x7f0f03db;
+    public static final int strEDLDG14=0x7f0f03dc;
+    public static final int strEDLDG2=0x7f0f03dd;
+    public static final int strEDLDG3=0x7f0f03de;
+    public static final int strEDLDG4=0x7f0f03df;
+    public static final int strEDLDG5=0x7f0f03e0;
+    public static final int strEDLDG6=0x7f0f03e1;
+    public static final int strEDLDG7=0x7f0f03e2;
+    public static final int strEDLDG8=0x7f0f03e3;
+    public static final int strEDLDG9=0x7f0f03e4;
+    public static final int strEFCOM=0x7f0f03e5;
+    public static final int strEFCVCA=0x7f0f03e6;
+    public static final int strEFCardAccess=0x7f0f03e7;
+    public static final int strEFCardSecurity=0x7f0f03e8;
+    public static final int strEFChipSecurity=0x7f0f03e9;
+    public static final int strEFSOD=0x7f0f03ea;
+    public static final int strEQVCode=0x7f0f03eb;
+    public static final int strElectronicTicketIndicator=0x7f0f03ec;
+    public static final int strElement=0x7f0f03ed;
+    public static final int strEnableNFC=0x7f0f03ee;
+    public static final int strEndorsementExpirationDate=0x7f0f03ef;
+    public static final int strEngineModel=0x7f0f03f0;
+    public static final int strEngineNumber=0x7f0f03f1;
+    public static final int strEnginePower=0x7f0f03f2;
+    public static final int strEngineVolume=0x7f0f03f3;
+    public static final int strError=0x7f0f03f4;
+    public static final int strExamDate=0x7f0f03f5;
+    public static final int strExeptInTanks=0x7f0f03f6;
+    public static final int strEye=0x7f0f03f7;
+    public static final int strEyesColor=0x7f0f03f8;
+    public static final int strFaculty=0x7f0f03f9;
+    public static final int strFalseLuminescence=0x7f0f03fa;
+    public static final int strFamilyName=0x7f0f03fb;
+    public static final int strFamilyNameTruncation=0x7f0f03fc;
+    public static final int strFastTrack=0x7f0f03fd;
+    public static final int strFatherCountryOfBirth=0x7f0f03fe;
+    public static final int strFatherDateOfBirth=0x7f0f03ff;
+    public static final int strFatherGivenName=0x7f0f0400;
+    public static final int strFatherPersonalNumber=0x7f0f0401;
+    public static final int strFatherPlaceOfBirth=0x7f0f0402;
+    public static final int strFatherSurname=0x7f0f0403;
+    public static final int strFathersName=0x7f0f0404;
+    public static final int strFathersNameRUS=0x7f0f0405;
+    public static final int strFederalElections=0x7f0f0406;
+    public static final int strFee=0x7f0f0407;
+    public static final int strFieldFromMRZ=0x7f0f0408;
+    public static final int strFieldTypeDocumentImage=0x7f0f0409;
+    public static final int strFillElement=0x7f0f040a;
+    public static final int strFinalCheckDigit=0x7f0f040b;
+    public static final int strFinalChecksum=0x7f0f040c;
+    public static final int strFingerprint=0x7f0f040d;
+    public static final int strFirstIssueDate=0x7f0f040e;
+    public static final int strFirstNameTruncation=0x7f0f040f;
+    public static final int strFlightNumber=0x7f0f0410;
+    public static final int strFolioNumber=0x7f0f0411;
+    public static final int strFormOfEducation=0x7f0f0412;
+    public static final int strFreeBaggageAllowance=0x7f0f0413;
+    public static final int strFrequentFlyerAirlineDesignator=0x7f0f0414;
+    public static final int strFrequentFlyerNumber=0x7f0f0415;
+    public static final int strFromAirportCode=0x7f0f0416;
+    public static final int strFuelType=0x7f0f0417;
+    public static final int strGNIBNumber=0x7f0f0418;
+    public static final int strGhostPortrait=0x7f0f0419;
+    public static final int strGivenNames=0x7f0f041a;
+    public static final int strGivenNamesRUS=0x7f0f041b;
+    public static final int strGlaresOnDocument=0x7f0f041c;
+    public static final int strGrandfatherName=0x7f0f041d;
+    public static final int strHairColor=0x7f0f041e;
+    public static final int strHealthNumber=0x7f0f041f;
+    public static final int strHeight=0x7f0f0420;
+    public static final int strHoldDocumentStraight=0x7f0f0421;
+    public static final int strHoloSimple=0x7f0f0422;
+    public static final int strHoloVerifyDinamic=0x7f0f0423;
+    public static final int strHoloVerifyMultiStatic=0x7f0f0424;
+    public static final int strHoloVerifyStatic=0x7f0f0425;
+    public static final int strHolograms=0x7f0f0426;
+    public static final int strIPI=0x7f0f0427;
+    public static final int strIRB900=0x7f0f0428;
+    public static final int strIRLuminescense=0x7f0f0429;
+    public static final int strIRPhotoProtection=0x7f0f042a;
+    public static final int strIRVis=0x7f0f042b;
+    public static final int strISOIssuerIDNumber=0x7f0f042c;
+    public static final int strIdentifier=0x7f0f042d;
+    public static final int strIdentityCardNumber=0x7f0f042e;
+    public static final int strIdentityCardNumberCheckDigit=0x7f0f042f;
+    public static final int strIdentityCardNumberChecksum=0x7f0f0430;
+    public static final int strImagePattern=0x7f0f0431;
+    public static final int strInTanks=0x7f0f0432;
+    public static final int strInventoryNumber=0x7f0f0433;
+    public static final int strInvitationNumber=0x7f0f0434;
+    public static final int strInvitationNumberCheckDigit=0x7f0f0435;
+    public static final int strInvitationNumberChecksum=0x7f0f0436;
+    public static final int strInvitedBy=0x7f0f0437;
+    public static final int strIssueTimestamp=0x7f0f0438;
+    public static final int strIssuingStateCode=0x7f0f0439;
+    public static final int strIssuingStateCodeNumeric=0x7f0f043a;
+    public static final int strIssuingStateName=0x7f0f043b;
+    public static final int strJurisdictionEndorsementCode=0x7f0f043c;
+    public static final int strJurisdictionRestrictionCode=0x7f0f043d;
+    public static final int strJurisdictionVehicleClass=0x7f0f043e;
+    public static final int strKeepDeviceStill=0x7f0f043f;
+    public static final int strLicenseNumber=0x7f0f0440;
+    public static final int strLimitedDurationDocumentIndicator=0x7f0f0441;
+    public static final int strLine1CheckDigit=0x7f0f0442;
+    public static final int strLine1Checksum=0x7f0f0443;
+    public static final int strLine1OptionalData=0x7f0f0444;
+    public static final int strLine2CheckDigit=0x7f0f0445;
+    public static final int strLine2Checksum=0x7f0f0446;
+    public static final int strLine2OptionalData=0x7f0f0447;
+    public static final int strLine3CheckDigit=0x7f0f0448;
+    public static final int strLine3Checksum=0x7f0f0449;
+    public static final int strLine3OptionalData=0x7f0f044a;
+    public static final int strLookingDocument=0x7f0f044b;
+    public static final int strMCNoviceDate=0x7f0f044c;
+    public static final int strMRZ=0x7f0f044d;
+    public static final int strMRZLinesICAORFID=0x7f0f044e;
+    public static final int strMRZString1=0x7f0f044f;
+    public static final int strMRZString2=0x7f0f0450;
+    public static final int strMRZString3=0x7f0f0451;
+    public static final int strMRZStrings=0x7f0f0452;
+    public static final int strMRZStringsWithCorrectCheckSums=0x7f0f0453;
+    public static final int strMRZType=0x7f0f0454;
+    public static final int strMailingAddressCity=0x7f0f0455;
+    public static final int strMailingAddressJurisdictionCode=0x7f0f0456;
+    public static final int strMailingAddressPostalCode=0x7f0f0457;
+    public static final int strMailingAddressStreet=0x7f0f0458;
+    public static final int strMakeSure=0x7f0f0459;
+    public static final int strMaritalStatus=0x7f0f045a;
+    public static final int strMaxMassofTrailerBraked=0x7f0f045b;
+    public static final int strMaxMassofTrailerUnbraked=0x7f0f045c;
+    public static final int strMaxSpeed=0x7f0f045d;
+    public static final int strMedicalIndicatorCodes=0x7f0f045e;
+    public static final int strMiddleName=0x7f0f045f;
+    public static final int strMiddleNameTruncation=0x7f0f0460;
+    public static final int strMifareData=0x7f0f0461;
+    public static final int strMifareValidity=0x7f0f0462;
+    public static final int strMilitaryBookNumber=0x7f0f0463;
+    public static final int strMonth=0x7f0f0464;
+    public static final int strMotherCountryOfBirth=0x7f0f0465;
+    public static final int strMotherDateOfBirth=0x7f0f0466;
+    public static final int strMotherGivenName=0x7f0f0467;
+    public static final int strMotherPersonalNumber=0x7f0f0468;
+    public static final int strMotherPlaceOfBirth=0x7f0f0469;
+    public static final int strMotherSurname=0x7f0f046a;
+    public static final int strMothersName=0x7f0f046b;
+    public static final int strNamePrefix=0x7f0f046c;
+    public static final int strNameSuffix=0x7f0f046d;
+    public static final int strNationality=0x7f0f046e;
+    public static final int strNationalityCode=0x7f0f046f;
+    public static final int strNationalityCodeNumeric=0x7f0f0470;
+    public static final int strNfcTagNotFound=0x7f0f0471;
+    public static final int strNonResidentIndicator=0x7f0f0472;
+    public static final int strNone=0x7f0f0473;
+    public static final int strNotDefined=0x7f0f0474;
+    public static final int strNumberOfCardIssuance=0x7f0f0475;
+    public static final int strNumberOfCardIssuanceCheckDigit=0x7f0f0476;
+    public static final int strNumberOfCardIssuanceChecksum=0x7f0f0477;
+    public static final int strNumberofAxels=0x7f0f0478;
+    public static final int strNumberofDuplicates=0x7f0f0479;
+    public static final int strNumberofEntries=0x7f0f047a;
+    public static final int strNumberofSeats=0x7f0f047b;
+    public static final int strNumberofStandingPlaces=0x7f0f047c;
+    public static final int strOCRNumber=0x7f0f047d;
+    public static final int strOK=0x7f0f047e;
+    public static final int strOVICheck=0x7f0f047f;
+    public static final int strObservations=0x7f0f0480;
+    public static final int strOptionalData=0x7f0f0481;
+    public static final int strOptionalDataCheckDigit=0x7f0f0482;
+    public static final int strOptionalDataChecksum=0x7f0f0483;
+    public static final int strOptionalDetails=0x7f0f0484;
+    public static final int strOrganization=0x7f0f0485;
+    public static final int strOther=0x7f0f0486;
+    public static final int strOtherName=0x7f0f0487;
+    public static final int strOtherPersonName=0x7f0f0488;
+    public static final int strOtherValidID=0x7f0f0489;
+    public static final int strOwner=0x7f0f048a;
+    public static final int strPDF417Codec=0x7f0f048b;
+    public static final int strPNRCode=0x7f0f048c;
+    public static final int strPa=0x7f0f048d;
+    public static final int strPace=0x7f0f048e;
+    public static final int strParrentsGivenNames=0x7f0f048f;
+    public static final int strPassportNumber=0x7f0f0490;
+    public static final int strPassportNumberCheckDigit=0x7f0f0491;
+    public static final int strPassportNumberChecksum=0x7f0f0492;
+    public static final int strPatronHeaderVersion=0x7f0f0493;
+    public static final int strPatternDifferentLinesThickness=0x7f0f0494;
+    public static final int strPatternIRInvisible=0x7f0f0495;
+    public static final int strPatternNotInterrupted=0x7f0f0496;
+    public static final int strPatternNotShifted=0x7f0f0497;
+    public static final int strPatternSameColors=0x7f0f0498;
+    public static final int strPaused=0x7f0f0499;
+    public static final int strPayGrade=0x7f0f049a;
+    public static final int strPayloadCapacity=0x7f0f049b;
+    public static final int strPermissibleAxleLoad=0x7f0f049c;
+    public static final int strPermitDLClass=0x7f0f049d;
+    public static final int strPermitDateofExpiry=0x7f0f049e;
+    public static final int strPermitDateofIssue=0x7f0f049f;
+    public static final int strPermitEndorsed=0x7f0f04a0;
+    public static final int strPermitIdentifier=0x7f0f04a1;
+    public static final int strPermitRestrictionCode=0x7f0f04a2;
+    public static final int strPersonToNotifyAddress=0x7f0f04a3;
+    public static final int strPersonToNotifyDateofRecord=0x7f0f04a4;
+    public static final int strPersonToNotifyName=0x7f0f04a5;
+    public static final int strPersonToNotifyPhone=0x7f0f04a6;
+    public static final int strPersonalNumber=0x7f0f04a7;
+    public static final int strPersonalNumberCheckDigit=0x7f0f04a8;
+    public static final int strPersonalNumberChecksum=0x7f0f04a9;
+    public static final int strPersonalSummary=0x7f0f04aa;
+    public static final int strPersonalizationSN=0x7f0f04ab;
+    public static final int strPhone=0x7f0f04ac;
+    public static final int strPhotoArea=0x7f0f04ad;
+    public static final int strPhotoColor=0x7f0f04ae;
+    public static final int strPhotoCorners=0x7f0f04af;
+    public static final int strPhotoElement=0x7f0f04b0;
+    public static final int strPhotoEmbedType=0x7f0f04b1;
+    public static final int strPhotoProcessing=0x7f0f04b2;
+    public static final int strPhotoShape=0x7f0f04b3;
+    public static final int strPhotoSizeCheck=0x7f0f04b4;
+    public static final int strPlace1120OnTheDocument=0x7f0f04b5;
+    public static final int strPlaceDocumentInFrame=0x7f0f04b6;
+    public static final int strPlaceOfBirthRUS=0x7f0f04b7;
+    public static final int strPlaceOfBirthStateCode=0x7f0f04b8;
+    public static final int strPlaceOfExamination=0x7f0f04b9;
+    public static final int strPlaceOfIssue=0x7f0f04ba;
+    public static final int strPlacePhoneOnDoc=0x7f0f04bb;
+    public static final int strPlaceofBirth=0x7f0f04bc;
+    public static final int strPlaceofBirthArea=0x7f0f04bd;
+    public static final int strPlaceofRegistration=0x7f0f04be;
+    public static final int strPoliceDistrict=0x7f0f04bf;
+    public static final int strPortrait=0x7f0f04c0;
+    public static final int strPortraitComparison=0x7f0f04c1;
+    public static final int strPortraitOfChild=0x7f0f04c2;
+    public static final int strPortraitVSCamera=0x7f0f04c3;
+    public static final int strPortraitVSGhost=0x7f0f04c4;
+    public static final int strPortraitVSRFID=0x7f0f04c5;
+    public static final int strPowerWeightRatio=0x7f0f04c6;
+    public static final int strPrecinct=0x7f0f04c7;
+    public static final int strPrepareCamera=0x7f0f04c8;
+    public static final int strPresentNextPage=0x7f0f04c9;
+    public static final int strPreviousType=0x7f0f04ca;
+    public static final int strProcessingDocument=0x7f0f04cb;
+    public static final int strProfession=0x7f0f04cc;
+    public static final int strProfessionalIdNumber=0x7f0f04cd;
+    public static final int strProofOfCitizenship=0x7f0f04ce;
+    public static final int strPseudoCode=0x7f0f04cf;
+    public static final int strPurposeOfEntry=0x7f0f04d0;
+    public static final int strRFIDVSCamera=0x7f0f04d1;
+    public static final int strRaceEthnicity=0x7f0f04d2;
+    public static final int strRank=0x7f0f04d3;
+    public static final int strReadingRFID=0x7f0f04d4;
+    public static final int strReadingRFIDDG=0x7f0f04d5;
+    public static final int strRecognizedDocumentType=0x7f0f04d6;
+    public static final int strReferenceNumber=0x7f0f04d7;
+    public static final int strReferenceNumberCheckDigit=0x7f0f04d8;
+    public static final int strReferenceNumberChecksum=0x7f0f04d9;
+    public static final int strRegCertBodyNumber=0x7f0f04da;
+    public static final int strRegCertBodyType=0x7f0f04db;
+    public static final int strRegCertCarColor=0x7f0f04dc;
+    public static final int strRegCertCarMark=0x7f0f04dd;
+    public static final int strRegCertCarModel=0x7f0f04de;
+    public static final int strRegCertCarType=0x7f0f04df;
+    public static final int strRegCertMaxWeight=0x7f0f04e0;
+    public static final int strRegCertRegNumber=0x7f0f04e1;
+    public static final int strRegCertRegNumberCheckDigit=0x7f0f04e2;
+    public static final int strRegCertRegNumberChecksum=0x7f0f04e3;
+    public static final int strRegCertVIN=0x7f0f04e4;
+    public static final int strRegCertVINCheckDigit=0x7f0f04e5;
+    public static final int strRegCertVINChecksum=0x7f0f04e6;
+    public static final int strRegCertVehicleITSCode=0x7f0f04e7;
+    public static final int strRegCertWeight=0x7f0f04e8;
+    public static final int strRelationship=0x7f0f04e9;
+    public static final int strReligion=0x7f0f04ea;
+    public static final int strRemainderTerm=0x7f0f04eb;
+    public static final int strResidentFrom=0x7f0f04ec;
+    public static final int strResidentUntil=0x7f0f04ed;
+    public static final int strRetirementNumber=0x7f0f04ee;
+    public static final int strRevisionDate=0x7f0f04ef;
+    public static final int strRi=0x7f0f04f0;
+    public static final int strRoomNumber=0x7f0f04f1;
+    public static final int strSBHIntegrityOptions=0x7f0f04f2;
+    public static final int strSBHSecurityOptions=0x7f0f04f3;
+    public static final int strScenarioNameCapture=0x7f0f04f4;
+    public static final int strScenarioNameCaptureDesc=0x7f0f04f5;
+    public static final int strSeatNumber=0x7f0f04f6;
+    public static final int strSecondSurname=0x7f0f04f7;
+    public static final int strSection=0x7f0f04f8;
+    public static final int strSecurityText=0x7f0f04f9;
+    public static final int strSelectScenario=0x7f0f04fa;
+    public static final int strSelecteeIndicator=0x7f0f04fb;
+    public static final int strSequenceNumber=0x7f0f04fc;
+    public static final int strSerialNumber=0x7f0f04fd;
+    public static final int strSettings=0x7f0f04fe;
+    public static final int strSex=0x7f0f04ff;
+    public static final int strSignature=0x7f0f0500;
+    public static final int strSkinColor=0x7f0f0501;
+    public static final int strSocialSecurityNumber=0x7f0f0502;
+    public static final int strSpCode=0x7f0f0503;
+    public static final int strSpecialNotes=0x7f0f0504;
+    public static final int strSponsor=0x7f0f0505;
+    public static final int strSponsorSSN=0x7f0f0506;
+    public static final int strSponsorService=0x7f0f0507;
+    public static final int strSponsorStatus=0x7f0f0508;
+    public static final int strStamp=0x7f0f0509;
+    public static final int strStampNumber=0x7f0f050a;
+    public static final int strStatusDateofExpiry=0x7f0f050b;
+    public static final int strSurname=0x7f0f050c;
+    public static final int strSurnameAndGivenNames=0x7f0f050d;
+    public static final int strSurnameAndGivenNamesCheckDigit=0x7f0f050e;
+    public static final int strSurnameAndGivenNamesChecksum=0x7f0f050f;
+    public static final int strSurnameAndGivenNamesRUS=0x7f0f0510;
+    public static final int strSurnameAtBirth=0x7f0f0511;
+    public static final int strSurnameofSpose=0x7f0f0512;
+    public static final int strTa=0x7f0f0513;
+    public static final int strTax=0x7f0f0514;
+    public static final int strTaxNumber=0x7f0f0515;
+    public static final int strTelexCode=0x7f0f0516;
+    public static final int strTerritorialValidity=0x7f0f0517;
+    public static final int strTicketNumber=0x7f0f0518;
+    public static final int strTitle=0x7f0f0519;
+    public static final int strToAirportCode=0x7f0f051a;
+    public static final int strTorchUnavailable=0x7f0f051b;
+    public static final int strTrackingNumber=0x7f0f051c;
+    public static final int strTrailerHitch=0x7f0f051d;
+    public static final int strTransactionNumber=0x7f0f051e;
+    public static final int strTransmissionType=0x7f0f051f;
+    public static final int strTypeApprovalNumber=0x7f0f0520;
+    public static final int strUSCIS=0x7f0f0521;
+    public static final int strUV=0x7f0f0522;
+    public static final int strUVBackgroundComp=0x7f0f0523;
+    public static final int strUVFibers=0x7f0f0524;
+    public static final int strUVLuminescence=0x7f0f0525;
+    public static final int strUnableCaptureMedia=0x7f0f0526;
+    public static final int strUniqueCustomerIdentifier=0x7f0f0527;
+    public static final int strVRCDataObjectEntry=0x7f0f0528;
+    public static final int strValidityPeriod=0x7f0f0529;
+    public static final int strValue=0x7f0f052a;
+    public static final int strVehicleCategory=0x7f0f052b;
+    public static final int strVeteran=0x7f0f052c;
+    public static final int strVisaClass=0x7f0f052d;
+    public static final int strVisaID=0x7f0f052e;
+    public static final int strVisaIDCheckDigit=0x7f0f052f;
+    public static final int strVisaIDChecksum=0x7f0f0530;
+    public static final int strVisaIDRUS=0x7f0f0531;
+    public static final int strVisaNumber=0x7f0f0532;
+    public static final int strVisaNumberCheckDigit=0x7f0f0533;
+    public static final int strVisaNumberChecksum=0x7f0f0534;
+    public static final int strVisaSubClass=0x7f0f0535;
+    public static final int strVisaType=0x7f0f0536;
+    public static final int strVisaValidFrom=0x7f0f0537;
+    public static final int strVisaValidUntil=0x7f0f0538;
+    public static final int strVisaValidUntilCheckDigit=0x7f0f0539;
+    public static final int strVisaValidUntilChecksum=0x7f0f053a;
+    public static final int strVisibleLight=0x7f0f053b;
+    public static final int strVoter=0x7f0f053c;
+    public static final int strVoterKey=0x7f0f053d;
+    public static final int strVoucherNumber=0x7f0f053e;
+    public static final int strWHITE=0x7f0f053f;
+    public static final int strWeight=0x7f0f0540;
+    public static final int strWeightPound=0x7f0f0541;
+    public static final int strYear=0x7f0f0542;
+    public static final int strYearsSinceIssue=0x7f0f0543;
+    public static final int streIDPlaceOfBirthCity=0x7f0f0544;
+    public static final int streIDPlaceOfBirthCountry=0x7f0f0545;
+    public static final int streIDPlaceOfBirthState=0x7f0f0546;
+    public static final int streIDPlaceOfBirthStreet=0x7f0f0547;
+    public static final int streIDPlaceOfBirthZipcode=0x7f0f0548;
+    public static final int streIDResidencePermit1=0x7f0f0549;
+    public static final int streIDResidencePermit2=0x7f0f054a;
+    public static final int strfppLeftIndexFinger=0x7f0f054b;
+    public static final int strfppLeftLittleFinger=0x7f0f054c;
+    public static final int strfppLeftMiddleFinger=0x7f0f054d;
+    public static final int strfppLeftRingFinger=0x7f0f054e;
+    public static final int strfppLeftThumb=0x7f0f054f;
+    public static final int strfppRightIndexFinger=0x7f0f0550;
+    public static final int strfppRightLittleFinger=0x7f0f0551;
+    public static final int strfppRightMiddleFinger=0x7f0f0552;
+    public static final int strfppRightRingFinger=0x7f0f0553;
+    public static final int strfppRightThumb=0x7f0f0554;
+    public static final int survey_text_fake=0x7f0f0555;
+    public static final int survey_text_real=0x7f0f0556;
+    public static final int threshold=0x7f0f0557;
+    public static final int too_many_in_video=0x7f0f0558;
+    public static final int try_again=0x7f0f0559;
+    public static final int typefaceBoldPath=0x7f0f055a;
+    public static final int typefaceLightPath=0x7f0f055b;
+    public static final int typefaceMedPath=0x7f0f055c;
+    public static final int usuarioJaCadastrado=0x7f0f055d;
+    public static final int validando=0x7f0f055e;
+    public static final int verifique_status_servidor=0x7f0f055f;
+    public static final int vid_time=0x7f0f0560;
+    public static final int video_process_failed=0x7f0f0561;
+    public static final int video_upload_failed=0x7f0f0562;
+    public static final int voltar_menu=0x7f0f0563;
+    public static final int writing_permission_alert_message=0x7f0f0564;
+    public static final int writing_permission_alert_title=0x7f0f0565;
   }
   public static final class style {
     public static final int AlertDialog_AppCompat=0x7f100000;
@@ -9010,39 +9026,39 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionBar_background com.anyvision.facekeyexample.client:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundSplit com.anyvision.facekeyexample.client:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_backgroundStacked com.anyvision.facekeyexample.client:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.anyvision.facekeyexample.client:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.anyvision.facekeyexample.client:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #ActionBar_background com.anyvision.facekeyexample.ntec:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundSplit com.anyvision.facekeyexample.ntec:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_backgroundStacked com.anyvision.facekeyexample.ntec:backgroundStacked}</code></td><td>Specifies a background drawable for a second stacked row of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEnd com.anyvision.facekeyexample.ntec:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetEndWithActions com.anyvision.facekeyexample.ntec:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.anyvision.facekeyexample.client:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetRight com.anyvision.facekeyexample.client:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStart com.anyvision.facekeyexample.client:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.anyvision.facekeyexample.client:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #ActionBar_contentInsetLeft com.anyvision.facekeyexample.ntec:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetRight com.anyvision.facekeyexample.ntec:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStart com.anyvision.facekeyexample.ntec:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_contentInsetStartWithNavigation com.anyvision.facekeyexample.ntec:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.anyvision.facekeyexample.client:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
-     * <tr><td><code>{@link #ActionBar_displayOptions com.anyvision.facekeyexample.client:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
-     * <tr><td><code>{@link #ActionBar_divider com.anyvision.facekeyexample.client:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #ActionBar_elevation com.anyvision.facekeyexample.client:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #ActionBar_height com.anyvision.facekeyexample.client:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.anyvision.facekeyexample.client:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.anyvision.facekeyexample.client:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #ActionBar_homeLayout com.anyvision.facekeyexample.client:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_icon com.anyvision.facekeyexample.client:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.anyvision.facekeyexample.client:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
-     * <tr><td><code>{@link #ActionBar_itemPadding com.anyvision.facekeyexample.client:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
+     * <tr><td><code>{@link #ActionBar_customNavigationLayout com.anyvision.facekeyexample.ntec:customNavigationLayout}</code></td><td>Specifies a layout for custom navigation.</td></tr>
+     * <tr><td><code>{@link #ActionBar_displayOptions com.anyvision.facekeyexample.ntec:displayOptions}</code></td><td>Options affecting how the action bar is displayed.</td></tr>
+     * <tr><td><code>{@link #ActionBar_divider com.anyvision.facekeyexample.ntec:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #ActionBar_elevation com.anyvision.facekeyexample.ntec:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #ActionBar_height com.anyvision.facekeyexample.ntec:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_hideOnContentScroll com.anyvision.facekeyexample.ntec:hideOnContentScroll}</code></td><td>Set true to hide the action bar on a vertical nested scroll of content.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.anyvision.facekeyexample.ntec:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #ActionBar_homeLayout com.anyvision.facekeyexample.ntec:homeLayout}</code></td><td>Specifies a layout to use for the "home" section of the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_icon com.anyvision.facekeyexample.ntec:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.anyvision.facekeyexample.ntec:indeterminateProgressStyle}</code></td><td>Specifies a style resource to use for an indeterminate progress spinner.</td></tr>
+     * <tr><td><code>{@link #ActionBar_itemPadding com.anyvision.facekeyexample.ntec:itemPadding}</code></td><td>Specifies padding that should be applied to the left and right sides of
      * system-provided items in the bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_logo com.anyvision.facekeyexample.client:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #ActionBar_navigationMode com.anyvision.facekeyexample.client:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
-     * <tr><td><code>{@link #ActionBar_popupTheme com.anyvision.facekeyexample.client:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #ActionBar_logo com.anyvision.facekeyexample.ntec:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #ActionBar_navigationMode com.anyvision.facekeyexample.ntec:navigationMode}</code></td><td>The type of navigation to use.</td></tr>
+     * <tr><td><code>{@link #ActionBar_popupTheme com.anyvision.facekeyexample.ntec:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarPadding com.anyvision.facekeyexample.client:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_progressBarStyle com.anyvision.facekeyexample.client:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitle com.anyvision.facekeyexample.client:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.anyvision.facekeyexample.client:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionBar_title com.anyvision.facekeyexample.client:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionBar_titleTextStyle com.anyvision.facekeyexample.client:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarPadding com.anyvision.facekeyexample.ntec:progressBarPadding}</code></td><td>Specifies the horizontal padding on either end for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_progressBarStyle com.anyvision.facekeyexample.ntec:progressBarStyle}</code></td><td>Specifies a style resource to use for an embedded progress bar.</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitle com.anyvision.facekeyexample.ntec:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #ActionBar_subtitleTextStyle com.anyvision.facekeyexample.ntec:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionBar_title com.anyvision.facekeyexample.ntec:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionBar_titleTextStyle com.anyvision.facekeyexample.ntec:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionBar_background
      * @see #ActionBar_backgroundSplit
@@ -9094,7 +9110,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:background
+     * @attr name com.anyvision.facekeyexample.ntec:background
      */
     public static final int ActionBar_background=0;
     /**
@@ -9110,7 +9126,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:backgroundSplit
+     * @attr name com.anyvision.facekeyexample.ntec:backgroundSplit
      */
     public static final int ActionBar_backgroundSplit=1;
     /**
@@ -9126,7 +9142,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:backgroundStacked
+     * @attr name com.anyvision.facekeyexample.ntec:backgroundStacked
      */
     public static final int ActionBar_backgroundStacked=2;
     /**
@@ -9141,7 +9157,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:contentInsetEnd
+     * @attr name com.anyvision.facekeyexample.ntec:contentInsetEnd
      */
     public static final int ActionBar_contentInsetEnd=3;
     /**
@@ -9156,7 +9172,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:contentInsetEndWithActions
+     * @attr name com.anyvision.facekeyexample.ntec:contentInsetEndWithActions
      */
     public static final int ActionBar_contentInsetEndWithActions=4;
     /**
@@ -9171,7 +9187,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:contentInsetLeft
+     * @attr name com.anyvision.facekeyexample.ntec:contentInsetLeft
      */
     public static final int ActionBar_contentInsetLeft=5;
     /**
@@ -9186,7 +9202,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:contentInsetRight
+     * @attr name com.anyvision.facekeyexample.ntec:contentInsetRight
      */
     public static final int ActionBar_contentInsetRight=6;
     /**
@@ -9201,7 +9217,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:contentInsetStart
+     * @attr name com.anyvision.facekeyexample.ntec:contentInsetStart
      */
     public static final int ActionBar_contentInsetStart=7;
     /**
@@ -9216,7 +9232,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:contentInsetStartWithNavigation
+     * @attr name com.anyvision.facekeyexample.ntec:contentInsetStartWithNavigation
      */
     public static final int ActionBar_contentInsetStartWithNavigation=8;
     /**
@@ -9229,7 +9245,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:customNavigationLayout
+     * @attr name com.anyvision.facekeyexample.ntec:customNavigationLayout
      */
     public static final int ActionBar_customNavigationLayout=9;
     /**
@@ -9252,7 +9268,7 @@ public final class R {
      * <tr><td>useLogo</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:displayOptions
+     * @attr name com.anyvision.facekeyexample.ntec:displayOptions
      */
     public static final int ActionBar_displayOptions=10;
     /**
@@ -9265,7 +9281,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:divider
+     * @attr name com.anyvision.facekeyexample.ntec:divider
      */
     public static final int ActionBar_divider=11;
     /**
@@ -9279,7 +9295,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:elevation
+     * @attr name com.anyvision.facekeyexample.ntec:elevation
      */
     public static final int ActionBar_elevation=12;
     /**
@@ -9293,7 +9309,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:height
+     * @attr name com.anyvision.facekeyexample.ntec:height
      */
     public static final int ActionBar_height=13;
     /**
@@ -9304,7 +9320,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:hideOnContentScroll
+     * @attr name com.anyvision.facekeyexample.ntec:hideOnContentScroll
      */
     public static final int ActionBar_hideOnContentScroll=14;
     /**
@@ -9317,7 +9333,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:homeAsUpIndicator
+     * @attr name com.anyvision.facekeyexample.ntec:homeAsUpIndicator
      */
     public static final int ActionBar_homeAsUpIndicator=15;
     /**
@@ -9330,7 +9346,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:homeLayout
+     * @attr name com.anyvision.facekeyexample.ntec:homeLayout
      */
     public static final int ActionBar_homeLayout=16;
     /**
@@ -9343,7 +9359,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:icon
+     * @attr name com.anyvision.facekeyexample.ntec:icon
      */
     public static final int ActionBar_icon=17;
     /**
@@ -9356,7 +9372,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:indeterminateProgressStyle
+     * @attr name com.anyvision.facekeyexample.ntec:indeterminateProgressStyle
      */
     public static final int ActionBar_indeterminateProgressStyle=18;
     /**
@@ -9371,7 +9387,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:itemPadding
+     * @attr name com.anyvision.facekeyexample.ntec:itemPadding
      */
     public static final int ActionBar_itemPadding=19;
     /**
@@ -9384,7 +9400,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:logo
+     * @attr name com.anyvision.facekeyexample.ntec:logo
      */
     public static final int ActionBar_logo=20;
     /**
@@ -9403,7 +9419,7 @@ public final class R {
      * <tr><td>tabMode</td><td>2</td><td>The action bar will use a series of horizontal tabs for navigation.</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:navigationMode
+     * @attr name com.anyvision.facekeyexample.ntec:navigationMode
      */
     public static final int ActionBar_navigationMode=21;
     /**
@@ -9417,7 +9433,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:popupTheme
+     * @attr name com.anyvision.facekeyexample.ntec:popupTheme
      */
     public static final int ActionBar_popupTheme=22;
     /**
@@ -9431,7 +9447,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:progressBarPadding
+     * @attr name com.anyvision.facekeyexample.ntec:progressBarPadding
      */
     public static final int ActionBar_progressBarPadding=23;
     /**
@@ -9444,7 +9460,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:progressBarStyle
+     * @attr name com.anyvision.facekeyexample.ntec:progressBarStyle
      */
     public static final int ActionBar_progressBarStyle=24;
     /**
@@ -9455,7 +9471,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:subtitle
+     * @attr name com.anyvision.facekeyexample.ntec:subtitle
      */
     public static final int ActionBar_subtitle=25;
     /**
@@ -9468,7 +9484,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:subtitleTextStyle
+     * @attr name com.anyvision.facekeyexample.ntec:subtitleTextStyle
      */
     public static final int ActionBar_subtitleTextStyle=26;
     /**
@@ -9479,7 +9495,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:title
+     * @attr name com.anyvision.facekeyexample.ntec:title
      */
     public static final int ActionBar_title=27;
     /**
@@ -9492,7 +9508,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:titleTextStyle
+     * @attr name com.anyvision.facekeyexample.ntec:titleTextStyle
      */
     public static final int ActionBar_titleTextStyle=28;
     /**
@@ -9574,12 +9590,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActionMode_background com.anyvision.facekeyexample.client:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_backgroundSplit com.anyvision.facekeyexample.client:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
-     * <tr><td><code>{@link #ActionMode_closeItemLayout com.anyvision.facekeyexample.client:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
-     * <tr><td><code>{@link #ActionMode_height com.anyvision.facekeyexample.client:height}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.anyvision.facekeyexample.client:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
-     * <tr><td><code>{@link #ActionMode_titleTextStyle com.anyvision.facekeyexample.client:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_background com.anyvision.facekeyexample.ntec:background}</code></td><td>Specifies a background drawable for the action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_backgroundSplit com.anyvision.facekeyexample.ntec:backgroundSplit}</code></td><td>Specifies a background drawable for the bottom component of a split action bar.</td></tr>
+     * <tr><td><code>{@link #ActionMode_closeItemLayout com.anyvision.facekeyexample.ntec:closeItemLayout}</code></td><td>Specifies a layout to use for the "close" item at the starting edge.</td></tr>
+     * <tr><td><code>{@link #ActionMode_height com.anyvision.facekeyexample.ntec:height}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ActionMode_subtitleTextStyle com.anyvision.facekeyexample.ntec:subtitleTextStyle}</code></td><td>Specifies a style to use for subtitle text.</td></tr>
+     * <tr><td><code>{@link #ActionMode_titleTextStyle com.anyvision.facekeyexample.ntec:titleTextStyle}</code></td><td>Specifies a style to use for title text.</td></tr>
      * </table>
      * @see #ActionMode_background
      * @see #ActionMode_backgroundSplit
@@ -9602,7 +9618,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:background
+     * @attr name com.anyvision.facekeyexample.ntec:background
      */
     public static final int ActionMode_background=0;
     /**
@@ -9618,7 +9634,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:backgroundSplit
+     * @attr name com.anyvision.facekeyexample.ntec:backgroundSplit
      */
     public static final int ActionMode_backgroundSplit=1;
     /**
@@ -9631,7 +9647,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:closeItemLayout
+     * @attr name com.anyvision.facekeyexample.ntec:closeItemLayout
      */
     public static final int ActionMode_closeItemLayout=2;
     /**
@@ -9645,7 +9661,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:height
+     * @attr name com.anyvision.facekeyexample.ntec:height
      */
     public static final int ActionMode_height=3;
     /**
@@ -9658,7 +9674,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:subtitleTextStyle
+     * @attr name com.anyvision.facekeyexample.ntec:subtitleTextStyle
      */
     public static final int ActionMode_subtitleTextStyle=4;
     /**
@@ -9671,7 +9687,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:titleTextStyle
+     * @attr name com.anyvision.facekeyexample.ntec:titleTextStyle
      */
     public static final int ActionMode_titleTextStyle=5;
     /**
@@ -9681,8 +9697,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.anyvision.facekeyexample.client:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
-     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.anyvision.facekeyexample.client:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.anyvision.facekeyexample.ntec:expandActivityOverflowButtonDrawable}</code></td><td>The drawable to show in the button for expanding the activities overflow popup.</td></tr>
+     * <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.anyvision.facekeyexample.ntec:initialActivityCount}</code></td><td>The maximal number of items initially shown in the activity list.</td></tr>
      * </table>
      * @see #ActivityChooserView_expandActivityOverflowButtonDrawable
      * @see #ActivityChooserView_initialActivityCount
@@ -9704,7 +9720,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:expandActivityOverflowButtonDrawable
+     * @attr name com.anyvision.facekeyexample.ntec:expandActivityOverflowButtonDrawable
      */
     public static final int ActivityChooserView_expandActivityOverflowButtonDrawable=0;
     /**
@@ -9715,7 +9731,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:initialActivityCount
+     * @attr name com.anyvision.facekeyexample.ntec:initialActivityCount
      */
     public static final int ActivityChooserView_initialActivityCount=1;
     /**
@@ -9726,13 +9742,13 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.anyvision.facekeyexample.client:buttonIconDimen}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.anyvision.facekeyexample.client:buttonPanelSideLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listItemLayout com.anyvision.facekeyexample.client:listItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_listLayout com.anyvision.facekeyexample.client:listLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.anyvision.facekeyexample.client:multiChoiceItemLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_showTitle com.anyvision.facekeyexample.client:showTitle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.anyvision.facekeyexample.client:singleChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonIconDimen com.anyvision.facekeyexample.ntec:buttonIconDimen}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.anyvision.facekeyexample.ntec:buttonPanelSideLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listItemLayout com.anyvision.facekeyexample.ntec:listItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_listLayout com.anyvision.facekeyexample.ntec:listLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.anyvision.facekeyexample.ntec:multiChoiceItemLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_showTitle com.anyvision.facekeyexample.ntec:showTitle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.anyvision.facekeyexample.ntec:singleChoiceItemLayout}</code></td><td></td></tr>
      * </table>
      * @see #AlertDialog_android_layout
      * @see #AlertDialog_buttonIconDimen
@@ -9760,7 +9776,7 @@ public final class R {
      */
     public static final int AlertDialog_android_layout=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#buttonIconDimen}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#buttonIconDimen}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -9769,11 +9785,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:buttonIconDimen
+     * @attr name com.anyvision.facekeyexample.ntec:buttonIconDimen
      */
     public static final int AlertDialog_buttonIconDimen=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#buttonPanelSideLayout}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#buttonPanelSideLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9781,11 +9797,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:buttonPanelSideLayout
+     * @attr name com.anyvision.facekeyexample.ntec:buttonPanelSideLayout
      */
     public static final int AlertDialog_buttonPanelSideLayout=2;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#listItemLayout}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#listItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9793,11 +9809,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:listItemLayout
+     * @attr name com.anyvision.facekeyexample.ntec:listItemLayout
      */
     public static final int AlertDialog_listItemLayout=3;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#listLayout}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#listLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9805,11 +9821,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:listLayout
+     * @attr name com.anyvision.facekeyexample.ntec:listLayout
      */
     public static final int AlertDialog_listLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#multiChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#multiChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9817,21 +9833,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:multiChoiceItemLayout
+     * @attr name com.anyvision.facekeyexample.ntec:multiChoiceItemLayout
      */
     public static final int AlertDialog_multiChoiceItemLayout=5;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#showTitle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#showTitle}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:showTitle
+     * @attr name com.anyvision.facekeyexample.ntec:showTitle
      */
     public static final int AlertDialog_showTitle=6;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#singleChoiceItemLayout}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#singleChoiceItemLayout}
      * attribute's value can be found in the {@link #AlertDialog} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -9839,7 +9855,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:singleChoiceItemLayout
+     * @attr name com.anyvision.facekeyexample.ntec:singleChoiceItemLayout
      */
     public static final int AlertDialog_singleChoiceItemLayout=7;
     /**
@@ -10065,9 +10081,9 @@ public final class R {
      * <tr><td><code>{@link #AppBarLayout_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_touchscreenBlocksFocus android:touchscreenBlocksFocus}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppBarLayout_android_keyboardNavigationCluster android:keyboardNavigationCluster}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_elevation com.anyvision.facekeyexample.client:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #AppBarLayout_expanded com.anyvision.facekeyexample.client:expanded}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.anyvision.facekeyexample.client:liftOnScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_elevation com.anyvision.facekeyexample.ntec:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #AppBarLayout_expanded com.anyvision.facekeyexample.ntec:expanded}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_liftOnScroll com.anyvision.facekeyexample.ntec:liftOnScroll}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_android_background
      * @see #AppBarLayout_android_touchscreenBlocksFocus
@@ -10126,27 +10142,27 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:elevation
+     * @attr name com.anyvision.facekeyexample.ntec:elevation
      */
     public static final int AppBarLayout_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#expanded}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#expanded}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:expanded
+     * @attr name com.anyvision.facekeyexample.ntec:expanded
      */
     public static final int AppBarLayout_expanded=4;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#liftOnScroll}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#liftOnScroll}
      * attribute's value can be found in the {@link #AppBarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:liftOnScroll
+     * @attr name com.anyvision.facekeyexample.ntec:liftOnScroll
      */
     public static final int AppBarLayout_liftOnScroll=5;
     /**
@@ -10156,10 +10172,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.anyvision.facekeyexample.client:state_collapsed}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.anyvision.facekeyexample.client:state_collapsible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.anyvision.facekeyexample.client:state_liftable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.anyvision.facekeyexample.client:state_lifted}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsed com.anyvision.facekeyexample.ntec:state_collapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_collapsible com.anyvision.facekeyexample.ntec:state_collapsible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_liftable com.anyvision.facekeyexample.ntec:state_liftable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayoutStates_state_lifted com.anyvision.facekeyexample.ntec:state_lifted}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayoutStates_state_collapsed
      * @see #AppBarLayoutStates_state_collapsible
@@ -10170,43 +10186,43 @@ public final class R {
       0x7f03020f, 0x7f030210, 0x7f030211, 0x7f030212
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#state_collapsed}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#state_collapsed}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:state_collapsed
+     * @attr name com.anyvision.facekeyexample.ntec:state_collapsed
      */
     public static final int AppBarLayoutStates_state_collapsed=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#state_collapsible}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#state_collapsible}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:state_collapsible
+     * @attr name com.anyvision.facekeyexample.ntec:state_collapsible
      */
     public static final int AppBarLayoutStates_state_collapsible=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#state_liftable}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#state_liftable}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:state_liftable
+     * @attr name com.anyvision.facekeyexample.ntec:state_liftable
      */
     public static final int AppBarLayoutStates_state_liftable=2;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#state_lifted}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#state_lifted}
      * attribute's value can be found in the {@link #AppBarLayoutStates} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:state_lifted
+     * @attr name com.anyvision.facekeyexample.ntec:state_lifted
      */
     public static final int AppBarLayoutStates_state_lifted=3;
     /**
@@ -10216,8 +10232,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.anyvision.facekeyexample.client:layout_scrollFlags}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.anyvision.facekeyexample.client:layout_scrollInterpolator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollFlags com.anyvision.facekeyexample.ntec:layout_scrollFlags}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppBarLayout_Layout_layout_scrollInterpolator com.anyvision.facekeyexample.ntec:layout_scrollInterpolator}</code></td><td></td></tr>
      * </table>
      * @see #AppBarLayout_Layout_layout_scrollFlags
      * @see #AppBarLayout_Layout_layout_scrollInterpolator
@@ -10226,7 +10242,7 @@ public final class R {
       0x7f0301aa, 0x7f0301ab
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_scrollFlags}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_scrollFlags}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -10243,11 +10259,11 @@ public final class R {
      * <tr><td>snapMargins</td><td>20</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_scrollFlags
+     * @attr name com.anyvision.facekeyexample.ntec:layout_scrollFlags
      */
     public static final int AppBarLayout_Layout_layout_scrollFlags=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_scrollInterpolator}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_scrollInterpolator}
      * attribute's value can be found in the {@link #AppBarLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -10255,7 +10271,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_scrollInterpolator
+     * @attr name com.anyvision.facekeyexample.ntec:layout_scrollInterpolator
      */
     public static final int AppBarLayout_Layout_layout_scrollInterpolator=1;
     /**
@@ -10266,9 +10282,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatImageView_android_src android:src}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.anyvision.facekeyexample.client:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tint com.anyvision.facekeyexample.client:tint}</code></td><td>Tint to apply to the image source.</td></tr>
-     * <tr><td><code>{@link #AppCompatImageView_tintMode com.anyvision.facekeyexample.client:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_srcCompat com.anyvision.facekeyexample.ntec:srcCompat}</code></td><td>Sets a drawable as the content of this ImageView.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tint com.anyvision.facekeyexample.ntec:tint}</code></td><td>Tint to apply to the image source.</td></tr>
+     * <tr><td><code>{@link #AppCompatImageView_tintMode com.anyvision.facekeyexample.ntec:tintMode}</code></td><td>Blending mode used to apply the image source tint.</td></tr>
      * </table>
      * @see #AppCompatImageView_android_src
      * @see #AppCompatImageView_srcCompat
@@ -10304,7 +10320,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:srcCompat
+     * @attr name com.anyvision.facekeyexample.ntec:srcCompat
      */
     public static final int AppCompatImageView_srcCompat=1;
     /**
@@ -10316,7 +10332,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:tint
+     * @attr name com.anyvision.facekeyexample.ntec:tint
      */
     public static final int AppCompatImageView_tint=2;
     /**
@@ -10343,7 +10359,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:tintMode
+     * @attr name com.anyvision.facekeyexample.ntec:tintMode
      */
     public static final int AppCompatImageView_tintMode=3;
     /**
@@ -10354,9 +10370,9 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatSeekBar_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.anyvision.facekeyexample.client:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.anyvision.facekeyexample.client:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.anyvision.facekeyexample.client:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMark com.anyvision.facekeyexample.ntec:tickMark}</code></td><td>Drawable displayed at each progress position on a seekbar.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTint com.anyvision.facekeyexample.ntec:tickMarkTint}</code></td><td>Tint to apply to the tick mark drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatSeekBar_tickMarkTintMode com.anyvision.facekeyexample.ntec:tickMarkTintMode}</code></td><td>Blending mode used to apply the tick mark tint.</td></tr>
      * </table>
      * @see #AppCompatSeekBar_android_thumb
      * @see #AppCompatSeekBar_tickMark
@@ -10388,7 +10404,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:tickMark
+     * @attr name com.anyvision.facekeyexample.ntec:tickMark
      */
     public static final int AppCompatSeekBar_tickMark=1;
     /**
@@ -10400,7 +10416,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:tickMarkTint
+     * @attr name com.anyvision.facekeyexample.ntec:tickMarkTint
      */
     public static final int AppCompatSeekBar_tickMarkTint=2;
     /**
@@ -10427,7 +10443,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:tickMarkTintMode
+     * @attr name com.anyvision.facekeyexample.ntec:tickMarkTintMode
      */
     public static final int AppCompatSeekBar_tickMarkTintMode=3;
     /**
@@ -10567,18 +10583,18 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.anyvision.facekeyexample.client:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.anyvision.facekeyexample.client:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.anyvision.facekeyexample.client:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMaxTextSize com.anyvision.facekeyexample.ntec:autoSizeMaxTextSize}</code></td><td>The maximum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeMinTextSize com.anyvision.facekeyexample.ntec:autoSizeMinTextSize}</code></td><td>The minimum text size constraint to be used when auto-sizing text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizePresetSizes com.anyvision.facekeyexample.ntec:autoSizePresetSizes}</code></td><td>Resource array of dimensions to be used in conjunction with
      * <code>autoSizeTextType</code> set to <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.anyvision.facekeyexample.client:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeStepGranularity com.anyvision.facekeyexample.ntec:autoSizeStepGranularity}</code></td><td>Specify the auto-size step size if <code>autoSizeTextType</code> is set to
      * <code>uniform</code>.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.anyvision.facekeyexample.client:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.anyvision.facekeyexample.client:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.anyvision.facekeyexample.client:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.anyvision.facekeyexample.client:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.anyvision.facekeyexample.client:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
-     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.anyvision.facekeyexample.client:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_autoSizeTextType com.anyvision.facekeyexample.ntec:autoSizeTextType}</code></td><td>Specify the type of auto-size.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_firstBaselineToTopHeight com.anyvision.facekeyexample.ntec:firstBaselineToTopHeight}</code></td><td>Distance from the top of the TextView to the first text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_fontFamily com.anyvision.facekeyexample.ntec:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lastBaselineToBottomHeight com.anyvision.facekeyexample.ntec:lastBaselineToBottomHeight}</code></td><td>Distance from the bottom of the TextView to the last text baseline.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_lineHeight com.anyvision.facekeyexample.ntec:lineHeight}</code></td><td>Explicit height between lines of text.</td></tr>
+     * <tr><td><code>{@link #AppCompatTextView_textAllCaps com.anyvision.facekeyexample.ntec:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
      * </table>
      * @see #AppCompatTextView_android_textAppearance
      * @see #AppCompatTextView_autoSizeMaxTextSize
@@ -10620,7 +10636,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:autoSizeMaxTextSize
+     * @attr name com.anyvision.facekeyexample.ntec:autoSizeMaxTextSize
      */
     public static final int AppCompatTextView_autoSizeMaxTextSize=1;
     /**
@@ -10634,7 +10650,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:autoSizeMinTextSize
+     * @attr name com.anyvision.facekeyexample.ntec:autoSizeMinTextSize
      */
     public static final int AppCompatTextView_autoSizeMinTextSize=2;
     /**
@@ -10649,7 +10665,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:autoSizePresetSizes
+     * @attr name com.anyvision.facekeyexample.ntec:autoSizePresetSizes
      */
     public static final int AppCompatTextView_autoSizePresetSizes=3;
     /**
@@ -10665,7 +10681,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:autoSizeStepGranularity
+     * @attr name com.anyvision.facekeyexample.ntec:autoSizeStepGranularity
      */
     public static final int AppCompatTextView_autoSizeStepGranularity=4;
     /**
@@ -10685,7 +10701,7 @@ public final class R {
      * container.</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:autoSizeTextType
+     * @attr name com.anyvision.facekeyexample.ntec:autoSizeTextType
      */
     public static final int AppCompatTextView_autoSizeTextType=5;
     /**
@@ -10700,7 +10716,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:firstBaselineToTopHeight
+     * @attr name com.anyvision.facekeyexample.ntec:firstBaselineToTopHeight
      */
     public static final int AppCompatTextView_firstBaselineToTopHeight=6;
     /**
@@ -10711,7 +10727,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:fontFamily
+     * @attr name com.anyvision.facekeyexample.ntec:fontFamily
      */
     public static final int AppCompatTextView_fontFamily=7;
     /**
@@ -10726,7 +10742,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:lastBaselineToBottomHeight
+     * @attr name com.anyvision.facekeyexample.ntec:lastBaselineToBottomHeight
      */
     public static final int AppCompatTextView_lastBaselineToBottomHeight=8;
     /**
@@ -10741,7 +10757,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:lineHeight
+     * @attr name com.anyvision.facekeyexample.ntec:lineHeight
      */
     public static final int AppCompatTextView_lineHeight=9;
     /**
@@ -10756,7 +10772,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAllCaps
+     * @attr name com.anyvision.facekeyexample.ntec:textAllCaps
      */
     public static final int AppCompatTextView_textAllCaps=10;
     /**
@@ -10768,142 +10784,142 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
      * <tr><td><code>{@link #AppCompatTheme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.anyvision.facekeyexample.client:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.anyvision.facekeyexample.client:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.anyvision.facekeyexample.client:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #AppCompatTheme_actionBarDivider com.anyvision.facekeyexample.ntec:actionBarDivider}</code></td><td>Custom divider drawable to use for elements in the action bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarItemBackground com.anyvision.facekeyexample.ntec:actionBarItemBackground}</code></td><td>Custom item state list drawable background for action bar items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarPopupTheme com.anyvision.facekeyexample.ntec:actionBarPopupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.anyvision.facekeyexample.client:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSize com.anyvision.facekeyexample.ntec:actionBarSize}</code></td><td>Size of the Action Bar, including the contextual
      * bar used to present Action Modes.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.anyvision.facekeyexample.client:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.anyvision.facekeyexample.client:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.anyvision.facekeyexample.client:actionBarTabBarStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.anyvision.facekeyexample.client:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.anyvision.facekeyexample.client:actionBarTabTextStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.anyvision.facekeyexample.client:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
+     * <tr><td><code>{@link #AppCompatTheme_actionBarSplitStyle com.anyvision.facekeyexample.ntec:actionBarSplitStyle}</code></td><td>Reference to a style for the split Action Bar.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarStyle com.anyvision.facekeyexample.ntec:actionBarStyle}</code></td><td>Reference to a style for the Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabBarStyle com.anyvision.facekeyexample.ntec:actionBarTabBarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabStyle com.anyvision.facekeyexample.ntec:actionBarTabStyle}</code></td><td>Default style for tabs within an action bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTabTextStyle com.anyvision.facekeyexample.ntec:actionBarTabTextStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionBarTheme com.anyvision.facekeyexample.ntec:actionBarTheme}</code></td><td>Reference to a theme that should be used to inflate the
      * action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.anyvision.facekeyexample.client:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
+     * <tr><td><code>{@link #AppCompatTheme_actionBarWidgetTheme com.anyvision.facekeyexample.ntec:actionBarWidgetTheme}</code></td><td>Reference to a theme that should be used to inflate widgets
      * and layouts destined for the action bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.anyvision.facekeyexample.client:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.anyvision.facekeyexample.client:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.anyvision.facekeyexample.client:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
+     * <tr><td><code>{@link #AppCompatTheme_actionButtonStyle com.anyvision.facekeyexample.ntec:actionButtonStyle}</code></td><td>Default action button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionDropDownStyle com.anyvision.facekeyexample.ntec:actionDropDownStyle}</code></td><td>Default ActionBar dropdown style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextAppearance com.anyvision.facekeyexample.ntec:actionMenuTextAppearance}</code></td><td>TextAppearance style that will be applied to text that
      * appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.anyvision.facekeyexample.client:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.anyvision.facekeyexample.client:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.anyvision.facekeyexample.client:actionModeCloseButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.anyvision.facekeyexample.client:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.anyvision.facekeyexample.client:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.anyvision.facekeyexample.client:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.anyvision.facekeyexample.client:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.anyvision.facekeyexample.client:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.anyvision.facekeyexample.client:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.anyvision.facekeyexample.client:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.anyvision.facekeyexample.client:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.anyvision.facekeyexample.client:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.anyvision.facekeyexample.client:actionModeStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.anyvision.facekeyexample.client:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.anyvision.facekeyexample.client:actionOverflowButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.anyvision.facekeyexample.client:actionOverflowMenuStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.anyvision.facekeyexample.client:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.anyvision.facekeyexample.client:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.anyvision.facekeyexample.client:alertDialogCenterButtons}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.anyvision.facekeyexample.client:alertDialogStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.anyvision.facekeyexample.client:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.anyvision.facekeyexample.client:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.anyvision.facekeyexample.client:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.anyvision.facekeyexample.client:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.anyvision.facekeyexample.client:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.anyvision.facekeyexample.client:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.anyvision.facekeyexample.client:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.anyvision.facekeyexample.client:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.anyvision.facekeyexample.client:buttonStyle}</code></td><td>Normal Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.anyvision.facekeyexample.client:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.anyvision.facekeyexample.client:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.anyvision.facekeyexample.client:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.anyvision.facekeyexample.client:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.anyvision.facekeyexample.client:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.anyvision.facekeyexample.client:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.anyvision.facekeyexample.client:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.anyvision.facekeyexample.client:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.anyvision.facekeyexample.client:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorError com.anyvision.facekeyexample.client:colorError}</code></td><td>Color used for error states and things that need to be drawn to
+     * <tr><td><code>{@link #AppCompatTheme_actionMenuTextColor com.anyvision.facekeyexample.ntec:actionMenuTextColor}</code></td><td>Color for text that appears within action menu items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeBackground com.anyvision.facekeyexample.ntec:actionModeBackground}</code></td><td>Background drawable to use for action mode UI</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseButtonStyle com.anyvision.facekeyexample.ntec:actionModeCloseButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCloseDrawable com.anyvision.facekeyexample.ntec:actionModeCloseDrawable}</code></td><td>Drawable to use for the close action mode button</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCopyDrawable com.anyvision.facekeyexample.ntec:actionModeCopyDrawable}</code></td><td>Drawable to use for the Copy action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeCutDrawable com.anyvision.facekeyexample.ntec:actionModeCutDrawable}</code></td><td>Drawable to use for the Cut action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeFindDrawable com.anyvision.facekeyexample.ntec:actionModeFindDrawable}</code></td><td>Drawable to use for the Find action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePasteDrawable com.anyvision.facekeyexample.ntec:actionModePasteDrawable}</code></td><td>Drawable to use for the Paste action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModePopupWindowStyle com.anyvision.facekeyexample.ntec:actionModePopupWindowStyle}</code></td><td>PopupWindow style to use for action modes when showing as a window overlay.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSelectAllDrawable com.anyvision.facekeyexample.ntec:actionModeSelectAllDrawable}</code></td><td>Drawable to use for the Select all action button in Contextual Action Bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeShareDrawable com.anyvision.facekeyexample.ntec:actionModeShareDrawable}</code></td><td>Drawable to use for the Share action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeSplitBackground com.anyvision.facekeyexample.ntec:actionModeSplitBackground}</code></td><td>Background drawable to use for action mode UI in the lower split bar</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeStyle com.anyvision.facekeyexample.ntec:actionModeStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionModeWebSearchDrawable com.anyvision.facekeyexample.ntec:actionModeWebSearchDrawable}</code></td><td>Drawable to use for the Web Search action button in WebView selection action modes</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowButtonStyle com.anyvision.facekeyexample.ntec:actionOverflowButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_actionOverflowMenuStyle com.anyvision.facekeyexample.ntec:actionOverflowMenuStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_activityChooserViewStyle com.anyvision.facekeyexample.ntec:activityChooserViewStyle}</code></td><td>Default ActivityChooserView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogButtonGroupStyle com.anyvision.facekeyexample.ntec:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogCenterButtons com.anyvision.facekeyexample.ntec:alertDialogCenterButtons}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogStyle com.anyvision.facekeyexample.ntec:alertDialogStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_alertDialogTheme com.anyvision.facekeyexample.ntec:alertDialogTheme}</code></td><td>Theme to use for alert dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_autoCompleteTextViewStyle com.anyvision.facekeyexample.ntec:autoCompleteTextViewStyle}</code></td><td>Default AutoCompleteTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_borderlessButtonStyle com.anyvision.facekeyexample.ntec:borderlessButtonStyle}</code></td><td>Style for buttons without an explicit border, often used in groups.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarButtonStyle com.anyvision.facekeyexample.ntec:buttonBarButtonStyle}</code></td><td>Style for buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNegativeButtonStyle com.anyvision.facekeyexample.ntec:buttonBarNegativeButtonStyle}</code></td><td>Style for the "negative" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarNeutralButtonStyle com.anyvision.facekeyexample.ntec:buttonBarNeutralButtonStyle}</code></td><td>Style for the "neutral" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarPositiveButtonStyle com.anyvision.facekeyexample.ntec:buttonBarPositiveButtonStyle}</code></td><td>Style for the "positive" buttons within button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonBarStyle com.anyvision.facekeyexample.ntec:buttonBarStyle}</code></td><td>Style for button bars</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyle com.anyvision.facekeyexample.ntec:buttonStyle}</code></td><td>Normal Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_buttonStyleSmall com.anyvision.facekeyexample.ntec:buttonStyleSmall}</code></td><td>Small Button style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkboxStyle com.anyvision.facekeyexample.ntec:checkboxStyle}</code></td><td>Default Checkbox style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_checkedTextViewStyle com.anyvision.facekeyexample.ntec:checkedTextViewStyle}</code></td><td>Default CheckedTextView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorAccent com.anyvision.facekeyexample.ntec:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorBackgroundFloating com.anyvision.facekeyexample.ntec:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorButtonNormal com.anyvision.facekeyexample.ntec:colorButtonNormal}</code></td><td>The color applied to framework buttons in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlActivated com.anyvision.facekeyexample.ntec:colorControlActivated}</code></td><td>The color applied to framework controls in their activated (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlHighlight com.anyvision.facekeyexample.ntec:colorControlHighlight}</code></td><td>The color applied to framework control highlights (ex.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorControlNormal com.anyvision.facekeyexample.ntec:colorControlNormal}</code></td><td>The color applied to framework controls in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorError com.anyvision.facekeyexample.ntec:colorError}</code></td><td>Color used for error states and things that need to be drawn to
      * the user's attention.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.anyvision.facekeyexample.client:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.anyvision.facekeyexample.client:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.anyvision.facekeyexample.client:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.anyvision.facekeyexample.client:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.anyvision.facekeyexample.client:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.anyvision.facekeyexample.client:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.anyvision.facekeyexample.client:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.anyvision.facekeyexample.client:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.anyvision.facekeyexample.client:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.anyvision.facekeyexample.client:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.anyvision.facekeyexample.client:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.anyvision.facekeyexample.client:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.anyvision.facekeyexample.client:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.anyvision.facekeyexample.client:editTextStyle}</code></td><td>Default EditText style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.anyvision.facekeyexample.client:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.anyvision.facekeyexample.client:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.anyvision.facekeyexample.client:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.anyvision.facekeyexample.client:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.anyvision.facekeyexample.client:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.anyvision.facekeyexample.client:listPopupWindowStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.anyvision.facekeyexample.client:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.anyvision.facekeyexample.client:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.anyvision.facekeyexample.client:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.anyvision.facekeyexample.client:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.anyvision.facekeyexample.client:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.anyvision.facekeyexample.client:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.anyvision.facekeyexample.client:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.anyvision.facekeyexample.client:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.anyvision.facekeyexample.client:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.anyvision.facekeyexample.client:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.anyvision.facekeyexample.client:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.anyvision.facekeyexample.client:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.anyvision.facekeyexample.client:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.anyvision.facekeyexample.client:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.anyvision.facekeyexample.client:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.anyvision.facekeyexample.client:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.anyvision.facekeyexample.client:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimary com.anyvision.facekeyexample.ntec:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorPrimaryDark com.anyvision.facekeyexample.ntec:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_colorSwitchThumbNormal com.anyvision.facekeyexample.ntec:colorSwitchThumbNormal}</code></td><td>The color applied to framework switch thumbs in their normal state.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_controlBackground com.anyvision.facekeyexample.ntec:controlBackground}</code></td><td>The background used by framework controls.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogCornerRadius com.anyvision.facekeyexample.ntec:dialogCornerRadius}</code></td><td>Preferred corner radius of dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogPreferredPadding com.anyvision.facekeyexample.ntec:dialogPreferredPadding}</code></td><td>Preferred padding for dialog content.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dialogTheme com.anyvision.facekeyexample.ntec:dialogTheme}</code></td><td>Theme to use for dialogs spawned from this theme.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerHorizontal com.anyvision.facekeyexample.ntec:dividerHorizontal}</code></td><td>A drawable that may be used as a horizontal divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dividerVertical com.anyvision.facekeyexample.ntec:dividerVertical}</code></td><td>A drawable that may be used as a vertical divider between visual elements.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropDownListViewStyle com.anyvision.facekeyexample.ntec:dropDownListViewStyle}</code></td><td>ListPopupWindow compatibility</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_dropdownListPreferredItemHeight com.anyvision.facekeyexample.ntec:dropdownListPreferredItemHeight}</code></td><td>The preferred item height for dropdown lists.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextBackground com.anyvision.facekeyexample.ntec:editTextBackground}</code></td><td>EditText background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextColor com.anyvision.facekeyexample.ntec:editTextColor}</code></td><td>EditText text foreground color.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_editTextStyle com.anyvision.facekeyexample.ntec:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_homeAsUpIndicator com.anyvision.facekeyexample.ntec:homeAsUpIndicator}</code></td><td>Specifies a drawable to use for the 'home as up' indicator.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_imageButtonStyle com.anyvision.facekeyexample.ntec:imageButtonStyle}</code></td><td>ImageButton background drawable.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listChoiceBackgroundIndicator com.anyvision.facekeyexample.ntec:listChoiceBackgroundIndicator}</code></td><td>Drawable used as a background for selected list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listDividerAlertDialog com.anyvision.facekeyexample.ntec:listDividerAlertDialog}</code></td><td>The list divider used in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listMenuViewStyle com.anyvision.facekeyexample.ntec:listMenuViewStyle}</code></td><td>Default menu-style ListView style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPopupWindowStyle com.anyvision.facekeyexample.ntec:listPopupWindowStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeight com.anyvision.facekeyexample.ntec:listPreferredItemHeight}</code></td><td>The preferred list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightLarge com.anyvision.facekeyexample.ntec:listPreferredItemHeightLarge}</code></td><td>A larger, more robust list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemHeightSmall com.anyvision.facekeyexample.ntec:listPreferredItemHeightSmall}</code></td><td>A smaller, sleeker list item height.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingLeft com.anyvision.facekeyexample.ntec:listPreferredItemPaddingLeft}</code></td><td>The preferred padding along the left edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_listPreferredItemPaddingRight com.anyvision.facekeyexample.ntec:listPreferredItemPaddingRight}</code></td><td>The preferred padding along the right edge of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelBackground com.anyvision.facekeyexample.ntec:panelBackground}</code></td><td>The background of a panel when it is inset from the left and right edges of the screen.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListTheme com.anyvision.facekeyexample.ntec:panelMenuListTheme}</code></td><td>Default Panel Menu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_panelMenuListWidth com.anyvision.facekeyexample.ntec:panelMenuListWidth}</code></td><td>Default Panel Menu width.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupMenuStyle com.anyvision.facekeyexample.ntec:popupMenuStyle}</code></td><td>Default PopupMenu style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_popupWindowStyle com.anyvision.facekeyexample.ntec:popupWindowStyle}</code></td><td>Default PopupWindow style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_radioButtonStyle com.anyvision.facekeyexample.ntec:radioButtonStyle}</code></td><td>Default RadioButton style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyle com.anyvision.facekeyexample.ntec:ratingBarStyle}</code></td><td>Default RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleIndicator com.anyvision.facekeyexample.ntec:ratingBarStyleIndicator}</code></td><td>Indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_ratingBarStyleSmall com.anyvision.facekeyexample.ntec:ratingBarStyleSmall}</code></td><td>Small indicator RatingBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_searchViewStyle com.anyvision.facekeyexample.ntec:searchViewStyle}</code></td><td>Style for the search query widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_seekBarStyle com.anyvision.facekeyexample.ntec:seekBarStyle}</code></td><td>Default SeekBar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackground com.anyvision.facekeyexample.ntec:selectableItemBackground}</code></td><td>A style that may be applied to buttons or other selectable items
      * that should react to pressed and focus states, but that do not
      * have a clear visual border along the edges.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.anyvision.facekeyexample.client:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.anyvision.facekeyexample.client:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.anyvision.facekeyexample.client:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.anyvision.facekeyexample.client:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.anyvision.facekeyexample.client:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.anyvision.facekeyexample.client:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.anyvision.facekeyexample.client:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.anyvision.facekeyexample.client:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.anyvision.facekeyexample.client:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.anyvision.facekeyexample.client:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.anyvision.facekeyexample.client:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.anyvision.facekeyexample.client:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.anyvision.facekeyexample.client:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.anyvision.facekeyexample.client:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.anyvision.facekeyexample.client:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.anyvision.facekeyexample.client:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.anyvision.facekeyexample.client:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.anyvision.facekeyexample.client:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.anyvision.facekeyexample.client:viewInflaterClass}</code></td><td></td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.anyvision.facekeyexample.client:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
+     * <tr><td><code>{@link #AppCompatTheme_selectableItemBackgroundBorderless com.anyvision.facekeyexample.ntec:selectableItemBackgroundBorderless}</code></td><td>Background drawable for borderless standalone items that need focus/pressed states.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerDropDownItemStyle com.anyvision.facekeyexample.ntec:spinnerDropDownItemStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_spinnerStyle com.anyvision.facekeyexample.ntec:spinnerStyle}</code></td><td>Default Spinner style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_switchStyle com.anyvision.facekeyexample.ntec:switchStyle}</code></td><td>Default style for the Switch widget.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceLargePopupMenu com.anyvision.facekeyexample.ntec:textAppearanceLargePopupMenu}</code></td><td>Text color, typeface, size, and style for the text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItem com.anyvision.facekeyexample.ntec:textAppearanceListItem}</code></td><td>The preferred TextAppearance for the primary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSecondary com.anyvision.facekeyexample.ntec:textAppearanceListItemSecondary}</code></td><td>The preferred TextAppearance for the secondary text of list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceListItemSmall com.anyvision.facekeyexample.ntec:textAppearanceListItemSmall}</code></td><td>The preferred TextAppearance for the primary text of small list items.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearancePopupMenuHeader com.anyvision.facekeyexample.ntec:textAppearancePopupMenuHeader}</code></td><td>Text color, typeface, size, and style for header text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultSubtitle com.anyvision.facekeyexample.ntec:textAppearanceSearchResultSubtitle}</code></td><td>Text color, typeface, size, and style for system search result subtitle.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSearchResultTitle com.anyvision.facekeyexample.ntec:textAppearanceSearchResultTitle}</code></td><td>Text color, typeface, size, and style for system search result title.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textAppearanceSmallPopupMenu com.anyvision.facekeyexample.ntec:textAppearanceSmallPopupMenu}</code></td><td>Text color, typeface, size, and style for small text inside of a popup menu.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorAlertDialogListItem com.anyvision.facekeyexample.ntec:textColorAlertDialogListItem}</code></td><td>Color of list item text in alert dialogs.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_textColorSearchUrl com.anyvision.facekeyexample.ntec:textColorSearchUrl}</code></td><td>Text color for urls in search suggestions, used by things like global search</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarNavigationButtonStyle com.anyvision.facekeyexample.ntec:toolbarNavigationButtonStyle}</code></td><td>Default Toolar NavigationButtonStyle</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_toolbarStyle com.anyvision.facekeyexample.ntec:toolbarStyle}</code></td><td>Default Toolbar style.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipForegroundColor com.anyvision.facekeyexample.ntec:tooltipForegroundColor}</code></td><td>Foreground color to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_tooltipFrameBackground com.anyvision.facekeyexample.ntec:tooltipFrameBackground}</code></td><td>Background to use for tooltips</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_viewInflaterClass com.anyvision.facekeyexample.ntec:viewInflaterClass}</code></td><td></td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBar com.anyvision.facekeyexample.ntec:windowActionBar}</code></td><td>Flag indicating whether this window should have an Action Bar
      * in place of the usual title bar.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.anyvision.facekeyexample.client:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
+     * <tr><td><code>{@link #AppCompatTheme_windowActionBarOverlay com.anyvision.facekeyexample.ntec:windowActionBarOverlay}</code></td><td>Flag indicating whether this window's Action Bar should overlay
      * application content.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.anyvision.facekeyexample.client:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
+     * <tr><td><code>{@link #AppCompatTheme_windowActionModeOverlay com.anyvision.facekeyexample.ntec:windowActionModeOverlay}</code></td><td>Flag indicating whether action modes should overlay window content
      * when there is not reserved space for their UI (such as an Action Bar).</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.anyvision.facekeyexample.client:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMajor com.anyvision.facekeyexample.ntec:windowFixedHeightMajor}</code></td><td>A fixed height for the window along the major axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.anyvision.facekeyexample.client:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedHeightMinor com.anyvision.facekeyexample.ntec:windowFixedHeightMinor}</code></td><td>A fixed height for the window along the minor axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.anyvision.facekeyexample.client:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMajor com.anyvision.facekeyexample.ntec:windowFixedWidthMajor}</code></td><td>A fixed width for the window along the major axis of the screen,
      * that is, when in landscape.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.anyvision.facekeyexample.client:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
+     * <tr><td><code>{@link #AppCompatTheme_windowFixedWidthMinor com.anyvision.facekeyexample.ntec:windowFixedWidthMinor}</code></td><td>A fixed width for the window along the minor axis of the screen,
      * that is, when in portrait.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.anyvision.facekeyexample.client:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMajor com.anyvision.facekeyexample.ntec:windowMinWidthMajor}</code></td><td>The minimum width the window is allowed to be, along the major
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.anyvision.facekeyexample.client:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
+     * <tr><td><code>{@link #AppCompatTheme_windowMinWidthMinor com.anyvision.facekeyexample.ntec:windowMinWidthMinor}</code></td><td>The minimum width the window is allowed to be, along the minor
      * axis of the screen.</td></tr>
-     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.anyvision.facekeyexample.client:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
+     * <tr><td><code>{@link #AppCompatTheme_windowNoTitle com.anyvision.facekeyexample.ntec:windowNoTitle}</code></td><td>Flag indicating whether there should be no title on this window.</td></tr>
      * </table>
      * @see #AppCompatTheme_android_windowIsFloating
      * @see #AppCompatTheme_android_windowAnimationStyle
@@ -11092,7 +11108,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionBarDivider
+     * @attr name com.anyvision.facekeyexample.ntec:actionBarDivider
      */
     public static final int AppCompatTheme_actionBarDivider=2;
     /**
@@ -11105,7 +11121,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionBarItemBackground
+     * @attr name com.anyvision.facekeyexample.ntec:actionBarItemBackground
      */
     public static final int AppCompatTheme_actionBarItemBackground=3;
     /**
@@ -11119,7 +11135,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionBarPopupTheme
+     * @attr name com.anyvision.facekeyexample.ntec:actionBarPopupTheme
      */
     public static final int AppCompatTheme_actionBarPopupTheme=4;
     /**
@@ -11142,7 +11158,7 @@ public final class R {
      * <tr><td>wrap_content</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:actionBarSize
+     * @attr name com.anyvision.facekeyexample.ntec:actionBarSize
      */
     public static final int AppCompatTheme_actionBarSize=5;
     /**
@@ -11158,7 +11174,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionBarSplitStyle
+     * @attr name com.anyvision.facekeyexample.ntec:actionBarSplitStyle
      */
     public static final int AppCompatTheme_actionBarSplitStyle=6;
     /**
@@ -11171,11 +11187,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionBarStyle
+     * @attr name com.anyvision.facekeyexample.ntec:actionBarStyle
      */
     public static final int AppCompatTheme_actionBarStyle=7;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#actionBarTabBarStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#actionBarTabBarStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11183,7 +11199,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionBarTabBarStyle
+     * @attr name com.anyvision.facekeyexample.ntec:actionBarTabBarStyle
      */
     public static final int AppCompatTheme_actionBarTabBarStyle=8;
     /**
@@ -11196,11 +11212,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionBarTabStyle
+     * @attr name com.anyvision.facekeyexample.ntec:actionBarTabStyle
      */
     public static final int AppCompatTheme_actionBarTabStyle=9;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#actionBarTabTextStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#actionBarTabTextStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11208,7 +11224,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionBarTabTextStyle
+     * @attr name com.anyvision.facekeyexample.ntec:actionBarTabTextStyle
      */
     public static final int AppCompatTheme_actionBarTabTextStyle=10;
     /**
@@ -11223,7 +11239,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionBarTheme
+     * @attr name com.anyvision.facekeyexample.ntec:actionBarTheme
      */
     public static final int AppCompatTheme_actionBarTheme=11;
     /**
@@ -11242,7 +11258,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionBarWidgetTheme
+     * @attr name com.anyvision.facekeyexample.ntec:actionBarWidgetTheme
      */
     public static final int AppCompatTheme_actionBarWidgetTheme=12;
     /**
@@ -11255,7 +11271,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionButtonStyle
+     * @attr name com.anyvision.facekeyexample.ntec:actionButtonStyle
      */
     public static final int AppCompatTheme_actionButtonStyle=13;
     /**
@@ -11268,7 +11284,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionDropDownStyle
+     * @attr name com.anyvision.facekeyexample.ntec:actionDropDownStyle
      */
     public static final int AppCompatTheme_actionDropDownStyle=14;
     /**
@@ -11282,7 +11298,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionMenuTextAppearance
+     * @attr name com.anyvision.facekeyexample.ntec:actionMenuTextAppearance
      */
     public static final int AppCompatTheme_actionMenuTextAppearance=15;
     /**
@@ -11298,7 +11314,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionMenuTextColor
+     * @attr name com.anyvision.facekeyexample.ntec:actionMenuTextColor
      */
     public static final int AppCompatTheme_actionMenuTextColor=16;
     /**
@@ -11311,11 +11327,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionModeBackground
+     * @attr name com.anyvision.facekeyexample.ntec:actionModeBackground
      */
     public static final int AppCompatTheme_actionModeBackground=17;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#actionModeCloseButtonStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#actionModeCloseButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11323,7 +11339,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionModeCloseButtonStyle
+     * @attr name com.anyvision.facekeyexample.ntec:actionModeCloseButtonStyle
      */
     public static final int AppCompatTheme_actionModeCloseButtonStyle=18;
     /**
@@ -11336,7 +11352,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionModeCloseDrawable
+     * @attr name com.anyvision.facekeyexample.ntec:actionModeCloseDrawable
      */
     public static final int AppCompatTheme_actionModeCloseDrawable=19;
     /**
@@ -11349,7 +11365,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionModeCopyDrawable
+     * @attr name com.anyvision.facekeyexample.ntec:actionModeCopyDrawable
      */
     public static final int AppCompatTheme_actionModeCopyDrawable=20;
     /**
@@ -11362,7 +11378,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionModeCutDrawable
+     * @attr name com.anyvision.facekeyexample.ntec:actionModeCutDrawable
      */
     public static final int AppCompatTheme_actionModeCutDrawable=21;
     /**
@@ -11375,7 +11391,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionModeFindDrawable
+     * @attr name com.anyvision.facekeyexample.ntec:actionModeFindDrawable
      */
     public static final int AppCompatTheme_actionModeFindDrawable=22;
     /**
@@ -11388,7 +11404,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionModePasteDrawable
+     * @attr name com.anyvision.facekeyexample.ntec:actionModePasteDrawable
      */
     public static final int AppCompatTheme_actionModePasteDrawable=23;
     /**
@@ -11401,7 +11417,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionModePopupWindowStyle
+     * @attr name com.anyvision.facekeyexample.ntec:actionModePopupWindowStyle
      */
     public static final int AppCompatTheme_actionModePopupWindowStyle=24;
     /**
@@ -11414,7 +11430,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionModeSelectAllDrawable
+     * @attr name com.anyvision.facekeyexample.ntec:actionModeSelectAllDrawable
      */
     public static final int AppCompatTheme_actionModeSelectAllDrawable=25;
     /**
@@ -11427,7 +11443,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionModeShareDrawable
+     * @attr name com.anyvision.facekeyexample.ntec:actionModeShareDrawable
      */
     public static final int AppCompatTheme_actionModeShareDrawable=26;
     /**
@@ -11440,11 +11456,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionModeSplitBackground
+     * @attr name com.anyvision.facekeyexample.ntec:actionModeSplitBackground
      */
     public static final int AppCompatTheme_actionModeSplitBackground=27;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#actionModeStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#actionModeStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11452,7 +11468,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionModeStyle
+     * @attr name com.anyvision.facekeyexample.ntec:actionModeStyle
      */
     public static final int AppCompatTheme_actionModeStyle=28;
     /**
@@ -11465,11 +11481,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionModeWebSearchDrawable
+     * @attr name com.anyvision.facekeyexample.ntec:actionModeWebSearchDrawable
      */
     public static final int AppCompatTheme_actionModeWebSearchDrawable=29;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#actionOverflowButtonStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#actionOverflowButtonStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11477,11 +11493,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionOverflowButtonStyle
+     * @attr name com.anyvision.facekeyexample.ntec:actionOverflowButtonStyle
      */
     public static final int AppCompatTheme_actionOverflowButtonStyle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#actionOverflowMenuStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#actionOverflowMenuStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11489,7 +11505,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionOverflowMenuStyle
+     * @attr name com.anyvision.facekeyexample.ntec:actionOverflowMenuStyle
      */
     public static final int AppCompatTheme_actionOverflowMenuStyle=31;
     /**
@@ -11502,11 +11518,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:activityChooserViewStyle
+     * @attr name com.anyvision.facekeyexample.ntec:activityChooserViewStyle
      */
     public static final int AppCompatTheme_activityChooserViewStyle=32;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#alertDialogButtonGroupStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#alertDialogButtonGroupStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11514,21 +11530,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:alertDialogButtonGroupStyle
+     * @attr name com.anyvision.facekeyexample.ntec:alertDialogButtonGroupStyle
      */
     public static final int AppCompatTheme_alertDialogButtonGroupStyle=33;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#alertDialogCenterButtons}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#alertDialogCenterButtons}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:alertDialogCenterButtons
+     * @attr name com.anyvision.facekeyexample.ntec:alertDialogCenterButtons
      */
     public static final int AppCompatTheme_alertDialogCenterButtons=34;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#alertDialogStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#alertDialogStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -11536,7 +11552,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:alertDialogStyle
+     * @attr name com.anyvision.facekeyexample.ntec:alertDialogStyle
      */
     public static final int AppCompatTheme_alertDialogStyle=35;
     /**
@@ -11549,7 +11565,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:alertDialogTheme
+     * @attr name com.anyvision.facekeyexample.ntec:alertDialogTheme
      */
     public static final int AppCompatTheme_alertDialogTheme=36;
     /**
@@ -11562,7 +11578,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:autoCompleteTextViewStyle
+     * @attr name com.anyvision.facekeyexample.ntec:autoCompleteTextViewStyle
      */
     public static final int AppCompatTheme_autoCompleteTextViewStyle=37;
     /**
@@ -11575,7 +11591,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:borderlessButtonStyle
+     * @attr name com.anyvision.facekeyexample.ntec:borderlessButtonStyle
      */
     public static final int AppCompatTheme_borderlessButtonStyle=38;
     /**
@@ -11588,7 +11604,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:buttonBarButtonStyle
+     * @attr name com.anyvision.facekeyexample.ntec:buttonBarButtonStyle
      */
     public static final int AppCompatTheme_buttonBarButtonStyle=39;
     /**
@@ -11601,7 +11617,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:buttonBarNegativeButtonStyle
+     * @attr name com.anyvision.facekeyexample.ntec:buttonBarNegativeButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNegativeButtonStyle=40;
     /**
@@ -11614,7 +11630,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:buttonBarNeutralButtonStyle
+     * @attr name com.anyvision.facekeyexample.ntec:buttonBarNeutralButtonStyle
      */
     public static final int AppCompatTheme_buttonBarNeutralButtonStyle=41;
     /**
@@ -11627,7 +11643,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:buttonBarPositiveButtonStyle
+     * @attr name com.anyvision.facekeyexample.ntec:buttonBarPositiveButtonStyle
      */
     public static final int AppCompatTheme_buttonBarPositiveButtonStyle=42;
     /**
@@ -11640,7 +11656,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:buttonBarStyle
+     * @attr name com.anyvision.facekeyexample.ntec:buttonBarStyle
      */
     public static final int AppCompatTheme_buttonBarStyle=43;
     /**
@@ -11653,7 +11669,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:buttonStyle
+     * @attr name com.anyvision.facekeyexample.ntec:buttonStyle
      */
     public static final int AppCompatTheme_buttonStyle=44;
     /**
@@ -11666,7 +11682,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:buttonStyleSmall
+     * @attr name com.anyvision.facekeyexample.ntec:buttonStyleSmall
      */
     public static final int AppCompatTheme_buttonStyleSmall=45;
     /**
@@ -11679,7 +11695,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:checkboxStyle
+     * @attr name com.anyvision.facekeyexample.ntec:checkboxStyle
      */
     public static final int AppCompatTheme_checkboxStyle=46;
     /**
@@ -11692,7 +11708,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:checkedTextViewStyle
+     * @attr name com.anyvision.facekeyexample.ntec:checkedTextViewStyle
      */
     public static final int AppCompatTheme_checkedTextViewStyle=47;
     /**
@@ -11705,7 +11721,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:colorAccent
+     * @attr name com.anyvision.facekeyexample.ntec:colorAccent
      */
     public static final int AppCompatTheme_colorAccent=48;
     /**
@@ -11717,7 +11733,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:colorBackgroundFloating
+     * @attr name com.anyvision.facekeyexample.ntec:colorBackgroundFloating
      */
     public static final int AppCompatTheme_colorBackgroundFloating=49;
     /**
@@ -11729,7 +11745,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:colorButtonNormal
+     * @attr name com.anyvision.facekeyexample.ntec:colorButtonNormal
      */
     public static final int AppCompatTheme_colorButtonNormal=50;
     /**
@@ -11741,7 +11757,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:colorControlActivated
+     * @attr name com.anyvision.facekeyexample.ntec:colorControlActivated
      */
     public static final int AppCompatTheme_colorControlActivated=51;
     /**
@@ -11753,7 +11769,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:colorControlHighlight
+     * @attr name com.anyvision.facekeyexample.ntec:colorControlHighlight
      */
     public static final int AppCompatTheme_colorControlHighlight=52;
     /**
@@ -11765,7 +11781,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:colorControlNormal
+     * @attr name com.anyvision.facekeyexample.ntec:colorControlNormal
      */
     public static final int AppCompatTheme_colorControlNormal=53;
     /**
@@ -11782,7 +11798,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:colorError
+     * @attr name com.anyvision.facekeyexample.ntec:colorError
      */
     public static final int AppCompatTheme_colorError=54;
     /**
@@ -11795,7 +11811,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:colorPrimary
+     * @attr name com.anyvision.facekeyexample.ntec:colorPrimary
      */
     public static final int AppCompatTheme_colorPrimary=55;
     /**
@@ -11808,7 +11824,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:colorPrimaryDark
+     * @attr name com.anyvision.facekeyexample.ntec:colorPrimaryDark
      */
     public static final int AppCompatTheme_colorPrimaryDark=56;
     /**
@@ -11820,7 +11836,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:colorSwitchThumbNormal
+     * @attr name com.anyvision.facekeyexample.ntec:colorSwitchThumbNormal
      */
     public static final int AppCompatTheme_colorSwitchThumbNormal=57;
     /**
@@ -11833,7 +11849,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:controlBackground
+     * @attr name com.anyvision.facekeyexample.ntec:controlBackground
      */
     public static final int AppCompatTheme_controlBackground=58;
     /**
@@ -11847,7 +11863,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:dialogCornerRadius
+     * @attr name com.anyvision.facekeyexample.ntec:dialogCornerRadius
      */
     public static final int AppCompatTheme_dialogCornerRadius=59;
     /**
@@ -11861,7 +11877,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:dialogPreferredPadding
+     * @attr name com.anyvision.facekeyexample.ntec:dialogPreferredPadding
      */
     public static final int AppCompatTheme_dialogPreferredPadding=60;
     /**
@@ -11874,7 +11890,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:dialogTheme
+     * @attr name com.anyvision.facekeyexample.ntec:dialogTheme
      */
     public static final int AppCompatTheme_dialogTheme=61;
     /**
@@ -11887,7 +11903,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:dividerHorizontal
+     * @attr name com.anyvision.facekeyexample.ntec:dividerHorizontal
      */
     public static final int AppCompatTheme_dividerHorizontal=62;
     /**
@@ -11900,7 +11916,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:dividerVertical
+     * @attr name com.anyvision.facekeyexample.ntec:dividerVertical
      */
     public static final int AppCompatTheme_dividerVertical=63;
     /**
@@ -11913,7 +11929,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:dropDownListViewStyle
+     * @attr name com.anyvision.facekeyexample.ntec:dropDownListViewStyle
      */
     public static final int AppCompatTheme_dropDownListViewStyle=64;
     /**
@@ -11927,7 +11943,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:dropdownListPreferredItemHeight
+     * @attr name com.anyvision.facekeyexample.ntec:dropdownListPreferredItemHeight
      */
     public static final int AppCompatTheme_dropdownListPreferredItemHeight=65;
     /**
@@ -11940,7 +11956,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:editTextBackground
+     * @attr name com.anyvision.facekeyexample.ntec:editTextBackground
      */
     public static final int AppCompatTheme_editTextBackground=66;
     /**
@@ -11956,7 +11972,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:editTextColor
+     * @attr name com.anyvision.facekeyexample.ntec:editTextColor
      */
     public static final int AppCompatTheme_editTextColor=67;
     /**
@@ -11969,7 +11985,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:editTextStyle
+     * @attr name com.anyvision.facekeyexample.ntec:editTextStyle
      */
     public static final int AppCompatTheme_editTextStyle=68;
     /**
@@ -11982,7 +11998,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:homeAsUpIndicator
+     * @attr name com.anyvision.facekeyexample.ntec:homeAsUpIndicator
      */
     public static final int AppCompatTheme_homeAsUpIndicator=69;
     /**
@@ -11995,7 +12011,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:imageButtonStyle
+     * @attr name com.anyvision.facekeyexample.ntec:imageButtonStyle
      */
     public static final int AppCompatTheme_imageButtonStyle=70;
     /**
@@ -12008,7 +12024,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:listChoiceBackgroundIndicator
+     * @attr name com.anyvision.facekeyexample.ntec:listChoiceBackgroundIndicator
      */
     public static final int AppCompatTheme_listChoiceBackgroundIndicator=71;
     /**
@@ -12021,7 +12037,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:listDividerAlertDialog
+     * @attr name com.anyvision.facekeyexample.ntec:listDividerAlertDialog
      */
     public static final int AppCompatTheme_listDividerAlertDialog=72;
     /**
@@ -12034,11 +12050,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:listMenuViewStyle
+     * @attr name com.anyvision.facekeyexample.ntec:listMenuViewStyle
      */
     public static final int AppCompatTheme_listMenuViewStyle=73;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#listPopupWindowStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#listPopupWindowStyle}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12046,7 +12062,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:listPopupWindowStyle
+     * @attr name com.anyvision.facekeyexample.ntec:listPopupWindowStyle
      */
     public static final int AppCompatTheme_listPopupWindowStyle=74;
     /**
@@ -12060,7 +12076,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:listPreferredItemHeight
+     * @attr name com.anyvision.facekeyexample.ntec:listPreferredItemHeight
      */
     public static final int AppCompatTheme_listPreferredItemHeight=75;
     /**
@@ -12074,7 +12090,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:listPreferredItemHeightLarge
+     * @attr name com.anyvision.facekeyexample.ntec:listPreferredItemHeightLarge
      */
     public static final int AppCompatTheme_listPreferredItemHeightLarge=76;
     /**
@@ -12088,7 +12104,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:listPreferredItemHeightSmall
+     * @attr name com.anyvision.facekeyexample.ntec:listPreferredItemHeightSmall
      */
     public static final int AppCompatTheme_listPreferredItemHeightSmall=77;
     /**
@@ -12102,7 +12118,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:listPreferredItemPaddingLeft
+     * @attr name com.anyvision.facekeyexample.ntec:listPreferredItemPaddingLeft
      */
     public static final int AppCompatTheme_listPreferredItemPaddingLeft=78;
     /**
@@ -12116,7 +12132,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:listPreferredItemPaddingRight
+     * @attr name com.anyvision.facekeyexample.ntec:listPreferredItemPaddingRight
      */
     public static final int AppCompatTheme_listPreferredItemPaddingRight=79;
     /**
@@ -12129,7 +12145,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:panelBackground
+     * @attr name com.anyvision.facekeyexample.ntec:panelBackground
      */
     public static final int AppCompatTheme_panelBackground=80;
     /**
@@ -12142,7 +12158,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:panelMenuListTheme
+     * @attr name com.anyvision.facekeyexample.ntec:panelMenuListTheme
      */
     public static final int AppCompatTheme_panelMenuListTheme=81;
     /**
@@ -12156,7 +12172,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:panelMenuListWidth
+     * @attr name com.anyvision.facekeyexample.ntec:panelMenuListWidth
      */
     public static final int AppCompatTheme_panelMenuListWidth=82;
     /**
@@ -12169,7 +12185,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:popupMenuStyle
+     * @attr name com.anyvision.facekeyexample.ntec:popupMenuStyle
      */
     public static final int AppCompatTheme_popupMenuStyle=83;
     /**
@@ -12182,7 +12198,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:popupWindowStyle
+     * @attr name com.anyvision.facekeyexample.ntec:popupWindowStyle
      */
     public static final int AppCompatTheme_popupWindowStyle=84;
     /**
@@ -12195,7 +12211,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:radioButtonStyle
+     * @attr name com.anyvision.facekeyexample.ntec:radioButtonStyle
      */
     public static final int AppCompatTheme_radioButtonStyle=85;
     /**
@@ -12208,7 +12224,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:ratingBarStyle
+     * @attr name com.anyvision.facekeyexample.ntec:ratingBarStyle
      */
     public static final int AppCompatTheme_ratingBarStyle=86;
     /**
@@ -12221,7 +12237,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:ratingBarStyleIndicator
+     * @attr name com.anyvision.facekeyexample.ntec:ratingBarStyleIndicator
      */
     public static final int AppCompatTheme_ratingBarStyleIndicator=87;
     /**
@@ -12234,7 +12250,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:ratingBarStyleSmall
+     * @attr name com.anyvision.facekeyexample.ntec:ratingBarStyleSmall
      */
     public static final int AppCompatTheme_ratingBarStyleSmall=88;
     /**
@@ -12247,7 +12263,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:searchViewStyle
+     * @attr name com.anyvision.facekeyexample.ntec:searchViewStyle
      */
     public static final int AppCompatTheme_searchViewStyle=89;
     /**
@@ -12260,7 +12276,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:seekBarStyle
+     * @attr name com.anyvision.facekeyexample.ntec:seekBarStyle
      */
     public static final int AppCompatTheme_seekBarStyle=90;
     /**
@@ -12275,7 +12291,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:selectableItemBackground
+     * @attr name com.anyvision.facekeyexample.ntec:selectableItemBackground
      */
     public static final int AppCompatTheme_selectableItemBackground=91;
     /**
@@ -12288,7 +12304,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:selectableItemBackgroundBorderless
+     * @attr name com.anyvision.facekeyexample.ntec:selectableItemBackgroundBorderless
      */
     public static final int AppCompatTheme_selectableItemBackgroundBorderless=92;
     /**
@@ -12301,7 +12317,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:spinnerDropDownItemStyle
+     * @attr name com.anyvision.facekeyexample.ntec:spinnerDropDownItemStyle
      */
     public static final int AppCompatTheme_spinnerDropDownItemStyle=93;
     /**
@@ -12314,7 +12330,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:spinnerStyle
+     * @attr name com.anyvision.facekeyexample.ntec:spinnerStyle
      */
     public static final int AppCompatTheme_spinnerStyle=94;
     /**
@@ -12327,7 +12343,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:switchStyle
+     * @attr name com.anyvision.facekeyexample.ntec:switchStyle
      */
     public static final int AppCompatTheme_switchStyle=95;
     /**
@@ -12340,7 +12356,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceLargePopupMenu
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceLargePopupMenu
      */
     public static final int AppCompatTheme_textAppearanceLargePopupMenu=96;
     /**
@@ -12353,7 +12369,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceListItem
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceListItem
      */
     public static final int AppCompatTheme_textAppearanceListItem=97;
     /**
@@ -12366,7 +12382,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceListItemSecondary
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceListItemSecondary
      */
     public static final int AppCompatTheme_textAppearanceListItemSecondary=98;
     /**
@@ -12379,7 +12395,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceListItemSmall
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceListItemSmall
      */
     public static final int AppCompatTheme_textAppearanceListItemSmall=99;
     /**
@@ -12392,7 +12408,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearancePopupMenuHeader
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearancePopupMenuHeader
      */
     public static final int AppCompatTheme_textAppearancePopupMenuHeader=100;
     /**
@@ -12405,7 +12421,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceSearchResultSubtitle
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceSearchResultSubtitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultSubtitle=101;
     /**
@@ -12418,7 +12434,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceSearchResultTitle
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceSearchResultTitle
      */
     public static final int AppCompatTheme_textAppearanceSearchResultTitle=102;
     /**
@@ -12431,7 +12447,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceSmallPopupMenu
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceSmallPopupMenu
      */
     public static final int AppCompatTheme_textAppearanceSmallPopupMenu=103;
     /**
@@ -12447,7 +12463,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textColorAlertDialogListItem
+     * @attr name com.anyvision.facekeyexample.ntec:textColorAlertDialogListItem
      */
     public static final int AppCompatTheme_textColorAlertDialogListItem=104;
     /**
@@ -12463,7 +12479,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textColorSearchUrl
+     * @attr name com.anyvision.facekeyexample.ntec:textColorSearchUrl
      */
     public static final int AppCompatTheme_textColorSearchUrl=105;
     /**
@@ -12476,7 +12492,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:toolbarNavigationButtonStyle
+     * @attr name com.anyvision.facekeyexample.ntec:toolbarNavigationButtonStyle
      */
     public static final int AppCompatTheme_toolbarNavigationButtonStyle=106;
     /**
@@ -12489,7 +12505,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:toolbarStyle
+     * @attr name com.anyvision.facekeyexample.ntec:toolbarStyle
      */
     public static final int AppCompatTheme_toolbarStyle=107;
     /**
@@ -12505,7 +12521,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:tooltipForegroundColor
+     * @attr name com.anyvision.facekeyexample.ntec:tooltipForegroundColor
      */
     public static final int AppCompatTheme_tooltipForegroundColor=108;
     /**
@@ -12518,17 +12534,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:tooltipFrameBackground
+     * @attr name com.anyvision.facekeyexample.ntec:tooltipFrameBackground
      */
     public static final int AppCompatTheme_tooltipFrameBackground=109;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#viewInflaterClass}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#viewInflaterClass}
      * attribute's value can be found in the {@link #AppCompatTheme} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:viewInflaterClass
+     * @attr name com.anyvision.facekeyexample.ntec:viewInflaterClass
      */
     public static final int AppCompatTheme_viewInflaterClass=110;
     /**
@@ -12540,7 +12556,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:windowActionBar
+     * @attr name com.anyvision.facekeyexample.ntec:windowActionBar
      */
     public static final int AppCompatTheme_windowActionBar=111;
     /**
@@ -12553,7 +12569,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:windowActionBarOverlay
+     * @attr name com.anyvision.facekeyexample.ntec:windowActionBarOverlay
      */
     public static final int AppCompatTheme_windowActionBarOverlay=112;
     /**
@@ -12565,7 +12581,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:windowActionModeOverlay
+     * @attr name com.anyvision.facekeyexample.ntec:windowActionModeOverlay
      */
     public static final int AppCompatTheme_windowActionModeOverlay=113;
     /**
@@ -12585,7 +12601,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.anyvision.facekeyexample.client:windowFixedHeightMajor
+     * @attr name com.anyvision.facekeyexample.ntec:windowFixedHeightMajor
      */
     public static final int AppCompatTheme_windowFixedHeightMajor=114;
     /**
@@ -12605,7 +12621,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.anyvision.facekeyexample.client:windowFixedHeightMinor
+     * @attr name com.anyvision.facekeyexample.ntec:windowFixedHeightMinor
      */
     public static final int AppCompatTheme_windowFixedHeightMinor=115;
     /**
@@ -12625,7 +12641,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.anyvision.facekeyexample.client:windowFixedWidthMajor
+     * @attr name com.anyvision.facekeyexample.ntec:windowFixedWidthMajor
      */
     public static final int AppCompatTheme_windowFixedWidthMajor=116;
     /**
@@ -12645,7 +12661,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.anyvision.facekeyexample.client:windowFixedWidthMinor
+     * @attr name com.anyvision.facekeyexample.ntec:windowFixedWidthMinor
      */
     public static final int AppCompatTheme_windowFixedWidthMinor=117;
     /**
@@ -12666,7 +12682,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.anyvision.facekeyexample.client:windowMinWidthMajor
+     * @attr name com.anyvision.facekeyexample.ntec:windowMinWidthMajor
      */
     public static final int AppCompatTheme_windowMinWidthMajor=118;
     /**
@@ -12687,7 +12703,7 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.anyvision.facekeyexample.client:windowMinWidthMinor
+     * @attr name com.anyvision.facekeyexample.ntec:windowMinWidthMinor
      */
     public static final int AppCompatTheme_windowMinWidthMinor=119;
     /**
@@ -12698,7 +12714,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:windowNoTitle
+     * @attr name com.anyvision.facekeyexample.ntec:windowNoTitle
      */
     public static final int AppCompatTheme_windowNoTitle=120;
     /**
@@ -12708,12 +12724,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.anyvision.facekeyexample.client:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.anyvision.facekeyexample.client:fabAlignmentMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.anyvision.facekeyexample.client:fabCradleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.anyvision.facekeyexample.client:fabCradleRoundedCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.anyvision.facekeyexample.client:fabCradleVerticalOffset}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.anyvision.facekeyexample.client:hideOnScroll}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_backgroundTint com.anyvision.facekeyexample.ntec:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabAlignmentMode com.anyvision.facekeyexample.ntec:fabAlignmentMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleMargin com.anyvision.facekeyexample.ntec:fabCradleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleRoundedCornerRadius com.anyvision.facekeyexample.ntec:fabCradleRoundedCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_fabCradleVerticalOffset com.anyvision.facekeyexample.ntec:fabCradleVerticalOffset}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomAppBar_hideOnScroll com.anyvision.facekeyexample.ntec:hideOnScroll}</code></td><td></td></tr>
      * </table>
      * @see #BottomAppBar_backgroundTint
      * @see #BottomAppBar_fabAlignmentMode
@@ -12735,11 +12751,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:backgroundTint
+     * @attr name com.anyvision.facekeyexample.ntec:backgroundTint
      */
     public static final int BottomAppBar_backgroundTint=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#fabAlignmentMode}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#fabAlignmentMode}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12752,11 +12768,11 @@ public final class R {
      * <tr><td>end</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:fabAlignmentMode
+     * @attr name com.anyvision.facekeyexample.ntec:fabAlignmentMode
      */
     public static final int BottomAppBar_fabAlignmentMode=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#fabCradleMargin}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#fabCradleMargin}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12765,11 +12781,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:fabCradleMargin
+     * @attr name com.anyvision.facekeyexample.ntec:fabCradleMargin
      */
     public static final int BottomAppBar_fabCradleMargin=2;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#fabCradleRoundedCornerRadius}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#fabCradleRoundedCornerRadius}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12778,11 +12794,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:fabCradleRoundedCornerRadius
+     * @attr name com.anyvision.facekeyexample.ntec:fabCradleRoundedCornerRadius
      */
     public static final int BottomAppBar_fabCradleRoundedCornerRadius=3;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#fabCradleVerticalOffset}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#fabCradleVerticalOffset}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12791,17 +12807,17 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:fabCradleVerticalOffset
+     * @attr name com.anyvision.facekeyexample.ntec:fabCradleVerticalOffset
      */
     public static final int BottomAppBar_fabCradleVerticalOffset=4;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#hideOnScroll}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#hideOnScroll}
      * attribute's value can be found in the {@link #BottomAppBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:hideOnScroll
+     * @attr name com.anyvision.facekeyexample.ntec:hideOnScroll
      */
     public static final int BottomAppBar_hideOnScroll=5;
     /**
@@ -12811,16 +12827,16 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomNavigationView_elevation com.anyvision.facekeyexample.client:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.anyvision.facekeyexample.client:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.anyvision.facekeyexample.client:itemHorizontalTranslationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.anyvision.facekeyexample.client:itemIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.anyvision.facekeyexample.client:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.anyvision.facekeyexample.client:itemTextAppearanceActive}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.anyvision.facekeyexample.client:itemTextAppearanceInactive}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.anyvision.facekeyexample.client:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.anyvision.facekeyexample.client:labelVisibilityMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomNavigationView_menu com.anyvision.facekeyexample.client:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_elevation com.anyvision.facekeyexample.ntec:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemBackground com.anyvision.facekeyexample.ntec:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemHorizontalTranslationEnabled com.anyvision.facekeyexample.ntec:itemHorizontalTranslationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconSize com.anyvision.facekeyexample.ntec:itemIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemIconTint com.anyvision.facekeyexample.ntec:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceActive com.anyvision.facekeyexample.ntec:itemTextAppearanceActive}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextAppearanceInactive com.anyvision.facekeyexample.ntec:itemTextAppearanceInactive}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_itemTextColor com.anyvision.facekeyexample.ntec:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_labelVisibilityMode com.anyvision.facekeyexample.ntec:labelVisibilityMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomNavigationView_menu com.anyvision.facekeyexample.ntec:menu}</code></td><td></td></tr>
      * </table>
      * @see #BottomNavigationView_elevation
      * @see #BottomNavigationView_itemBackground
@@ -12849,11 +12865,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:elevation
+     * @attr name com.anyvision.facekeyexample.ntec:elevation
      */
     public static final int BottomNavigationView_elevation=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#itemBackground}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12861,21 +12877,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:itemBackground
+     * @attr name com.anyvision.facekeyexample.ntec:itemBackground
      */
     public static final int BottomNavigationView_itemBackground=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#itemHorizontalTranslationEnabled}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#itemHorizontalTranslationEnabled}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:itemHorizontalTranslationEnabled
+     * @attr name com.anyvision.facekeyexample.ntec:itemHorizontalTranslationEnabled
      */
     public static final int BottomNavigationView_itemHorizontalTranslationEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#itemIconSize}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#itemIconSize}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -12884,22 +12900,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:itemIconSize
+     * @attr name com.anyvision.facekeyexample.ntec:itemIconSize
      */
     public static final int BottomNavigationView_itemIconSize=3;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:itemIconTint
+     * @attr name com.anyvision.facekeyexample.ntec:itemIconTint
      */
     public static final int BottomNavigationView_itemIconTint=4;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#itemTextAppearanceActive}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#itemTextAppearanceActive}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12907,11 +12923,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:itemTextAppearanceActive
+     * @attr name com.anyvision.facekeyexample.ntec:itemTextAppearanceActive
      */
     public static final int BottomNavigationView_itemTextAppearanceActive=5;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#itemTextAppearanceInactive}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#itemTextAppearanceInactive}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12919,22 +12935,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:itemTextAppearanceInactive
+     * @attr name com.anyvision.facekeyexample.ntec:itemTextAppearanceInactive
      */
     public static final int BottomNavigationView_itemTextAppearanceInactive=6;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:itemTextColor
+     * @attr name com.anyvision.facekeyexample.ntec:itemTextColor
      */
     public static final int BottomNavigationView_itemTextColor=7;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#labelVisibilityMode}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#labelVisibilityMode}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -12949,11 +12965,11 @@ public final class R {
      * <tr><td>unlabeled</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:labelVisibilityMode
+     * @attr name com.anyvision.facekeyexample.ntec:labelVisibilityMode
      */
     public static final int BottomNavigationView_labelVisibilityMode=8;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#menu}
      * attribute's value can be found in the {@link #BottomNavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -12961,7 +12977,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:menu
+     * @attr name com.anyvision.facekeyexample.ntec:menu
      */
     public static final int BottomNavigationView_menu=9;
     /**
@@ -12971,10 +12987,10 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.anyvision.facekeyexample.client:behavior_fitToContents}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.anyvision.facekeyexample.client:behavior_hideable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.anyvision.facekeyexample.client:behavior_peekHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.anyvision.facekeyexample.client:behavior_skipCollapsed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_fitToContents com.anyvision.facekeyexample.ntec:behavior_fitToContents}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_hideable com.anyvision.facekeyexample.ntec:behavior_hideable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_peekHeight com.anyvision.facekeyexample.ntec:behavior_peekHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BottomSheetBehavior_Layout_behavior_skipCollapsed com.anyvision.facekeyexample.ntec:behavior_skipCollapsed}</code></td><td></td></tr>
      * </table>
      * @see #BottomSheetBehavior_Layout_behavior_fitToContents
      * @see #BottomSheetBehavior_Layout_behavior_hideable
@@ -12985,27 +13001,27 @@ public final class R {
       0x7f03003d, 0x7f03003e, 0x7f030040, 0x7f030041
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#behavior_fitToContents}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#behavior_fitToContents}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:behavior_fitToContents
+     * @attr name com.anyvision.facekeyexample.ntec:behavior_fitToContents
      */
     public static final int BottomSheetBehavior_Layout_behavior_fitToContents=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#behavior_hideable}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#behavior_hideable}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:behavior_hideable
+     * @attr name com.anyvision.facekeyexample.ntec:behavior_hideable
      */
     public static final int BottomSheetBehavior_Layout_behavior_hideable=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#behavior_peekHeight}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#behavior_peekHeight}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -13022,17 +13038,17 @@ public final class R {
      * <tr><td>auto</td><td>ffffffff</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:behavior_peekHeight
+     * @attr name com.anyvision.facekeyexample.ntec:behavior_peekHeight
      */
     public static final int BottomSheetBehavior_Layout_behavior_peekHeight=2;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#behavior_skipCollapsed}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#behavior_skipCollapsed}
      * attribute's value can be found in the {@link #BottomSheetBehavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:behavior_skipCollapsed
+     * @attr name com.anyvision.facekeyexample.ntec:behavior_skipCollapsed
      */
     public static final int BottomSheetBehavior_Layout_behavior_skipCollapsed=3;
     /**
@@ -13042,39 +13058,39 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_always_show_bubble com.anyvision.facekeyexample.client:bsb_always_show_bubble}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_always_show_bubble_delay com.anyvision.facekeyexample.client:bsb_always_show_bubble_delay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_anim_duration com.anyvision.facekeyexample.client:bsb_anim_duration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_auto_adjust_section_mark com.anyvision.facekeyexample.client:bsb_auto_adjust_section_mark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_bubble_color com.anyvision.facekeyexample.client:bsb_bubble_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_bubble_text_color com.anyvision.facekeyexample.client:bsb_bubble_text_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_bubble_text_size com.anyvision.facekeyexample.client:bsb_bubble_text_size}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_hide_bubble com.anyvision.facekeyexample.client:bsb_hide_bubble}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_is_float_type com.anyvision.facekeyexample.client:bsb_is_float_type}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_max com.anyvision.facekeyexample.client:bsb_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_min com.anyvision.facekeyexample.client:bsb_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_progress com.anyvision.facekeyexample.client:bsb_progress}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_rtl com.anyvision.facekeyexample.client:bsb_rtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_second_track_color com.anyvision.facekeyexample.client:bsb_second_track_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_second_track_size com.anyvision.facekeyexample.client:bsb_second_track_size}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_section_count com.anyvision.facekeyexample.client:bsb_section_count}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_section_text_color com.anyvision.facekeyexample.client:bsb_section_text_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_section_text_interval com.anyvision.facekeyexample.client:bsb_section_text_interval}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_section_text_position com.anyvision.facekeyexample.client:bsb_section_text_position}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_section_text_size com.anyvision.facekeyexample.client:bsb_section_text_size}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_seek_by_section com.anyvision.facekeyexample.client:bsb_seek_by_section}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_show_progress_in_float com.anyvision.facekeyexample.client:bsb_show_progress_in_float}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_show_section_mark com.anyvision.facekeyexample.client:bsb_show_section_mark}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_show_section_text com.anyvision.facekeyexample.client:bsb_show_section_text}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_show_thumb_text com.anyvision.facekeyexample.client:bsb_show_thumb_text}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_thumb_color com.anyvision.facekeyexample.client:bsb_thumb_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_thumb_radius com.anyvision.facekeyexample.client:bsb_thumb_radius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_thumb_radius_on_dragging com.anyvision.facekeyexample.client:bsb_thumb_radius_on_dragging}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_thumb_text_color com.anyvision.facekeyexample.client:bsb_thumb_text_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_thumb_text_size com.anyvision.facekeyexample.client:bsb_thumb_text_size}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_touch_to_seek com.anyvision.facekeyexample.client:bsb_touch_to_seek}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_track_color com.anyvision.facekeyexample.client:bsb_track_color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #BubbleSeekBar_bsb_track_size com.anyvision.facekeyexample.client:bsb_track_size}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_always_show_bubble com.anyvision.facekeyexample.ntec:bsb_always_show_bubble}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_always_show_bubble_delay com.anyvision.facekeyexample.ntec:bsb_always_show_bubble_delay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_anim_duration com.anyvision.facekeyexample.ntec:bsb_anim_duration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_auto_adjust_section_mark com.anyvision.facekeyexample.ntec:bsb_auto_adjust_section_mark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_bubble_color com.anyvision.facekeyexample.ntec:bsb_bubble_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_bubble_text_color com.anyvision.facekeyexample.ntec:bsb_bubble_text_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_bubble_text_size com.anyvision.facekeyexample.ntec:bsb_bubble_text_size}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_hide_bubble com.anyvision.facekeyexample.ntec:bsb_hide_bubble}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_is_float_type com.anyvision.facekeyexample.ntec:bsb_is_float_type}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_max com.anyvision.facekeyexample.ntec:bsb_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_min com.anyvision.facekeyexample.ntec:bsb_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_progress com.anyvision.facekeyexample.ntec:bsb_progress}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_rtl com.anyvision.facekeyexample.ntec:bsb_rtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_second_track_color com.anyvision.facekeyexample.ntec:bsb_second_track_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_second_track_size com.anyvision.facekeyexample.ntec:bsb_second_track_size}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_section_count com.anyvision.facekeyexample.ntec:bsb_section_count}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_section_text_color com.anyvision.facekeyexample.ntec:bsb_section_text_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_section_text_interval com.anyvision.facekeyexample.ntec:bsb_section_text_interval}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_section_text_position com.anyvision.facekeyexample.ntec:bsb_section_text_position}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_section_text_size com.anyvision.facekeyexample.ntec:bsb_section_text_size}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_seek_by_section com.anyvision.facekeyexample.ntec:bsb_seek_by_section}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_show_progress_in_float com.anyvision.facekeyexample.ntec:bsb_show_progress_in_float}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_show_section_mark com.anyvision.facekeyexample.ntec:bsb_show_section_mark}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_show_section_text com.anyvision.facekeyexample.ntec:bsb_show_section_text}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_show_thumb_text com.anyvision.facekeyexample.ntec:bsb_show_thumb_text}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_thumb_color com.anyvision.facekeyexample.ntec:bsb_thumb_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_thumb_radius com.anyvision.facekeyexample.ntec:bsb_thumb_radius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_thumb_radius_on_dragging com.anyvision.facekeyexample.ntec:bsb_thumb_radius_on_dragging}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_thumb_text_color com.anyvision.facekeyexample.ntec:bsb_thumb_text_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_thumb_text_size com.anyvision.facekeyexample.ntec:bsb_thumb_text_size}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_touch_to_seek com.anyvision.facekeyexample.ntec:bsb_touch_to_seek}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_track_color com.anyvision.facekeyexample.ntec:bsb_track_color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #BubbleSeekBar_bsb_track_size com.anyvision.facekeyexample.ntec:bsb_track_size}</code></td><td></td></tr>
      * </table>
      * @see #BubbleSeekBar_bsb_always_show_bubble
      * @see #BubbleSeekBar_bsb_always_show_bubble_delay
@@ -13122,45 +13138,45 @@ public final class R {
       0x7f030071
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_always_show_bubble}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_always_show_bubble}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_always_show_bubble
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_always_show_bubble
      */
     public static final int BubbleSeekBar_bsb_always_show_bubble=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_always_show_bubble_delay}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_always_show_bubble_delay}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_always_show_bubble_delay
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_always_show_bubble_delay
      */
     public static final int BubbleSeekBar_bsb_always_show_bubble_delay=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_anim_duration}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_anim_duration}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_anim_duration
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_anim_duration
      */
     public static final int BubbleSeekBar_bsb_anim_duration=2;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_auto_adjust_section_mark}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_auto_adjust_section_mark}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_auto_adjust_section_mark
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_auto_adjust_section_mark
      */
     public static final int BubbleSeekBar_bsb_auto_adjust_section_mark=3;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_bubble_color}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_bubble_color}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13171,11 +13187,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_bubble_color
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_bubble_color
      */
     public static final int BubbleSeekBar_bsb_bubble_color=4;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_bubble_text_color}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_bubble_text_color}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13186,11 +13202,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_bubble_text_color
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_bubble_text_color
      */
     public static final int BubbleSeekBar_bsb_bubble_text_color=5;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_bubble_text_size}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_bubble_text_size}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13203,31 +13219,31 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_bubble_text_size
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_bubble_text_size
      */
     public static final int BubbleSeekBar_bsb_bubble_text_size=6;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_hide_bubble}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_hide_bubble}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_hide_bubble
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_hide_bubble
      */
     public static final int BubbleSeekBar_bsb_hide_bubble=7;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_is_float_type}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_is_float_type}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_is_float_type
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_is_float_type
      */
     public static final int BubbleSeekBar_bsb_is_float_type=8;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_max}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_max}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13236,11 +13252,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_max
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_max
      */
     public static final int BubbleSeekBar_bsb_max=9;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_min}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_min}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13249,11 +13265,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_min
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_min
      */
     public static final int BubbleSeekBar_bsb_min=10;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_progress}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_progress}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13262,21 +13278,21 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_progress
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_progress
      */
     public static final int BubbleSeekBar_bsb_progress=11;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_rtl}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_rtl}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_rtl
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_rtl
      */
     public static final int BubbleSeekBar_bsb_rtl=12;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_second_track_color}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_second_track_color}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13287,11 +13303,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_second_track_color
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_second_track_color
      */
     public static final int BubbleSeekBar_bsb_second_track_color=13;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_second_track_size}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_second_track_size}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13304,11 +13320,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_second_track_size
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_second_track_size
      */
     public static final int BubbleSeekBar_bsb_second_track_size=14;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_section_count}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_section_count}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13317,11 +13333,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_section_count
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_section_count
      */
     public static final int BubbleSeekBar_bsb_section_count=15;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_section_text_color}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_section_text_color}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13332,20 +13348,20 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_section_text_color
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_section_text_color
      */
     public static final int BubbleSeekBar_bsb_section_text_color=16;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_section_text_interval}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_section_text_interval}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_section_text_interval
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_section_text_interval
      */
     public static final int BubbleSeekBar_bsb_section_text_interval=17;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_section_text_position}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_section_text_position}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13359,11 +13375,11 @@ public final class R {
      * <tr><td>sides</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_section_text_position
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_section_text_position
      */
     public static final int BubbleSeekBar_bsb_section_text_position=18;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_section_text_size}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_section_text_size}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13376,61 +13392,61 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_section_text_size
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_section_text_size
      */
     public static final int BubbleSeekBar_bsb_section_text_size=19;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_seek_by_section}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_seek_by_section}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_seek_by_section
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_seek_by_section
      */
     public static final int BubbleSeekBar_bsb_seek_by_section=20;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_show_progress_in_float}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_show_progress_in_float}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_show_progress_in_float
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_show_progress_in_float
      */
     public static final int BubbleSeekBar_bsb_show_progress_in_float=21;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_show_section_mark}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_show_section_mark}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_show_section_mark
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_show_section_mark
      */
     public static final int BubbleSeekBar_bsb_show_section_mark=22;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_show_section_text}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_show_section_text}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_show_section_text
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_show_section_text
      */
     public static final int BubbleSeekBar_bsb_show_section_text=23;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_show_thumb_text}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_show_thumb_text}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_show_thumb_text
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_show_thumb_text
      */
     public static final int BubbleSeekBar_bsb_show_thumb_text=24;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_thumb_color}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_thumb_color}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13441,11 +13457,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_thumb_color
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_thumb_color
      */
     public static final int BubbleSeekBar_bsb_thumb_color=25;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_thumb_radius}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_thumb_radius}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13458,11 +13474,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_thumb_radius
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_thumb_radius
      */
     public static final int BubbleSeekBar_bsb_thumb_radius=26;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_thumb_radius_on_dragging}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_thumb_radius_on_dragging}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13475,11 +13491,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_thumb_radius_on_dragging
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_thumb_radius_on_dragging
      */
     public static final int BubbleSeekBar_bsb_thumb_radius_on_dragging=27;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_thumb_text_color}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_thumb_text_color}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13490,11 +13506,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_thumb_text_color
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_thumb_text_color
      */
     public static final int BubbleSeekBar_bsb_thumb_text_color=28;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_thumb_text_size}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_thumb_text_size}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13507,21 +13523,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_thumb_text_size
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_thumb_text_size
      */
     public static final int BubbleSeekBar_bsb_thumb_text_size=29;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_touch_to_seek}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_touch_to_seek}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_touch_to_seek
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_touch_to_seek
      */
     public static final int BubbleSeekBar_bsb_touch_to_seek=30;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_track_color}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_track_color}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13532,11 +13548,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_track_color
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_track_color
      */
     public static final int BubbleSeekBar_bsb_track_color=31;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bsb_track_size}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bsb_track_size}
      * attribute's value can be found in the {@link #BubbleSeekBar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13549,7 +13565,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:bsb_track_size
+     * @attr name com.anyvision.facekeyexample.ntec:bsb_track_size
      */
     public static final int BubbleSeekBar_bsb_track_size=32;
     /**
@@ -13559,7 +13575,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.anyvision.facekeyexample.client:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
+     * <tr><td><code>{@link #ButtonBarLayout_allowStacking com.anyvision.facekeyexample.ntec:allowStacking}</code></td><td>Whether to automatically stack the buttons when there is not
      * enough space to lay them out side-by-side.</td></tr>
      * </table>
      * @see #ButtonBarLayout_allowStacking
@@ -13576,7 +13592,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:allowStacking
+     * @attr name com.anyvision.facekeyexample.ntec:allowStacking
      */
     public static final int ButtonBarLayout_allowStacking=0;
     /**
@@ -13586,55 +13602,55 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CameraView_cameraAudio com.anyvision.facekeyexample.client:cameraAudio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraAudioBitRate com.anyvision.facekeyexample.client:cameraAudioBitRate}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraAutoFocusMarker com.anyvision.facekeyexample.client:cameraAutoFocusMarker}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraAutoFocusResetDelay com.anyvision.facekeyexample.client:cameraAutoFocusResetDelay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraEngine com.anyvision.facekeyexample.client:cameraEngine}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraExperimental com.anyvision.facekeyexample.client:cameraExperimental}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraFacing com.anyvision.facekeyexample.client:cameraFacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraFilter com.anyvision.facekeyexample.client:cameraFilter}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraFlash com.anyvision.facekeyexample.client:cameraFlash}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraGestureLongTap com.anyvision.facekeyexample.client:cameraGestureLongTap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraGesturePinch com.anyvision.facekeyexample.client:cameraGesturePinch}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraGestureScrollHorizontal com.anyvision.facekeyexample.client:cameraGestureScrollHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraGestureScrollVertical com.anyvision.facekeyexample.client:cameraGestureScrollVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraGestureTap com.anyvision.facekeyexample.client:cameraGestureTap}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraGrid com.anyvision.facekeyexample.client:cameraGrid}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraGridColor com.anyvision.facekeyexample.client:cameraGridColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraHdr com.anyvision.facekeyexample.client:cameraHdr}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraMode com.anyvision.facekeyexample.client:cameraMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraPictureMetering com.anyvision.facekeyexample.client:cameraPictureMetering}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraPictureSizeAspectRatio com.anyvision.facekeyexample.client:cameraPictureSizeAspectRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraPictureSizeBiggest com.anyvision.facekeyexample.client:cameraPictureSizeBiggest}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraPictureSizeMaxArea com.anyvision.facekeyexample.client:cameraPictureSizeMaxArea}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraPictureSizeMaxHeight com.anyvision.facekeyexample.client:cameraPictureSizeMaxHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraPictureSizeMaxWidth com.anyvision.facekeyexample.client:cameraPictureSizeMaxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraPictureSizeMinArea com.anyvision.facekeyexample.client:cameraPictureSizeMinArea}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraPictureSizeMinHeight com.anyvision.facekeyexample.client:cameraPictureSizeMinHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraPictureSizeMinWidth com.anyvision.facekeyexample.client:cameraPictureSizeMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraPictureSizeSmallest com.anyvision.facekeyexample.client:cameraPictureSizeSmallest}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraPictureSnapshotMetering com.anyvision.facekeyexample.client:cameraPictureSnapshotMetering}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraPlaySounds com.anyvision.facekeyexample.client:cameraPlaySounds}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraPreview com.anyvision.facekeyexample.client:cameraPreview}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraPreviewFrameRate com.anyvision.facekeyexample.client:cameraPreviewFrameRate}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraSnapshotMaxHeight com.anyvision.facekeyexample.client:cameraSnapshotMaxHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraSnapshotMaxWidth com.anyvision.facekeyexample.client:cameraSnapshotMaxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraUseDeviceOrientation com.anyvision.facekeyexample.client:cameraUseDeviceOrientation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraVideoBitRate com.anyvision.facekeyexample.client:cameraVideoBitRate}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraVideoCodec com.anyvision.facekeyexample.client:cameraVideoCodec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraVideoMaxDuration com.anyvision.facekeyexample.client:cameraVideoMaxDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraVideoMaxSize com.anyvision.facekeyexample.client:cameraVideoMaxSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraVideoSizeAspectRatio com.anyvision.facekeyexample.client:cameraVideoSizeAspectRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraVideoSizeBiggest com.anyvision.facekeyexample.client:cameraVideoSizeBiggest}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraVideoSizeMaxArea com.anyvision.facekeyexample.client:cameraVideoSizeMaxArea}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraVideoSizeMaxHeight com.anyvision.facekeyexample.client:cameraVideoSizeMaxHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraVideoSizeMaxWidth com.anyvision.facekeyexample.client:cameraVideoSizeMaxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraVideoSizeMinArea com.anyvision.facekeyexample.client:cameraVideoSizeMinArea}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraVideoSizeMinHeight com.anyvision.facekeyexample.client:cameraVideoSizeMinHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraVideoSizeMinWidth com.anyvision.facekeyexample.client:cameraVideoSizeMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraVideoSizeSmallest com.anyvision.facekeyexample.client:cameraVideoSizeSmallest}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_cameraWhiteBalance com.anyvision.facekeyexample.client:cameraWhiteBalance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraAudio com.anyvision.facekeyexample.ntec:cameraAudio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraAudioBitRate com.anyvision.facekeyexample.ntec:cameraAudioBitRate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraAutoFocusMarker com.anyvision.facekeyexample.ntec:cameraAutoFocusMarker}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraAutoFocusResetDelay com.anyvision.facekeyexample.ntec:cameraAutoFocusResetDelay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraEngine com.anyvision.facekeyexample.ntec:cameraEngine}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraExperimental com.anyvision.facekeyexample.ntec:cameraExperimental}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraFacing com.anyvision.facekeyexample.ntec:cameraFacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraFilter com.anyvision.facekeyexample.ntec:cameraFilter}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraFlash com.anyvision.facekeyexample.ntec:cameraFlash}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraGestureLongTap com.anyvision.facekeyexample.ntec:cameraGestureLongTap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraGesturePinch com.anyvision.facekeyexample.ntec:cameraGesturePinch}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraGestureScrollHorizontal com.anyvision.facekeyexample.ntec:cameraGestureScrollHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraGestureScrollVertical com.anyvision.facekeyexample.ntec:cameraGestureScrollVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraGestureTap com.anyvision.facekeyexample.ntec:cameraGestureTap}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraGrid com.anyvision.facekeyexample.ntec:cameraGrid}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraGridColor com.anyvision.facekeyexample.ntec:cameraGridColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraHdr com.anyvision.facekeyexample.ntec:cameraHdr}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraMode com.anyvision.facekeyexample.ntec:cameraMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraPictureMetering com.anyvision.facekeyexample.ntec:cameraPictureMetering}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraPictureSizeAspectRatio com.anyvision.facekeyexample.ntec:cameraPictureSizeAspectRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraPictureSizeBiggest com.anyvision.facekeyexample.ntec:cameraPictureSizeBiggest}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraPictureSizeMaxArea com.anyvision.facekeyexample.ntec:cameraPictureSizeMaxArea}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraPictureSizeMaxHeight com.anyvision.facekeyexample.ntec:cameraPictureSizeMaxHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraPictureSizeMaxWidth com.anyvision.facekeyexample.ntec:cameraPictureSizeMaxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraPictureSizeMinArea com.anyvision.facekeyexample.ntec:cameraPictureSizeMinArea}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraPictureSizeMinHeight com.anyvision.facekeyexample.ntec:cameraPictureSizeMinHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraPictureSizeMinWidth com.anyvision.facekeyexample.ntec:cameraPictureSizeMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraPictureSizeSmallest com.anyvision.facekeyexample.ntec:cameraPictureSizeSmallest}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraPictureSnapshotMetering com.anyvision.facekeyexample.ntec:cameraPictureSnapshotMetering}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraPlaySounds com.anyvision.facekeyexample.ntec:cameraPlaySounds}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraPreview com.anyvision.facekeyexample.ntec:cameraPreview}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraPreviewFrameRate com.anyvision.facekeyexample.ntec:cameraPreviewFrameRate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraSnapshotMaxHeight com.anyvision.facekeyexample.ntec:cameraSnapshotMaxHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraSnapshotMaxWidth com.anyvision.facekeyexample.ntec:cameraSnapshotMaxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraUseDeviceOrientation com.anyvision.facekeyexample.ntec:cameraUseDeviceOrientation}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraVideoBitRate com.anyvision.facekeyexample.ntec:cameraVideoBitRate}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraVideoCodec com.anyvision.facekeyexample.ntec:cameraVideoCodec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraVideoMaxDuration com.anyvision.facekeyexample.ntec:cameraVideoMaxDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraVideoMaxSize com.anyvision.facekeyexample.ntec:cameraVideoMaxSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraVideoSizeAspectRatio com.anyvision.facekeyexample.ntec:cameraVideoSizeAspectRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraVideoSizeBiggest com.anyvision.facekeyexample.ntec:cameraVideoSizeBiggest}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraVideoSizeMaxArea com.anyvision.facekeyexample.ntec:cameraVideoSizeMaxArea}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraVideoSizeMaxHeight com.anyvision.facekeyexample.ntec:cameraVideoSizeMaxHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraVideoSizeMaxWidth com.anyvision.facekeyexample.ntec:cameraVideoSizeMaxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraVideoSizeMinArea com.anyvision.facekeyexample.ntec:cameraVideoSizeMinArea}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraVideoSizeMinHeight com.anyvision.facekeyexample.ntec:cameraVideoSizeMinHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraVideoSizeMinWidth com.anyvision.facekeyexample.ntec:cameraVideoSizeMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraVideoSizeSmallest com.anyvision.facekeyexample.ntec:cameraVideoSizeSmallest}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_cameraWhiteBalance com.anyvision.facekeyexample.ntec:cameraWhiteBalance}</code></td><td></td></tr>
      * </table>
      * @see #CameraView_cameraAudio
      * @see #CameraView_cameraAudioBitRate
@@ -13702,7 +13718,7 @@ public final class R {
       0x7f0300af
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraAudio}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraAudio}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13717,11 +13733,11 @@ public final class R {
      * <tr><td>stereo</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraAudio
+     * @attr name com.anyvision.facekeyexample.ntec:cameraAudio
      */
     public static final int CameraView_cameraAudio=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraAudioBitRate}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraAudioBitRate}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13730,11 +13746,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraAudioBitRate
+     * @attr name com.anyvision.facekeyexample.ntec:cameraAudioBitRate
      */
     public static final int CameraView_cameraAudioBitRate=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraAutoFocusMarker}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraAutoFocusMarker}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13744,11 +13760,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraAutoFocusMarker
+     * @attr name com.anyvision.facekeyexample.ntec:cameraAutoFocusMarker
      */
     public static final int CameraView_cameraAutoFocusMarker=2;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraAutoFocusResetDelay}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraAutoFocusResetDelay}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13757,11 +13773,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraAutoFocusResetDelay
+     * @attr name com.anyvision.facekeyexample.ntec:cameraAutoFocusResetDelay
      */
     public static final int CameraView_cameraAutoFocusResetDelay=3;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraEngine}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraEngine}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13774,21 +13790,21 @@ public final class R {
      * <tr><td>camera2</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraEngine
+     * @attr name com.anyvision.facekeyexample.ntec:cameraEngine
      */
     public static final int CameraView_cameraEngine=4;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraExperimental}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraExperimental}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraExperimental
+     * @attr name com.anyvision.facekeyexample.ntec:cameraExperimental
      */
     public static final int CameraView_cameraExperimental=5;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraFacing}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraFacing}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13801,11 +13817,11 @@ public final class R {
      * <tr><td>front</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraFacing
+     * @attr name com.anyvision.facekeyexample.ntec:cameraFacing
      */
     public static final int CameraView_cameraFacing=6;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraFilter}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraFilter}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13815,11 +13831,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraFilter
+     * @attr name com.anyvision.facekeyexample.ntec:cameraFilter
      */
     public static final int CameraView_cameraFilter=7;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraFlash}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraFlash}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13834,11 +13850,11 @@ public final class R {
      * <tr><td>torch</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraFlash
+     * @attr name com.anyvision.facekeyexample.ntec:cameraFlash
      */
     public static final int CameraView_cameraFlash=8;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraGestureLongTap}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraGestureLongTap}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13852,11 +13868,11 @@ public final class R {
      * <tr><td>takePicture</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraGestureLongTap
+     * @attr name com.anyvision.facekeyexample.ntec:cameraGestureLongTap
      */
     public static final int CameraView_cameraGestureLongTap=9;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraGesturePinch}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraGesturePinch}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13872,11 +13888,11 @@ public final class R {
      * <tr><td>zoom</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraGesturePinch
+     * @attr name com.anyvision.facekeyexample.ntec:cameraGesturePinch
      */
     public static final int CameraView_cameraGesturePinch=10;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraGestureScrollHorizontal}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraGestureScrollHorizontal}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13892,11 +13908,11 @@ public final class R {
      * <tr><td>zoom</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraGestureScrollHorizontal
+     * @attr name com.anyvision.facekeyexample.ntec:cameraGestureScrollHorizontal
      */
     public static final int CameraView_cameraGestureScrollHorizontal=11;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraGestureScrollVertical}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraGestureScrollVertical}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13912,11 +13928,11 @@ public final class R {
      * <tr><td>zoom</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraGestureScrollVertical
+     * @attr name com.anyvision.facekeyexample.ntec:cameraGestureScrollVertical
      */
     public static final int CameraView_cameraGestureScrollVertical=12;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraGestureTap}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraGestureTap}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13930,11 +13946,11 @@ public final class R {
      * <tr><td>takePicture</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraGestureTap
+     * @attr name com.anyvision.facekeyexample.ntec:cameraGestureTap
      */
     public static final int CameraView_cameraGestureTap=13;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraGrid}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraGrid}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13949,11 +13965,11 @@ public final class R {
      * <tr><td>off</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraGrid
+     * @attr name com.anyvision.facekeyexample.ntec:cameraGrid
      */
     public static final int CameraView_cameraGrid=14;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraGridColor}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraGridColor}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -13964,11 +13980,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraGridColor
+     * @attr name com.anyvision.facekeyexample.ntec:cameraGridColor
      */
     public static final int CameraView_cameraGridColor=15;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraHdr}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraHdr}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13981,11 +13997,11 @@ public final class R {
      * <tr><td>on</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraHdr
+     * @attr name com.anyvision.facekeyexample.ntec:cameraHdr
      */
     public static final int CameraView_cameraHdr=16;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraMode}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraMode}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -13998,11 +14014,11 @@ public final class R {
      * <tr><td>video</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraMode
+     * @attr name com.anyvision.facekeyexample.ntec:cameraMode
      */
     public static final int CameraView_cameraMode=17;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraPictureMetering}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraPictureMetering}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14012,11 +14028,11 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraPictureMetering
+     * @attr name com.anyvision.facekeyexample.ntec:cameraPictureMetering
      */
     public static final int CameraView_cameraPictureMetering=18;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraPictureSizeAspectRatio}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraPictureSizeAspectRatio}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14026,21 +14042,21 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraPictureSizeAspectRatio
+     * @attr name com.anyvision.facekeyexample.ntec:cameraPictureSizeAspectRatio
      */
     public static final int CameraView_cameraPictureSizeAspectRatio=19;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraPictureSizeBiggest}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraPictureSizeBiggest}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraPictureSizeBiggest
+     * @attr name com.anyvision.facekeyexample.ntec:cameraPictureSizeBiggest
      */
     public static final int CameraView_cameraPictureSizeBiggest=20;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraPictureSizeMaxArea}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraPictureSizeMaxArea}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14049,11 +14065,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraPictureSizeMaxArea
+     * @attr name com.anyvision.facekeyexample.ntec:cameraPictureSizeMaxArea
      */
     public static final int CameraView_cameraPictureSizeMaxArea=21;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraPictureSizeMaxHeight}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraPictureSizeMaxHeight}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14062,11 +14078,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraPictureSizeMaxHeight
+     * @attr name com.anyvision.facekeyexample.ntec:cameraPictureSizeMaxHeight
      */
     public static final int CameraView_cameraPictureSizeMaxHeight=22;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraPictureSizeMaxWidth}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraPictureSizeMaxWidth}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14075,11 +14091,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraPictureSizeMaxWidth
+     * @attr name com.anyvision.facekeyexample.ntec:cameraPictureSizeMaxWidth
      */
     public static final int CameraView_cameraPictureSizeMaxWidth=23;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraPictureSizeMinArea}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraPictureSizeMinArea}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14088,11 +14104,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraPictureSizeMinArea
+     * @attr name com.anyvision.facekeyexample.ntec:cameraPictureSizeMinArea
      */
     public static final int CameraView_cameraPictureSizeMinArea=24;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraPictureSizeMinHeight}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraPictureSizeMinHeight}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14101,11 +14117,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraPictureSizeMinHeight
+     * @attr name com.anyvision.facekeyexample.ntec:cameraPictureSizeMinHeight
      */
     public static final int CameraView_cameraPictureSizeMinHeight=25;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraPictureSizeMinWidth}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraPictureSizeMinWidth}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14114,21 +14130,21 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraPictureSizeMinWidth
+     * @attr name com.anyvision.facekeyexample.ntec:cameraPictureSizeMinWidth
      */
     public static final int CameraView_cameraPictureSizeMinWidth=26;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraPictureSizeSmallest}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraPictureSizeSmallest}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraPictureSizeSmallest
+     * @attr name com.anyvision.facekeyexample.ntec:cameraPictureSizeSmallest
      */
     public static final int CameraView_cameraPictureSizeSmallest=27;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraPictureSnapshotMetering}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraPictureSnapshotMetering}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14138,21 +14154,21 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraPictureSnapshotMetering
+     * @attr name com.anyvision.facekeyexample.ntec:cameraPictureSnapshotMetering
      */
     public static final int CameraView_cameraPictureSnapshotMetering=28;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraPlaySounds}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraPlaySounds}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraPlaySounds
+     * @attr name com.anyvision.facekeyexample.ntec:cameraPlaySounds
      */
     public static final int CameraView_cameraPlaySounds=29;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraPreview}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraPreview}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14166,11 +14182,11 @@ public final class R {
      * <tr><td>texture</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraPreview
+     * @attr name com.anyvision.facekeyexample.ntec:cameraPreview
      */
     public static final int CameraView_cameraPreview=30;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraPreviewFrameRate}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraPreviewFrameRate}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14179,11 +14195,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraPreviewFrameRate
+     * @attr name com.anyvision.facekeyexample.ntec:cameraPreviewFrameRate
      */
     public static final int CameraView_cameraPreviewFrameRate=31;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraSnapshotMaxHeight}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraSnapshotMaxHeight}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14192,11 +14208,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraSnapshotMaxHeight
+     * @attr name com.anyvision.facekeyexample.ntec:cameraSnapshotMaxHeight
      */
     public static final int CameraView_cameraSnapshotMaxHeight=32;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraSnapshotMaxWidth}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraSnapshotMaxWidth}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14205,21 +14221,21 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraSnapshotMaxWidth
+     * @attr name com.anyvision.facekeyexample.ntec:cameraSnapshotMaxWidth
      */
     public static final int CameraView_cameraSnapshotMaxWidth=33;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraUseDeviceOrientation}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraUseDeviceOrientation}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraUseDeviceOrientation
+     * @attr name com.anyvision.facekeyexample.ntec:cameraUseDeviceOrientation
      */
     public static final int CameraView_cameraUseDeviceOrientation=34;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraVideoBitRate}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraVideoBitRate}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14228,11 +14244,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraVideoBitRate
+     * @attr name com.anyvision.facekeyexample.ntec:cameraVideoBitRate
      */
     public static final int CameraView_cameraVideoBitRate=35;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraVideoCodec}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraVideoCodec}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14246,29 +14262,29 @@ public final class R {
      * <tr><td>h264</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraVideoCodec
+     * @attr name com.anyvision.facekeyexample.ntec:cameraVideoCodec
      */
     public static final int CameraView_cameraVideoCodec=36;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraVideoMaxDuration}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraVideoMaxDuration}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraVideoMaxDuration
+     * @attr name com.anyvision.facekeyexample.ntec:cameraVideoMaxDuration
      */
     public static final int CameraView_cameraVideoMaxDuration=37;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraVideoMaxSize}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraVideoMaxSize}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraVideoMaxSize
+     * @attr name com.anyvision.facekeyexample.ntec:cameraVideoMaxSize
      */
     public static final int CameraView_cameraVideoMaxSize=38;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraVideoSizeAspectRatio}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraVideoSizeAspectRatio}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14278,21 +14294,21 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraVideoSizeAspectRatio
+     * @attr name com.anyvision.facekeyexample.ntec:cameraVideoSizeAspectRatio
      */
     public static final int CameraView_cameraVideoSizeAspectRatio=39;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraVideoSizeBiggest}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraVideoSizeBiggest}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraVideoSizeBiggest
+     * @attr name com.anyvision.facekeyexample.ntec:cameraVideoSizeBiggest
      */
     public static final int CameraView_cameraVideoSizeBiggest=40;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraVideoSizeMaxArea}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraVideoSizeMaxArea}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14301,11 +14317,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraVideoSizeMaxArea
+     * @attr name com.anyvision.facekeyexample.ntec:cameraVideoSizeMaxArea
      */
     public static final int CameraView_cameraVideoSizeMaxArea=41;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraVideoSizeMaxHeight}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraVideoSizeMaxHeight}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14314,11 +14330,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraVideoSizeMaxHeight
+     * @attr name com.anyvision.facekeyexample.ntec:cameraVideoSizeMaxHeight
      */
     public static final int CameraView_cameraVideoSizeMaxHeight=42;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraVideoSizeMaxWidth}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraVideoSizeMaxWidth}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14327,11 +14343,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraVideoSizeMaxWidth
+     * @attr name com.anyvision.facekeyexample.ntec:cameraVideoSizeMaxWidth
      */
     public static final int CameraView_cameraVideoSizeMaxWidth=43;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraVideoSizeMinArea}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraVideoSizeMinArea}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14340,11 +14356,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraVideoSizeMinArea
+     * @attr name com.anyvision.facekeyexample.ntec:cameraVideoSizeMinArea
      */
     public static final int CameraView_cameraVideoSizeMinArea=44;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraVideoSizeMinHeight}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraVideoSizeMinHeight}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14353,11 +14369,11 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraVideoSizeMinHeight
+     * @attr name com.anyvision.facekeyexample.ntec:cameraVideoSizeMinHeight
      */
     public static final int CameraView_cameraVideoSizeMinHeight=45;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraVideoSizeMinWidth}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraVideoSizeMinWidth}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14366,21 +14382,21 @@ public final class R {
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraVideoSizeMinWidth
+     * @attr name com.anyvision.facekeyexample.ntec:cameraVideoSizeMinWidth
      */
     public static final int CameraView_cameraVideoSizeMinWidth=46;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraVideoSizeSmallest}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraVideoSizeSmallest}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraVideoSizeSmallest
+     * @attr name com.anyvision.facekeyexample.ntec:cameraVideoSizeSmallest
      */
     public static final int CameraView_cameraVideoSizeSmallest=47;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cameraWhiteBalance}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cameraWhiteBalance}
      * attribute's value can be found in the {@link #CameraView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -14396,7 +14412,7 @@ public final class R {
      * <tr><td>incandescent</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:cameraWhiteBalance
+     * @attr name com.anyvision.facekeyexample.ntec:cameraWhiteBalance
      */
     public static final int CameraView_cameraWhiteBalance=48;
     /**
@@ -14406,9 +14422,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CameraView_Layout_layout_drawOnPictureSnapshot com.anyvision.facekeyexample.client:layout_drawOnPictureSnapshot}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_Layout_layout_drawOnPreview com.anyvision.facekeyexample.client:layout_drawOnPreview}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CameraView_Layout_layout_drawOnVideoSnapshot com.anyvision.facekeyexample.client:layout_drawOnVideoSnapshot}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_Layout_layout_drawOnPictureSnapshot com.anyvision.facekeyexample.ntec:layout_drawOnPictureSnapshot}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_Layout_layout_drawOnPreview com.anyvision.facekeyexample.ntec:layout_drawOnPreview}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CameraView_Layout_layout_drawOnVideoSnapshot com.anyvision.facekeyexample.ntec:layout_drawOnVideoSnapshot}</code></td><td></td></tr>
      * </table>
      * @see #CameraView_Layout_layout_drawOnPictureSnapshot
      * @see #CameraView_Layout_layout_drawOnPreview
@@ -14418,33 +14434,33 @@ public final class R {
       0x7f03019c, 0x7f03019d, 0x7f03019e
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_drawOnPictureSnapshot}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_drawOnPictureSnapshot}
      * attribute's value can be found in the {@link #CameraView_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_drawOnPictureSnapshot
+     * @attr name com.anyvision.facekeyexample.ntec:layout_drawOnPictureSnapshot
      */
     public static final int CameraView_Layout_layout_drawOnPictureSnapshot=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_drawOnPreview}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_drawOnPreview}
      * attribute's value can be found in the {@link #CameraView_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_drawOnPreview
+     * @attr name com.anyvision.facekeyexample.ntec:layout_drawOnPreview
      */
     public static final int CameraView_Layout_layout_drawOnPreview=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_drawOnVideoSnapshot}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_drawOnVideoSnapshot}
      * attribute's value can be found in the {@link #CameraView_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_drawOnVideoSnapshot
+     * @attr name com.anyvision.facekeyexample.ntec:layout_drawOnVideoSnapshot
      */
     public static final int CameraView_Layout_layout_drawOnVideoSnapshot=2;
     /**
@@ -14456,17 +14472,17 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CardView_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #CardView_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CardView_cardBackgroundColor com.anyvision.facekeyexample.client:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardCornerRadius com.anyvision.facekeyexample.client:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardElevation com.anyvision.facekeyexample.client:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardMaxElevation com.anyvision.facekeyexample.client:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.anyvision.facekeyexample.client:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
-     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.anyvision.facekeyexample.client:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPadding com.anyvision.facekeyexample.client:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingBottom com.anyvision.facekeyexample.client:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingLeft com.anyvision.facekeyexample.client:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingRight com.anyvision.facekeyexample.client:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
-     * <tr><td><code>{@link #CardView_contentPaddingTop com.anyvision.facekeyexample.client:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardBackgroundColor com.anyvision.facekeyexample.ntec:cardBackgroundColor}</code></td><td>Background color for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardCornerRadius com.anyvision.facekeyexample.ntec:cardCornerRadius}</code></td><td>Corner radius for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardElevation com.anyvision.facekeyexample.ntec:cardElevation}</code></td><td>Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardMaxElevation com.anyvision.facekeyexample.ntec:cardMaxElevation}</code></td><td>Maximum Elevation for CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_cardPreventCornerOverlap com.anyvision.facekeyexample.ntec:cardPreventCornerOverlap}</code></td><td>Add padding to CardView on v20 and before to prevent intersections between the Card content and rounded corners.</td></tr>
+     * <tr><td><code>{@link #CardView_cardUseCompatPadding com.anyvision.facekeyexample.ntec:cardUseCompatPadding}</code></td><td>Add padding in API v21+ as well to have the same measurements with previous versions.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPadding com.anyvision.facekeyexample.ntec:contentPadding}</code></td><td>Inner padding between the edges of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingBottom com.anyvision.facekeyexample.ntec:contentPaddingBottom}</code></td><td>Inner padding between the bottom edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingLeft com.anyvision.facekeyexample.ntec:contentPaddingLeft}</code></td><td>Inner padding between the left edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingRight com.anyvision.facekeyexample.ntec:contentPaddingRight}</code></td><td>Inner padding between the right edge of the Card and children of the CardView.</td></tr>
+     * <tr><td><code>{@link #CardView_contentPaddingTop com.anyvision.facekeyexample.ntec:contentPaddingTop}</code></td><td>Inner padding between the top edge of the Card and children of the CardView.</td></tr>
      * </table>
      * @see #CardView_android_minWidth
      * @see #CardView_android_minHeight
@@ -14525,7 +14541,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cardBackgroundColor
+     * @attr name com.anyvision.facekeyexample.ntec:cardBackgroundColor
      */
     public static final int CardView_cardBackgroundColor=2;
     /**
@@ -14539,7 +14555,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:cardCornerRadius
+     * @attr name com.anyvision.facekeyexample.ntec:cardCornerRadius
      */
     public static final int CardView_cardCornerRadius=3;
     /**
@@ -14553,7 +14569,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:cardElevation
+     * @attr name com.anyvision.facekeyexample.ntec:cardElevation
      */
     public static final int CardView_cardElevation=4;
     /**
@@ -14567,7 +14583,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:cardMaxElevation
+     * @attr name com.anyvision.facekeyexample.ntec:cardMaxElevation
      */
     public static final int CardView_cardMaxElevation=5;
     /**
@@ -14578,7 +14594,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cardPreventCornerOverlap
+     * @attr name com.anyvision.facekeyexample.ntec:cardPreventCornerOverlap
      */
     public static final int CardView_cardPreventCornerOverlap=6;
     /**
@@ -14589,7 +14605,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:cardUseCompatPadding
+     * @attr name com.anyvision.facekeyexample.ntec:cardUseCompatPadding
      */
     public static final int CardView_cardUseCompatPadding=7;
     /**
@@ -14603,7 +14619,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:contentPadding
+     * @attr name com.anyvision.facekeyexample.ntec:contentPadding
      */
     public static final int CardView_contentPadding=8;
     /**
@@ -14617,7 +14633,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:contentPaddingBottom
+     * @attr name com.anyvision.facekeyexample.ntec:contentPaddingBottom
      */
     public static final int CardView_contentPaddingBottom=9;
     /**
@@ -14631,7 +14647,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:contentPaddingLeft
+     * @attr name com.anyvision.facekeyexample.ntec:contentPaddingLeft
      */
     public static final int CardView_contentPaddingLeft=10;
     /**
@@ -14645,7 +14661,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:contentPaddingRight
+     * @attr name com.anyvision.facekeyexample.ntec:contentPaddingRight
      */
     public static final int CardView_contentPaddingRight=11;
     /**
@@ -14659,7 +14675,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:contentPaddingTop
+     * @attr name com.anyvision.facekeyexample.ntec:contentPaddingTop
      */
     public static final int CardView_contentPaddingTop=12;
     /**
@@ -14674,35 +14690,35 @@ public final class R {
      * <tr><td><code>{@link #Chip_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_text android:text}</code></td><td></td></tr>
      * <tr><td><code>{@link #Chip_android_checkable android:checkable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIcon com.anyvision.facekeyexample.client:checkedIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconEnabled com.anyvision.facekeyexample.client:checkedIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_checkedIconVisible com.anyvision.facekeyexample.client:checkedIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipBackgroundColor com.anyvision.facekeyexample.client:chipBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipCornerRadius com.anyvision.facekeyexample.client:chipCornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipEndPadding com.anyvision.facekeyexample.client:chipEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIcon com.anyvision.facekeyexample.client:chipIcon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconEnabled com.anyvision.facekeyexample.client:chipIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconSize com.anyvision.facekeyexample.client:chipIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconTint com.anyvision.facekeyexample.client:chipIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipIconVisible com.anyvision.facekeyexample.client:chipIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipMinHeight com.anyvision.facekeyexample.client:chipMinHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStartPadding com.anyvision.facekeyexample.client:chipStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeColor com.anyvision.facekeyexample.client:chipStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_chipStrokeWidth com.anyvision.facekeyexample.client:chipStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIcon com.anyvision.facekeyexample.client:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEnabled com.anyvision.facekeyexample.client:closeIconEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconEndPadding com.anyvision.facekeyexample.client:closeIconEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconSize com.anyvision.facekeyexample.client:closeIconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconStartPadding com.anyvision.facekeyexample.client:closeIconStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconTint com.anyvision.facekeyexample.client:closeIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_closeIconVisible com.anyvision.facekeyexample.client:closeIconVisible}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_hideMotionSpec com.anyvision.facekeyexample.client:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconEndPadding com.anyvision.facekeyexample.client:iconEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_iconStartPadding com.anyvision.facekeyexample.client:iconStartPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_rippleColor com.anyvision.facekeyexample.client:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_showMotionSpec com.anyvision.facekeyexample.client:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textEndPadding com.anyvision.facekeyexample.client:textEndPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Chip_textStartPadding com.anyvision.facekeyexample.client:textStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIcon com.anyvision.facekeyexample.ntec:checkedIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconEnabled com.anyvision.facekeyexample.ntec:checkedIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_checkedIconVisible com.anyvision.facekeyexample.ntec:checkedIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipBackgroundColor com.anyvision.facekeyexample.ntec:chipBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipCornerRadius com.anyvision.facekeyexample.ntec:chipCornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipEndPadding com.anyvision.facekeyexample.ntec:chipEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIcon com.anyvision.facekeyexample.ntec:chipIcon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconEnabled com.anyvision.facekeyexample.ntec:chipIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconSize com.anyvision.facekeyexample.ntec:chipIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconTint com.anyvision.facekeyexample.ntec:chipIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipIconVisible com.anyvision.facekeyexample.ntec:chipIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipMinHeight com.anyvision.facekeyexample.ntec:chipMinHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStartPadding com.anyvision.facekeyexample.ntec:chipStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeColor com.anyvision.facekeyexample.ntec:chipStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_chipStrokeWidth com.anyvision.facekeyexample.ntec:chipStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIcon com.anyvision.facekeyexample.ntec:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEnabled com.anyvision.facekeyexample.ntec:closeIconEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconEndPadding com.anyvision.facekeyexample.ntec:closeIconEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconSize com.anyvision.facekeyexample.ntec:closeIconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconStartPadding com.anyvision.facekeyexample.ntec:closeIconStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconTint com.anyvision.facekeyexample.ntec:closeIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_closeIconVisible com.anyvision.facekeyexample.ntec:closeIconVisible}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_hideMotionSpec com.anyvision.facekeyexample.ntec:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconEndPadding com.anyvision.facekeyexample.ntec:iconEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_iconStartPadding com.anyvision.facekeyexample.ntec:iconStartPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_rippleColor com.anyvision.facekeyexample.ntec:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_showMotionSpec com.anyvision.facekeyexample.ntec:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textEndPadding com.anyvision.facekeyexample.ntec:textEndPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Chip_textStartPadding com.anyvision.facekeyexample.ntec:textStartPadding}</code></td><td></td></tr>
      * </table>
      * @see #Chip_android_textAppearance
      * @see #Chip_android_ellipsize
@@ -14816,7 +14832,7 @@ public final class R {
      */
     public static final int Chip_android_checkable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#checkedIcon}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#checkedIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14824,42 +14840,42 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:checkedIcon
+     * @attr name com.anyvision.facekeyexample.ntec:checkedIcon
      */
     public static final int Chip_checkedIcon=5;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#checkedIconEnabled}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#checkedIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:checkedIconEnabled
+     * @attr name com.anyvision.facekeyexample.ntec:checkedIconEnabled
      */
     public static final int Chip_checkedIconEnabled=6;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#checkedIconVisible}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#checkedIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:checkedIconVisible
+     * @attr name com.anyvision.facekeyexample.ntec:checkedIconVisible
      */
     public static final int Chip_checkedIconVisible=7;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chipBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chipBackgroundColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:chipBackgroundColor
+     * @attr name com.anyvision.facekeyexample.ntec:chipBackgroundColor
      */
     public static final int Chip_chipBackgroundColor=8;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chipCornerRadius}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chipCornerRadius}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14868,11 +14884,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:chipCornerRadius
+     * @attr name com.anyvision.facekeyexample.ntec:chipCornerRadius
      */
     public static final int Chip_chipCornerRadius=9;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chipEndPadding}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chipEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14881,11 +14897,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:chipEndPadding
+     * @attr name com.anyvision.facekeyexample.ntec:chipEndPadding
      */
     public static final int Chip_chipEndPadding=10;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chipIcon}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chipIcon}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -14893,21 +14909,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:chipIcon
+     * @attr name com.anyvision.facekeyexample.ntec:chipIcon
      */
     public static final int Chip_chipIcon=11;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chipIconEnabled}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chipIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:chipIconEnabled
+     * @attr name com.anyvision.facekeyexample.ntec:chipIconEnabled
      */
     public static final int Chip_chipIconEnabled=12;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chipIconSize}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chipIconSize}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14916,32 +14932,32 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:chipIconSize
+     * @attr name com.anyvision.facekeyexample.ntec:chipIconSize
      */
     public static final int Chip_chipIconSize=13;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chipIconTint}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chipIconTint}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:chipIconTint
+     * @attr name com.anyvision.facekeyexample.ntec:chipIconTint
      */
     public static final int Chip_chipIconTint=14;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chipIconVisible}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chipIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:chipIconVisible
+     * @attr name com.anyvision.facekeyexample.ntec:chipIconVisible
      */
     public static final int Chip_chipIconVisible=15;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chipMinHeight}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chipMinHeight}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14950,11 +14966,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:chipMinHeight
+     * @attr name com.anyvision.facekeyexample.ntec:chipMinHeight
      */
     public static final int Chip_chipMinHeight=16;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chipStartPadding}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chipStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14963,22 +14979,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:chipStartPadding
+     * @attr name com.anyvision.facekeyexample.ntec:chipStartPadding
      */
     public static final int Chip_chipStartPadding=17;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chipStrokeColor}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chipStrokeColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:chipStrokeColor
+     * @attr name com.anyvision.facekeyexample.ntec:chipStrokeColor
      */
     public static final int Chip_chipStrokeColor=18;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chipStrokeWidth}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chipStrokeWidth}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -14987,7 +15003,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:chipStrokeWidth
+     * @attr name com.anyvision.facekeyexample.ntec:chipStrokeWidth
      */
     public static final int Chip_chipStrokeWidth=19;
     /**
@@ -15000,21 +15016,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:closeIcon
+     * @attr name com.anyvision.facekeyexample.ntec:closeIcon
      */
     public static final int Chip_closeIcon=20;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#closeIconEnabled}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#closeIconEnabled}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:closeIconEnabled
+     * @attr name com.anyvision.facekeyexample.ntec:closeIconEnabled
      */
     public static final int Chip_closeIconEnabled=21;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#closeIconEndPadding}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#closeIconEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15023,11 +15039,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:closeIconEndPadding
+     * @attr name com.anyvision.facekeyexample.ntec:closeIconEndPadding
      */
     public static final int Chip_closeIconEndPadding=22;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#closeIconSize}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#closeIconSize}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15036,11 +15052,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:closeIconSize
+     * @attr name com.anyvision.facekeyexample.ntec:closeIconSize
      */
     public static final int Chip_closeIconSize=23;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#closeIconStartPadding}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#closeIconStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15049,32 +15065,32 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:closeIconStartPadding
+     * @attr name com.anyvision.facekeyexample.ntec:closeIconStartPadding
      */
     public static final int Chip_closeIconStartPadding=24;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#closeIconTint}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#closeIconTint}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:closeIconTint
+     * @attr name com.anyvision.facekeyexample.ntec:closeIconTint
      */
     public static final int Chip_closeIconTint=25;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#closeIconVisible}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#closeIconVisible}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:closeIconVisible
+     * @attr name com.anyvision.facekeyexample.ntec:closeIconVisible
      */
     public static final int Chip_closeIconVisible=26;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#hideMotionSpec}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#hideMotionSpec}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15082,11 +15098,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:hideMotionSpec
+     * @attr name com.anyvision.facekeyexample.ntec:hideMotionSpec
      */
     public static final int Chip_hideMotionSpec=27;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#iconEndPadding}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#iconEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15095,11 +15111,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:iconEndPadding
+     * @attr name com.anyvision.facekeyexample.ntec:iconEndPadding
      */
     public static final int Chip_iconEndPadding=28;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#iconStartPadding}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#iconStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15108,22 +15124,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:iconStartPadding
+     * @attr name com.anyvision.facekeyexample.ntec:iconStartPadding
      */
     public static final int Chip_iconStartPadding=29;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#rippleColor}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:rippleColor
+     * @attr name com.anyvision.facekeyexample.ntec:rippleColor
      */
     public static final int Chip_rippleColor=30;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#showMotionSpec}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#showMotionSpec}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15131,11 +15147,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:showMotionSpec
+     * @attr name com.anyvision.facekeyexample.ntec:showMotionSpec
      */
     public static final int Chip_showMotionSpec=31;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#textEndPadding}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#textEndPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15144,11 +15160,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:textEndPadding
+     * @attr name com.anyvision.facekeyexample.ntec:textEndPadding
      */
     public static final int Chip_textEndPadding=32;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#textStartPadding}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#textStartPadding}
      * attribute's value can be found in the {@link #Chip} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15157,7 +15173,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:textStartPadding
+     * @attr name com.anyvision.facekeyexample.ntec:textStartPadding
      */
     public static final int Chip_textStartPadding=33;
     /**
@@ -15167,12 +15183,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ChipGroup_checkedChip com.anyvision.facekeyexample.client:checkedChip}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacing com.anyvision.facekeyexample.client:chipSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.anyvision.facekeyexample.client:chipSpacingHorizontal}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.anyvision.facekeyexample.client:chipSpacingVertical}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleLine com.anyvision.facekeyexample.client:singleLine}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ChipGroup_singleSelection com.anyvision.facekeyexample.client:singleSelection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_checkedChip com.anyvision.facekeyexample.ntec:checkedChip}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacing com.anyvision.facekeyexample.ntec:chipSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingHorizontal com.anyvision.facekeyexample.ntec:chipSpacingHorizontal}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_chipSpacingVertical com.anyvision.facekeyexample.ntec:chipSpacingVertical}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleLine com.anyvision.facekeyexample.ntec:singleLine}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ChipGroup_singleSelection com.anyvision.facekeyexample.ntec:singleSelection}</code></td><td></td></tr>
      * </table>
      * @see #ChipGroup_checkedChip
      * @see #ChipGroup_chipSpacing
@@ -15186,7 +15202,7 @@ public final class R {
       0x7f030203, 0x7f030204
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#checkedChip}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#checkedChip}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15194,11 +15210,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:checkedChip
+     * @attr name com.anyvision.facekeyexample.ntec:checkedChip
      */
     public static final int ChipGroup_checkedChip=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chipSpacing}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chipSpacing}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15207,11 +15223,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:chipSpacing
+     * @attr name com.anyvision.facekeyexample.ntec:chipSpacing
      */
     public static final int ChipGroup_chipSpacing=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chipSpacingHorizontal}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chipSpacingHorizontal}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15220,11 +15236,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:chipSpacingHorizontal
+     * @attr name com.anyvision.facekeyexample.ntec:chipSpacingHorizontal
      */
     public static final int ChipGroup_chipSpacingHorizontal=2;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chipSpacingVertical}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chipSpacingVertical}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15233,27 +15249,27 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:chipSpacingVertical
+     * @attr name com.anyvision.facekeyexample.ntec:chipSpacingVertical
      */
     public static final int ChipGroup_chipSpacingVertical=3;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#singleLine}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#singleLine}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:singleLine
+     * @attr name com.anyvision.facekeyexample.ntec:singleLine
      */
     public static final int ChipGroup_singleLine=4;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#singleSelection}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#singleSelection}
      * attribute's value can be found in the {@link #ChipGroup} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:singleSelection
+     * @attr name com.anyvision.facekeyexample.ntec:singleSelection
      */
     public static final int ChipGroup_singleSelection=5;
     /**
@@ -15263,22 +15279,22 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.anyvision.facekeyexample.client:collapsedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.anyvision.facekeyexample.client:collapsedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.anyvision.facekeyexample.client:contentScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.anyvision.facekeyexample.client:expandedTitleGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.anyvision.facekeyexample.client:expandedTitleMargin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.anyvision.facekeyexample.client:expandedTitleMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.anyvision.facekeyexample.client:expandedTitleMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.anyvision.facekeyexample.client:expandedTitleMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.anyvision.facekeyexample.client:expandedTitleMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.anyvision.facekeyexample.client:expandedTitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.anyvision.facekeyexample.client:scrimAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.anyvision.facekeyexample.client:scrimVisibleHeightTrigger}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.anyvision.facekeyexample.client:statusBarScrim}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.anyvision.facekeyexample.client:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.anyvision.facekeyexample.client:titleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.anyvision.facekeyexample.client:toolbarId}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleGravity com.anyvision.facekeyexample.ntec:collapsedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_collapsedTitleTextAppearance com.anyvision.facekeyexample.ntec:collapsedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_contentScrim com.anyvision.facekeyexample.ntec:contentScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleGravity com.anyvision.facekeyexample.ntec:expandedTitleGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMargin com.anyvision.facekeyexample.ntec:expandedTitleMargin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginBottom com.anyvision.facekeyexample.ntec:expandedTitleMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginEnd com.anyvision.facekeyexample.ntec:expandedTitleMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginStart com.anyvision.facekeyexample.ntec:expandedTitleMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleMarginTop com.anyvision.facekeyexample.ntec:expandedTitleMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_expandedTitleTextAppearance com.anyvision.facekeyexample.ntec:expandedTitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimAnimationDuration com.anyvision.facekeyexample.ntec:scrimAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_scrimVisibleHeightTrigger com.anyvision.facekeyexample.ntec:scrimVisibleHeightTrigger}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_statusBarScrim com.anyvision.facekeyexample.ntec:statusBarScrim}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_title com.anyvision.facekeyexample.ntec:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_titleEnabled com.anyvision.facekeyexample.ntec:titleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_toolbarId com.anyvision.facekeyexample.ntec:toolbarId}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_collapsedTitleGravity
      * @see #CollapsingToolbarLayout_collapsedTitleTextAppearance
@@ -15304,7 +15320,7 @@ public final class R {
       0x7f030214, 0x7f030261, 0x7f030262, 0x7f03026c
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#collapsedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#collapsedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -15325,11 +15341,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:collapsedTitleGravity
+     * @attr name com.anyvision.facekeyexample.ntec:collapsedTitleGravity
      */
     public static final int CollapsingToolbarLayout_collapsedTitleGravity=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#collapsedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#collapsedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15337,22 +15353,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:collapsedTitleTextAppearance
+     * @attr name com.anyvision.facekeyexample.ntec:collapsedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_collapsedTitleTextAppearance=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#contentScrim}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#contentScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:contentScrim
+     * @attr name com.anyvision.facekeyexample.ntec:contentScrim
      */
     public static final int CollapsingToolbarLayout_contentScrim=2;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#expandedTitleGravity}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#expandedTitleGravity}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -15373,11 +15389,11 @@ public final class R {
      * <tr><td>top</td><td>30</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:expandedTitleGravity
+     * @attr name com.anyvision.facekeyexample.ntec:expandedTitleGravity
      */
     public static final int CollapsingToolbarLayout_expandedTitleGravity=3;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#expandedTitleMargin}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#expandedTitleMargin}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15386,11 +15402,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:expandedTitleMargin
+     * @attr name com.anyvision.facekeyexample.ntec:expandedTitleMargin
      */
     public static final int CollapsingToolbarLayout_expandedTitleMargin=4;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#expandedTitleMarginBottom}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#expandedTitleMarginBottom}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15399,11 +15415,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:expandedTitleMarginBottom
+     * @attr name com.anyvision.facekeyexample.ntec:expandedTitleMarginBottom
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginBottom=5;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#expandedTitleMarginEnd}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#expandedTitleMarginEnd}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15412,11 +15428,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:expandedTitleMarginEnd
+     * @attr name com.anyvision.facekeyexample.ntec:expandedTitleMarginEnd
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginEnd=6;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#expandedTitleMarginStart}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#expandedTitleMarginStart}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15425,11 +15441,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:expandedTitleMarginStart
+     * @attr name com.anyvision.facekeyexample.ntec:expandedTitleMarginStart
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginStart=7;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#expandedTitleMarginTop}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#expandedTitleMarginTop}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15438,11 +15454,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:expandedTitleMarginTop
+     * @attr name com.anyvision.facekeyexample.ntec:expandedTitleMarginTop
      */
     public static final int CollapsingToolbarLayout_expandedTitleMarginTop=8;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#expandedTitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#expandedTitleTextAppearance}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15450,20 +15466,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:expandedTitleTextAppearance
+     * @attr name com.anyvision.facekeyexample.ntec:expandedTitleTextAppearance
      */
     public static final int CollapsingToolbarLayout_expandedTitleTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#scrimAnimationDuration}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#scrimAnimationDuration}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:scrimAnimationDuration
+     * @attr name com.anyvision.facekeyexample.ntec:scrimAnimationDuration
      */
     public static final int CollapsingToolbarLayout_scrimAnimationDuration=10;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#scrimVisibleHeightTrigger}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#scrimVisibleHeightTrigger}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -15472,42 +15488,42 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:scrimVisibleHeightTrigger
+     * @attr name com.anyvision.facekeyexample.ntec:scrimVisibleHeightTrigger
      */
     public static final int CollapsingToolbarLayout_scrimVisibleHeightTrigger=11;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#statusBarScrim}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#statusBarScrim}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:statusBarScrim
+     * @attr name com.anyvision.facekeyexample.ntec:statusBarScrim
      */
     public static final int CollapsingToolbarLayout_statusBarScrim=12;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#title}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:title
+     * @attr name com.anyvision.facekeyexample.ntec:title
      */
     public static final int CollapsingToolbarLayout_title=13;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#titleEnabled}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#titleEnabled}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:titleEnabled
+     * @attr name com.anyvision.facekeyexample.ntec:titleEnabled
      */
     public static final int CollapsingToolbarLayout_titleEnabled=14;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#toolbarId}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#toolbarId}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15515,7 +15531,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:toolbarId
+     * @attr name com.anyvision.facekeyexample.ntec:toolbarId
      */
     public static final int CollapsingToolbarLayout_toolbarId=15;
     /**
@@ -15525,8 +15541,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.anyvision.facekeyexample.client:layout_collapseMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.anyvision.facekeyexample.client:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseMode com.anyvision.facekeyexample.ntec:layout_collapseMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier com.anyvision.facekeyexample.ntec:layout_collapseParallaxMultiplier}</code></td><td></td></tr>
      * </table>
      * @see #CollapsingToolbarLayout_Layout_layout_collapseMode
      * @see #CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier
@@ -15535,7 +15551,7 @@ public final class R {
       0x7f030170, 0x7f030171
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_collapseMode}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_collapseMode}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15549,16 +15565,16 @@ public final class R {
      * <tr><td>pin</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_collapseMode
+     * @attr name com.anyvision.facekeyexample.ntec:layout_collapseMode
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseMode=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_collapseParallaxMultiplier}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_collapseParallaxMultiplier}
      * attribute's value can be found in the {@link #CollapsingToolbarLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_collapseParallaxMultiplier
+     * @attr name com.anyvision.facekeyexample.ntec:layout_collapseParallaxMultiplier
      */
     public static final int CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier=1;
     /**
@@ -15570,7 +15586,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_color android:color}</code></td><td></td></tr>
      * <tr><td><code>{@link #ColorStateListItem_android_alpha android:alpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ColorStateListItem_alpha com.anyvision.facekeyexample.client:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
+     * <tr><td><code>{@link #ColorStateListItem_alpha com.anyvision.facekeyexample.ntec:alpha}</code></td><td>Alpha multiplier applied to the base color.</td></tr>
      * </table>
      * @see #ColorStateListItem_android_color
      * @see #ColorStateListItem_android_alpha
@@ -15607,7 +15623,7 @@ public final class R {
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:alpha
+     * @attr name com.anyvision.facekeyexample.ntec:alpha
      */
     public static final int ColorStateListItem_alpha=2;
     /**
@@ -15618,8 +15634,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTint com.anyvision.facekeyexample.client:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
-     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.anyvision.facekeyexample.client:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTint com.anyvision.facekeyexample.ntec:buttonTint}</code></td><td>Tint to apply to the button drawable.</td></tr>
+     * <tr><td><code>{@link #CompoundButton_buttonTintMode com.anyvision.facekeyexample.ntec:buttonTintMode}</code></td><td>Blending mode used to apply the button tint.</td></tr>
      * </table>
      * @see #CompoundButton_android_button
      * @see #CompoundButton_buttonTint
@@ -15649,7 +15665,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:buttonTint
+     * @attr name com.anyvision.facekeyexample.ntec:buttonTint
      */
     public static final int CompoundButton_buttonTint=1;
     /**
@@ -15676,7 +15692,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:buttonTintMode
+     * @attr name com.anyvision.facekeyexample.ntec:buttonTintMode
      */
     public static final int CompoundButton_buttonTintMode=2;
     /**
@@ -15691,61 +15707,61 @@ public final class R {
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_maxHeight android:maxHeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.anyvision.facekeyexample.client:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.anyvision.facekeyexample.client:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.anyvision.facekeyexample.client:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.anyvision.facekeyexample.client:constraintSet}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.anyvision.facekeyexample.client:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.anyvision.facekeyexample.client:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.anyvision.facekeyexample.client:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.anyvision.facekeyexample.client:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.anyvision.facekeyexample.client:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.anyvision.facekeyexample.client:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.anyvision.facekeyexample.client:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.anyvision.facekeyexample.client:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.anyvision.facekeyexample.client:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.anyvision.facekeyexample.client:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.anyvision.facekeyexample.client:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.anyvision.facekeyexample.client:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.anyvision.facekeyexample.client:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.anyvision.facekeyexample.client:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.anyvision.facekeyexample.client:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.anyvision.facekeyexample.client:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.anyvision.facekeyexample.client:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.anyvision.facekeyexample.client:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.anyvision.facekeyexample.client:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.anyvision.facekeyexample.client:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.anyvision.facekeyexample.client:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.anyvision.facekeyexample.client:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.anyvision.facekeyexample.client:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.anyvision.facekeyexample.client:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.anyvision.facekeyexample.client:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.anyvision.facekeyexample.client:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.anyvision.facekeyexample.client:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.anyvision.facekeyexample.client:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.anyvision.facekeyexample.client:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.anyvision.facekeyexample.client:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.anyvision.facekeyexample.client:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.anyvision.facekeyexample.client:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.anyvision.facekeyexample.client:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.anyvision.facekeyexample.client:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.anyvision.facekeyexample.client:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.anyvision.facekeyexample.client:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.anyvision.facekeyexample.client:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.anyvision.facekeyexample.client:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.anyvision.facekeyexample.client:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.anyvision.facekeyexample.client:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.anyvision.facekeyexample.client:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.anyvision.facekeyexample.client:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.anyvision.facekeyexample.client:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.anyvision.facekeyexample.client:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.anyvision.facekeyexample.client:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.anyvision.facekeyexample.client:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.anyvision.facekeyexample.client:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.anyvision.facekeyexample.client:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.anyvision.facekeyexample.client:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.anyvision.facekeyexample.client:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.anyvision.facekeyexample.client:layout_optimizationLevel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.anyvision.facekeyexample.ntec:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.anyvision.facekeyexample.ntec:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.anyvision.facekeyexample.ntec:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.anyvision.facekeyexample.ntec:constraintSet}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.anyvision.facekeyexample.ntec:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.anyvision.facekeyexample.ntec:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.anyvision.facekeyexample.ntec:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.anyvision.facekeyexample.ntec:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.anyvision.facekeyexample.ntec:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.anyvision.facekeyexample.ntec:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.anyvision.facekeyexample.ntec:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.anyvision.facekeyexample.ntec:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.anyvision.facekeyexample.ntec:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.anyvision.facekeyexample.ntec:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.anyvision.facekeyexample.ntec:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.anyvision.facekeyexample.ntec:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.anyvision.facekeyexample.ntec:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.anyvision.facekeyexample.ntec:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.anyvision.facekeyexample.ntec:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.anyvision.facekeyexample.ntec:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.anyvision.facekeyexample.ntec:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.anyvision.facekeyexample.ntec:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.anyvision.facekeyexample.ntec:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.anyvision.facekeyexample.ntec:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.anyvision.facekeyexample.ntec:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.anyvision.facekeyexample.ntec:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.anyvision.facekeyexample.ntec:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.anyvision.facekeyexample.ntec:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.anyvision.facekeyexample.ntec:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.anyvision.facekeyexample.ntec:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.anyvision.facekeyexample.ntec:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.anyvision.facekeyexample.ntec:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.anyvision.facekeyexample.ntec:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.anyvision.facekeyexample.ntec:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.anyvision.facekeyexample.ntec:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.anyvision.facekeyexample.ntec:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.anyvision.facekeyexample.ntec:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.anyvision.facekeyexample.ntec:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.anyvision.facekeyexample.ntec:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.anyvision.facekeyexample.ntec:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.anyvision.facekeyexample.ntec:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.anyvision.facekeyexample.ntec:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.anyvision.facekeyexample.ntec:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.anyvision.facekeyexample.ntec:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.anyvision.facekeyexample.ntec:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.anyvision.facekeyexample.ntec:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.anyvision.facekeyexample.ntec:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.anyvision.facekeyexample.ntec:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.anyvision.facekeyexample.ntec:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.anyvision.facekeyexample.ntec:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.anyvision.facekeyexample.ntec:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.anyvision.facekeyexample.ntec:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.anyvision.facekeyexample.ntec:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.anyvision.facekeyexample.ntec:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.anyvision.facekeyexample.ntec:layout_optimizationLevel}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_Layout_android_orientation
      * @see #ConstraintLayout_Layout_android_maxWidth
@@ -15895,17 +15911,17 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_minHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:barrierAllowsGoneWidgets
+     * @attr name com.anyvision.facekeyexample.ntec:barrierAllowsGoneWidgets
      */
     public static final int ConstraintLayout_Layout_barrierAllowsGoneWidgets=5;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -15922,21 +15938,21 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:barrierDirection
+     * @attr name com.anyvision.facekeyexample.ntec:barrierDirection
      */
     public static final int ConstraintLayout_Layout_barrierDirection=6;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:chainUseRtl
+     * @attr name com.anyvision.facekeyexample.ntec:chainUseRtl
      */
     public static final int ConstraintLayout_Layout_chainUseRtl=7;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -15944,50 +15960,50 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:constraintSet
+     * @attr name com.anyvision.facekeyexample.ntec:constraintSet
      */
     public static final int ConstraintLayout_Layout_constraintSet=8;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:constraint_referenced_ids
+     * @attr name com.anyvision.facekeyexample.ntec:constraint_referenced_ids
      */
     public static final int ConstraintLayout_Layout_constraint_referenced_ids=9;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constrainedHeight
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constrainedHeight
      */
     public static final int ConstraintLayout_Layout_layout_constrainedHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constrainedWidth
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constrainedWidth
      */
     public static final int ConstraintLayout_Layout_layout_constrainedWidth=11;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintBaseline_creator
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintBaseline_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=12;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16003,20 +16019,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintBaseline_toBaselineOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=13;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintBottom_creator
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintBottom_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=14;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16032,11 +16048,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintBottom_toBottomOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=15;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16052,11 +16068,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintBottom_toTopOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=16;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16064,20 +16080,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintCircle
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintCircle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintCircleAngle
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintCircleAngle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleAngle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16086,21 +16102,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintCircleRadius
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintCircleRadius
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleRadius=19;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintDimensionRatio
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintDimensionRatio
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=20;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16116,11 +16132,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintEnd_toEndOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=21;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16136,11 +16152,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintEnd_toStartOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=22;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16149,11 +16165,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintGuide_begin
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintGuide_begin
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=23;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16162,20 +16178,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintGuide_end
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintGuide_end
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=24;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintGuide_percent
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintGuide_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=25;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16189,11 +16205,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintHeight_default
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintHeight_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=26;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16210,11 +16226,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintHeight_max
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintHeight_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=27;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16231,29 +16247,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintHeight_min
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintHeight_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=28;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintHeight_percent
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintHeight_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_percent=29;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintHorizontal_bias
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintHorizontal_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=30;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16267,29 +16283,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintHorizontal_chainStyle
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintHorizontal_weight
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintHorizontal_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=32;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintLeft_creator
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintLeft_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16305,11 +16321,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintLeft_toLeftOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16325,20 +16341,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintLeft_toRightOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=35;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintRight_creator
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintRight_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=36;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16354,11 +16370,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintRight_toLeftOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16374,11 +16390,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintRight_toRightOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintRight_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=38;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16394,11 +16410,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintStart_toEndOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintStart_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=39;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16414,20 +16430,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintStart_toStartOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintStart_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=40;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintTop_creator
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintTop_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=41;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16443,11 +16459,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintTop_toBottomOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16463,20 +16479,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintTop_toTopOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintTop_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintVertical_bias
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintVertical_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=44;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16490,20 +16506,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintVertical_chainStyle
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=45;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintVertical_weight
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintVertical_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=46;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16517,11 +16533,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintWidth_default
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintWidth_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16538,11 +16554,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintWidth_max
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintWidth_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16559,20 +16575,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintWidth_min
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintWidth_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintWidth_percent
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintWidth_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16581,11 +16597,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_editor_absoluteX
+     * @attr name com.anyvision.facekeyexample.ntec:layout_editor_absoluteX
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=51;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16594,11 +16610,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_editor_absoluteY
+     * @attr name com.anyvision.facekeyexample.ntec:layout_editor_absoluteY
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=52;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16607,11 +16623,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_goneMarginBottom
+     * @attr name com.anyvision.facekeyexample.ntec:layout_goneMarginBottom
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=53;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16620,11 +16636,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_goneMarginEnd
+     * @attr name com.anyvision.facekeyexample.ntec:layout_goneMarginEnd
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=54;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16633,11 +16649,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_goneMarginLeft
+     * @attr name com.anyvision.facekeyexample.ntec:layout_goneMarginLeft
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=55;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16646,11 +16662,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_goneMarginRight
+     * @attr name com.anyvision.facekeyexample.ntec:layout_goneMarginRight
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=56;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16659,11 +16675,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_goneMarginStart
+     * @attr name com.anyvision.facekeyexample.ntec:layout_goneMarginStart
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=57;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -16672,11 +16688,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_goneMarginTop
+     * @attr name com.anyvision.facekeyexample.ntec:layout_goneMarginTop
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=58;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -16694,7 +16710,7 @@ public final class R {
      * <tr><td>standard</td><td>7</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_optimizationLevel
+     * @attr name com.anyvision.facekeyexample.ntec:layout_optimizationLevel
      */
     public static final int ConstraintLayout_Layout_layout_optimizationLevel=59;
     /**
@@ -16704,8 +16720,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.anyvision.facekeyexample.client:content}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.anyvision.facekeyexample.client:emptyVisibility}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.anyvision.facekeyexample.ntec:content}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.anyvision.facekeyexample.ntec:emptyVisibility}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_placeholder_content
      * @see #ConstraintLayout_placeholder_emptyVisibility
@@ -16714,7 +16730,7 @@ public final class R {
       0x7f0300ed, 0x7f030114
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#content}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#content}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -16722,11 +16738,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:content
+     * @attr name com.anyvision.facekeyexample.ntec:content
      */
     public static final int ConstraintLayout_placeholder_content=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#emptyVisibility}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#emptyVisibility}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -16739,7 +16755,7 @@ public final class R {
      * <tr><td>invisible</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:emptyVisibility
+     * @attr name com.anyvision.facekeyexample.ntec:emptyVisibility
      */
     public static final int ConstraintLayout_placeholder_emptyVisibility=1;
     /**
@@ -16776,59 +16792,59 @@ public final class R {
      * <tr><td><code>{@link #ConstraintSet_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.anyvision.facekeyexample.client:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.anyvision.facekeyexample.client:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.anyvision.facekeyexample.client:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.anyvision.facekeyexample.client:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.anyvision.facekeyexample.client:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.anyvision.facekeyexample.client:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.anyvision.facekeyexample.client:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.anyvision.facekeyexample.client:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.anyvision.facekeyexample.client:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.anyvision.facekeyexample.client:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.anyvision.facekeyexample.client:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.anyvision.facekeyexample.client:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.anyvision.facekeyexample.client:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.anyvision.facekeyexample.client:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.anyvision.facekeyexample.client:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.anyvision.facekeyexample.client:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.anyvision.facekeyexample.client:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.anyvision.facekeyexample.client:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.anyvision.facekeyexample.client:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.anyvision.facekeyexample.client:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.anyvision.facekeyexample.client:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.anyvision.facekeyexample.client:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.anyvision.facekeyexample.client:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.anyvision.facekeyexample.client:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.anyvision.facekeyexample.client:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.anyvision.facekeyexample.client:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.anyvision.facekeyexample.client:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.anyvision.facekeyexample.client:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.anyvision.facekeyexample.client:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.anyvision.facekeyexample.client:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.anyvision.facekeyexample.client:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.anyvision.facekeyexample.client:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.anyvision.facekeyexample.client:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.anyvision.facekeyexample.client:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.anyvision.facekeyexample.client:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.anyvision.facekeyexample.client:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.anyvision.facekeyexample.client:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.anyvision.facekeyexample.client:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.anyvision.facekeyexample.client:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.anyvision.facekeyexample.client:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.anyvision.facekeyexample.client:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.anyvision.facekeyexample.client:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.anyvision.facekeyexample.client:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.anyvision.facekeyexample.client:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.anyvision.facekeyexample.client:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.anyvision.facekeyexample.client:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.anyvision.facekeyexample.client:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.anyvision.facekeyexample.client:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.anyvision.facekeyexample.client:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.anyvision.facekeyexample.client:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.anyvision.facekeyexample.client:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.anyvision.facekeyexample.client:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.anyvision.facekeyexample.client:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierAllowsGoneWidgets com.anyvision.facekeyexample.ntec:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_barrierDirection com.anyvision.facekeyexample.ntec:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_chainUseRtl com.anyvision.facekeyexample.ntec:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_constraint_referenced_ids com.anyvision.facekeyexample.ntec:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.anyvision.facekeyexample.ntec:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.anyvision.facekeyexample.ntec:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.anyvision.facekeyexample.ntec:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.anyvision.facekeyexample.ntec:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.anyvision.facekeyexample.ntec:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.anyvision.facekeyexample.ntec:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.anyvision.facekeyexample.ntec:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.anyvision.facekeyexample.ntec:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.anyvision.facekeyexample.ntec:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.anyvision.facekeyexample.ntec:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.anyvision.facekeyexample.ntec:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.anyvision.facekeyexample.ntec:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.anyvision.facekeyexample.ntec:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.anyvision.facekeyexample.ntec:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.anyvision.facekeyexample.ntec:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.anyvision.facekeyexample.ntec:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.anyvision.facekeyexample.ntec:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.anyvision.facekeyexample.ntec:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.anyvision.facekeyexample.ntec:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.anyvision.facekeyexample.ntec:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.anyvision.facekeyexample.ntec:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.anyvision.facekeyexample.ntec:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.anyvision.facekeyexample.ntec:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.anyvision.facekeyexample.ntec:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.anyvision.facekeyexample.ntec:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.anyvision.facekeyexample.ntec:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.anyvision.facekeyexample.ntec:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.anyvision.facekeyexample.ntec:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.anyvision.facekeyexample.ntec:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.anyvision.facekeyexample.ntec:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.anyvision.facekeyexample.ntec:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.anyvision.facekeyexample.ntec:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.anyvision.facekeyexample.ntec:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.anyvision.facekeyexample.ntec:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.anyvision.facekeyexample.ntec:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.anyvision.facekeyexample.ntec:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.anyvision.facekeyexample.ntec:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.anyvision.facekeyexample.ntec:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.anyvision.facekeyexample.ntec:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.anyvision.facekeyexample.ntec:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.anyvision.facekeyexample.ntec:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.anyvision.facekeyexample.ntec:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.anyvision.facekeyexample.ntec:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.anyvision.facekeyexample.ntec:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.anyvision.facekeyexample.ntec:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.anyvision.facekeyexample.ntec:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.anyvision.facekeyexample.ntec:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.anyvision.facekeyexample.ntec:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.anyvision.facekeyexample.ntec:layout_goneMarginTop}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintSet_android_orientation
      * @see #ConstraintSet_android_id
@@ -17289,17 +17305,17 @@ public final class R {
      */
     public static final int ConstraintSet_android_elevation=26;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:barrierAllowsGoneWidgets
+     * @attr name com.anyvision.facekeyexample.ntec:barrierAllowsGoneWidgets
      */
     public static final int ConstraintSet_barrierAllowsGoneWidgets=27;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17316,60 +17332,60 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:barrierDirection
+     * @attr name com.anyvision.facekeyexample.ntec:barrierDirection
      */
     public static final int ConstraintSet_barrierDirection=28;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:chainUseRtl
+     * @attr name com.anyvision.facekeyexample.ntec:chainUseRtl
      */
     public static final int ConstraintSet_chainUseRtl=29;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:constraint_referenced_ids
+     * @attr name com.anyvision.facekeyexample.ntec:constraint_referenced_ids
      */
     public static final int ConstraintSet_constraint_referenced_ids=30;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constrainedHeight
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constrainedHeight
      */
     public static final int ConstraintSet_layout_constrainedHeight=31;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constrainedWidth
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constrainedWidth
      */
     public static final int ConstraintSet_layout_constrainedWidth=32;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintBaseline_creator
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintBaseline_creator
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17385,20 +17401,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintBaseline_toBaselineOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintBottom_creator
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintBottom_creator
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=35;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17414,11 +17430,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintBottom_toBottomOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=36;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17434,11 +17450,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintBottom_toTopOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17446,20 +17462,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintCircle
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintCircle
      */
     public static final int ConstraintSet_layout_constraintCircle=38;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintCircleAngle
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintCircleAngle
      */
     public static final int ConstraintSet_layout_constraintCircleAngle=39;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17468,21 +17484,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintCircleRadius
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintCircleRadius
      */
     public static final int ConstraintSet_layout_constraintCircleRadius=40;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintDimensionRatio
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintDimensionRatio
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=41;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17498,11 +17514,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintEnd_toEndOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17518,11 +17534,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintEnd_toStartOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17531,11 +17547,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintGuide_begin
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintGuide_begin
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=44;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17544,20 +17560,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintGuide_end
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintGuide_end
      */
     public static final int ConstraintSet_layout_constraintGuide_end=45;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintGuide_percent
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintGuide_percent
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=46;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17571,11 +17587,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintHeight_default
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintHeight_default
      */
     public static final int ConstraintSet_layout_constraintHeight_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17592,11 +17608,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintHeight_max
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintHeight_max
      */
     public static final int ConstraintSet_layout_constraintHeight_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17613,29 +17629,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintHeight_min
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintHeight_min
      */
     public static final int ConstraintSet_layout_constraintHeight_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintHeight_percent
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintHeight_percent
      */
     public static final int ConstraintSet_layout_constraintHeight_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintHorizontal_bias
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintHorizontal_bias
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=51;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17649,29 +17665,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintHorizontal_chainStyle
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=52;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintHorizontal_weight
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintHorizontal_weight
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=53;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintLeft_creator
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintLeft_creator
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=54;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17687,11 +17703,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintLeft_toLeftOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=55;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17707,20 +17723,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintLeft_toRightOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=56;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintRight_creator
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintRight_creator
      */
     public static final int ConstraintSet_layout_constraintRight_creator=57;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17736,11 +17752,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintRight_toLeftOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=58;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17756,11 +17772,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintRight_toRightOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintRight_toRightOf
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=59;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17776,11 +17792,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintStart_toEndOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintStart_toEndOf
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=60;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17796,20 +17812,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintStart_toStartOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintStart_toStartOf
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=61;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintTop_creator
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintTop_creator
      */
     public static final int ConstraintSet_layout_constraintTop_creator=62;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17825,11 +17841,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintTop_toBottomOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=63;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -17845,20 +17861,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintTop_toTopOf
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintTop_toTopOf
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=64;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintVertical_bias
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintVertical_bias
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=65;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17872,20 +17888,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintVertical_chainStyle
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=66;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintVertical_weight
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintVertical_weight
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=67;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -17899,11 +17915,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintWidth_default
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintWidth_default
      */
     public static final int ConstraintSet_layout_constraintWidth_default=68;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17920,11 +17936,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintWidth_max
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintWidth_max
      */
     public static final int ConstraintSet_layout_constraintWidth_max=69;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17941,20 +17957,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintWidth_min
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintWidth_min
      */
     public static final int ConstraintSet_layout_constraintWidth_min=70;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_constraintWidth_percent
+     * @attr name com.anyvision.facekeyexample.ntec:layout_constraintWidth_percent
      */
     public static final int ConstraintSet_layout_constraintWidth_percent=71;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17963,11 +17979,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_editor_absoluteX
+     * @attr name com.anyvision.facekeyexample.ntec:layout_editor_absoluteX
      */
     public static final int ConstraintSet_layout_editor_absoluteX=72;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17976,11 +17992,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_editor_absoluteY
+     * @attr name com.anyvision.facekeyexample.ntec:layout_editor_absoluteY
      */
     public static final int ConstraintSet_layout_editor_absoluteY=73;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -17989,11 +18005,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_goneMarginBottom
+     * @attr name com.anyvision.facekeyexample.ntec:layout_goneMarginBottom
      */
     public static final int ConstraintSet_layout_goneMarginBottom=74;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18002,11 +18018,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_goneMarginEnd
+     * @attr name com.anyvision.facekeyexample.ntec:layout_goneMarginEnd
      */
     public static final int ConstraintSet_layout_goneMarginEnd=75;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18015,11 +18031,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_goneMarginLeft
+     * @attr name com.anyvision.facekeyexample.ntec:layout_goneMarginLeft
      */
     public static final int ConstraintSet_layout_goneMarginLeft=76;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18028,11 +18044,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_goneMarginRight
+     * @attr name com.anyvision.facekeyexample.ntec:layout_goneMarginRight
      */
     public static final int ConstraintSet_layout_goneMarginRight=77;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18041,11 +18057,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_goneMarginStart
+     * @attr name com.anyvision.facekeyexample.ntec:layout_goneMarginStart
      */
     public static final int ConstraintSet_layout_goneMarginStart=78;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18054,7 +18070,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_goneMarginTop
+     * @attr name com.anyvision.facekeyexample.ntec:layout_goneMarginTop
      */
     public static final int ConstraintSet_layout_goneMarginTop=79;
     /**
@@ -18064,9 +18080,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_keylines com.anyvision.facekeyexample.client:keylines}</code></td><td>A reference to an array of integers representing the
+     * <tr><td><code>{@link #CoordinatorLayout_keylines com.anyvision.facekeyexample.ntec:keylines}</code></td><td>A reference to an array of integers representing the
      * locations of horizontal keylines in dp from the starting edge.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.anyvision.facekeyexample.client:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_statusBarBackground com.anyvision.facekeyexample.ntec:statusBarBackground}</code></td><td>Drawable to display behind the status bar when the view is set to draw behind it.</td></tr>
      * </table>
      * @see #CoordinatorLayout_keylines
      * @see #CoordinatorLayout_statusBarBackground
@@ -18088,7 +18104,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:keylines
+     * @attr name com.anyvision.facekeyexample.ntec:keylines
      */
     public static final int CoordinatorLayout_keylines=0;
     /**
@@ -18104,7 +18120,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:statusBarBackground
+     * @attr name com.anyvision.facekeyexample.ntec:statusBarBackground
      */
     public static final int CoordinatorLayout_statusBarBackground=1;
     /**
@@ -18115,15 +18131,15 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #CoordinatorLayout_Layout_android_layout_gravity android:layout_gravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.anyvision.facekeyexample.client:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.anyvision.facekeyexample.client:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchor com.anyvision.facekeyexample.ntec:layout_anchor}</code></td><td>The id of an anchor view that this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_anchorGravity com.anyvision.facekeyexample.ntec:layout_anchorGravity}</code></td><td>Specifies how an object should position relative to an anchor, on both the X and Y axes,
      * within its parent's bounds.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.anyvision.facekeyexample.client:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_behavior com.anyvision.facekeyexample.ntec:layout_behavior}</code></td><td>The class name of a Behavior class defining special runtime behavior
      * for this child view.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.anyvision.facekeyexample.client:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.anyvision.facekeyexample.client:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_dodgeInsetEdges com.anyvision.facekeyexample.ntec:layout_dodgeInsetEdges}</code></td><td>Specifies how this view dodges the inset edges of the CoordinatorLayout.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_insetEdge com.anyvision.facekeyexample.ntec:layout_insetEdge}</code></td><td>Specifies how this view insets the CoordinatorLayout and make some other views
      * dodge it.</td></tr>
-     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.anyvision.facekeyexample.client:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
+     * <tr><td><code>{@link #CoordinatorLayout_Layout_layout_keyline com.anyvision.facekeyexample.ntec:layout_keyline}</code></td><td>The index of a keyline this view should position relative to.</td></tr>
      * </table>
      * @see #CoordinatorLayout_Layout_android_layout_gravity
      * @see #CoordinatorLayout_Layout_layout_anchor
@@ -18176,7 +18192,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_anchor
+     * @attr name com.anyvision.facekeyexample.ntec:layout_anchor
      */
     public static final int CoordinatorLayout_Layout_layout_anchor=1;
     /**
@@ -18213,7 +18229,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_anchorGravity
+     * @attr name com.anyvision.facekeyexample.ntec:layout_anchorGravity
      */
     public static final int CoordinatorLayout_Layout_layout_anchorGravity=2;
     /**
@@ -18225,7 +18241,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_behavior
+     * @attr name com.anyvision.facekeyexample.ntec:layout_behavior
      */
     public static final int CoordinatorLayout_Layout_layout_behavior=3;
     /**
@@ -18249,7 +18265,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Dodge the top inset edge.</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_dodgeInsetEdges
+     * @attr name com.anyvision.facekeyexample.ntec:layout_dodgeInsetEdges
      */
     public static final int CoordinatorLayout_Layout_layout_dodgeInsetEdges=4;
     /**
@@ -18273,7 +18289,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Inset the top edge.</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_insetEdge
+     * @attr name com.anyvision.facekeyexample.ntec:layout_insetEdge
      */
     public static final int CoordinatorLayout_Layout_layout_insetEdge=5;
     /**
@@ -18285,7 +18301,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout_keyline
+     * @attr name com.anyvision.facekeyexample.ntec:layout_keyline
      */
     public static final int CoordinatorLayout_Layout_layout_keyline=6;
     /**
@@ -18295,8 +18311,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.anyvision.facekeyexample.client:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.anyvision.facekeyexample.client:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetDialogTheme com.anyvision.facekeyexample.ntec:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #DesignTheme_bottomSheetStyle com.anyvision.facekeyexample.ntec:bottomSheetStyle}</code></td><td></td></tr>
      * </table>
      * @see #DesignTheme_bottomSheetDialogTheme
      * @see #DesignTheme_bottomSheetStyle
@@ -18305,7 +18321,7 @@ public final class R {
       0x7f030046, 0x7f030047
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18313,11 +18329,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bottomSheetDialogTheme
+     * @attr name com.anyvision.facekeyexample.ntec:bottomSheetDialogTheme
      */
     public static final int DesignTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #DesignTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18325,7 +18341,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bottomSheetStyle
+     * @attr name com.anyvision.facekeyexample.ntec:bottomSheetStyle
      */
     public static final int DesignTheme_bottomSheetStyle=1;
     /**
@@ -18335,14 +18351,14 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.anyvision.facekeyexample.client:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.anyvision.facekeyexample.client:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.anyvision.facekeyexample.client:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_color com.anyvision.facekeyexample.client:color}</code></td><td>The drawing color for the bars</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.anyvision.facekeyexample.client:drawableSize}</code></td><td>The total size of the drawable</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.anyvision.facekeyexample.client:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.anyvision.facekeyexample.client:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
-     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.anyvision.facekeyexample.client:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.anyvision.facekeyexample.ntec:arrowHeadLength}</code></td><td>The length of the arrow head when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.anyvision.facekeyexample.ntec:arrowShaftLength}</code></td><td>The length of the shaft when formed to make an arrow</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_barLength com.anyvision.facekeyexample.ntec:barLength}</code></td><td>The length of the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_color com.anyvision.facekeyexample.ntec:color}</code></td><td>The drawing color for the bars</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.anyvision.facekeyexample.ntec:drawableSize}</code></td><td>The total size of the drawable</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.anyvision.facekeyexample.ntec:gapBetweenBars}</code></td><td>The max gap between the bars when they are parallel to each other</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_spinBars com.anyvision.facekeyexample.ntec:spinBars}</code></td><td>Whether bars should rotate or not during transition</td></tr>
+     * <tr><td><code>{@link #DrawerArrowToggle_thickness com.anyvision.facekeyexample.ntec:thickness}</code></td><td>The thickness (stroke size) for the bar paint</td></tr>
      * </table>
      * @see #DrawerArrowToggle_arrowHeadLength
      * @see #DrawerArrowToggle_arrowShaftLength
@@ -18368,7 +18384,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:arrowHeadLength
+     * @attr name com.anyvision.facekeyexample.ntec:arrowHeadLength
      */
     public static final int DrawerArrowToggle_arrowHeadLength=0;
     /**
@@ -18382,7 +18398,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:arrowShaftLength
+     * @attr name com.anyvision.facekeyexample.ntec:arrowShaftLength
      */
     public static final int DrawerArrowToggle_arrowShaftLength=1;
     /**
@@ -18396,7 +18412,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:barLength
+     * @attr name com.anyvision.facekeyexample.ntec:barLength
      */
     public static final int DrawerArrowToggle_barLength=2;
     /**
@@ -18408,7 +18424,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:color
+     * @attr name com.anyvision.facekeyexample.ntec:color
      */
     public static final int DrawerArrowToggle_color=3;
     /**
@@ -18422,7 +18438,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:drawableSize
+     * @attr name com.anyvision.facekeyexample.ntec:drawableSize
      */
     public static final int DrawerArrowToggle_drawableSize=4;
     /**
@@ -18436,7 +18452,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:gapBetweenBars
+     * @attr name com.anyvision.facekeyexample.ntec:gapBetweenBars
      */
     public static final int DrawerArrowToggle_gapBetweenBars=5;
     /**
@@ -18447,7 +18463,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:spinBars
+     * @attr name com.anyvision.facekeyexample.ntec:spinBars
      */
     public static final int DrawerArrowToggle_spinBars=6;
     /**
@@ -18461,7 +18477,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:thickness
+     * @attr name com.anyvision.facekeyexample.ntec:thickness
      */
     public static final int DrawerArrowToggle_thickness=7;
     /**
@@ -18471,19 +18487,19 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.anyvision.facekeyexample.client:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.anyvision.facekeyexample.client:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.anyvision.facekeyexample.client:borderWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_elevation com.anyvision.facekeyexample.client:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.anyvision.facekeyexample.client:fabCustomSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_fabSize com.anyvision.facekeyexample.client:fabSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.anyvision.facekeyexample.client:hideMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.anyvision.facekeyexample.client:hoveredFocusedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.anyvision.facekeyexample.client:maxImageSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.anyvision.facekeyexample.client:pressedTranslationZ}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.anyvision.facekeyexample.client:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.anyvision.facekeyexample.client:showMotionSpec}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.anyvision.facekeyexample.client:useCompatPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTint com.anyvision.facekeyexample.ntec:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_backgroundTintMode com.anyvision.facekeyexample.ntec:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_borderWidth com.anyvision.facekeyexample.ntec:borderWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_elevation com.anyvision.facekeyexample.ntec:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabCustomSize com.anyvision.facekeyexample.ntec:fabCustomSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_fabSize com.anyvision.facekeyexample.ntec:fabSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hideMotionSpec com.anyvision.facekeyexample.ntec:hideMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_hoveredFocusedTranslationZ com.anyvision.facekeyexample.ntec:hoveredFocusedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_maxImageSize com.anyvision.facekeyexample.ntec:maxImageSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_pressedTranslationZ com.anyvision.facekeyexample.ntec:pressedTranslationZ}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_rippleColor com.anyvision.facekeyexample.ntec:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_showMotionSpec com.anyvision.facekeyexample.ntec:showMotionSpec}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_useCompatPadding com.anyvision.facekeyexample.ntec:useCompatPadding}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_backgroundTint
      * @see #FloatingActionButton_backgroundTintMode
@@ -18514,7 +18530,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:backgroundTint
+     * @attr name com.anyvision.facekeyexample.ntec:backgroundTint
      */
     public static final int FloatingActionButton_backgroundTint=0;
     /**
@@ -18541,11 +18557,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:backgroundTintMode
+     * @attr name com.anyvision.facekeyexample.ntec:backgroundTintMode
      */
     public static final int FloatingActionButton_backgroundTintMode=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#borderWidth}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#borderWidth}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18554,7 +18570,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:borderWidth
+     * @attr name com.anyvision.facekeyexample.ntec:borderWidth
      */
     public static final int FloatingActionButton_borderWidth=2;
     /**
@@ -18568,11 +18584,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:elevation
+     * @attr name com.anyvision.facekeyexample.ntec:elevation
      */
     public static final int FloatingActionButton_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#fabCustomSize}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#fabCustomSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18581,11 +18597,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:fabCustomSize
+     * @attr name com.anyvision.facekeyexample.ntec:fabCustomSize
      */
     public static final int FloatingActionButton_fabCustomSize=4;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#fabSize}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#fabSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -18599,11 +18615,11 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:fabSize
+     * @attr name com.anyvision.facekeyexample.ntec:fabSize
      */
     public static final int FloatingActionButton_fabSize=5;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#hideMotionSpec}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#hideMotionSpec}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18611,11 +18627,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:hideMotionSpec
+     * @attr name com.anyvision.facekeyexample.ntec:hideMotionSpec
      */
     public static final int FloatingActionButton_hideMotionSpec=6;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#hoveredFocusedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#hoveredFocusedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18624,11 +18640,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:hoveredFocusedTranslationZ
+     * @attr name com.anyvision.facekeyexample.ntec:hoveredFocusedTranslationZ
      */
     public static final int FloatingActionButton_hoveredFocusedTranslationZ=7;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#maxImageSize}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#maxImageSize}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18637,11 +18653,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:maxImageSize
+     * @attr name com.anyvision.facekeyexample.ntec:maxImageSize
      */
     public static final int FloatingActionButton_maxImageSize=8;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#pressedTranslationZ}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#pressedTranslationZ}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18650,22 +18666,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:pressedTranslationZ
+     * @attr name com.anyvision.facekeyexample.ntec:pressedTranslationZ
      */
     public static final int FloatingActionButton_pressedTranslationZ=9;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#rippleColor}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:rippleColor
+     * @attr name com.anyvision.facekeyexample.ntec:rippleColor
      */
     public static final int FloatingActionButton_rippleColor=10;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#showMotionSpec}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#showMotionSpec}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -18673,17 +18689,17 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:showMotionSpec
+     * @attr name com.anyvision.facekeyexample.ntec:showMotionSpec
      */
     public static final int FloatingActionButton_showMotionSpec=11;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#useCompatPadding}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#useCompatPadding}
      * attribute's value can be found in the {@link #FloatingActionButton} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:useCompatPadding
+     * @attr name com.anyvision.facekeyexample.ntec:useCompatPadding
      */
     public static final int FloatingActionButton_useCompatPadding=12;
     /**
@@ -18693,7 +18709,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.anyvision.facekeyexample.client:behavior_autoHide}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FloatingActionButton_Behavior_Layout_behavior_autoHide com.anyvision.facekeyexample.ntec:behavior_autoHide}</code></td><td></td></tr>
      * </table>
      * @see #FloatingActionButton_Behavior_Layout_behavior_autoHide
      */
@@ -18701,13 +18717,13 @@ public final class R {
       0x7f03003c
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#behavior_autoHide}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#behavior_autoHide}
      * attribute's value can be found in the {@link #FloatingActionButton_Behavior_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:behavior_autoHide
+     * @attr name com.anyvision.facekeyexample.ntec:behavior_autoHide
      */
     public static final int FloatingActionButton_Behavior_Layout_behavior_autoHide=0;
     /**
@@ -18717,8 +18733,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FlowLayout_itemSpacing com.anyvision.facekeyexample.client:itemSpacing}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FlowLayout_lineSpacing com.anyvision.facekeyexample.client:lineSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FlowLayout_itemSpacing com.anyvision.facekeyexample.ntec:itemSpacing}</code></td><td></td></tr>
+     * <tr><td><code>{@link #FlowLayout_lineSpacing com.anyvision.facekeyexample.ntec:lineSpacing}</code></td><td></td></tr>
      * </table>
      * @see #FlowLayout_itemSpacing
      * @see #FlowLayout_lineSpacing
@@ -18727,7 +18743,7 @@ public final class R {
       0x7f030163, 0x7f0301ae
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#itemSpacing}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#itemSpacing}
      * attribute's value can be found in the {@link #FlowLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18736,11 +18752,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:itemSpacing
+     * @attr name com.anyvision.facekeyexample.ntec:itemSpacing
      */
     public static final int FlowLayout_itemSpacing=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#lineSpacing}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#lineSpacing}
      * attribute's value can be found in the {@link #FlowLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -18749,7 +18765,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:lineSpacing
+     * @attr name com.anyvision.facekeyexample.ntec:lineSpacing
      */
     public static final int FlowLayout_lineSpacing=1;
     /**
@@ -18759,12 +18775,12 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.anyvision.facekeyexample.client:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.anyvision.facekeyexample.client:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.anyvision.facekeyexample.client:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.anyvision.facekeyexample.client:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.anyvision.facekeyexample.client:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
-     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.anyvision.facekeyexample.client:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderAuthority com.anyvision.facekeyexample.ntec:fontProviderAuthority}</code></td><td>The authority of the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderCerts com.anyvision.facekeyexample.ntec:fontProviderCerts}</code></td><td>The sets of hashes for the certificates the provider should be signed with.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchStrategy com.anyvision.facekeyexample.ntec:fontProviderFetchStrategy}</code></td><td>The strategy to be used when fetching font data from a font provider in XML layouts.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderFetchTimeout com.anyvision.facekeyexample.ntec:fontProviderFetchTimeout}</code></td><td>The length of the timeout during fetching.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderPackage com.anyvision.facekeyexample.ntec:fontProviderPackage}</code></td><td>The package for the Font Provider to be used for the request.</td></tr>
+     * <tr><td><code>{@link #FontFamily_fontProviderQuery com.anyvision.facekeyexample.ntec:fontProviderQuery}</code></td><td>The query to be sent over to the provider.</td></tr>
      * </table>
      * @see #FontFamily_fontProviderAuthority
      * @see #FontFamily_fontProviderCerts
@@ -18785,7 +18801,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:fontProviderAuthority
+     * @attr name com.anyvision.facekeyexample.ntec:fontProviderAuthority
      */
     public static final int FontFamily_fontProviderAuthority=0;
     /**
@@ -18802,7 +18818,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:fontProviderCerts
+     * @attr name com.anyvision.facekeyexample.ntec:fontProviderCerts
      */
     public static final int FontFamily_fontProviderCerts=1;
     /**
@@ -18834,7 +18850,7 @@ public final class R {
      * default typeface will be used instead.</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:fontProviderFetchStrategy
+     * @attr name com.anyvision.facekeyexample.ntec:fontProviderFetchStrategy
      */
     public static final int FontFamily_fontProviderFetchStrategy=2;
     /**
@@ -18853,7 +18869,7 @@ public final class R {
      * timeout and wait until a reply is received from the font provider.</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:fontProviderFetchTimeout
+     * @attr name com.anyvision.facekeyexample.ntec:fontProviderFetchTimeout
      */
     public static final int FontFamily_fontProviderFetchTimeout=3;
     /**
@@ -18865,7 +18881,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:fontProviderPackage
+     * @attr name com.anyvision.facekeyexample.ntec:fontProviderPackage
      */
     public static final int FontFamily_fontProviderPackage=4;
     /**
@@ -18877,7 +18893,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:fontProviderQuery
+     * @attr name com.anyvision.facekeyexample.ntec:fontProviderQuery
      */
     public static final int FontFamily_fontProviderQuery=5;
     /**
@@ -18892,11 +18908,11 @@ public final class R {
      * <tr><td><code>{@link #FontFamilyFont_android_fontStyle android:fontStyle}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_ttcIndex android:ttcIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #FontFamilyFont_android_fontVariationSettings android:fontVariationSettings}</code></td><td></td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_font com.anyvision.facekeyexample.client:font}</code></td><td>The reference to the font file to be used.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.anyvision.facekeyexample.client:fontStyle}</code></td><td>The style of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.anyvision.facekeyexample.client:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.anyvision.facekeyexample.client:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
-     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.anyvision.facekeyexample.client:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_font com.anyvision.facekeyexample.ntec:font}</code></td><td>The reference to the font file to be used.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontStyle com.anyvision.facekeyexample.ntec:fontStyle}</code></td><td>The style of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontVariationSettings com.anyvision.facekeyexample.ntec:fontVariationSettings}</code></td><td>The variation settings to be applied to the font.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_fontWeight com.anyvision.facekeyexample.ntec:fontWeight}</code></td><td>The weight of the given font file.</td></tr>
+     * <tr><td><code>{@link #FontFamilyFont_ttcIndex com.anyvision.facekeyexample.ntec:ttcIndex}</code></td><td>The index of the font in the tcc font file.</td></tr>
      * </table>
      * @see #FontFamilyFont_android_font
      * @see #FontFamilyFont_android_fontWeight
@@ -18983,7 +18999,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:font
+     * @attr name com.anyvision.facekeyexample.ntec:font
      */
     public static final int FontFamilyFont_font=5;
     /**
@@ -19003,7 +19019,7 @@ public final class R {
      * <tr><td>normal</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:fontStyle
+     * @attr name com.anyvision.facekeyexample.ntec:fontStyle
      */
     public static final int FontFamilyFont_fontStyle=6;
     /**
@@ -19017,7 +19033,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:fontVariationSettings
+     * @attr name com.anyvision.facekeyexample.ntec:fontVariationSettings
      */
     public static final int FontFamilyFont_fontVariationSettings=7;
     /**
@@ -19031,7 +19047,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:fontWeight
+     * @attr name com.anyvision.facekeyexample.ntec:fontWeight
      */
     public static final int FontFamilyFont_fontWeight=8;
     /**
@@ -19042,7 +19058,7 @@ public final class R {
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:ttcIndex
+     * @attr name com.anyvision.facekeyexample.ntec:ttcIndex
      */
     public static final int FontFamilyFont_ttcIndex=9;
     /**
@@ -19054,7 +19070,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foreground android:foreground}</code></td><td></td></tr>
      * <tr><td><code>{@link #ForegroundLinearLayout_android_foregroundGravity android:foregroundGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.anyvision.facekeyexample.client:foregroundInsidePadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ForegroundLinearLayout_foregroundInsidePadding com.anyvision.facekeyexample.ntec:foregroundInsidePadding}</code></td><td></td></tr>
      * </table>
      * @see #ForegroundLinearLayout_android_foreground
      * @see #ForegroundLinearLayout_android_foregroundGravity
@@ -19106,13 +19122,13 @@ public final class R {
      */
     public static final int ForegroundLinearLayout_android_foregroundGravity=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#foregroundInsidePadding}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#foregroundInsidePadding}
      * attribute's value can be found in the {@link #ForegroundLinearLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:foregroundInsidePadding
+     * @attr name com.anyvision.facekeyexample.ntec:foregroundInsidePadding
      */
     public static final int ForegroundLinearLayout_foregroundInsidePadding=2;
     /**
@@ -19401,11 +19417,11 @@ public final class R {
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAligned android:baselineAligned}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_baselineAlignedChildIndex android:baselineAlignedChildIndex}</code></td><td></td></tr>
      * <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_divider com.anyvision.facekeyexample.client:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.anyvision.facekeyexample.client:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.anyvision.facekeyexample.client:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
+     * <tr><td><code>{@link #LinearLayoutCompat_divider com.anyvision.facekeyexample.ntec:divider}</code></td><td>Specifies the drawable used for item dividers.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.anyvision.facekeyexample.ntec:dividerPadding}</code></td><td>Size of padding on either end of a divider.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.anyvision.facekeyexample.ntec:measureWithLargestChild}</code></td><td>When set to true, all children with a weight will be considered having
      * the minimum size of the largest child.</td></tr>
-     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.anyvision.facekeyexample.client:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
+     * <tr><td><code>{@link #LinearLayoutCompat_showDividers com.anyvision.facekeyexample.ntec:showDividers}</code></td><td>Setting for which dividers to show.</td></tr>
      * </table>
      * @see #LinearLayoutCompat_android_gravity
      * @see #LinearLayoutCompat_android_orientation
@@ -19520,7 +19536,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:divider
+     * @attr name com.anyvision.facekeyexample.ntec:divider
      */
     public static final int LinearLayoutCompat_divider=5;
     /**
@@ -19534,7 +19550,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:dividerPadding
+     * @attr name com.anyvision.facekeyexample.ntec:dividerPadding
      */
     public static final int LinearLayoutCompat_dividerPadding=6;
     /**
@@ -19547,7 +19563,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:measureWithLargestChild
+     * @attr name com.anyvision.facekeyexample.ntec:measureWithLargestChild
      */
     public static final int LinearLayoutCompat_measureWithLargestChild=7;
     /**
@@ -19567,7 +19583,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:showDividers
+     * @attr name com.anyvision.facekeyexample.ntec:showDividers
      */
     public static final int LinearLayoutCompat_showDividers=8;
     /**
@@ -19725,9 +19741,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #LoadingImageView_circleCrop com.anyvision.facekeyexample.client:circleCrop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.anyvision.facekeyexample.client:imageAspectRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.anyvision.facekeyexample.client:imageAspectRatioAdjust}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_circleCrop com.anyvision.facekeyexample.ntec:circleCrop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatio com.anyvision.facekeyexample.ntec:imageAspectRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LoadingImageView_imageAspectRatioAdjust com.anyvision.facekeyexample.ntec:imageAspectRatioAdjust}</code></td><td></td></tr>
      * </table>
      * @see #LoadingImageView_circleCrop
      * @see #LoadingImageView_imageAspectRatio
@@ -19737,26 +19753,26 @@ public final class R {
       0x7f0300d0, 0x7f030155, 0x7f030156
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#circleCrop}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#circleCrop}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:circleCrop
+     * @attr name com.anyvision.facekeyexample.ntec:circleCrop
      */
     public static final int LoadingImageView_circleCrop=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#imageAspectRatio}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#imageAspectRatio}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:imageAspectRatio
+     * @attr name com.anyvision.facekeyexample.ntec:imageAspectRatio
      */
     public static final int LoadingImageView_imageAspectRatio=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#imageAspectRatioAdjust}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#imageAspectRatioAdjust}
      * attribute's value can be found in the {@link #LoadingImageView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19770,7 +19786,7 @@ public final class R {
      * <tr><td>none</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:imageAspectRatioAdjust
+     * @attr name com.anyvision.facekeyexample.ntec:imageAspectRatioAdjust
      */
     public static final int LoadingImageView_imageAspectRatioAdjust=2;
     /**
@@ -19780,20 +19796,20 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #LottieAnimationView_lottie_autoPlay com.anyvision.facekeyexample.client:lottie_autoPlay}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LottieAnimationView_lottie_colorFilter com.anyvision.facekeyexample.client:lottie_colorFilter}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LottieAnimationView_lottie_enableMergePathsForKitKatAndAbove com.anyvision.facekeyexample.client:lottie_enableMergePathsForKitKatAndAbove}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LottieAnimationView_lottie_fileName com.anyvision.facekeyexample.client:lottie_fileName}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LottieAnimationView_lottie_imageAssetsFolder com.anyvision.facekeyexample.client:lottie_imageAssetsFolder}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LottieAnimationView_lottie_loop com.anyvision.facekeyexample.client:lottie_loop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LottieAnimationView_lottie_progress com.anyvision.facekeyexample.client:lottie_progress}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LottieAnimationView_lottie_rawRes com.anyvision.facekeyexample.client:lottie_rawRes}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LottieAnimationView_lottie_renderMode com.anyvision.facekeyexample.client:lottie_renderMode}</code></td><td>These values must be kept in sync with the RenderMode enum</td></tr>
-     * <tr><td><code>{@link #LottieAnimationView_lottie_repeatCount com.anyvision.facekeyexample.client:lottie_repeatCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LottieAnimationView_lottie_repeatMode com.anyvision.facekeyexample.client:lottie_repeatMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LottieAnimationView_lottie_scale com.anyvision.facekeyexample.client:lottie_scale}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LottieAnimationView_lottie_speed com.anyvision.facekeyexample.client:lottie_speed}</code></td><td></td></tr>
-     * <tr><td><code>{@link #LottieAnimationView_lottie_url com.anyvision.facekeyexample.client:lottie_url}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LottieAnimationView_lottie_autoPlay com.anyvision.facekeyexample.ntec:lottie_autoPlay}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LottieAnimationView_lottie_colorFilter com.anyvision.facekeyexample.ntec:lottie_colorFilter}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LottieAnimationView_lottie_enableMergePathsForKitKatAndAbove com.anyvision.facekeyexample.ntec:lottie_enableMergePathsForKitKatAndAbove}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LottieAnimationView_lottie_fileName com.anyvision.facekeyexample.ntec:lottie_fileName}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LottieAnimationView_lottie_imageAssetsFolder com.anyvision.facekeyexample.ntec:lottie_imageAssetsFolder}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LottieAnimationView_lottie_loop com.anyvision.facekeyexample.ntec:lottie_loop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LottieAnimationView_lottie_progress com.anyvision.facekeyexample.ntec:lottie_progress}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LottieAnimationView_lottie_rawRes com.anyvision.facekeyexample.ntec:lottie_rawRes}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LottieAnimationView_lottie_renderMode com.anyvision.facekeyexample.ntec:lottie_renderMode}</code></td><td>These values must be kept in sync with the RenderMode enum</td></tr>
+     * <tr><td><code>{@link #LottieAnimationView_lottie_repeatCount com.anyvision.facekeyexample.ntec:lottie_repeatCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LottieAnimationView_lottie_repeatMode com.anyvision.facekeyexample.ntec:lottie_repeatMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LottieAnimationView_lottie_scale com.anyvision.facekeyexample.ntec:lottie_scale}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LottieAnimationView_lottie_speed com.anyvision.facekeyexample.ntec:lottie_speed}</code></td><td></td></tr>
+     * <tr><td><code>{@link #LottieAnimationView_lottie_url com.anyvision.facekeyexample.ntec:lottie_url}</code></td><td></td></tr>
      * </table>
      * @see #LottieAnimationView_lottie_autoPlay
      * @see #LottieAnimationView_lottie_colorFilter
@@ -19817,77 +19833,77 @@ public final class R {
       0x7f0301c8, 0x7f0301c9
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#lottie_autoPlay}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#lottie_autoPlay}
      * attribute's value can be found in the {@link #LottieAnimationView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:lottie_autoPlay
+     * @attr name com.anyvision.facekeyexample.ntec:lottie_autoPlay
      */
     public static final int LottieAnimationView_lottie_autoPlay=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#lottie_colorFilter}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#lottie_colorFilter}
      * attribute's value can be found in the {@link #LottieAnimationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:lottie_colorFilter
+     * @attr name com.anyvision.facekeyexample.ntec:lottie_colorFilter
      */
     public static final int LottieAnimationView_lottie_colorFilter=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#lottie_enableMergePathsForKitKatAndAbove}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#lottie_enableMergePathsForKitKatAndAbove}
      * attribute's value can be found in the {@link #LottieAnimationView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:lottie_enableMergePathsForKitKatAndAbove
+     * @attr name com.anyvision.facekeyexample.ntec:lottie_enableMergePathsForKitKatAndAbove
      */
     public static final int LottieAnimationView_lottie_enableMergePathsForKitKatAndAbove=2;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#lottie_fileName}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#lottie_fileName}
      * attribute's value can be found in the {@link #LottieAnimationView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:lottie_fileName
+     * @attr name com.anyvision.facekeyexample.ntec:lottie_fileName
      */
     public static final int LottieAnimationView_lottie_fileName=3;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#lottie_imageAssetsFolder}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#lottie_imageAssetsFolder}
      * attribute's value can be found in the {@link #LottieAnimationView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:lottie_imageAssetsFolder
+     * @attr name com.anyvision.facekeyexample.ntec:lottie_imageAssetsFolder
      */
     public static final int LottieAnimationView_lottie_imageAssetsFolder=4;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#lottie_loop}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#lottie_loop}
      * attribute's value can be found in the {@link #LottieAnimationView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:lottie_loop
+     * @attr name com.anyvision.facekeyexample.ntec:lottie_loop
      */
     public static final int LottieAnimationView_lottie_loop=5;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#lottie_progress}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#lottie_progress}
      * attribute's value can be found in the {@link #LottieAnimationView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:lottie_progress
+     * @attr name com.anyvision.facekeyexample.ntec:lottie_progress
      */
     public static final int LottieAnimationView_lottie_progress=6;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#lottie_rawRes}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#lottie_rawRes}
      * attribute's value can be found in the {@link #LottieAnimationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -19895,7 +19911,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:lottie_rawRes
+     * @attr name com.anyvision.facekeyexample.ntec:lottie_rawRes
      */
     public static final int LottieAnimationView_lottie_rawRes=7;
     /**
@@ -19914,20 +19930,20 @@ public final class R {
      * <tr><td>software</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:lottie_renderMode
+     * @attr name com.anyvision.facekeyexample.ntec:lottie_renderMode
      */
     public static final int LottieAnimationView_lottie_renderMode=8;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#lottie_repeatCount}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#lottie_repeatCount}
      * attribute's value can be found in the {@link #LottieAnimationView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:lottie_repeatCount
+     * @attr name com.anyvision.facekeyexample.ntec:lottie_repeatCount
      */
     public static final int LottieAnimationView_lottie_repeatCount=9;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#lottie_repeatMode}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#lottie_repeatMode}
      * attribute's value can be found in the {@link #LottieAnimationView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -19940,35 +19956,35 @@ public final class R {
      * <tr><td>reverse</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:lottie_repeatMode
+     * @attr name com.anyvision.facekeyexample.ntec:lottie_repeatMode
      */
     public static final int LottieAnimationView_lottie_repeatMode=10;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#lottie_scale}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#lottie_scale}
      * attribute's value can be found in the {@link #LottieAnimationView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:lottie_scale
+     * @attr name com.anyvision.facekeyexample.ntec:lottie_scale
      */
     public static final int LottieAnimationView_lottie_scale=11;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#lottie_speed}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#lottie_speed}
      * attribute's value can be found in the {@link #LottieAnimationView} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:lottie_speed
+     * @attr name com.anyvision.facekeyexample.ntec:lottie_speed
      */
     public static final int LottieAnimationView_lottie_speed=12;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#lottie_url}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#lottie_url}
      * attribute's value can be found in the {@link #LottieAnimationView} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:lottie_url
+     * @attr name com.anyvision.facekeyexample.ntec:lottie_url
      */
     public static final int LottieAnimationView_lottie_url=13;
     /**
@@ -19982,18 +19998,18 @@ public final class R {
      * <tr><td><code>{@link #MaterialButton_android_insetRight android:insetRight}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetTop android:insetTop}</code></td><td></td></tr>
      * <tr><td><code>{@link #MaterialButton_android_insetBottom android:insetBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTint com.anyvision.facekeyexample.client:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.anyvision.facekeyexample.client:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_cornerRadius com.anyvision.facekeyexample.client:cornerRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_icon com.anyvision.facekeyexample.client:icon}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconGravity com.anyvision.facekeyexample.client:iconGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconPadding com.anyvision.facekeyexample.client:iconPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconSize com.anyvision.facekeyexample.client:iconSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTint com.anyvision.facekeyexample.client:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_iconTintMode com.anyvision.facekeyexample.client:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MaterialButton_rippleColor com.anyvision.facekeyexample.client:rippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeColor com.anyvision.facekeyexample.client:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialButton_strokeWidth com.anyvision.facekeyexample.client:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTint com.anyvision.facekeyexample.ntec:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_backgroundTintMode com.anyvision.facekeyexample.ntec:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_cornerRadius com.anyvision.facekeyexample.ntec:cornerRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_icon com.anyvision.facekeyexample.ntec:icon}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconGravity com.anyvision.facekeyexample.ntec:iconGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconPadding com.anyvision.facekeyexample.ntec:iconPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconSize com.anyvision.facekeyexample.ntec:iconSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTint com.anyvision.facekeyexample.ntec:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_iconTintMode com.anyvision.facekeyexample.ntec:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MaterialButton_rippleColor com.anyvision.facekeyexample.ntec:rippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeColor com.anyvision.facekeyexample.ntec:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialButton_strokeWidth com.anyvision.facekeyexample.ntec:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialButton_android_insetLeft
      * @see #MaterialButton_android_insetRight
@@ -20095,7 +20111,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:backgroundTint
+     * @attr name com.anyvision.facekeyexample.ntec:backgroundTint
      */
     public static final int MaterialButton_backgroundTint=4;
     /**
@@ -20122,11 +20138,11 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:backgroundTintMode
+     * @attr name com.anyvision.facekeyexample.ntec:backgroundTintMode
      */
     public static final int MaterialButton_backgroundTintMode=5;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#cornerRadius}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#cornerRadius}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20135,11 +20151,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:cornerRadius
+     * @attr name com.anyvision.facekeyexample.ntec:cornerRadius
      */
     public static final int MaterialButton_cornerRadius=6;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#icon}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#icon}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20147,11 +20163,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:icon
+     * @attr name com.anyvision.facekeyexample.ntec:icon
      */
     public static final int MaterialButton_icon=7;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#iconGravity}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#iconGravity}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -20164,11 +20180,11 @@ public final class R {
      * <tr><td>textStart</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:iconGravity
+     * @attr name com.anyvision.facekeyexample.ntec:iconGravity
      */
     public static final int MaterialButton_iconGravity=8;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#iconPadding}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#iconPadding}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20177,11 +20193,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:iconPadding
+     * @attr name com.anyvision.facekeyexample.ntec:iconPadding
      */
     public static final int MaterialButton_iconPadding=9;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#iconSize}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#iconSize}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20190,7 +20206,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:iconSize
+     * @attr name com.anyvision.facekeyexample.ntec:iconSize
      */
     public static final int MaterialButton_iconSize=10;
     /**
@@ -20202,7 +20218,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:iconTint
+     * @attr name com.anyvision.facekeyexample.ntec:iconTint
      */
     public static final int MaterialButton_iconTint=11;
     /**
@@ -20229,33 +20245,33 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:iconTintMode
+     * @attr name com.anyvision.facekeyexample.ntec:iconTintMode
      */
     public static final int MaterialButton_iconTintMode=12;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#rippleColor}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#rippleColor}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:rippleColor
+     * @attr name com.anyvision.facekeyexample.ntec:rippleColor
      */
     public static final int MaterialButton_rippleColor=13;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#strokeColor}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:strokeColor
+     * @attr name com.anyvision.facekeyexample.ntec:strokeColor
      */
     public static final int MaterialButton_strokeColor=14;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #MaterialButton} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20264,7 +20280,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:strokeWidth
+     * @attr name com.anyvision.facekeyexample.ntec:strokeWidth
      */
     public static final int MaterialButton_strokeWidth=15;
     /**
@@ -20274,8 +20290,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeColor com.anyvision.facekeyexample.client:strokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.anyvision.facekeyexample.client:strokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeColor com.anyvision.facekeyexample.ntec:strokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialCardView_strokeWidth com.anyvision.facekeyexample.ntec:strokeWidth}</code></td><td></td></tr>
      * </table>
      * @see #MaterialCardView_strokeColor
      * @see #MaterialCardView_strokeWidth
@@ -20284,18 +20300,18 @@ public final class R {
       0x7f030215, 0x7f030216
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#strokeColor}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#strokeColor}
      * attribute's value can be found in the {@link #MaterialCardView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:strokeColor
+     * @attr name com.anyvision.facekeyexample.ntec:strokeColor
      */
     public static final int MaterialCardView_strokeColor=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#strokeWidth}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#strokeWidth}
      * attribute's value can be found in the {@link #MaterialCardView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -20304,7 +20320,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:strokeWidth
+     * @attr name com.anyvision.facekeyexample.ntec:strokeWidth
      */
     public static final int MaterialCardView_strokeWidth=1;
     /**
@@ -20314,38 +20330,38 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetDialogTheme com.anyvision.facekeyexample.client:bottomSheetDialogTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetStyle com.anyvision.facekeyexample.client:bottomSheetStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipGroupStyle com.anyvision.facekeyexample.client:chipGroupStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle com.anyvision.facekeyexample.client:chipStandaloneStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_chipStyle com.anyvision.facekeyexample.client:chipStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorAccent com.anyvision.facekeyexample.client:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating com.anyvision.facekeyexample.client:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary com.anyvision.facekeyexample.client:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark com.anyvision.facekeyexample.client:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary com.anyvision.facekeyexample.client:colorSecondary}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle com.anyvision.facekeyexample.client:editTextStyle}</code></td><td>Default EditText style.</td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle com.anyvision.facekeyexample.client:floatingActionButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle com.anyvision.facekeyexample.client:materialButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_materialCardViewStyle com.anyvision.facekeyexample.client:materialCardViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_navigationViewStyle com.anyvision.facekeyexample.client:navigationViewStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_scrimBackground com.anyvision.facekeyexample.client:scrimBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_snackbarButtonStyle com.anyvision.facekeyexample.client:snackbarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_tabStyle com.anyvision.facekeyexample.client:tabStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody1 com.anyvision.facekeyexample.client:textAppearanceBody1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody2 com.anyvision.facekeyexample.client:textAppearanceBody2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceButton com.anyvision.facekeyexample.client:textAppearanceButton}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceCaption com.anyvision.facekeyexample.client:textAppearanceCaption}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline1 com.anyvision.facekeyexample.client:textAppearanceHeadline1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline2 com.anyvision.facekeyexample.client:textAppearanceHeadline2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline3 com.anyvision.facekeyexample.client:textAppearanceHeadline3}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline4 com.anyvision.facekeyexample.client:textAppearanceHeadline4}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline5 com.anyvision.facekeyexample.client:textAppearanceHeadline5}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline6 com.anyvision.facekeyexample.client:textAppearanceHeadline6}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceOverline com.anyvision.facekeyexample.client:textAppearanceOverline}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle1 com.anyvision.facekeyexample.client:textAppearanceSubtitle1}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle2 com.anyvision.facekeyexample.client:textAppearanceSubtitle2}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MaterialComponentsTheme_textInputStyle com.anyvision.facekeyexample.client:textInputStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetDialogTheme com.anyvision.facekeyexample.ntec:bottomSheetDialogTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_bottomSheetStyle com.anyvision.facekeyexample.ntec:bottomSheetStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipGroupStyle com.anyvision.facekeyexample.ntec:chipGroupStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipStandaloneStyle com.anyvision.facekeyexample.ntec:chipStandaloneStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_chipStyle com.anyvision.facekeyexample.ntec:chipStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorAccent com.anyvision.facekeyexample.ntec:colorAccent}</code></td><td>Bright complement to the primary branding color.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorBackgroundFloating com.anyvision.facekeyexample.ntec:colorBackgroundFloating}</code></td><td>Default color of background imagery for floating components, ex.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimary com.anyvision.facekeyexample.ntec:colorPrimary}</code></td><td>The primary branding color for the app.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorPrimaryDark com.anyvision.facekeyexample.ntec:colorPrimaryDark}</code></td><td>Dark variant of the primary branding color.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_colorSecondary com.anyvision.facekeyexample.ntec:colorSecondary}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_editTextStyle com.anyvision.facekeyexample.ntec:editTextStyle}</code></td><td>Default EditText style.</td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_floatingActionButtonStyle com.anyvision.facekeyexample.ntec:floatingActionButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_materialButtonStyle com.anyvision.facekeyexample.ntec:materialButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_materialCardViewStyle com.anyvision.facekeyexample.ntec:materialCardViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_navigationViewStyle com.anyvision.facekeyexample.ntec:navigationViewStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_scrimBackground com.anyvision.facekeyexample.ntec:scrimBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_snackbarButtonStyle com.anyvision.facekeyexample.ntec:snackbarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_tabStyle com.anyvision.facekeyexample.ntec:tabStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody1 com.anyvision.facekeyexample.ntec:textAppearanceBody1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceBody2 com.anyvision.facekeyexample.ntec:textAppearanceBody2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceButton com.anyvision.facekeyexample.ntec:textAppearanceButton}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceCaption com.anyvision.facekeyexample.ntec:textAppearanceCaption}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline1 com.anyvision.facekeyexample.ntec:textAppearanceHeadline1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline2 com.anyvision.facekeyexample.ntec:textAppearanceHeadline2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline3 com.anyvision.facekeyexample.ntec:textAppearanceHeadline3}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline4 com.anyvision.facekeyexample.ntec:textAppearanceHeadline4}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline5 com.anyvision.facekeyexample.ntec:textAppearanceHeadline5}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceHeadline6 com.anyvision.facekeyexample.ntec:textAppearanceHeadline6}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceOverline com.anyvision.facekeyexample.ntec:textAppearanceOverline}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle1 com.anyvision.facekeyexample.ntec:textAppearanceSubtitle1}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textAppearanceSubtitle2 com.anyvision.facekeyexample.ntec:textAppearanceSubtitle2}</code></td><td></td></tr>
+     * <tr><td><code>{@link #MaterialComponentsTheme_textInputStyle com.anyvision.facekeyexample.ntec:textInputStyle}</code></td><td></td></tr>
      * </table>
      * @see #MaterialComponentsTheme_bottomSheetDialogTheme
      * @see #MaterialComponentsTheme_bottomSheetStyle
@@ -20391,7 +20407,7 @@ public final class R {
       0x7f03024b, 0x7f030250, 0x7f030251, 0x7f030255
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bottomSheetDialogTheme}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bottomSheetDialogTheme}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20399,11 +20415,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bottomSheetDialogTheme
+     * @attr name com.anyvision.facekeyexample.ntec:bottomSheetDialogTheme
      */
     public static final int MaterialComponentsTheme_bottomSheetDialogTheme=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#bottomSheetStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#bottomSheetStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20411,11 +20427,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:bottomSheetStyle
+     * @attr name com.anyvision.facekeyexample.ntec:bottomSheetStyle
      */
     public static final int MaterialComponentsTheme_bottomSheetStyle=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chipGroupStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chipGroupStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20423,11 +20439,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:chipGroupStyle
+     * @attr name com.anyvision.facekeyexample.ntec:chipGroupStyle
      */
     public static final int MaterialComponentsTheme_chipGroupStyle=2;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chipStandaloneStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chipStandaloneStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20435,11 +20451,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:chipStandaloneStyle
+     * @attr name com.anyvision.facekeyexample.ntec:chipStandaloneStyle
      */
     public static final int MaterialComponentsTheme_chipStandaloneStyle=3;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#chipStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#chipStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20447,7 +20463,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:chipStyle
+     * @attr name com.anyvision.facekeyexample.ntec:chipStyle
      */
     public static final int MaterialComponentsTheme_chipStyle=4;
     /**
@@ -20460,7 +20476,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:colorAccent
+     * @attr name com.anyvision.facekeyexample.ntec:colorAccent
      */
     public static final int MaterialComponentsTheme_colorAccent=5;
     /**
@@ -20472,7 +20488,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:colorBackgroundFloating
+     * @attr name com.anyvision.facekeyexample.ntec:colorBackgroundFloating
      */
     public static final int MaterialComponentsTheme_colorBackgroundFloating=6;
     /**
@@ -20485,7 +20501,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:colorPrimary
+     * @attr name com.anyvision.facekeyexample.ntec:colorPrimary
      */
     public static final int MaterialComponentsTheme_colorPrimary=7;
     /**
@@ -20498,18 +20514,18 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:colorPrimaryDark
+     * @attr name com.anyvision.facekeyexample.ntec:colorPrimaryDark
      */
     public static final int MaterialComponentsTheme_colorPrimaryDark=8;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#colorSecondary}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#colorSecondary}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:colorSecondary
+     * @attr name com.anyvision.facekeyexample.ntec:colorSecondary
      */
     public static final int MaterialComponentsTheme_colorSecondary=9;
     /**
@@ -20522,11 +20538,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:editTextStyle
+     * @attr name com.anyvision.facekeyexample.ntec:editTextStyle
      */
     public static final int MaterialComponentsTheme_editTextStyle=10;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#floatingActionButtonStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#floatingActionButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20552,11 +20568,11 @@ public final class R {
      * The % suffix always means a percentage of the base size;
      * the optional %p suffix provides a size relative to some parent container.
      *
-     * @attr name com.anyvision.facekeyexample.client:floatingActionButtonStyle
+     * @attr name com.anyvision.facekeyexample.ntec:floatingActionButtonStyle
      */
     public static final int MaterialComponentsTheme_floatingActionButtonStyle=11;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#materialButtonStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#materialButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20564,11 +20580,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:materialButtonStyle
+     * @attr name com.anyvision.facekeyexample.ntec:materialButtonStyle
      */
     public static final int MaterialComponentsTheme_materialButtonStyle=12;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#materialCardViewStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#materialCardViewStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20576,11 +20592,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:materialCardViewStyle
+     * @attr name com.anyvision.facekeyexample.ntec:materialCardViewStyle
      */
     public static final int MaterialComponentsTheme_materialCardViewStyle=13;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#navigationViewStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#navigationViewStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20588,11 +20604,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:navigationViewStyle
+     * @attr name com.anyvision.facekeyexample.ntec:navigationViewStyle
      */
     public static final int MaterialComponentsTheme_navigationViewStyle=14;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#scrimBackground}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#scrimBackground}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20603,11 +20619,11 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:scrimBackground
+     * @attr name com.anyvision.facekeyexample.ntec:scrimBackground
      */
     public static final int MaterialComponentsTheme_scrimBackground=15;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#snackbarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#snackbarButtonStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20615,11 +20631,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:snackbarButtonStyle
+     * @attr name com.anyvision.facekeyexample.ntec:snackbarButtonStyle
      */
     public static final int MaterialComponentsTheme_snackbarButtonStyle=16;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20627,11 +20643,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:tabStyle
+     * @attr name com.anyvision.facekeyexample.ntec:tabStyle
      */
     public static final int MaterialComponentsTheme_tabStyle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#textAppearanceBody1}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#textAppearanceBody1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20639,11 +20655,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceBody1
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceBody1
      */
     public static final int MaterialComponentsTheme_textAppearanceBody1=18;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#textAppearanceBody2}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#textAppearanceBody2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20651,11 +20667,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceBody2
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceBody2
      */
     public static final int MaterialComponentsTheme_textAppearanceBody2=19;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#textAppearanceButton}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#textAppearanceButton}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20663,11 +20679,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceButton
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceButton
      */
     public static final int MaterialComponentsTheme_textAppearanceButton=20;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#textAppearanceCaption}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#textAppearanceCaption}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20675,11 +20691,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceCaption
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceCaption
      */
     public static final int MaterialComponentsTheme_textAppearanceCaption=21;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#textAppearanceHeadline1}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#textAppearanceHeadline1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20687,11 +20703,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceHeadline1
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceHeadline1
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline1=22;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#textAppearanceHeadline2}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#textAppearanceHeadline2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20699,11 +20715,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceHeadline2
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceHeadline2
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline2=23;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#textAppearanceHeadline3}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#textAppearanceHeadline3}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20711,11 +20727,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceHeadline3
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceHeadline3
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline3=24;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#textAppearanceHeadline4}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#textAppearanceHeadline4}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20723,11 +20739,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceHeadline4
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceHeadline4
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline4=25;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#textAppearanceHeadline5}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#textAppearanceHeadline5}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20735,11 +20751,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceHeadline5
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceHeadline5
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline5=26;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#textAppearanceHeadline6}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#textAppearanceHeadline6}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20747,11 +20763,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceHeadline6
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceHeadline6
      */
     public static final int MaterialComponentsTheme_textAppearanceHeadline6=27;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#textAppearanceOverline}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#textAppearanceOverline}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20759,11 +20775,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceOverline
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceOverline
      */
     public static final int MaterialComponentsTheme_textAppearanceOverline=28;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#textAppearanceSubtitle1}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#textAppearanceSubtitle1}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20771,11 +20787,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceSubtitle1
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceSubtitle1
      */
     public static final int MaterialComponentsTheme_textAppearanceSubtitle1=29;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#textAppearanceSubtitle2}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#textAppearanceSubtitle2}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20783,11 +20799,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAppearanceSubtitle2
+     * @attr name com.anyvision.facekeyexample.ntec:textAppearanceSubtitle2
      */
     public static final int MaterialComponentsTheme_textAppearanceSubtitle2=30;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#textInputStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#textInputStyle}
      * attribute's value can be found in the {@link #MaterialComponentsTheme} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -20795,7 +20811,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textInputStyle
+     * @attr name com.anyvision.facekeyexample.ntec:textInputStyle
      */
     public static final int MaterialComponentsTheme_textInputStyle=31;
     /**
@@ -20929,18 +20945,18 @@ public final class R {
      * <tr><td><code>{@link #MenuItem_android_numericShortcut android:numericShortcut}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuItem_android_onClick android:onClick}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuItem_actionLayout com.anyvision.facekeyexample.client:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionProviderClass com.anyvision.facekeyexample.client:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
+     * <tr><td><code>{@link #MenuItem_actionLayout com.anyvision.facekeyexample.ntec:actionLayout}</code></td><td>An optional layout to be used as an action view.</td></tr>
+     * <tr><td><code>{@link #MenuItem_actionProviderClass com.anyvision.facekeyexample.ntec:actionProviderClass}</code></td><td>The name of an optional ActionProvider class to instantiate an action view
      * and perform operations such as default action for that menu item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_actionViewClass com.anyvision.facekeyexample.client:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
+     * <tr><td><code>{@link #MenuItem_actionViewClass com.anyvision.facekeyexample.ntec:actionViewClass}</code></td><td>The name of an optional View class to instantiate and use as an
      * action view.</td></tr>
-     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.anyvision.facekeyexample.client:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_contentDescription com.anyvision.facekeyexample.client:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTint com.anyvision.facekeyexample.client:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
-     * <tr><td><code>{@link #MenuItem_iconTintMode com.anyvision.facekeyexample.client:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
-     * <tr><td><code>{@link #MenuItem_numericModifiers com.anyvision.facekeyexample.client:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
-     * <tr><td><code>{@link #MenuItem_showAsAction com.anyvision.facekeyexample.client:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
-     * <tr><td><code>{@link #MenuItem_tooltipText com.anyvision.facekeyexample.client:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_alphabeticModifiers com.anyvision.facekeyexample.ntec:alphabeticModifiers}</code></td><td>The alphabetic modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_contentDescription com.anyvision.facekeyexample.ntec:contentDescription}</code></td><td>The content description associated with the item.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTint com.anyvision.facekeyexample.ntec:iconTint}</code></td><td>Tint to apply to the icon.</td></tr>
+     * <tr><td><code>{@link #MenuItem_iconTintMode com.anyvision.facekeyexample.ntec:iconTintMode}</code></td><td>Blending mode used to apply the icon tint.</td></tr>
+     * <tr><td><code>{@link #MenuItem_numericModifiers com.anyvision.facekeyexample.ntec:numericModifiers}</code></td><td>The numeric modifier key.</td></tr>
+     * <tr><td><code>{@link #MenuItem_showAsAction com.anyvision.facekeyexample.ntec:showAsAction}</code></td><td>How this item should display in the Action Bar, if present.</td></tr>
+     * <tr><td><code>{@link #MenuItem_tooltipText com.anyvision.facekeyexample.ntec:tooltipText}</code></td><td>The tooltip text associated with the item.</td></tr>
      * </table>
      * @see #MenuItem_android_icon
      * @see #MenuItem_android_enabled
@@ -21149,7 +21165,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:actionLayout
+     * @attr name com.anyvision.facekeyexample.ntec:actionLayout
      */
     public static final int MenuItem_actionLayout=13;
     /**
@@ -21163,7 +21179,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:actionProviderClass
+     * @attr name com.anyvision.facekeyexample.ntec:actionProviderClass
      */
     public static final int MenuItem_actionProviderClass=14;
     /**
@@ -21176,7 +21192,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:actionViewClass
+     * @attr name com.anyvision.facekeyexample.ntec:actionViewClass
      */
     public static final int MenuItem_actionViewClass=15;
     /**
@@ -21199,7 +21215,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:alphabeticModifiers
+     * @attr name com.anyvision.facekeyexample.ntec:alphabeticModifiers
      */
     public static final int MenuItem_alphabeticModifiers=16;
     /**
@@ -21210,7 +21226,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:contentDescription
+     * @attr name com.anyvision.facekeyexample.ntec:contentDescription
      */
     public static final int MenuItem_contentDescription=17;
     /**
@@ -21222,7 +21238,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:iconTint
+     * @attr name com.anyvision.facekeyexample.ntec:iconTint
      */
     public static final int MenuItem_iconTint=18;
     /**
@@ -21249,7 +21265,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:iconTintMode
+     * @attr name com.anyvision.facekeyexample.ntec:iconTintMode
      */
     public static final int MenuItem_iconTintMode=19;
     /**
@@ -21272,7 +21288,7 @@ public final class R {
      * <tr><td>SYM</td><td>4</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:numericModifiers
+     * @attr name com.anyvision.facekeyexample.ntec:numericModifiers
      */
     public static final int MenuItem_numericModifiers=20;
     /**
@@ -21302,7 +21318,7 @@ public final class R {
      * label with it even if it has an icon representation.</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:showAsAction
+     * @attr name com.anyvision.facekeyexample.ntec:showAsAction
      */
     public static final int MenuItem_showAsAction=21;
     /**
@@ -21313,7 +21329,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:tooltipText
+     * @attr name com.anyvision.facekeyexample.ntec:tooltipText
      */
     public static final int MenuItem_tooltipText=22;
     /**
@@ -21330,8 +21346,8 @@ public final class R {
      * <tr><td><code>{@link #MenuView_android_headerBackground android:headerBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemBackground android:itemBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #MenuView_android_itemIconDisabledAlpha android:itemIconDisabledAlpha}</code></td><td></td></tr>
-     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.anyvision.facekeyexample.client:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
-     * <tr><td><code>{@link #MenuView_subMenuArrow com.anyvision.facekeyexample.client:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
+     * <tr><td><code>{@link #MenuView_preserveIconSpacing com.anyvision.facekeyexample.ntec:preserveIconSpacing}</code></td><td>Whether space should be reserved in layout when an icon is missing.</td></tr>
+     * <tr><td><code>{@link #MenuView_subMenuArrow com.anyvision.facekeyexample.ntec:subMenuArrow}</code></td><td>Drawable for the arrow icon indicating a particular item is a submenu.</td></tr>
      * </table>
      * @see #MenuView_android_windowAnimationStyle
      * @see #MenuView_android_itemTextAppearance
@@ -21450,7 +21466,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:preserveIconSpacing
+     * @attr name com.anyvision.facekeyexample.ntec:preserveIconSpacing
      */
     public static final int MenuView_preserveIconSpacing=7;
     /**
@@ -21463,7 +21479,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:subMenuArrow
+     * @attr name com.anyvision.facekeyexample.ntec:subMenuArrow
      */
     public static final int MenuView_subMenuArrow=8;
     /**
@@ -21476,15 +21492,15 @@ public final class R {
      * <tr><td><code>{@link #NavigationView_android_background android:background}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_fitsSystemWindows android:fitsSystemWindows}</code></td><td></td></tr>
      * <tr><td><code>{@link #NavigationView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_elevation com.anyvision.facekeyexample.client:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #NavigationView_headerLayout com.anyvision.facekeyexample.client:headerLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemBackground com.anyvision.facekeyexample.client:itemBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.anyvision.facekeyexample.client:itemHorizontalPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconPadding com.anyvision.facekeyexample.client:itemIconPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemIconTint com.anyvision.facekeyexample.client:itemIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.anyvision.facekeyexample.client:itemTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_itemTextColor com.anyvision.facekeyexample.client:itemTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #NavigationView_menu com.anyvision.facekeyexample.client:menu}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_elevation com.anyvision.facekeyexample.ntec:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #NavigationView_headerLayout com.anyvision.facekeyexample.ntec:headerLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemBackground com.anyvision.facekeyexample.ntec:itemBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemHorizontalPadding com.anyvision.facekeyexample.ntec:itemHorizontalPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconPadding com.anyvision.facekeyexample.ntec:itemIconPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemIconTint com.anyvision.facekeyexample.ntec:itemIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextAppearance com.anyvision.facekeyexample.ntec:itemTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_itemTextColor com.anyvision.facekeyexample.ntec:itemTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #NavigationView_menu com.anyvision.facekeyexample.ntec:menu}</code></td><td></td></tr>
      * </table>
      * @see #NavigationView_android_background
      * @see #NavigationView_android_fitsSystemWindows
@@ -21553,11 +21569,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:elevation
+     * @attr name com.anyvision.facekeyexample.ntec:elevation
      */
     public static final int NavigationView_elevation=3;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#headerLayout}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#headerLayout}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21565,11 +21581,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:headerLayout
+     * @attr name com.anyvision.facekeyexample.ntec:headerLayout
      */
     public static final int NavigationView_headerLayout=4;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#itemBackground}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#itemBackground}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21577,11 +21593,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:itemBackground
+     * @attr name com.anyvision.facekeyexample.ntec:itemBackground
      */
     public static final int NavigationView_itemBackground=5;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#itemHorizontalPadding}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#itemHorizontalPadding}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21590,11 +21606,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:itemHorizontalPadding
+     * @attr name com.anyvision.facekeyexample.ntec:itemHorizontalPadding
      */
     public static final int NavigationView_itemHorizontalPadding=6;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#itemIconPadding}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#itemIconPadding}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -21603,22 +21619,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:itemIconPadding
+     * @attr name com.anyvision.facekeyexample.ntec:itemIconPadding
      */
     public static final int NavigationView_itemIconPadding=7;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#itemIconTint}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#itemIconTint}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:itemIconTint
+     * @attr name com.anyvision.facekeyexample.ntec:itemIconTint
      */
     public static final int NavigationView_itemIconTint=8;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#itemTextAppearance}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#itemTextAppearance}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21626,22 +21642,22 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:itemTextAppearance
+     * @attr name com.anyvision.facekeyexample.ntec:itemTextAppearance
      */
     public static final int NavigationView_itemTextAppearance=9;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#itemTextColor}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#itemTextColor}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:itemTextColor
+     * @attr name com.anyvision.facekeyexample.ntec:itemTextColor
      */
     public static final int NavigationView_itemTextColor=10;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#menu}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#menu}
      * attribute's value can be found in the {@link #NavigationView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21649,7 +21665,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:menu
+     * @attr name com.anyvision.facekeyexample.ntec:menu
      */
     public static final int NavigationView_menu=11;
     /**
@@ -21661,7 +21677,7 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #PopupWindow_android_popupAnimationStyle android:popupAnimationStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.anyvision.facekeyexample.client:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
+     * <tr><td><code>{@link #PopupWindow_overlapAnchor com.anyvision.facekeyexample.ntec:overlapAnchor}</code></td><td>Whether the popup window should overlap its anchor view.</td></tr>
      * </table>
      * @see #PopupWindow_android_popupBackground
      * @see #PopupWindow_android_popupAnimationStyle
@@ -21705,7 +21721,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:overlapAnchor
+     * @attr name com.anyvision.facekeyexample.ntec:overlapAnchor
      */
     public static final int PopupWindow_overlapAnchor=2;
     /**
@@ -21715,7 +21731,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.anyvision.facekeyexample.client:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
+     * <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.anyvision.facekeyexample.ntec:state_above_anchor}</code></td><td>State identifier indicating the popup will be above the anchor.</td></tr>
      * </table>
      * @see #PopupWindowBackgroundState_state_above_anchor
      */
@@ -21730,7 +21746,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:state_above_anchor
+     * @attr name com.anyvision.facekeyexample.ntec:state_above_anchor
      */
     public static final int PopupWindowBackgroundState_state_above_anchor=0;
     /**
@@ -21740,8 +21756,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.anyvision.facekeyexample.client:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
-     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.anyvision.facekeyexample.client:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingBottomNoButtons com.anyvision.facekeyexample.ntec:paddingBottomNoButtons}</code></td><td>Bottom padding to use when no buttons are present.</td></tr>
+     * <tr><td><code>{@link #RecycleListView_paddingTopNoTitle com.anyvision.facekeyexample.ntec:paddingTopNoTitle}</code></td><td>Top padding to use when no title is present.</td></tr>
      * </table>
      * @see #RecycleListView_paddingBottomNoButtons
      * @see #RecycleListView_paddingTopNoTitle
@@ -21760,7 +21776,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:paddingBottomNoButtons
+     * @attr name com.anyvision.facekeyexample.ntec:paddingBottomNoButtons
      */
     public static final int RecycleListView_paddingBottomNoButtons=0;
     /**
@@ -21774,7 +21790,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:paddingTopNoTitle
+     * @attr name com.anyvision.facekeyexample.ntec:paddingTopNoTitle
      */
     public static final int RecycleListView_paddingTopNoTitle=1;
     /**
@@ -21786,15 +21802,15 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #RecyclerView_android_orientation android:orientation}</code></td><td></td></tr>
      * <tr><td><code>{@link #RecyclerView_android_descendantFocusability android:descendantFocusability}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.anyvision.facekeyexample.client:fastScrollEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.anyvision.facekeyexample.client:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.anyvision.facekeyexample.client:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.anyvision.facekeyexample.client:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.anyvision.facekeyexample.client:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_layoutManager com.anyvision.facekeyexample.client:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
-     * <tr><td><code>{@link #RecyclerView_reverseLayout com.anyvision.facekeyexample.client:reverseLayout}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_spanCount com.anyvision.facekeyexample.client:spanCount}</code></td><td></td></tr>
-     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.anyvision.facekeyexample.client:stackFromEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollEnabled com.anyvision.facekeyexample.ntec:fastScrollEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalThumbDrawable com.anyvision.facekeyexample.ntec:fastScrollHorizontalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollHorizontalTrackDrawable com.anyvision.facekeyexample.ntec:fastScrollHorizontalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalThumbDrawable com.anyvision.facekeyexample.ntec:fastScrollVerticalThumbDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_fastScrollVerticalTrackDrawable com.anyvision.facekeyexample.ntec:fastScrollVerticalTrackDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_layoutManager com.anyvision.facekeyexample.ntec:layoutManager}</code></td><td>Class name of the Layout Manager to be used.</td></tr>
+     * <tr><td><code>{@link #RecyclerView_reverseLayout com.anyvision.facekeyexample.ntec:reverseLayout}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_spanCount com.anyvision.facekeyexample.ntec:spanCount}</code></td><td></td></tr>
+     * <tr><td><code>{@link #RecyclerView_stackFromEnd com.anyvision.facekeyexample.ntec:stackFromEnd}</code></td><td></td></tr>
      * </table>
      * @see #RecyclerView_android_orientation
      * @see #RecyclerView_android_descendantFocusability
@@ -21849,17 +21865,17 @@ public final class R {
      */
     public static final int RecyclerView_android_descendantFocusability=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#fastScrollEnabled}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#fastScrollEnabled}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:fastScrollEnabled
+     * @attr name com.anyvision.facekeyexample.ntec:fastScrollEnabled
      */
     public static final int RecyclerView_fastScrollEnabled=2;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#fastScrollHorizontalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#fastScrollHorizontalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21867,11 +21883,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:fastScrollHorizontalThumbDrawable
+     * @attr name com.anyvision.facekeyexample.ntec:fastScrollHorizontalThumbDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalThumbDrawable=3;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#fastScrollHorizontalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#fastScrollHorizontalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21879,11 +21895,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:fastScrollHorizontalTrackDrawable
+     * @attr name com.anyvision.facekeyexample.ntec:fastScrollHorizontalTrackDrawable
      */
     public static final int RecyclerView_fastScrollHorizontalTrackDrawable=4;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#fastScrollVerticalThumbDrawable}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#fastScrollVerticalThumbDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21891,11 +21907,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:fastScrollVerticalThumbDrawable
+     * @attr name com.anyvision.facekeyexample.ntec:fastScrollVerticalThumbDrawable
      */
     public static final int RecyclerView_fastScrollVerticalThumbDrawable=5;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#fastScrollVerticalTrackDrawable}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#fastScrollVerticalTrackDrawable}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21903,7 +21919,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:fastScrollVerticalTrackDrawable
+     * @attr name com.anyvision.facekeyexample.ntec:fastScrollVerticalTrackDrawable
      */
     public static final int RecyclerView_fastScrollVerticalTrackDrawable=6;
     /**
@@ -21922,36 +21938,36 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:layoutManager
+     * @attr name com.anyvision.facekeyexample.ntec:layoutManager
      */
     public static final int RecyclerView_layoutManager=7;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#reverseLayout}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#reverseLayout}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:reverseLayout
+     * @attr name com.anyvision.facekeyexample.ntec:reverseLayout
      */
     public static final int RecyclerView_reverseLayout=8;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#spanCount}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#spanCount}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:spanCount
+     * @attr name com.anyvision.facekeyexample.ntec:spanCount
      */
     public static final int RecyclerView_spanCount=9;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#stackFromEnd}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#stackFromEnd}
      * attribute's value can be found in the {@link #RecyclerView} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:stackFromEnd
+     * @attr name com.anyvision.facekeyexample.ntec:stackFromEnd
      */
     public static final int RecyclerView_stackFromEnd=10;
     /**
@@ -21961,7 +21977,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.anyvision.facekeyexample.client:insetForeground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrimInsetsFrameLayout_insetForeground com.anyvision.facekeyexample.ntec:insetForeground}</code></td><td></td></tr>
      * </table>
      * @see #ScrimInsetsFrameLayout_insetForeground
      */
@@ -21969,7 +21985,7 @@ public final class R {
       0x7f03015a
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#insetForeground}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#insetForeground}
      * attribute's value can be found in the {@link #ScrimInsetsFrameLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -21980,7 +21996,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:insetForeground
+     * @attr name com.anyvision.facekeyexample.ntec:insetForeground
      */
     public static final int ScrimInsetsFrameLayout_insetForeground=0;
     /**
@@ -21990,7 +22006,7 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.anyvision.facekeyexample.client:behavior_overlapTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ScrollingViewBehavior_Layout_behavior_overlapTop com.anyvision.facekeyexample.ntec:behavior_overlapTop}</code></td><td></td></tr>
      * </table>
      * @see #ScrollingViewBehavior_Layout_behavior_overlapTop
      */
@@ -21998,7 +22014,7 @@ public final class R {
       0x7f03003f
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#behavior_overlapTop}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#behavior_overlapTop}
      * attribute's value can be found in the {@link #ScrollingViewBehavior_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -22007,7 +22023,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:behavior_overlapTop
+     * @attr name com.anyvision.facekeyexample.ntec:behavior_overlapTop
      */
     public static final int ScrollingViewBehavior_Layout_behavior_overlapTop=0;
     /**
@@ -22021,20 +22037,20 @@ public final class R {
      * <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
      * <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SearchView_closeIcon com.anyvision.facekeyexample.client:closeIcon}</code></td><td>Close button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_commitIcon com.anyvision.facekeyexample.client:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
-     * <tr><td><code>{@link #SearchView_defaultQueryHint com.anyvision.facekeyexample.client:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
+     * <tr><td><code>{@link #SearchView_closeIcon com.anyvision.facekeyexample.ntec:closeIcon}</code></td><td>Close button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_commitIcon com.anyvision.facekeyexample.ntec:commitIcon}</code></td><td>Commit icon shown in the query suggestion row</td></tr>
+     * <tr><td><code>{@link #SearchView_defaultQueryHint com.anyvision.facekeyexample.ntec:defaultQueryHint}</code></td><td>Default query hint used when {@code queryHint} is undefined and
      * the search view's {@code SearchableInfo} does not provide a hint.</td></tr>
-     * <tr><td><code>{@link #SearchView_goIcon com.anyvision.facekeyexample.client:goIcon}</code></td><td>Go button icon</td></tr>
-     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.anyvision.facekeyexample.client:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
-     * <tr><td><code>{@link #SearchView_layout com.anyvision.facekeyexample.client:layout}</code></td><td>The layout to use for the search view.</td></tr>
-     * <tr><td><code>{@link #SearchView_queryBackground com.anyvision.facekeyexample.client:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
-     * <tr><td><code>{@link #SearchView_queryHint com.anyvision.facekeyexample.client:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
-     * <tr><td><code>{@link #SearchView_searchHintIcon com.anyvision.facekeyexample.client:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
-     * <tr><td><code>{@link #SearchView_searchIcon com.anyvision.facekeyexample.client:searchIcon}</code></td><td>Search icon</td></tr>
-     * <tr><td><code>{@link #SearchView_submitBackground com.anyvision.facekeyexample.client:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
-     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.anyvision.facekeyexample.client:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
-     * <tr><td><code>{@link #SearchView_voiceIcon com.anyvision.facekeyexample.client:voiceIcon}</code></td><td>Voice button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_goIcon com.anyvision.facekeyexample.ntec:goIcon}</code></td><td>Go button icon</td></tr>
+     * <tr><td><code>{@link #SearchView_iconifiedByDefault com.anyvision.facekeyexample.ntec:iconifiedByDefault}</code></td><td>The default state of the SearchView.</td></tr>
+     * <tr><td><code>{@link #SearchView_layout com.anyvision.facekeyexample.ntec:layout}</code></td><td>The layout to use for the search view.</td></tr>
+     * <tr><td><code>{@link #SearchView_queryBackground com.anyvision.facekeyexample.ntec:queryBackground}</code></td><td>Background for the section containing the search query</td></tr>
+     * <tr><td><code>{@link #SearchView_queryHint com.anyvision.facekeyexample.ntec:queryHint}</code></td><td>An optional user-defined query hint string to be displayed in the empty query field.</td></tr>
+     * <tr><td><code>{@link #SearchView_searchHintIcon com.anyvision.facekeyexample.ntec:searchHintIcon}</code></td><td>Search icon displayed as a text field hint</td></tr>
+     * <tr><td><code>{@link #SearchView_searchIcon com.anyvision.facekeyexample.ntec:searchIcon}</code></td><td>Search icon</td></tr>
+     * <tr><td><code>{@link #SearchView_submitBackground com.anyvision.facekeyexample.ntec:submitBackground}</code></td><td>Background for the section containing the action (e.g.</td></tr>
+     * <tr><td><code>{@link #SearchView_suggestionRowLayout com.anyvision.facekeyexample.ntec:suggestionRowLayout}</code></td><td>Layout for query suggestion rows</td></tr>
+     * <tr><td><code>{@link #SearchView_voiceIcon com.anyvision.facekeyexample.ntec:voiceIcon}</code></td><td>Voice button icon</td></tr>
      * </table>
      * @see #SearchView_android_focusable
      * @see #SearchView_android_maxWidth
@@ -22184,7 +22200,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:closeIcon
+     * @attr name com.anyvision.facekeyexample.ntec:closeIcon
      */
     public static final int SearchView_closeIcon=4;
     /**
@@ -22197,7 +22213,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:commitIcon
+     * @attr name com.anyvision.facekeyexample.ntec:commitIcon
      */
     public static final int SearchView_commitIcon=5;
     /**
@@ -22209,7 +22225,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:defaultQueryHint
+     * @attr name com.anyvision.facekeyexample.ntec:defaultQueryHint
      */
     public static final int SearchView_defaultQueryHint=6;
     /**
@@ -22222,7 +22238,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:goIcon
+     * @attr name com.anyvision.facekeyexample.ntec:goIcon
      */
     public static final int SearchView_goIcon=7;
     /**
@@ -22234,7 +22250,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:iconifiedByDefault
+     * @attr name com.anyvision.facekeyexample.ntec:iconifiedByDefault
      */
     public static final int SearchView_iconifiedByDefault=8;
     /**
@@ -22247,7 +22263,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:layout
+     * @attr name com.anyvision.facekeyexample.ntec:layout
      */
     public static final int SearchView_layout=9;
     /**
@@ -22260,7 +22276,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:queryBackground
+     * @attr name com.anyvision.facekeyexample.ntec:queryBackground
      */
     public static final int SearchView_queryBackground=10;
     /**
@@ -22271,7 +22287,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:queryHint
+     * @attr name com.anyvision.facekeyexample.ntec:queryHint
      */
     public static final int SearchView_queryHint=11;
     /**
@@ -22284,7 +22300,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:searchHintIcon
+     * @attr name com.anyvision.facekeyexample.ntec:searchHintIcon
      */
     public static final int SearchView_searchHintIcon=12;
     /**
@@ -22297,7 +22313,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:searchIcon
+     * @attr name com.anyvision.facekeyexample.ntec:searchIcon
      */
     public static final int SearchView_searchIcon=13;
     /**
@@ -22310,7 +22326,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:submitBackground
+     * @attr name com.anyvision.facekeyexample.ntec:submitBackground
      */
     public static final int SearchView_submitBackground=14;
     /**
@@ -22323,7 +22339,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:suggestionRowLayout
+     * @attr name com.anyvision.facekeyexample.ntec:suggestionRowLayout
      */
     public static final int SearchView_suggestionRowLayout=15;
     /**
@@ -22336,7 +22352,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:voiceIcon
+     * @attr name com.anyvision.facekeyexample.ntec:voiceIcon
      */
     public static final int SearchView_voiceIcon=16;
     /**
@@ -22346,9 +22362,9 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SignInButton_buttonSize com.anyvision.facekeyexample.client:buttonSize}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_colorScheme com.anyvision.facekeyexample.client:colorScheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SignInButton_scopeUris com.anyvision.facekeyexample.client:scopeUris}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_buttonSize com.anyvision.facekeyexample.ntec:buttonSize}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_colorScheme com.anyvision.facekeyexample.ntec:colorScheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SignInButton_scopeUris com.anyvision.facekeyexample.ntec:scopeUris}</code></td><td></td></tr>
      * </table>
      * @see #SignInButton_buttonSize
      * @see #SignInButton_colorScheme
@@ -22358,7 +22374,7 @@ public final class R {
       0x7f03007a, 0x7f0300e7, 0x7f0301f3
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#buttonSize}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#buttonSize}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22376,11 +22392,11 @@ public final class R {
      * <tr><td>wide</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:buttonSize
+     * @attr name com.anyvision.facekeyexample.ntec:buttonSize
      */
     public static final int SignInButton_buttonSize=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#colorScheme}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#colorScheme}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22398,11 +22414,11 @@ public final class R {
      * <tr><td>light</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:colorScheme
+     * @attr name com.anyvision.facekeyexample.ntec:colorScheme
      */
     public static final int SignInButton_colorScheme=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#scopeUris}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#scopeUris}
      * attribute's value can be found in the {@link #SignInButton} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22412,7 +22428,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:scopeUris
+     * @attr name com.anyvision.facekeyexample.ntec:scopeUris
      */
     public static final int SignInButton_scopeUris=2;
     /**
@@ -22422,8 +22438,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.anyvision.facekeyexample.client:snackbarButtonStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Snackbar_snackbarStyle com.anyvision.facekeyexample.client:snackbarStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarButtonStyle com.anyvision.facekeyexample.ntec:snackbarButtonStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Snackbar_snackbarStyle com.anyvision.facekeyexample.ntec:snackbarStyle}</code></td><td></td></tr>
      * </table>
      * @see #Snackbar_snackbarButtonStyle
      * @see #Snackbar_snackbarStyle
@@ -22432,7 +22448,7 @@ public final class R {
       0x7f030205, 0x7f030206
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#snackbarButtonStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#snackbarButtonStyle}
      * attribute's value can be found in the {@link #Snackbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22440,11 +22456,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:snackbarButtonStyle
+     * @attr name com.anyvision.facekeyexample.ntec:snackbarButtonStyle
      */
     public static final int Snackbar_snackbarButtonStyle=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#snackbarStyle}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#snackbarStyle}
      * attribute's value can be found in the {@link #Snackbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -22452,7 +22468,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:snackbarStyle
+     * @attr name com.anyvision.facekeyexample.ntec:snackbarStyle
      */
     public static final int Snackbar_snackbarStyle=1;
     /**
@@ -22463,8 +22479,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #SnackbarLayout_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_elevation com.anyvision.facekeyexample.client:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
-     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.anyvision.facekeyexample.client:maxActionInlineWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_elevation com.anyvision.facekeyexample.ntec:elevation}</code></td><td>Elevation for the action bar itself</td></tr>
+     * <tr><td><code>{@link #SnackbarLayout_maxActionInlineWidth com.anyvision.facekeyexample.ntec:maxActionInlineWidth}</code></td><td></td></tr>
      * </table>
      * @see #SnackbarLayout_android_maxWidth
      * @see #SnackbarLayout_elevation
@@ -22497,11 +22513,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:elevation
+     * @attr name com.anyvision.facekeyexample.ntec:elevation
      */
     public static final int SnackbarLayout_elevation=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#maxActionInlineWidth}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#maxActionInlineWidth}
      * attribute's value can be found in the {@link #SnackbarLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -22510,7 +22526,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:maxActionInlineWidth
+     * @attr name com.anyvision.facekeyexample.ntec:maxActionInlineWidth
      */
     public static final int SnackbarLayout_maxActionInlineWidth=2;
     /**
@@ -22520,8 +22536,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #SpinKitView_SpinKit_Color com.anyvision.facekeyexample.client:SpinKit_Color}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SpinKitView_SpinKit_Style com.anyvision.facekeyexample.client:SpinKit_Style}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SpinKitView_SpinKit_Color com.anyvision.facekeyexample.ntec:SpinKit_Color}</code></td><td></td></tr>
+     * <tr><td><code>{@link #SpinKitView_SpinKit_Style com.anyvision.facekeyexample.ntec:SpinKit_Style}</code></td><td></td></tr>
      * </table>
      * @see #SpinKitView_SpinKit_Color
      * @see #SpinKitView_SpinKit_Style
@@ -22530,18 +22546,18 @@ public final class R {
       0x7f030001, 0x7f030002
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#SpinKit_Color}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#SpinKit_Color}
      * attribute's value can be found in the {@link #SpinKitView} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:SpinKit_Color
+     * @attr name com.anyvision.facekeyexample.ntec:SpinKit_Color
      */
     public static final int SpinKitView_SpinKit_Color=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#SpinKit_Style}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#SpinKit_Style}
      * attribute's value can be found in the {@link #SpinKitView} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -22567,7 +22583,7 @@ public final class R {
      * <tr><td>Wave</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:SpinKit_Style
+     * @attr name com.anyvision.facekeyexample.ntec:SpinKit_Style
      */
     public static final int SpinKitView_SpinKit_Style=1;
     /**
@@ -22581,7 +22597,7 @@ public final class R {
      * <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
      * <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Spinner_popupTheme com.anyvision.facekeyexample.client:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Spinner_popupTheme com.anyvision.facekeyexample.ntec:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
      * </table>
      * @see #Spinner_android_entries
@@ -22670,7 +22686,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:popupTheme
+     * @attr name com.anyvision.facekeyexample.ntec:popupTheme
      */
     public static final int Spinner_popupTheme=4;
     /**
@@ -22810,17 +22826,17 @@ public final class R {
      * <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
      * <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-     * <tr><td><code>{@link #SwitchCompat_showText com.anyvision.facekeyexample.client:showText}</code></td><td>Whether to draw on/off text.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_splitTrack com.anyvision.facekeyexample.client:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.anyvision.facekeyexample.client:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchPadding com.anyvision.facekeyexample.client:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.anyvision.facekeyexample.client:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.anyvision.facekeyexample.client:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTint com.anyvision.facekeyexample.client:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.anyvision.facekeyexample.client:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_track com.anyvision.facekeyexample.client:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTint com.anyvision.facekeyexample.client:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
-     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.anyvision.facekeyexample.client:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_showText com.anyvision.facekeyexample.ntec:showText}</code></td><td>Whether to draw on/off text.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_splitTrack com.anyvision.facekeyexample.ntec:splitTrack}</code></td><td>Whether to split the track and leave a gap for the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchMinWidth com.anyvision.facekeyexample.ntec:switchMinWidth}</code></td><td>Minimum width for the switch component</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchPadding com.anyvision.facekeyexample.ntec:switchPadding}</code></td><td>Minimum space between the switch and caption text</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.anyvision.facekeyexample.ntec:switchTextAppearance}</code></td><td>TextAppearance style for text displayed on the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.anyvision.facekeyexample.ntec:thumbTextPadding}</code></td><td>Amount of padding on either side of text within the switch thumb.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTint com.anyvision.facekeyexample.ntec:thumbTint}</code></td><td>Tint to apply to the thumb drawable.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_thumbTintMode com.anyvision.facekeyexample.ntec:thumbTintMode}</code></td><td>Blending mode used to apply the thumb tint.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_track com.anyvision.facekeyexample.ntec:track}</code></td><td>Drawable to use as the "track" that the switch thumb slides within.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTint com.anyvision.facekeyexample.ntec:trackTint}</code></td><td>Tint to apply to the track.</td></tr>
+     * <tr><td><code>{@link #SwitchCompat_trackTintMode com.anyvision.facekeyexample.ntec:trackTintMode}</code></td><td>Blending mode used to apply the track tint.</td></tr>
      * </table>
      * @see #SwitchCompat_android_textOn
      * @see #SwitchCompat_android_textOff
@@ -22886,7 +22902,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:showText
+     * @attr name com.anyvision.facekeyexample.ntec:showText
      */
     public static final int SwitchCompat_showText=3;
     /**
@@ -22897,7 +22913,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:splitTrack
+     * @attr name com.anyvision.facekeyexample.ntec:splitTrack
      */
     public static final int SwitchCompat_splitTrack=4;
     /**
@@ -22911,7 +22927,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:switchMinWidth
+     * @attr name com.anyvision.facekeyexample.ntec:switchMinWidth
      */
     public static final int SwitchCompat_switchMinWidth=5;
     /**
@@ -22925,7 +22941,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:switchPadding
+     * @attr name com.anyvision.facekeyexample.ntec:switchPadding
      */
     public static final int SwitchCompat_switchPadding=6;
     /**
@@ -22938,7 +22954,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:switchTextAppearance
+     * @attr name com.anyvision.facekeyexample.ntec:switchTextAppearance
      */
     public static final int SwitchCompat_switchTextAppearance=7;
     /**
@@ -22952,7 +22968,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:thumbTextPadding
+     * @attr name com.anyvision.facekeyexample.ntec:thumbTextPadding
      */
     public static final int SwitchCompat_thumbTextPadding=8;
     /**
@@ -22964,7 +22980,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:thumbTint
+     * @attr name com.anyvision.facekeyexample.ntec:thumbTint
      */
     public static final int SwitchCompat_thumbTint=9;
     /**
@@ -22991,7 +23007,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:thumbTintMode
+     * @attr name com.anyvision.facekeyexample.ntec:thumbTintMode
      */
     public static final int SwitchCompat_thumbTintMode=10;
     /**
@@ -23004,7 +23020,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:track
+     * @attr name com.anyvision.facekeyexample.ntec:track
      */
     public static final int SwitchCompat_track=11;
     /**
@@ -23016,7 +23032,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:trackTint
+     * @attr name com.anyvision.facekeyexample.ntec:trackTint
      */
     public static final int SwitchCompat_trackTint=12;
     /**
@@ -23043,7 +23059,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:trackTintMode
+     * @attr name com.anyvision.facekeyexample.ntec:trackTintMode
      */
     public static final int SwitchCompat_trackTintMode=13;
     /**
@@ -23105,31 +23121,31 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #TabLayout_tabBackground com.anyvision.facekeyexample.client:tabBackground}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabContentStart com.anyvision.facekeyexample.client:tabContentStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabGravity com.anyvision.facekeyexample.client:tabGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTint com.anyvision.facekeyexample.client:tabIconTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.anyvision.facekeyexample.client:tabIconTintMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicator com.anyvision.facekeyexample.client:tabIndicator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.anyvision.facekeyexample.client:tabIndicatorAnimationDuration}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.anyvision.facekeyexample.client:tabIndicatorColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.anyvision.facekeyexample.client:tabIndicatorFullWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.anyvision.facekeyexample.client:tabIndicatorGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.anyvision.facekeyexample.client:tabIndicatorHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.anyvision.facekeyexample.client:tabInlineLabel}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.anyvision.facekeyexample.client:tabMaxWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMinWidth com.anyvision.facekeyexample.client:tabMinWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabMode com.anyvision.facekeyexample.client:tabMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPadding com.anyvision.facekeyexample.client:tabPadding}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.anyvision.facekeyexample.client:tabPaddingBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.anyvision.facekeyexample.client:tabPaddingEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.anyvision.facekeyexample.client:tabPaddingStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.anyvision.facekeyexample.client:tabPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabRippleColor com.anyvision.facekeyexample.client:tabRippleColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.anyvision.facekeyexample.client:tabSelectedTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.anyvision.facekeyexample.client:tabTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabTextColor com.anyvision.facekeyexample.client:tabTextColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.anyvision.facekeyexample.client:tabUnboundedRipple}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabBackground com.anyvision.facekeyexample.ntec:tabBackground}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabContentStart com.anyvision.facekeyexample.ntec:tabContentStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabGravity com.anyvision.facekeyexample.ntec:tabGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTint com.anyvision.facekeyexample.ntec:tabIconTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIconTintMode com.anyvision.facekeyexample.ntec:tabIconTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicator com.anyvision.facekeyexample.ntec:tabIndicator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorAnimationDuration com.anyvision.facekeyexample.ntec:tabIndicatorAnimationDuration}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorColor com.anyvision.facekeyexample.ntec:tabIndicatorColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorFullWidth com.anyvision.facekeyexample.ntec:tabIndicatorFullWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorGravity com.anyvision.facekeyexample.ntec:tabIndicatorGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabIndicatorHeight com.anyvision.facekeyexample.ntec:tabIndicatorHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabInlineLabel com.anyvision.facekeyexample.ntec:tabInlineLabel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMaxWidth com.anyvision.facekeyexample.ntec:tabMaxWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMinWidth com.anyvision.facekeyexample.ntec:tabMinWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabMode com.anyvision.facekeyexample.ntec:tabMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPadding com.anyvision.facekeyexample.ntec:tabPadding}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingBottom com.anyvision.facekeyexample.ntec:tabPaddingBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingEnd com.anyvision.facekeyexample.ntec:tabPaddingEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingStart com.anyvision.facekeyexample.ntec:tabPaddingStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabPaddingTop com.anyvision.facekeyexample.ntec:tabPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabRippleColor com.anyvision.facekeyexample.ntec:tabRippleColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabSelectedTextColor com.anyvision.facekeyexample.ntec:tabSelectedTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextAppearance com.anyvision.facekeyexample.ntec:tabTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabTextColor com.anyvision.facekeyexample.ntec:tabTextColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TabLayout_tabUnboundedRipple com.anyvision.facekeyexample.ntec:tabUnboundedRipple}</code></td><td></td></tr>
      * </table>
      * @see #TabLayout_tabBackground
      * @see #TabLayout_tabContentStart
@@ -23167,7 +23183,7 @@ public final class R {
       0x7f03023b
     };
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabBackground}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabBackground}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -23175,11 +23191,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:tabBackground
+     * @attr name com.anyvision.facekeyexample.ntec:tabBackground
      */
     public static final int TabLayout_tabBackground=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabContentStart}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabContentStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -23188,11 +23204,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:tabContentStart
+     * @attr name com.anyvision.facekeyexample.ntec:tabContentStart
      */
     public static final int TabLayout_tabContentStart=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabGravity}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -23205,22 +23221,22 @@ public final class R {
      * <tr><td>fill</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:tabGravity
+     * @attr name com.anyvision.facekeyexample.ntec:tabGravity
      */
     public static final int TabLayout_tabGravity=2;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabIconTint}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabIconTint}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:tabIconTint
+     * @attr name com.anyvision.facekeyexample.ntec:tabIconTint
      */
     public static final int TabLayout_tabIconTint=3;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabIconTintMode}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabIconTintMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -23237,11 +23253,11 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:tabIconTintMode
+     * @attr name com.anyvision.facekeyexample.ntec:tabIconTintMode
      */
     public static final int TabLayout_tabIconTintMode=4;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabIndicator}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabIndicator}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -23249,41 +23265,41 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:tabIndicator
+     * @attr name com.anyvision.facekeyexample.ntec:tabIndicator
      */
     public static final int TabLayout_tabIndicator=5;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabIndicatorAnimationDuration}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabIndicatorAnimationDuration}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:tabIndicatorAnimationDuration
+     * @attr name com.anyvision.facekeyexample.ntec:tabIndicatorAnimationDuration
      */
     public static final int TabLayout_tabIndicatorAnimationDuration=6;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabIndicatorColor}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabIndicatorColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:tabIndicatorColor
+     * @attr name com.anyvision.facekeyexample.ntec:tabIndicatorColor
      */
     public static final int TabLayout_tabIndicatorColor=7;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabIndicatorFullWidth}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabIndicatorFullWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:tabIndicatorFullWidth
+     * @attr name com.anyvision.facekeyexample.ntec:tabIndicatorFullWidth
      */
     public static final int TabLayout_tabIndicatorFullWidth=8;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabIndicatorGravity}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabIndicatorGravity}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -23298,11 +23314,11 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:tabIndicatorGravity
+     * @attr name com.anyvision.facekeyexample.ntec:tabIndicatorGravity
      */
     public static final int TabLayout_tabIndicatorGravity=9;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabIndicatorHeight}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabIndicatorHeight}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -23311,21 +23327,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:tabIndicatorHeight
+     * @attr name com.anyvision.facekeyexample.ntec:tabIndicatorHeight
      */
     public static final int TabLayout_tabIndicatorHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabInlineLabel}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabInlineLabel}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:tabInlineLabel
+     * @attr name com.anyvision.facekeyexample.ntec:tabInlineLabel
      */
     public static final int TabLayout_tabInlineLabel=11;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabMaxWidth}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabMaxWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -23334,11 +23350,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:tabMaxWidth
+     * @attr name com.anyvision.facekeyexample.ntec:tabMaxWidth
      */
     public static final int TabLayout_tabMaxWidth=12;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabMinWidth}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabMinWidth}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -23347,11 +23363,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:tabMinWidth
+     * @attr name com.anyvision.facekeyexample.ntec:tabMinWidth
      */
     public static final int TabLayout_tabMinWidth=13;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabMode}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabMode}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -23364,11 +23380,11 @@ public final class R {
      * <tr><td>scrollable</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:tabMode
+     * @attr name com.anyvision.facekeyexample.ntec:tabMode
      */
     public static final int TabLayout_tabMode=14;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabPadding}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabPadding}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -23377,11 +23393,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:tabPadding
+     * @attr name com.anyvision.facekeyexample.ntec:tabPadding
      */
     public static final int TabLayout_tabPadding=15;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabPaddingBottom}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabPaddingBottom}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -23390,11 +23406,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:tabPaddingBottom
+     * @attr name com.anyvision.facekeyexample.ntec:tabPaddingBottom
      */
     public static final int TabLayout_tabPaddingBottom=16;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabPaddingEnd}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabPaddingEnd}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -23403,11 +23419,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:tabPaddingEnd
+     * @attr name com.anyvision.facekeyexample.ntec:tabPaddingEnd
      */
     public static final int TabLayout_tabPaddingEnd=17;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabPaddingStart}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabPaddingStart}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -23416,11 +23432,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:tabPaddingStart
+     * @attr name com.anyvision.facekeyexample.ntec:tabPaddingStart
      */
     public static final int TabLayout_tabPaddingStart=18;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabPaddingTop}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabPaddingTop}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -23429,33 +23445,33 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:tabPaddingTop
+     * @attr name com.anyvision.facekeyexample.ntec:tabPaddingTop
      */
     public static final int TabLayout_tabPaddingTop=19;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabRippleColor}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabRippleColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:tabRippleColor
+     * @attr name com.anyvision.facekeyexample.ntec:tabRippleColor
      */
     public static final int TabLayout_tabRippleColor=20;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabSelectedTextColor}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabSelectedTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:tabSelectedTextColor
+     * @attr name com.anyvision.facekeyexample.ntec:tabSelectedTextColor
      */
     public static final int TabLayout_tabSelectedTextColor=21;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabTextAppearance}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabTextAppearance}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -23463,28 +23479,28 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:tabTextAppearance
+     * @attr name com.anyvision.facekeyexample.ntec:tabTextAppearance
      */
     public static final int TabLayout_tabTextAppearance=22;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabTextColor}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabTextColor}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:tabTextColor
+     * @attr name com.anyvision.facekeyexample.ntec:tabTextColor
      */
     public static final int TabLayout_tabTextColor=23;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#tabUnboundedRipple}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#tabUnboundedRipple}
      * attribute's value can be found in the {@link #TabLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:tabUnboundedRipple
+     * @attr name com.anyvision.facekeyexample.ntec:tabUnboundedRipple
      */
     public static final int TabLayout_tabUnboundedRipple=24;
     /**
@@ -23505,8 +23521,8 @@ public final class R {
      * <tr><td><code>{@link #TextAppearance_android_shadowDy android:shadowDy}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_shadowRadius android:shadowRadius}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextAppearance_android_fontFamily android:fontFamily}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextAppearance_fontFamily com.anyvision.facekeyexample.client:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
-     * <tr><td><code>{@link #TextAppearance_textAllCaps com.anyvision.facekeyexample.client:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_fontFamily com.anyvision.facekeyexample.ntec:fontFamily}</code></td><td>The attribute for the font family.</td></tr>
+     * <tr><td><code>{@link #TextAppearance_textAllCaps com.anyvision.facekeyexample.ntec:textAllCaps}</code></td><td>Present the text in ALL CAPS.</td></tr>
      * </table>
      * @see #TextAppearance_android_textSize
      * @see #TextAppearance_android_typeface
@@ -23679,7 +23695,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:fontFamily
+     * @attr name com.anyvision.facekeyexample.ntec:fontFamily
      */
     public static final int TextAppearance_fontFamily=11;
     /**
@@ -23694,7 +23710,7 @@ public final class R {
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:textAllCaps
+     * @attr name com.anyvision.facekeyexample.ntec:textAllCaps
      */
     public static final int TextAppearance_textAllCaps=12;
     /**
@@ -23706,32 +23722,32 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #TextInputLayout_android_textColorHint android:textColorHint}</code></td><td></td></tr>
      * <tr><td><code>{@link #TextInputLayout_android_hint android:hint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.anyvision.facekeyexample.client:boxBackgroundColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.anyvision.facekeyexample.client:boxBackgroundMode}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.anyvision.facekeyexample.client:boxCollapsedPaddingTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.anyvision.facekeyexample.client:boxCornerRadiusBottomEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.anyvision.facekeyexample.client:boxCornerRadiusBottomStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.anyvision.facekeyexample.client:boxCornerRadiusTopEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.anyvision.facekeyexample.client:boxCornerRadiusTopStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.anyvision.facekeyexample.client:boxStrokeColor}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.anyvision.facekeyexample.client:boxStrokeWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.anyvision.facekeyexample.client:counterEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.anyvision.facekeyexample.client:counterMaxLength}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.anyvision.facekeyexample.client:counterOverflowTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.anyvision.facekeyexample.client:counterTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.anyvision.facekeyexample.client:errorEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.anyvision.facekeyexample.client:errorTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperText com.anyvision.facekeyexample.client:helperText}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.anyvision.facekeyexample.client:helperTextEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.anyvision.facekeyexample.client:helperTextTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.anyvision.facekeyexample.client:hintAnimationEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.anyvision.facekeyexample.client:hintEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.anyvision.facekeyexample.client:hintTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.anyvision.facekeyexample.client:passwordToggleContentDescription}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.anyvision.facekeyexample.client:passwordToggleDrawable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.anyvision.facekeyexample.client:passwordToggleEnabled}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.anyvision.facekeyexample.client:passwordToggleTint}</code></td><td></td></tr>
-     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.anyvision.facekeyexample.client:passwordToggleTintMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundColor com.anyvision.facekeyexample.ntec:boxBackgroundColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxBackgroundMode com.anyvision.facekeyexample.ntec:boxBackgroundMode}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCollapsedPaddingTop com.anyvision.facekeyexample.ntec:boxCollapsedPaddingTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomEnd com.anyvision.facekeyexample.ntec:boxCornerRadiusBottomEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusBottomStart com.anyvision.facekeyexample.ntec:boxCornerRadiusBottomStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopEnd com.anyvision.facekeyexample.ntec:boxCornerRadiusTopEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxCornerRadiusTopStart com.anyvision.facekeyexample.ntec:boxCornerRadiusTopStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeColor com.anyvision.facekeyexample.ntec:boxStrokeColor}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_boxStrokeWidth com.anyvision.facekeyexample.ntec:boxStrokeWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterEnabled com.anyvision.facekeyexample.ntec:counterEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterMaxLength com.anyvision.facekeyexample.ntec:counterMaxLength}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterOverflowTextAppearance com.anyvision.facekeyexample.ntec:counterOverflowTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_counterTextAppearance com.anyvision.facekeyexample.ntec:counterTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorEnabled com.anyvision.facekeyexample.ntec:errorEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_errorTextAppearance com.anyvision.facekeyexample.ntec:errorTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperText com.anyvision.facekeyexample.ntec:helperText}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextEnabled com.anyvision.facekeyexample.ntec:helperTextEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_helperTextTextAppearance com.anyvision.facekeyexample.ntec:helperTextTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintAnimationEnabled com.anyvision.facekeyexample.ntec:hintAnimationEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintEnabled com.anyvision.facekeyexample.ntec:hintEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_hintTextAppearance com.anyvision.facekeyexample.ntec:hintTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleContentDescription com.anyvision.facekeyexample.ntec:passwordToggleContentDescription}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleDrawable com.anyvision.facekeyexample.ntec:passwordToggleDrawable}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleEnabled com.anyvision.facekeyexample.ntec:passwordToggleEnabled}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTint com.anyvision.facekeyexample.ntec:passwordToggleTint}</code></td><td></td></tr>
+     * <tr><td><code>{@link #TextInputLayout_passwordToggleTintMode com.anyvision.facekeyexample.ntec:passwordToggleTintMode}</code></td><td></td></tr>
      * </table>
      * @see #TextInputLayout_android_textColorHint
      * @see #TextInputLayout_android_hint
@@ -23797,18 +23813,18 @@ public final class R {
      */
     public static final int TextInputLayout_android_hint=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#boxBackgroundColor}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#boxBackgroundColor}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:boxBackgroundColor
+     * @attr name com.anyvision.facekeyexample.ntec:boxBackgroundColor
      */
     public static final int TextInputLayout_boxBackgroundColor=2;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#boxBackgroundMode}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#boxBackgroundMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -23822,11 +23838,11 @@ public final class R {
      * <tr><td>outline</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:boxBackgroundMode
+     * @attr name com.anyvision.facekeyexample.ntec:boxBackgroundMode
      */
     public static final int TextInputLayout_boxBackgroundMode=3;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#boxCollapsedPaddingTop}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#boxCollapsedPaddingTop}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -23835,11 +23851,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:boxCollapsedPaddingTop
+     * @attr name com.anyvision.facekeyexample.ntec:boxCollapsedPaddingTop
      */
     public static final int TextInputLayout_boxCollapsedPaddingTop=4;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#boxCornerRadiusBottomEnd}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#boxCornerRadiusBottomEnd}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -23848,11 +23864,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:boxCornerRadiusBottomEnd
+     * @attr name com.anyvision.facekeyexample.ntec:boxCornerRadiusBottomEnd
      */
     public static final int TextInputLayout_boxCornerRadiusBottomEnd=5;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#boxCornerRadiusBottomStart}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#boxCornerRadiusBottomStart}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -23861,11 +23877,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:boxCornerRadiusBottomStart
+     * @attr name com.anyvision.facekeyexample.ntec:boxCornerRadiusBottomStart
      */
     public static final int TextInputLayout_boxCornerRadiusBottomStart=6;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#boxCornerRadiusTopEnd}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#boxCornerRadiusTopEnd}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -23874,11 +23890,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:boxCornerRadiusTopEnd
+     * @attr name com.anyvision.facekeyexample.ntec:boxCornerRadiusTopEnd
      */
     public static final int TextInputLayout_boxCornerRadiusTopEnd=7;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#boxCornerRadiusTopStart}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#boxCornerRadiusTopStart}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -23887,22 +23903,22 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:boxCornerRadiusTopStart
+     * @attr name com.anyvision.facekeyexample.ntec:boxCornerRadiusTopStart
      */
     public static final int TextInputLayout_boxCornerRadiusTopStart=8;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#boxStrokeColor}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#boxStrokeColor}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:boxStrokeColor
+     * @attr name com.anyvision.facekeyexample.ntec:boxStrokeColor
      */
     public static final int TextInputLayout_boxStrokeColor=9;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#boxStrokeWidth}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#boxStrokeWidth}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -23911,30 +23927,30 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:boxStrokeWidth
+     * @attr name com.anyvision.facekeyexample.ntec:boxStrokeWidth
      */
     public static final int TextInputLayout_boxStrokeWidth=10;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#counterEnabled}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#counterEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:counterEnabled
+     * @attr name com.anyvision.facekeyexample.ntec:counterEnabled
      */
     public static final int TextInputLayout_counterEnabled=11;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#counterMaxLength}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#counterMaxLength}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:counterMaxLength
+     * @attr name com.anyvision.facekeyexample.ntec:counterMaxLength
      */
     public static final int TextInputLayout_counterMaxLength=12;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#counterOverflowTextAppearance}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#counterOverflowTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -23942,11 +23958,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:counterOverflowTextAppearance
+     * @attr name com.anyvision.facekeyexample.ntec:counterOverflowTextAppearance
      */
     public static final int TextInputLayout_counterOverflowTextAppearance=13;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#counterTextAppearance}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#counterTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -23954,21 +23970,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:counterTextAppearance
+     * @attr name com.anyvision.facekeyexample.ntec:counterTextAppearance
      */
     public static final int TextInputLayout_counterTextAppearance=14;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#errorEnabled}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#errorEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:errorEnabled
+     * @attr name com.anyvision.facekeyexample.ntec:errorEnabled
      */
     public static final int TextInputLayout_errorEnabled=15;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#errorTextAppearance}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#errorTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -23976,31 +23992,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:errorTextAppearance
+     * @attr name com.anyvision.facekeyexample.ntec:errorTextAppearance
      */
     public static final int TextInputLayout_errorTextAppearance=16;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#helperText}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#helperText}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:helperText
+     * @attr name com.anyvision.facekeyexample.ntec:helperText
      */
     public static final int TextInputLayout_helperText=17;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#helperTextEnabled}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#helperTextEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:helperTextEnabled
+     * @attr name com.anyvision.facekeyexample.ntec:helperTextEnabled
      */
     public static final int TextInputLayout_helperTextEnabled=18;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#helperTextTextAppearance}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#helperTextTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24008,31 +24024,31 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:helperTextTextAppearance
+     * @attr name com.anyvision.facekeyexample.ntec:helperTextTextAppearance
      */
     public static final int TextInputLayout_helperTextTextAppearance=19;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#hintAnimationEnabled}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#hintAnimationEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:hintAnimationEnabled
+     * @attr name com.anyvision.facekeyexample.ntec:hintAnimationEnabled
      */
     public static final int TextInputLayout_hintAnimationEnabled=20;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#hintEnabled}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#hintEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:hintEnabled
+     * @attr name com.anyvision.facekeyexample.ntec:hintEnabled
      */
     public static final int TextInputLayout_hintEnabled=21;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#hintTextAppearance}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#hintTextAppearance}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24040,21 +24056,21 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:hintTextAppearance
+     * @attr name com.anyvision.facekeyexample.ntec:hintTextAppearance
      */
     public static final int TextInputLayout_hintTextAppearance=22;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#passwordToggleContentDescription}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#passwordToggleContentDescription}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:passwordToggleContentDescription
+     * @attr name com.anyvision.facekeyexample.ntec:passwordToggleContentDescription
      */
     public static final int TextInputLayout_passwordToggleContentDescription=23;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#passwordToggleDrawable}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#passwordToggleDrawable}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24062,32 +24078,32 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:passwordToggleDrawable
+     * @attr name com.anyvision.facekeyexample.ntec:passwordToggleDrawable
      */
     public static final int TextInputLayout_passwordToggleDrawable=24;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#passwordToggleEnabled}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#passwordToggleEnabled}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:passwordToggleEnabled
+     * @attr name com.anyvision.facekeyexample.ntec:passwordToggleEnabled
      */
     public static final int TextInputLayout_passwordToggleEnabled=25;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#passwordToggleTint}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#passwordToggleTint}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>May be a color value, in the form of "<code>#<i>rgb</i></code>",
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:passwordToggleTint
+     * @attr name com.anyvision.facekeyexample.ntec:passwordToggleTint
      */
     public static final int TextInputLayout_passwordToggleTint=26;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#passwordToggleTintMode}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#passwordToggleTintMode}
      * attribute's value can be found in the {@link #TextInputLayout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -24103,7 +24119,7 @@ public final class R {
      * <tr><td>src_over</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:passwordToggleTintMode
+     * @attr name com.anyvision.facekeyexample.ntec:passwordToggleTintMode
      */
     public static final int TextInputLayout_passwordToggleTintMode=27;
     /**
@@ -24114,8 +24130,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ThemeEnforcement_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.anyvision.facekeyexample.client:enforceMaterialTheme}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.anyvision.facekeyexample.client:enforceTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ThemeEnforcement_enforceMaterialTheme com.anyvision.facekeyexample.ntec:enforceMaterialTheme}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ThemeEnforcement_enforceTextAppearance com.anyvision.facekeyexample.ntec:enforceTextAppearance}</code></td><td></td></tr>
      * </table>
      * @see #ThemeEnforcement_android_textAppearance
      * @see #ThemeEnforcement_enforceMaterialTheme
@@ -24137,23 +24153,23 @@ public final class R {
      */
     public static final int ThemeEnforcement_android_textAppearance=0;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#enforceMaterialTheme}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#enforceMaterialTheme}
      * attribute's value can be found in the {@link #ThemeEnforcement} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:enforceMaterialTheme
+     * @attr name com.anyvision.facekeyexample.ntec:enforceMaterialTheme
      */
     public static final int ThemeEnforcement_enforceMaterialTheme=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#enforceTextAppearance}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#enforceTextAppearance}
      * attribute's value can be found in the {@link #ThemeEnforcement} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:enforceTextAppearance
+     * @attr name com.anyvision.facekeyexample.ntec:enforceTextAppearance
      */
     public static final int ThemeEnforcement_enforceTextAppearance=2;
     /**
@@ -24165,40 +24181,40 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
      * <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_buttonGravity com.anyvision.facekeyexample.client:buttonGravity}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.anyvision.facekeyexample.client:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_collapseIcon com.anyvision.facekeyexample.client:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.anyvision.facekeyexample.client:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.anyvision.facekeyexample.client:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
+     * <tr><td><code>{@link #Toolbar_buttonGravity com.anyvision.facekeyexample.ntec:buttonGravity}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseContentDescription com.anyvision.facekeyexample.ntec:collapseContentDescription}</code></td><td>Text to set as the content description for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_collapseIcon com.anyvision.facekeyexample.ntec:collapseIcon}</code></td><td>Icon drawable to use for the collapse button.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEnd com.anyvision.facekeyexample.ntec:contentInsetEnd}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetEndWithActions com.anyvision.facekeyexample.ntec:contentInsetEndWithActions}</code></td><td>Minimum inset for content views within a bar when actions from a menu
      * are present.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.anyvision.facekeyexample.client:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetRight com.anyvision.facekeyexample.client:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStart com.anyvision.facekeyexample.client:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.anyvision.facekeyexample.client:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
+     * <tr><td><code>{@link #Toolbar_contentInsetLeft com.anyvision.facekeyexample.ntec:contentInsetLeft}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetRight com.anyvision.facekeyexample.ntec:contentInsetRight}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStart com.anyvision.facekeyexample.ntec:contentInsetStart}</code></td><td>Minimum inset for content views within a bar.</td></tr>
+     * <tr><td><code>{@link #Toolbar_contentInsetStartWithNavigation com.anyvision.facekeyexample.ntec:contentInsetStartWithNavigation}</code></td><td>Minimum inset for content views within a bar when a navigation button
      * is present, such as the Up button.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logo com.anyvision.facekeyexample.client:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
-     * <tr><td><code>{@link #Toolbar_logoDescription com.anyvision.facekeyexample.client:logoDescription}</code></td><td>A content description string to describe the appearance of the
+     * <tr><td><code>{@link #Toolbar_logo com.anyvision.facekeyexample.ntec:logo}</code></td><td>Specifies the drawable used for the application logo.</td></tr>
+     * <tr><td><code>{@link #Toolbar_logoDescription com.anyvision.facekeyexample.ntec:logoDescription}</code></td><td>A content description string to describe the appearance of the
      * associated logo image.</td></tr>
-     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.anyvision.facekeyexample.client:maxButtonHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.anyvision.facekeyexample.client:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
+     * <tr><td><code>{@link #Toolbar_maxButtonHeight com.anyvision.facekeyexample.ntec:maxButtonHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_navigationContentDescription com.anyvision.facekeyexample.ntec:navigationContentDescription}</code></td><td>Text to set as the content description for the navigation button
      * located at the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_navigationIcon com.anyvision.facekeyexample.client:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
+     * <tr><td><code>{@link #Toolbar_navigationIcon com.anyvision.facekeyexample.ntec:navigationIcon}</code></td><td>Icon drawable to use for the navigation button located at
      * the start of the toolbar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_popupTheme com.anyvision.facekeyexample.client:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
+     * <tr><td><code>{@link #Toolbar_popupTheme com.anyvision.facekeyexample.ntec:popupTheme}</code></td><td>Reference to a theme that should be used to inflate popups
      * shown by widgets in the action bar.</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitle com.anyvision.facekeyexample.client:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.anyvision.facekeyexample.client:subtitleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.anyvision.facekeyexample.client:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
-     * <tr><td><code>{@link #Toolbar_title com.anyvision.facekeyexample.client:title}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargin com.anyvision.facekeyexample.client:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
+     * <tr><td><code>{@link #Toolbar_subtitle com.anyvision.facekeyexample.ntec:subtitle}</code></td><td>Specifies subtitle text used for navigationMode="normal"</td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.anyvision.facekeyexample.ntec:subtitleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_subtitleTextColor com.anyvision.facekeyexample.ntec:subtitleTextColor}</code></td><td>A color to apply to the subtitle string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_title com.anyvision.facekeyexample.ntec:title}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargin com.anyvision.facekeyexample.ntec:titleMargin}</code></td><td>Specifies extra space on the left, start, right and end sides
      * of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.anyvision.facekeyexample.client:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.anyvision.facekeyexample.client:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginStart com.anyvision.facekeyexample.client:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMarginTop com.anyvision.facekeyexample.client:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleMargins com.anyvision.facekeyexample.client:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.anyvision.facekeyexample.client:titleTextAppearance}</code></td><td></td></tr>
-     * <tr><td><code>{@link #Toolbar_titleTextColor com.anyvision.facekeyexample.client:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginBottom com.anyvision.facekeyexample.ntec:titleMarginBottom}</code></td><td>Specifies extra space on the bottom side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginEnd com.anyvision.facekeyexample.ntec:titleMarginEnd}</code></td><td>Specifies extra space on the end side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginStart com.anyvision.facekeyexample.ntec:titleMarginStart}</code></td><td>Specifies extra space on the start side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMarginTop com.anyvision.facekeyexample.ntec:titleMarginTop}</code></td><td>Specifies extra space on the top side of the toolbar's title.</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleMargins com.anyvision.facekeyexample.ntec:titleMargins}</code></td><td>{@deprecated Use titleMargin}</td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextAppearance com.anyvision.facekeyexample.ntec:titleTextAppearance}</code></td><td></td></tr>
+     * <tr><td><code>{@link #Toolbar_titleTextColor com.anyvision.facekeyexample.ntec:titleTextColor}</code></td><td>A color to apply to the title string.</td></tr>
      * </table>
      * @see #Toolbar_android_gravity
      * @see #Toolbar_android_minHeight
@@ -24284,7 +24300,7 @@ public final class R {
      */
     public static final int Toolbar_android_minHeight=1;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#buttonGravity}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#buttonGravity}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -24297,7 +24313,7 @@ public final class R {
      * <tr><td>top</td><td>30</td><td>Push object to the top of its container, not changing its size.</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:buttonGravity
+     * @attr name com.anyvision.facekeyexample.ntec:buttonGravity
      */
     public static final int Toolbar_buttonGravity=2;
     /**
@@ -24308,7 +24324,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:collapseContentDescription
+     * @attr name com.anyvision.facekeyexample.ntec:collapseContentDescription
      */
     public static final int Toolbar_collapseContentDescription=3;
     /**
@@ -24321,7 +24337,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:collapseIcon
+     * @attr name com.anyvision.facekeyexample.ntec:collapseIcon
      */
     public static final int Toolbar_collapseIcon=4;
     /**
@@ -24336,7 +24352,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:contentInsetEnd
+     * @attr name com.anyvision.facekeyexample.ntec:contentInsetEnd
      */
     public static final int Toolbar_contentInsetEnd=5;
     /**
@@ -24351,7 +24367,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:contentInsetEndWithActions
+     * @attr name com.anyvision.facekeyexample.ntec:contentInsetEndWithActions
      */
     public static final int Toolbar_contentInsetEndWithActions=6;
     /**
@@ -24366,7 +24382,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:contentInsetLeft
+     * @attr name com.anyvision.facekeyexample.ntec:contentInsetLeft
      */
     public static final int Toolbar_contentInsetLeft=7;
     /**
@@ -24381,7 +24397,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:contentInsetRight
+     * @attr name com.anyvision.facekeyexample.ntec:contentInsetRight
      */
     public static final int Toolbar_contentInsetRight=8;
     /**
@@ -24396,7 +24412,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:contentInsetStart
+     * @attr name com.anyvision.facekeyexample.ntec:contentInsetStart
      */
     public static final int Toolbar_contentInsetStart=9;
     /**
@@ -24411,7 +24427,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:contentInsetStartWithNavigation
+     * @attr name com.anyvision.facekeyexample.ntec:contentInsetStartWithNavigation
      */
     public static final int Toolbar_contentInsetStartWithNavigation=10;
     /**
@@ -24425,7 +24441,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:logo
+     * @attr name com.anyvision.facekeyexample.ntec:logo
      */
     public static final int Toolbar_logo=11;
     /**
@@ -24437,11 +24453,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:logoDescription
+     * @attr name com.anyvision.facekeyexample.ntec:logoDescription
      */
     public static final int Toolbar_logoDescription=12;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#maxButtonHeight}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#maxButtonHeight}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -24450,7 +24466,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:maxButtonHeight
+     * @attr name com.anyvision.facekeyexample.ntec:maxButtonHeight
      */
     public static final int Toolbar_maxButtonHeight=13;
     /**
@@ -24462,7 +24478,7 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:navigationContentDescription
+     * @attr name com.anyvision.facekeyexample.ntec:navigationContentDescription
      */
     public static final int Toolbar_navigationContentDescription=14;
     /**
@@ -24476,7 +24492,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:navigationIcon
+     * @attr name com.anyvision.facekeyexample.ntec:navigationIcon
      */
     public static final int Toolbar_navigationIcon=15;
     /**
@@ -24490,7 +24506,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:popupTheme
+     * @attr name com.anyvision.facekeyexample.ntec:popupTheme
      */
     public static final int Toolbar_popupTheme=16;
     /**
@@ -24501,11 +24517,11 @@ public final class R {
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:subtitle
+     * @attr name com.anyvision.facekeyexample.ntec:subtitle
      */
     public static final int Toolbar_subtitle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#subtitleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#subtitleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24513,7 +24529,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:subtitleTextAppearance
+     * @attr name com.anyvision.facekeyexample.ntec:subtitleTextAppearance
      */
     public static final int Toolbar_subtitleTextAppearance=18;
     /**
@@ -24525,17 +24541,17 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:subtitleTextColor
+     * @attr name com.anyvision.facekeyexample.ntec:subtitleTextColor
      */
     public static final int Toolbar_subtitleTextColor=19;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#title}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#title}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.anyvision.facekeyexample.client:title
+     * @attr name com.anyvision.facekeyexample.ntec:title
      */
     public static final int Toolbar_title=20;
     /**
@@ -24550,7 +24566,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:titleMargin
+     * @attr name com.anyvision.facekeyexample.ntec:titleMargin
      */
     public static final int Toolbar_titleMargin=21;
     /**
@@ -24566,7 +24582,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:titleMarginBottom
+     * @attr name com.anyvision.facekeyexample.ntec:titleMarginBottom
      */
     public static final int Toolbar_titleMarginBottom=22;
     /**
@@ -24582,7 +24598,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:titleMarginEnd
+     * @attr name com.anyvision.facekeyexample.ntec:titleMarginEnd
      */
     public static final int Toolbar_titleMarginEnd=23;
     /**
@@ -24598,7 +24614,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:titleMarginStart
+     * @attr name com.anyvision.facekeyexample.ntec:titleMarginStart
      */
     public static final int Toolbar_titleMarginStart=24;
     /**
@@ -24614,7 +24630,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:titleMarginTop
+     * @attr name com.anyvision.facekeyexample.ntec:titleMarginTop
      */
     public static final int Toolbar_titleMarginTop=25;
     /**
@@ -24628,12 +24644,12 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:titleMargins
+     * @attr name com.anyvision.facekeyexample.ntec:titleMargins
      */
     @Deprecated
     public static final int Toolbar_titleMargins=26;
     /**
-     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.client.R.attr#titleTextAppearance}
+     * <p>This symbol is the offset where the {@link com.anyvision.facekeyexample.ntec.R.attr#titleTextAppearance}
      * attribute's value can be found in the {@link #Toolbar} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -24641,7 +24657,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:titleTextAppearance
+     * @attr name com.anyvision.facekeyexample.ntec:titleTextAppearance
      */
     public static final int Toolbar_titleTextAppearance=27;
     /**
@@ -24653,7 +24669,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:titleTextColor
+     * @attr name com.anyvision.facekeyexample.ntec:titleTextColor
      */
     public static final int Toolbar_titleTextColor=28;
     /**
@@ -24665,9 +24681,9 @@ public final class R {
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
      * <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-     * <tr><td><code>{@link #View_paddingEnd com.anyvision.facekeyexample.client:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_paddingStart com.anyvision.facekeyexample.client:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
-     * <tr><td><code>{@link #View_theme com.anyvision.facekeyexample.client:theme}</code></td><td>Deprecated.</td></tr>
+     * <tr><td><code>{@link #View_paddingEnd com.anyvision.facekeyexample.ntec:paddingEnd}</code></td><td>Sets the padding, in pixels, of the end edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_paddingStart com.anyvision.facekeyexample.ntec:paddingStart}</code></td><td>Sets the padding, in pixels, of the start edge; see {@link android.R.attr#padding}.</td></tr>
+     * <tr><td><code>{@link #View_theme com.anyvision.facekeyexample.ntec:theme}</code></td><td>Deprecated.</td></tr>
      * </table>
      * @see #View_android_theme
      * @see #View_android_focusable
@@ -24729,7 +24745,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:paddingEnd
+     * @attr name com.anyvision.facekeyexample.ntec:paddingEnd
      */
     public static final int View_paddingEnd=2;
     /**
@@ -24743,7 +24759,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.anyvision.facekeyexample.client:paddingStart
+     * @attr name com.anyvision.facekeyexample.ntec:paddingStart
      */
     public static final int View_paddingStart=3;
     /**
@@ -24756,7 +24772,7 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:theme
+     * @attr name com.anyvision.facekeyexample.ntec:theme
      */
     public static final int View_theme=4;
     /**
@@ -24767,8 +24783,8 @@ public final class R {
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
      * <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.anyvision.facekeyexample.client:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
-     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.anyvision.facekeyexample.client:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.anyvision.facekeyexample.ntec:backgroundTint}</code></td><td>Tint to apply to the background.</td></tr>
+     * <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.anyvision.facekeyexample.ntec:backgroundTintMode}</code></td><td>Blending mode used to apply the background tint.</td></tr>
      * </table>
      * @see #ViewBackgroundHelper_android_background
      * @see #ViewBackgroundHelper_backgroundTint
@@ -24801,7 +24817,7 @@ public final class R {
      * "<code>#<i>argb</i></code>", "<code>#<i>rrggbb</i></code>", or
      * "<code>#<i>aarrggbb</i></code>".
      *
-     * @attr name com.anyvision.facekeyexample.client:backgroundTint
+     * @attr name com.anyvision.facekeyexample.ntec:backgroundTint
      */
     public static final int ViewBackgroundHelper_backgroundTint=1;
     /**
@@ -24828,7 +24844,7 @@ public final class R {
      * [Sa + (1 - Sa)*Da, Rc = Sc + (1 - Sa)*Dc]</td></tr>
      * </table>
      *
-     * @attr name com.anyvision.facekeyexample.client:backgroundTintMode
+     * @attr name com.anyvision.facekeyexample.ntec:backgroundTintMode
      */
     public static final int ViewBackgroundHelper_backgroundTintMode=2;
     /**

@@ -1,6 +1,10 @@
 package com.anyvision.facekeyexample.prysm;
 
 import com.anyvision.facekeyexample.models.ChamadoGrafico;
+import com.anyvision.facekeyexample.models.FaceDetection.DossierFaces;
+import com.anyvision.facekeyexample.models.FaceDetection.Dossiers.NomeDossier;
+import com.anyvision.facekeyexample.models.FaceDetection.IDsDossiers;
+import com.anyvision.facekeyexample.models.FaceDetection.Liveness;
 import com.anyvision.facekeyexample.models.Facilities;
 import com.anyvision.facekeyexample.models.GetGroups.Groups;
 import com.anyvision.facekeyexample.models.SolicitationExtension;
@@ -10,12 +14,18 @@ import com.anyvision.facekeyexample.models.VariableRowChamado;
 import java.util.List;
 import io.reactivex.Observable;
 
+import okhttp3.MultipartBody;
+import okhttp3.RequestBody;
 import okhttp3.ResponseBody;
 import retrofit2.Call;
 import retrofit2.Response;
+import retrofit2.http.Body;
 import retrofit2.http.GET;
 import retrofit2.http.Header;
 import retrofit2.http.Headers;
+import retrofit2.http.Multipart;
+import retrofit2.http.POST;
+import retrofit2.http.Part;
 import retrofit2.http.Query;
 
 public interface AuthToken {
@@ -65,8 +75,17 @@ public interface AuthToken {
     @GET("AppVisionService.svc/GetVariableStatesByFilter?filters=$V.Gestao.Graficos.Chamados*")
     Call<ChamadoGrafico> GetGestaoControleSalas(@Header("SessionID") String SessionId);
 
-//    @Headers({"Accept: application/xml"})
-//    @GET("AppVisionService.svc/SetVariable?changeOnly=false&severity=-1&quality=-1")
-//    Observable<Void> setMultipleVariable(@Header("SessionID") String SessionId, @Query("name") String name, @Query("newValue") String newValue);
+    @Headers({"Content-Type: video/mp4"})
+    @POST("v1/video-liveness?return_normalized=false&return_photo=false&return_detection=true")
+        //Call<ResponseBody> posLiveness(@Body RequestBody video);
+    Call<Liveness> posLiveness(@Body RequestBody video);
 
+    @GET("verify")
+    Call<DossierFaces> getVerificaFaceDossie(@Query("face1") String face1, @Query("dossier_id") int dossier_id);
+
+    @GET("dossier-faces")
+    Call<IDsDossiers> getListaIDsDossiers();
+
+    @GET("dossiers")
+    Call<NomeDossier> getNomesDossiers(@Query("name_contains") String name_contains);
 }

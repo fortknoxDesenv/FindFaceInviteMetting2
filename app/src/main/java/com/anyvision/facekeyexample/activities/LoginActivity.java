@@ -31,7 +31,6 @@ import androidx.annotation.RequiresApi;
 import androidx.core.app.ActivityCompat;
 
 import com.anyvision.facekeyexample.R;
-import com.anyvision.facekeyexample.activities.face.CustomVideoCameraActivity;
 import com.anyvision.facekeyexample.activities.face.FindFaceCameraActivity;
 import com.anyvision.facekeyexample.firebase.Firebase;
 import com.anyvision.facekeyexample.models.GetVariables;

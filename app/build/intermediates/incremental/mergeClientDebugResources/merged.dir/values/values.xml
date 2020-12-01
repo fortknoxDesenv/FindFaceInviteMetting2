@@ -800,7 +800,7 @@
     <string name="abc_shareactionprovider_share_with_application">Share with <ns1:g example="Mail" id="application_name">%s</ns1:g></string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
     <string name="align_face">Please align your face with the frame</string>
-    <string name="app_name" translatable="false">Facekey Client</string>
+    <string name="app_name" translatable="false">Facekey Ntec</string>
     <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="aprovaReprovaExtesao">aprovaReprovaExtesao</string>
     <string name="auth_failed" translatable="false">Authentication Failure</string>
@@ -831,6 +831,7 @@
     <string name="cameraview_filter_temperature">com.otaliastudios.cameraview.filters.TemperatureFilter</string>
     <string name="cameraview_filter_tint">com.otaliastudios.cameraview.filters.TintFilter</string>
     <string name="cameraview_filter_vignette">com.otaliastudios.cameraview.filters.VignetteFilter</string>
+    <string name="centralizeRosto">Centralize seu rosto</string>
     <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
     <string name="chd_BackgroundComparisonError">Brightness of the two pages is different</string>
@@ -1059,7 +1060,7 @@
     <string name="geral">geral</string>
     <string name="get_ready">Get ready!</string>
     <string name="google_api_key" translatable="false">AIzaSyAa1hl1tcnyQx5dq9ImD5b7D21309rGevc</string>
-    <string name="google_app_id" translatable="false">1:1071532943381:android:9caa6461904f4ac086461c</string>
+    <string name="google_app_id" translatable="false">1:1071532943381:android:179bd25626172d4486461c</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAa1hl1tcnyQx5dq9ImD5b7D21309rGevc</string>
     <string name="google_storage_bucket" translatable="false">fortknoxfacekey.appspot.com</string>
     <string name="hide_bottom_view_on_scroll_behavior" translatable="false">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
@@ -1119,6 +1120,7 @@
     <string name="livness_tutorial_align_face">Frame you face\ninside the oval</string>
     <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
     <string name="name_error">Mandatory field</string>
+    <string name="naoSeMexa">Não se mexa</string>
     <string name="next">Next step</string>
     <string name="no_face_in_video">Cannot detect face. Please align your face</string>
     <string name="no_faces_in_video">No face found in video</string>
@@ -1346,9 +1348,9 @@
     <string name="scan_id_too_many_faces">Too Many Face In Image</string>
     <string name="scanning_id_text">Thank you, we have taken the picture. No need to hold the ID any longer</string>
     <string name="search_menu_title">Search</string>
-    <string name="server_anyvision">http://200.188.213.130:3003</string>
+    <string name="server_findFace">http://192.168.5.199</string>
     <string name="server_url">Server URL</string>
-    <string name="servidorSesame">http://200.188.213.130:3003</string>
+    <string name="servidorSesame">http://192.168.5.199</string>
     <string name="sesameVideoMp4">/SesameVideo.mp4</string>
     <string name="sesame_camera_bubble_angle">Posicione o celular na sua frente</string>
     <string name="sesame_camera_bubble_close">Go FURTHER</string>
@@ -2030,6 +2032,7 @@
     <string name="typefaceLightPath">fonts/Heebo-Light.ttf</string>
     <string name="typefaceMedPath">fonts/Heebo-Medium.ttf</string>
     <string name="usuarioJaCadastrado">Já existe um usuário cadastrado com este nome!</string>
+    <string name="validando">Validação iniciada, não se mexa</string>
     <string name="verifique_status_servidor">Por favor, verifique o status do servidor local!</string>
     <string name="vid_time">Video time</string>
     <string name="video_process_failed">Video processing failed</string>

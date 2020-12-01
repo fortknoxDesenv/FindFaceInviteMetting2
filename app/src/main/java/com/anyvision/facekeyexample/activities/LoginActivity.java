@@ -10,6 +10,7 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
+import android.media.MediaRecorder;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
@@ -23,7 +24,6 @@ import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -31,7 +31,8 @@ import androidx.annotation.RequiresApi;
 import androidx.core.app.ActivityCompat;
 
 import com.anyvision.facekeyexample.R;
-import com.anyvision.facekeyexample.activities.logged.ChamadoActivity;
+import com.anyvision.facekeyexample.activities.face.CustomVideoCameraActivity;
+import com.anyvision.facekeyexample.activities.face.FindFaceCameraActivity;
 import com.anyvision.facekeyexample.firebase.Firebase;
 import com.anyvision.facekeyexample.models.GetVariables;
 import com.anyvision.facekeyexample.models.InfoMobile;
@@ -58,7 +59,7 @@ public class LoginActivity extends BaseActivity {
     private View progressBar;
     private InfoMobile infoMobile;
     private TextView serverLocalUrl;
-    private TextView anyvisionUrl;
+    private TextView findFaceUrl;
     private View SettingsComponent;
     private EditText etUsername;
     private Authentication auth;
@@ -66,6 +67,7 @@ public class LoginActivity extends BaseActivity {
     private static boolean enableBtnRegister;
     private int countClick = 0;
     private long clickDelayTime = 1000;
+
     private CountDownTimer mCountDownTimer = new CountDownTimer(clickDelayTime, clickDelayTime) {
         @Override
         public void onTick(long millisUntilFinished) {
@@ -89,16 +91,8 @@ public class LoginActivity extends BaseActivity {
         signUpBtn = findViewById(R.id.signup);
         btnPanico = findViewById(R.id.loginPanico);
         serverLocalUrl = findViewById(R.id.serverLocalUrl);
-        anyvisionUrl = findViewById(R.id.anyvisionUrl);
+        findFaceUrl = findViewById(R.id.findFaceUrl);
         etUsername = findViewById(R.id.username);
-
-
-
-
-        //teste
-        ChamadoActivity.startActivity(LoginActivity.this);
-
-
 
         AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(this);
         View view = getLayoutInflater().inflate(R.layout.alert_dialog, null);
@@ -163,11 +157,11 @@ public class LoginActivity extends BaseActivity {
         };
 
         GetVariables.getInstance().setEtLocalServerUrl(serverLocalUrl);
-        GetVariables.getInstance().setTextviewAnyvision(anyvisionUrl);
+        GetVariables.getInstance().setTextviewFindFace(findFaceUrl);
 
         GetUrlTipoAgenciaRegional();
         GetUrlServidorLocalAlterada();
-        GetUrlAnyvisionAlterada();
+        GetUrlFindFaceAlterada();
 
         if (GetVariables.getInstance().getSpTypeAccount() == getString(R.string.REGIONAL)) {
             try {
@@ -181,7 +175,7 @@ public class LoginActivity extends BaseActivity {
         }
 
         GetVariables.getInstance().setServerUrl(serverLocalUrl.getText().toString());
-        GetVariables.getInstance().setEtAnyvisionUrl(anyvisionUrl.getText().toString());
+        GetVariables.getInstance().setEtFindFace(findFaceUrl.getText().toString());
         progressBar = findViewById(R.id.progress_bar);
         auth = new Authentication(GetVariables.getInstance().getServerUrl());
 
@@ -213,7 +207,7 @@ public class LoginActivity extends BaseActivity {
             @Override
             public void onClick(View view) {
                 progressBar.setVisibility(View.VISIBLE);
-                Sesame.initialize(anyvisionUrl.getText().toString(), 60000);
+                Sesame.initialize(findFaceUrl.getText().toString(), 60000);
                 RegisterActivity.startActivity(LoginActivity.this);
             }
         });
@@ -234,7 +228,7 @@ public class LoginActivity extends BaseActivity {
                         } else {
                             GetVariables.getInstance().setEtUsername(etUsername.getText().toString());
                             progressBar.setVisibility(View.VISIBLE);
-                            Sesame.initialize(anyvisionUrl.getText().toString(), 60000);
+                            Sesame.initialize(findFaceUrl.getText().toString(), 60000);
                             String typeAccount = GetVariables.getInstance().getSpTypeAccount();
 
                             if (typeAccount.equals(Enum.AgReg.REGIONAL.toString())) {
@@ -245,7 +239,12 @@ public class LoginActivity extends BaseActivity {
                                 auth.requestToken(Enum.request.aprovaReprovaExtesao.toString(), Enum.request.descriptions.toString());
                             }
 
-                            LoginCameraActivity.startActivity(LoginActivity.this);
+                            //LoginCameraActivity.startActivity(LoginActivity.this);
+
+                            FindFaceCameraActivity.startActivity(LoginActivity.this);
+//                            File file = new File(getExternalFilesDir(null) + "/faceCamera.mp4");
+//                            auth.livenessFindFace(file);
+
                         }
                     } else {
                         Toast.makeText(LoginActivity.this, getString(R.string.verifique_status_servidor), Toast.LENGTH_LONG).show();
@@ -400,16 +399,16 @@ public class LoginActivity extends BaseActivity {
         return "";
     }
 
-    private void GetUrlAnyvisionAlterada() {
+    private void GetUrlFindFaceAlterada() {
         try {
             SharedPreferences shUrlAnyvision = getSharedPreferences(Enum.SharedPrivate.URL_ANYVISION.toString(), MODE_PRIVATE);
             String urlAnyvision = shUrlAnyvision.getString(Enum.SharedPrivate.URL_ANYVISION.toString(), null);
 
             if (urlAnyvision != null) {
-                GetVariables.getInstance().setEtAnyvisionUrl(urlAnyvision);
-                anyvisionUrl.setText(urlAnyvision);
+                GetVariables.getInstance().setEtFindFace(urlAnyvision);
+                findFaceUrl.setText(urlAnyvision);
             } else {
-                GetVariables.getInstance().setEtAnyvisionUrl(anyvisionUrl.getText().toString());
+                GetVariables.getInstance().setEtFindFace(findFaceUrl.getText().toString());
             }
         } catch (Exception e) {
             e.printStackTrace();

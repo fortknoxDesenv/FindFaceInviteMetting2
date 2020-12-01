@@ -72,7 +72,7 @@ public class ResultActivity extends BaseActivity implements FragmentCommunicatio
         enterAnimation.setDuration(ENTER_ANIMATION_DURATION);
         video = new File(getExternalFilesDir(null) + VIDEO_MP_4);
 
-        serverUrl = GetVariables.getInstance().getEtAnyvisionUrl();
+        //serverUrl = GetVariables.getInstance().getEtAnyvisionUrl();
         if(serverUrl == null)
             serverUrl = getString(R.string.servidorSesame);
 

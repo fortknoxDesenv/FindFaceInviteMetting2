@@ -1448,7 +1448,6 @@ id always
 id anchorLeft
 id anchorRight
 id anvCamera
-id anyvisionUrl
 id approvePic
 id assistAnimationIv
 id async
@@ -1616,6 +1615,7 @@ id fill_vertical
 id filled
 id filterControl1
 id filterControl2
+id findFaceUrl
 id finishedDatagroupsLv
 id fireFaceOverlay
 id firePreview

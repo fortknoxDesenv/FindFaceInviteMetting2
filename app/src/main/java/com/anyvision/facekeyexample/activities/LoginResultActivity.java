@@ -69,7 +69,7 @@ public class LoginResultActivity extends BaseActivity implements FragmentCommuni
         AppData.setVideo(video);
         etUsername = GetVariables.getInstance().getEtUsername();
 
-        serverUrl = GetVariables.getInstance().getEtAnyvisionUrl();
+        //serverUrl = GetVariables.getInstance().getEtAnyvisionUrl();
         if(serverUrl == null)
             serverUrl = getString(R.string.servidorSesame);
 
@@ -107,30 +107,30 @@ public class LoginResultActivity extends BaseActivity implements FragmentCommuni
         authenticateWithSesame(video, userId);
     }
 
-        private void authenticateWithSesame(File video, String userId){
-            Sesame.initialize(serverUrl, SERVER_TIMEOUT);
-            Sesame.authenticateUser(video, userId, new IAuthenticateListener() {
+    private void authenticateWithSesame(File video, String userId){
+        Sesame.initialize(serverUrl, SERVER_TIMEOUT);
+        Sesame.authenticateUser(video, userId, new IAuthenticateListener() {
 
-                @Override
-                public void onSuccess() {
-                    if (typeAccount.equals("REGIONAL")) {
-                        FirebaseMessaging.getInstance().unsubscribeFromTopic("AGENCIA");
-                        FirebaseMessaging.getInstance().subscribeToTopic("REGIONAL");
+            @Override
+            public void onSuccess() {
+                if (typeAccount.equals("REGIONAL")) {
+                    FirebaseMessaging.getInstance().unsubscribeFromTopic("AGENCIA");
+                    FirebaseMessaging.getInstance().subscribeToTopic("REGIONAL");
 
-                        auth.requestToken("aprovaReprovaExtesao", "geral");
-                        SolicitationExtensionActivity.startActivity(LoginResultActivity.this);
-                    } else {
-                        MainActivity.startActivity(LoginResultActivity.this);
-                    }
-                    finish();
+                    auth.requestToken("aprovaReprovaExtesao", "geral");
+                    SolicitationExtensionActivity.startActivity(LoginResultActivity.this);
+                } else {
+                    MainActivity.startActivity(LoginResultActivity.this);
                 }
+                finish();
+            }
 
-                @Override
-                public void onFailure(int errorCode) {
-                    onResult(false, "Usuário " +etUsername+ " não identificado! Por favor tente novamente");
-                }
-            });
-        }
+            @Override
+            public void onFailure(int errorCode) {
+                onResult(false, "Usuário " +etUsername+ " não identificado! Por favor tente novamente");
+            }
+        });
+    }
 
     private void onResult(boolean isSuccess, String msg) {
         resultText.setVisibility(View.VISIBLE);
@@ -170,7 +170,7 @@ public class LoginResultActivity extends BaseActivity implements FragmentCommuni
     }
 
     public void onBackPressed(){
-     LoginCameraActivity.startActivity(LoginResultActivity.this);
-     finish();
+        LoginCameraActivity.startActivity(LoginResultActivity.this);
+        finish();
     }
 }

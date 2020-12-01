@@ -112,11 +112,11 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
-        android:id="@+id/anyvisionUrl"
+        android:id="@+id/findFaceUrl"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:hint="Anyvision URL : Porta"
-        android:text="http://200.188.213.130:3003"
+        android:hint="FindFace URL : Porta"
+        android:text="http://192.168.5.199"
         android:textSize="16dp"
         android:visibility="gone"
         app:layout_constraintBottom_toTopOf="@+id/login"

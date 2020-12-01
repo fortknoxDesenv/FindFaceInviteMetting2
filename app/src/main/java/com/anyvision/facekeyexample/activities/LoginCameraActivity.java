@@ -48,7 +48,7 @@ public class LoginCameraActivity extends BaseActivity implements FragmentCommuni
             video = new File(getExternalFilesDir(null) + VIDEO_MP_4);
             AppData.setVideo(video);
 
-            serverUrl = GetVariables.getInstance().getEtAnyvisionUrl();
+            //serverUrl = GetVariables.getInstance().getEtAnyvisionUrl();
             if (serverUrl == null)
                 serverUrl = getString(R.string.servidorSesame);
 

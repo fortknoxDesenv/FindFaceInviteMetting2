@@ -29,7 +29,7 @@ public class SettingsActivity extends BaseActivity {
     private Button btnAtivaBtnRegisterLogin;
 
     private EditText server_url;
-    private EditText anyvision_url;
+    private EditText findFace_url;
     private Settings settings;
     private Spinner spType;
     private Authentication auth;
@@ -49,14 +49,14 @@ public class SettingsActivity extends BaseActivity {
         imageCompressionSeekBar = findViewById(R.id.compression_seekbar);
 
         server_url = findViewById(R.id.server_url);
-        anyvision_url = findViewById(R.id.sesame_url);
+        findFace_url = findViewById(R.id.sesame_url);
 
         thresholdSeekBar.setProgress(Math.round(settings.getThreshold() * 100));
         vidTimeSeekBar.setProgress(settings.getVideoTime());
         imageCompressionSeekBar.setProgress(settings.getImageCompressionRate());
 
         server_url.setText(GetVariables.getInstance().getServerUrl());
-        anyvision_url.setText(GetVariables.getInstance().getEtAnyvisionUrl());
+        findFace_url.setText(GetVariables.getInstance().getEtFindFaceUrl());
 
         btnAtivaBtnRegisterLogin = findViewById(R.id.btnAtivaBtnRegisterLogin);
 
@@ -72,9 +72,9 @@ public class SettingsActivity extends BaseActivity {
             @Override
             public void onClick(View v) {
                 GetVariables.getInstance().setServerUrl(server_url.getText().toString());
-                GetVariables.getInstance().setEtAnyvisionUrl(anyvision_url.getText().toString());
+                GetVariables.getInstance().setEtFindFace(findFace_url.getText().toString());
                 GetVariables.getInstance().getEtLocalServerUrl().setText(server_url.getText().toString());
-                GetVariables.getInstance().getTextviewAnyvision().setText(anyvision_url.getText().toString());
+                GetVariables.getInstance().getTextviewFindFace().setText(findFace_url.getText().toString());
 
                 GetVariables.getInstance().setSpTypeAccount(spType.getSelectedItem().toString());
 
@@ -84,7 +84,7 @@ public class SettingsActivity extends BaseActivity {
                 auth = new Authentication(GetVariables.getInstance().getServerUrl());
 
                 Toast.makeText(SettingsActivity.this, "IP Local Servidor: " + GetVariables.getInstance().getServerUrl() +
-                        "\nIP Anyvision: " + GetVariables.getInstance().getEtAnyvisionUrl() +
+                        "\nIP Anyvision: " + GetVariables.getInstance().getEtFindFaceUrl() +
                         "\nTipo de Conta: " + GetVariables.getInstance().getSpTypeAccount(), Toast.LENGTH_LONG).show();
             }
         });
@@ -97,7 +97,7 @@ public class SettingsActivity extends BaseActivity {
         settings.setThreshold(thresholdSeekBar.getProgress() / 100f);
         settings.setVideoTime(vidTimeSeekBar.getProgress());
         settings.setImageCompressionRate(imageCompressionSeekBar.getProgress());
-        settings.setBaseUrl(server_url.getText().toString());
+        settings.setBaseUrlFindFace(server_url.getText().toString());
         AppData.saveSettings();
     }
 
@@ -140,7 +140,7 @@ public class SettingsActivity extends BaseActivity {
             SharedPreferences shUrlAnyvision = getSharedPreferences(Enum.SharedPrivate.URL_ANYVISION.toString(), MODE_PRIVATE);
             SharedPreferences.Editor editUrlAnivision = shUrlAnyvision.edit();
             editUrlAnivision.clear().commit();
-            editUrlAnivision.putString(Enum.SharedPrivate.URL_ANYVISION.toString(), anyvision_url.getText().toString());
+            editUrlAnivision.putString(Enum.SharedPrivate.URL_ANYVISION.toString(), findFace_url.getText().toString());
             editUrlAnivision.commit();
         }
         catch (Exception e){

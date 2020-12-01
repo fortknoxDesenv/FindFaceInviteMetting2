@@ -1028,17 +1028,8 @@ public class Authentication extends Application {
                         nomeUsuarioDossier = result.get(i).name;
                     }
                 }
-
-//                String[] liNomes = result.getNamesDossiers();
-//
-//                boolean validado = false;
-//                for(int i=0; i < result.results.size(); i++ ){
-//                    if(liNomes[i].compareTo(nome) == 0)
-//                        validado = true;
-//                }
                 if (validado) {
                     getComparaFaceComDossie(face1, id_dossier, nomeUsuarioDossier);
-//                    FindFaceResultActivity.onSuccess();
                 } else {
                     FindFaceResultActivity.onResult("Usuário "+nome+" não está registrado. Por favor realize o cadastro");
                 }
@@ -1048,7 +1039,6 @@ public class Authentication extends Application {
                 Log.d("message", t.getMessage());
             }
         });
-
     }
 
     public static void getComparaFaceComDossie(final String face1, final int dossier_id, final String nome) {
@@ -1084,7 +1074,6 @@ public class Authentication extends Application {
                     FindFaceResultActivity.onResult("Validação inconsistente.");
                 }
             }
-
             @Override
             public void onFailure(Call<DossierFaces> call, Throwable t) {
                 Log.d("FindFaceErro", t.getMessage());

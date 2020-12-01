@@ -18,7 +18,8 @@ public class Settings {
     private int imageCompressionRate;
     private boolean doDelete;
     private int shakeThreshold;
-    private String baseUrl;
+    private String baseUrlAnyvision;
+    private String baseUrlFindFace;
     public String localUrl;
 
     public Settings() {
@@ -29,8 +30,8 @@ public class Settings {
         doDelete = true;
         environmentThreshold = 1f;
         artifactThreshold = 1f;
-//        baseUrl = "http://emea-sesame.anyvision.co:3000";
-        baseUrl = "http://200.188.213.130:3003";
+        //baseUrl = "http://200.188.213.130:3003";
+        baseUrlFindFace = "http://192.168.5.199";
         localUrl = "http://192.168.5.233";
 
     }
@@ -99,12 +100,12 @@ public class Settings {
         this.shakeThreshold = shakeThreshold;
     }
 
-    public String getBaseUrl() {
-        return baseUrl;
+    public String getBaseUrlFindFace() {
+        return baseUrlFindFace;
     }
 
-    public void setBaseUrl(String baseUrl) {
-        this.baseUrl = baseUrl;
+    public void setBaseUrlFindFace(String baseUrl) {
+        this.baseUrlFindFace = baseUrl;
     }
 
 

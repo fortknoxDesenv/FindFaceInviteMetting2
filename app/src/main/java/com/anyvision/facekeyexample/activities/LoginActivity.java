@@ -93,6 +93,9 @@ public class LoginActivity extends BaseActivity {
         findFaceUrl = findViewById(R.id.findFaceUrl);
         etUsername = findViewById(R.id.username);
 
+        //teste
+        //FindFaceCameraActivity.startActivity(LoginActivity.this);
+
         AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(this);
         View view = getLayoutInflater().inflate(R.layout.alert_dialog, null);
         final EditText input = (EditText) view.findViewById(R.id.txtsenha);

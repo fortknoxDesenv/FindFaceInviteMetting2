@@ -55,6 +55,27 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
         <activity
+            android:name="com.anyvision.facekeyexample.activities.face.FindFaceResultActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.anyvision.facekeyexample.activities.face.TesteActivity" />
+        <activity
+            android:name="com.anyvision.facekeyexample.activities.face.CustomVideoCameraActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.anyvision.facekeyexample.views.ui.FaceGraphic"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.anyvision.facekeyexample.views.ui.GraphicOverlay"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.anyvision.facekeyexample.views.ui.CameraSourcePreview"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.anyvision.facekeyexample.FaceTracker" />
+        <activity android:name="com.anyvision.facekeyexample.activities.FaceDetectionActivity" />
+        <activity
+            android:name="com.anyvision.facekeyexample.activities.face.FindFaceCameraActivity"
+            android:screenOrientation="portrait" />
+        <activity
             android:name="com.anyvision.facekeyexample.activities.logged.FacilitiesControleActivity"
             android:screenOrientation="portrait" />
         <activity
@@ -157,6 +178,9 @@
             android:resource="@color/colorAccent" />
         <meta-data
             android:name="com.google.firebase.ml.vision.DEPENDENCIES"
+            android:value="face" />
+        <meta-data
+            android:name="com.google.mlkit.vision.DEPENDENCIES"
             android:value="face" /> <!-- To use multiple models: android:value="face,model2,model3" -->
         <uses-library
             android:name="org.apache.http.legacy"

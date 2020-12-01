@@ -18,6 +18,7 @@ anim design_snackbar_in
 anim design_snackbar_out
 anim rotate
 anim scale
+anim scale1
 anim shake
 animator design_appbar_state_list_animator
 animator design_fab_hide_motion_spec
@@ -1544,6 +1545,7 @@ id cloudy
 id collapseActionView
 id compression_label
 id compression_seekbar
+id contagemGravacao
 id container
 id content
 id contentPanel

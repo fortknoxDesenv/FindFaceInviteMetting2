@@ -3,8 +3,11 @@ package com.anyvision.facekeyexample.activities.face;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -27,11 +30,13 @@ public class FindFaceCameraActivity extends AppCompatActivity {
     private static final String TAG = "Image labeling";
     private static Activity findFaceCameraActivity;
     private static TextView txtInstrucaoCamera;
+    private static TextView contagemGravacao;
     private static int centralize = 1;
     private static int naoSeMexa = 2;
     private static String txtCentralizeRosto;
     private static String txtNaoSeMexa;
     private static String txtValidandoLiveness;
+    private static Animation animScale;
 
     @Override
     protected void onCreate(Bundle savedInstance) {
@@ -42,6 +47,7 @@ public class FindFaceCameraActivity extends AppCompatActivity {
 
         findFaceCameraActivity = this;
         txtInstrucaoCamera = findViewById(R.id.txtIntrucaoCamera);
+        contagemGravacao = findViewById(R.id.contagemGravacao);
 
         txtCentralizeRosto = getText(R.string.centralizeRosto).toString();
         txtNaoSeMexa = getText(R.string.naoSeMexa).toString();
@@ -49,6 +55,8 @@ public class FindFaceCameraActivity extends AppCompatActivity {
 
         createCameraSource();
         startCameraSource();
+
+       animScale = AnimationUtils.loadAnimation(this, R.anim.scale1);
     }
 
     private void createCameraSource() {
@@ -128,6 +136,11 @@ public class FindFaceCameraActivity extends AppCompatActivity {
         } else {
             txtInstrucaoCamera.setText(txtValidandoLiveness);
         }
+    }
+
+    public static void setContagemGravacao(int i){
+        contagemGravacao.setText(String.valueOf(i));
+        contagemGravacao.startAnimation(animScale);
     }
 
     public void onBackPressed() {

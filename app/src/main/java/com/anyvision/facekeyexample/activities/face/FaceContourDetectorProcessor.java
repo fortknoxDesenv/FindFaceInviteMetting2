@@ -34,12 +34,15 @@ public class FaceContourDetectorProcessor extends VisionProcessorBase<List<Fireb
     private int naoSeMexa = 2;
     private int validando = 3;
     private int instrucaoAtual = 0;
+    private int contagem = 3;
 
-    private CountDownTimer countDownTimer = new CountDownTimer(4000, 1000) {
+    private CountDownTimer countDownTimer = new CountDownTimer(4000, 1500) {
 
         @Override
         public void onTick(long millisUntilFinished) {
             Log.d("tempo", String.valueOf(millisUntilFinished));
+            findFaceCameraActivity.setContagemGravacao(contagem);
+            contagem = contagem - 1;
         }
 
         @Override

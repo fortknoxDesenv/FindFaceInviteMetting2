@@ -2708,6 +2708,10 @@
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\ewerton.richieri\\Documents\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\anim_scale1.xml.flat",
+        "source": "C:\\Users\\ewerton.richieri\\Documents\\FindFace-Security-V4\\app\\src\\main\\res\\anim\\scale1.xml"
+    },
+    {
         "merged": "C:\\Users\\ewerton.richieri\\Documents\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-mdpi-v4_rounded_bg.xml.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\5171f8b030f266006933b50ec2d4b876\\res\\drawable-mdpi-v4\\rounded_bg.xml"
     },

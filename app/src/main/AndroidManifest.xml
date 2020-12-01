@@ -36,11 +36,40 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true"
         tools:replace="android:theme">
-        <activity android:name=".activities.logged.FacilitiesControleActivity" android:screenOrientation="portrait"></activity>
-        <activity android:name=".activities.logged.ChamadoGraficoBarraActivity" android:screenOrientation="portrait" />
-        <activity android:name=".activities.logged.ChamadoGraficoActivity" android:screenOrientation="portrait" />
-        <activity android:name=".activities.logged.FacilitiesActivity" android:screenOrientation="portrait" />
-        <activity android:name=".activities.logged.GestaoActivity" android:screenOrientation="portrait" />
+        <activity android:name=".activities.face.FindFaceResultActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name=".activities.face.TesteActivity" />
+        <activity
+            android:name=".activities.face.CustomVideoCameraActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.ui.FaceGraphic"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.ui.GraphicOverlay"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".views.ui.CameraSourcePreview"
+            android:screenOrientation="portrait" />
+        <activity android:name=".FaceTracker" />
+        <activity android:name=".activities.FaceDetectionActivity" />
+        <activity
+            android:name=".activities.face.FindFaceCameraActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.logged.FacilitiesControleActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.logged.ChamadoGraficoBarraActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.logged.ChamadoGraficoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.logged.FacilitiesActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activities.logged.GestaoActivity"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".activities.logged.SolicitationHistoryApproved"
             android:screenOrientation="portrait" />
@@ -129,6 +158,9 @@
             android:resource="@color/colorAccent" />
         <meta-data
             android:name="com.google.firebase.ml.vision.DEPENDENCIES"
+            android:value="face" />
+        <meta-data
+            android:name="com.google.mlkit.vision.DEPENDENCIES"
             android:value="face" /> <!-- To use multiple models: android:value="face,model2,model3" -->
         <uses-library
             android:name="org.apache.http.legacy"

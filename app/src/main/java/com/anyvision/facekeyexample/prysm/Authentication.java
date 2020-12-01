@@ -67,7 +67,6 @@ public class Authentication extends Application {
     private boolean statusServer;
     private static Context mContext;
     private static boolean cadastradoNoDossier = false;
-    private static String serverFindFace = GetVariables.getInstance().getEtFindFaceUrl();
 
     @Override
     public void onCreate() {
@@ -941,7 +940,7 @@ public class Authentication extends Application {
     }
 
     public static void livenessFindFace(File file) {
-//        String servidor = "http://192.168.5.199:18301";
+        final String serverFindFace = GetVariables.getInstance().getEtFindFaceUrl();
         String porta = ":18301";
 
         OkHttpClient okhttpclient = new OkHttpClient.Builder()
@@ -978,7 +977,7 @@ public class Authentication extends Application {
                     String id = response.body().getId();
 
                     if (validado && (!id.isEmpty())) {
-                        getNomesDossiers("detection:"+id);
+                        getNomesDossiers("detection:"+id, serverFindFace);
                     } else {
                         FindFaceResultActivity.onResult("Liveness não aprovou o teste!");
                     }
@@ -991,12 +990,12 @@ public class Authentication extends Application {
             @Override
             public void onFailure(Call<Liveness> call, Throwable t) {
                 Log.d("ErroConexao", t.getMessage());
-                FindFaceResultActivity.onResult("Falha na conexão, Por favor verifique a conexão da VPN e tente novamente!");
+                FindFaceResultActivity.onResult("Falha na conexão, Por favor verifique status do servidor ou a conexão da VPN.");
             }
         });
     }
 
-    public static void getNomesDossiers(final String face1) {
+    public static void getNomesDossiers(final String face1, final String serverFindFace) {
         final String nome = GetVariables.getInstance().getEtUsername();
         String username = "admin";
         String password = "admin";
@@ -1029,7 +1028,7 @@ public class Authentication extends Application {
                     }
                 }
                 if (validado) {
-                    getComparaFaceComDossie(face1, id_dossier, nomeUsuarioDossier);
+                    getComparaFaceComDossie(face1, id_dossier, nomeUsuarioDossier, serverFindFace);
                 } else {
                     FindFaceResultActivity.onResult("Usuário "+nome+" não está registrado. Por favor realize o cadastro");
                 }
@@ -1041,7 +1040,7 @@ public class Authentication extends Application {
         });
     }
 
-    public static void getComparaFaceComDossie(final String face1, final int dossier_id, final String nome) {
+    public static void getComparaFaceComDossie(final String face1, final int dossier_id, final String nome, final String serverFindFace) {
         String username = "admin";
         String password = "admin";
 

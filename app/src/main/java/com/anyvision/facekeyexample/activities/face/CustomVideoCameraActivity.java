@@ -10,8 +10,6 @@
 //import android.util.Log;
 //import android.view.SurfaceHolder;
 //import android.view.SurfaceView;
-//import android.widget.FrameLayout;
-//
 //import com.anyvision.facekeyexample.R;
 //import com.anyvision.facekeyexample.activities.CameraPreview;
 //

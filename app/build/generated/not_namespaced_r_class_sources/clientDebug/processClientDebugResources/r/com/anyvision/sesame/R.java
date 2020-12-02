@@ -1200,20 +1200,20 @@ public final class R {
         public static final int notify_panel_notification_icon_bg = 0x7f0700cb;
         public static final int oval_2 = 0x7f0700cd;
         public static final int oval_shape = 0x7f0700ce;
-        public static final int phone = 0x7f0700cf;
-        public static final int protect = 0x7f0700d0;
-        public static final int question_mark = 0x7f0700d1;
-        public static final int redo = 0x7f0700d3;
-        public static final int rounded_bg = 0x7f0700e3;
-        public static final int selected_dot = 0x7f0700e8;
-        public static final int shield_check = 0x7f0700e9;
-        public static final int shield_error = 0x7f0700ea;
-        public static final int shutter = 0x7f0700eb;
-        public static final int stop_moving = 0x7f0700ee;
-        public static final int tab_selector = 0x7f0700f0;
-        public static final int tooltip_frame_dark = 0x7f0700f1;
-        public static final int tooltip_frame_light = 0x7f0700f2;
-        public static final int user = 0x7f0700f4;
+        public static final int phone = 0x7f0700d0;
+        public static final int protect = 0x7f0700d1;
+        public static final int question_mark = 0x7f0700d2;
+        public static final int redo = 0x7f0700d4;
+        public static final int rounded_bg = 0x7f0700e4;
+        public static final int selected_dot = 0x7f0700e9;
+        public static final int shield_check = 0x7f0700ea;
+        public static final int shield_error = 0x7f0700eb;
+        public static final int shutter = 0x7f0700ec;
+        public static final int stop_moving = 0x7f0700ef;
+        public static final int tab_selector = 0x7f0700f1;
+        public static final int tooltip_frame_dark = 0x7f0700f2;
+        public static final int tooltip_frame_light = 0x7f0700f3;
+        public static final int user = 0x7f0700f5;
     }
     public static final class font {
         private font() {}

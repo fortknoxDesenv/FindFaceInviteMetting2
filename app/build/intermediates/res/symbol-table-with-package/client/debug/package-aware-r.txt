@@ -1311,6 +1311,7 @@ drawable notify_panel_notification_icon_bg
 drawable noun_close
 drawable oval_2
 drawable oval_shape
+drawable oval_shape_teste
 drawable phone
 drawable protect
 drawable question_mark

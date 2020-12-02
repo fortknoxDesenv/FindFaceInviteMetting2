@@ -115,10 +115,9 @@ public class FaceContourDetectorProcessor extends VisionProcessorBase<List<Fireb
             Log.d("contador", String.valueOf(contador));
             if (contador > 40) {
                 contador = 0;
-                GetVariables.getInstance().setStatusMediaRecord(true);
                 if (GetVariables.getInstance().isRecording()) {
                     prepareMediaRecorder();
-                    GetVariables.getInstance().setStatusMediaRecord(false);
+                    GetVariables.getInstance().setIsRecording(false);
                 }
             }
             FirebaseVisionFace face = faces.get(i);
@@ -143,6 +142,7 @@ public class FaceContourDetectorProcessor extends VisionProcessorBase<List<Fireb
             findFaceCameraActivity.setTextInstrucaoCamera(validando);
             instrucaoAtual = validando;
             mediaRecorder = new MediaRecorder();
+
             camera.unlock();
             mediaRecorder.setCamera(camera);
             mediaRecorder.setVideoSource(MediaRecorder.VideoSource.CAMERA);

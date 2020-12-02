@@ -8,25 +8,40 @@
     android:background="#E8020202"
     tools:context="com.anyvision.facekeyexample.activities.face.FindFaceCameraActivity">
 
-    <com.anyvision.facekeyexample.utils.mlkit.CameraSourcePreview
-        android:id="@+id/firePreview"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        tools:ignore="MissingConstraints">
+<!--    <androidx.cardview.widget.CardView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        android:foreground="@drawable/oval_shape"-->
+<!--        app:cardCornerRadius="360dp"-->
+<!--        app:cardElevation="0dp"-->
+<!--        android:padding="-20dp"-->
+<!--        >-->
 
-        <com.anyvision.facekeyexample.utils.mlkit.GraphicOverlay
-            android:id="@+id/fireFaceOverlay"
+        <com.anyvision.facekeyexample.utils.mlkit.CameraSourcePreview
+            android:id="@+id/firePreview"
             android:layout_width="match_parent"
-            android:layout_height="match_parent"
+            android:layout_height="wrap_content"
             android:layout_alignParentStart="true"
             android:layout_alignParentTop="true"
-            android:layout_alignParentBottom="true"
-            android:layout_alignParentLeft="true" />
+            android:layout_alignParentLeft="true"
 
-    </com.anyvision.facekeyexample.utils.mlkit.CameraSourcePreview>
+
+            tools:ignore="MissingConstraints">
+            <com.anyvision.facekeyexample.utils.mlkit.GraphicOverlay
+                android:id="@+id/fireFaceOverlay"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toBottomOf="parent"
+                />
+        </com.anyvision.facekeyexample.utils.mlkit.CameraSourcePreview>
+
+<!--    </androidx.cardview.widget.CardView>-->
+
+
 
     <TextView
         android:id="@+id/contagemGravacao"
@@ -56,5 +71,19 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         />
+
+<!--    <ImageView-->
+<!--        android:layout_width="0dp"-->
+<!--        android:layout_height="0dp"-->
+<!--        android:src="@drawable/oval_shape_teste"-->
+<!--        android:background="#80000000"-->
+<!--        android:layout_marginBottom="165dp"-->
+<!--        app:layout_constraintHeight_percent="0.6"-->
+<!--        app:layout_constraintWidth_percent="0.9"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        />-->
 
 </androidx.constraintlayout.widget.ConstraintLayout>

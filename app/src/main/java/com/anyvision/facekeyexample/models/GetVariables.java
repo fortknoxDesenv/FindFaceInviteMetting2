@@ -1,6 +1,7 @@
 package com.anyvision.facekeyexample.models;
 import android.hardware.Camera;
 import android.media.MediaRecorder;
+import android.view.SurfaceView;
 import android.widget.TextView;
 import com.anyvision.facekeyexample.prysm.Authentication;
 
@@ -186,7 +187,7 @@ public class GetVariables {
         return fileMediaRecord;
     }
 
-    public void setStatusMediaRecord(boolean isRecord){
+    public void setIsRecording(boolean isRecord){
         statusMediaRecord = isRecord;
     }
 

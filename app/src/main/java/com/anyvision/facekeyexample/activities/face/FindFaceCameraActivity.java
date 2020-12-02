@@ -6,6 +6,7 @@ import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.util.Log;
+import android.view.TextureView;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.TextView;
@@ -53,6 +54,8 @@ public class FindFaceCameraActivity extends AppCompatActivity {
         txtNaoSeMexa = getText(R.string.naoSeMexa).toString();
         txtValidandoLiveness = getText(R.string.validando).toString();
 
+        GetVariables.getInstance().setIsRecording(true);
+
         createCameraSource();
         startCameraSource();
 
@@ -98,6 +101,7 @@ public class FindFaceCameraActivity extends AppCompatActivity {
     public void onResume() {
         super.onResume();
         startCameraSource();
+        GetVariables.getInstance().setIsRecording(true);
     }
 
     /**

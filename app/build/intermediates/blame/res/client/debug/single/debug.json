@@ -3548,6 +3548,10 @@
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
+        "merged": "C:\\Users\\ewerton.richieri\\Documents\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable_oval_shape_teste.xml.flat",
+        "source": "C:\\Users\\ewerton.richieri\\Documents\\FindFace-Security-V4\\app\\src\\main\\res\\drawable\\oval_shape_teste.xml"
+    },
+    {
         "merged": "C:\\Users\\ewerton.richieri\\Documents\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\layout_activity_instructions.xml.flat",
         "source": "C:\\Users\\ewerton.richieri\\Documents\\FindFace-Security-V4\\app\\src\\main\\res\\layout\\activity_instructions.xml"
     },

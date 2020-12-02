@@ -13,7 +13,6 @@
 //import com.anyvision.facekeyexample.R;
 //import com.anyvision.facekeyexample.activities.CameraPreview;
 //
-//import java.io.IOException;
 //
 //public class CustomVideoCameraActivity extends Activity implements SurfaceHolder.Callback {
 //    private static final String TAG = "CAMERA_TURTURIAL";

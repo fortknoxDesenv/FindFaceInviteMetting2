@@ -1,23 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ewerton.richieri\\Documents\\FindFace-Security-V4\\app\\build\\intermediates\\incremental\\mergeClientDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "outputFile": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\incremental\\mergeClientDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\98165f07b48e3b118eac7b125290a112\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\b50de4744499faa424d9a7c36a449c47\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "44",
-                        "endOffsets": "95"
-                    },
-                    "to": {
-                        "startLines": "5",
-                        "startColumns": "4",
-                        "startOffsets": "212",
-                        "endColumns": "44",
-                        "endOffsets": "252"
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,113,170",
+                        "endColumns": "57,56,41",
+                        "endOffsets": "108,165,207"
                     }
                 },
                 {
@@ -38,13 +31,20 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\5c7274f3157ee331d3f89d6d94a97c16\\res\\values-night-v8\\values-night-v8.xml",
+                    "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfaec53e182b5a7234720f9e6c98a3f2\\res\\values-night-v8\\values-night-v8.xml",
                     "from": {
-                        "startLines": "2,3,4",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "55,113,170",
-                        "endColumns": "57,56,41",
-                        "endOffsets": "108,165,207"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "44",
+                        "endOffsets": "95"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "212",
+                        "endColumns": "44",
+                        "endOffsets": "252"
                     }
                 }
             ]

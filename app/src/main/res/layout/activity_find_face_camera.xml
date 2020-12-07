@@ -20,13 +20,11 @@
         <com.anyvision.facekeyexample.utils.mlkit.CameraSourcePreview
             android:id="@+id/firePreview"
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentStart="true"
-            android:layout_alignParentTop="true"
-            android:layout_alignParentLeft="true"
-
+            android:layout_height="match_parent"
 
             tools:ignore="MissingConstraints">
+
+
             <com.anyvision.facekeyexample.utils.mlkit.GraphicOverlay
                 android:id="@+id/fireFaceOverlay"
                 android:layout_width="match_parent"
@@ -37,9 +35,23 @@
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintBottom_toBottomOf="parent"
                 />
+
+
+
+
         </com.anyvision.facekeyexample.utils.mlkit.CameraSourcePreview>
 
+<!--    <com.anyvision.facekeyexample.activities.face.FocusView-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="match_parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        >-->
+<!--    </com.anyvision.facekeyexample.activities.face.FocusView>-->
+
 <!--    </androidx.cardview.widget.CardView>-->
+
 
 
 

@@ -4,6 +4,7 @@ import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.res.Configuration;
 import android.hardware.Camera;
+import android.media.CamcorderProfile;
 import android.media.MediaRecorder;
 import android.util.AttributeSet;
 import android.util.Log;
@@ -14,6 +15,7 @@ import android.view.ViewGroup;
 import com.anyvision.facekeyexample.models.GetVariables;
 import com.google.android.gms.common.images.Size;
 
+import java.io.File;
 import java.io.IOException;
 
 /**
@@ -28,11 +30,6 @@ public class CameraSourcePreview extends ViewGroup {
     private boolean surfaceAvailable;
     private CameraSource cameraSource;
     private GraphicOverlay overlay;
-
-
-    //teste
-    private Camera camera = GetVariables.getInstance().getCamera();
-
 
     public CameraSourcePreview(Context context, AttributeSet attrs) {
         super(context, attrs);
@@ -88,12 +85,6 @@ public class CameraSourcePreview extends ViewGroup {
     @SuppressLint("MissingPermission")
     private void startIfReady() throws IOException {
         if (startRequested && surfaceAvailable) {
-            //teste
-
-//            MediaRecorder mediaRecorder = new MediaRecorder();
-//            mediaRecorder = GetVariables.getInstance().getMediaRecorder();
-//            mediaRecorder.setPreviewDisplay(surfaceView.getHolder().getSurface());
-
             cameraSource.start(surfaceView.getHolder());
             if (overlay != null) {
                 Size size = cameraSource.getPreviewSize();
@@ -118,8 +109,46 @@ public class CameraSourcePreview extends ViewGroup {
             surfaceAvailable = true;
             try {
                 startIfReady();
+
+//                //teste
+                //prepareMediaRecorder();
             } catch (IOException e) {
                 Log.e(TAG, "Could not start camera source.", e);
+            }
+        }
+
+        //teste
+        private void prepareMediaRecorder() {
+            try {
+                int maxDurationInMs = 180000;
+                long maxFileSizeInBytes = 1000000;
+
+                Camera camera = GetVariables.getInstance().getCamera();
+                MediaRecorder mediaRecorder = new MediaRecorder();
+
+                camera.unlock();
+                mediaRecorder.setCamera(camera);
+                mediaRecorder.setVideoSource(MediaRecorder.VideoSource.CAMERA);
+                mediaRecorder.setOutputFormat(MediaRecorder.OutputFormat.MPEG_4);
+                mediaRecorder.setMaxDuration(maxDurationInMs);
+                File file = GetVariables.getInstance().getFileMediaRecord();
+                mediaRecorder.setOutputFile(file.getPath());
+                mediaRecorder.setVideoEncoder(MediaRecorder.VideoEncoder.DEFAULT);
+                mediaRecorder.setMaxFileSize(maxFileSizeInBytes);
+                mediaRecorder.setVideoSize(640, 480);
+                mediaRecorder.setVideoEncodingBitRate(3000000);
+
+                mediaRecorder.setPreviewDisplay(surfaceView.getHolder().getSurface());
+                try {
+                    mediaRecorder.prepare();
+                    Thread.sleep(1000);
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+//                GetVariables.getInstance().setMediaRecorder(mediaRecorder);
+                mediaRecorder.start();
+            } catch (Exception e) {
+                e.printStackTrace();
             }
         }
 
@@ -130,9 +159,8 @@ public class CameraSourcePreview extends ViewGroup {
 
         @Override
         public void surfaceChanged(SurfaceHolder holder, int format, int width, int height) {
-            try{
-            }
-            catch (Exception e){
+            try {
+            } catch (Exception e) {
                 e.printStackTrace();
             }
         }

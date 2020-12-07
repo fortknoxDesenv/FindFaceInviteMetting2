@@ -194,7 +194,9 @@ public class CameraSource {
         processingThread.start();
         usingSurfaceTexture = false;
 
+        //teste
         GetVariables.getInstance().setCamera(camera);
+
         return this;
     }
 

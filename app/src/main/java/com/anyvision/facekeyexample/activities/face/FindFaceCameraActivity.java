@@ -3,12 +3,14 @@ package com.anyvision.facekeyexample.activities.face;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.TextureView;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -39,12 +41,18 @@ public class FindFaceCameraActivity extends AppCompatActivity {
     private static String txtValidandoLiveness;
     private static Animation animScale;
 
+    //teste
+    private FocusView focusView;
+
+
+
     @Override
     protected void onCreate(Bundle savedInstance) {
         super.onCreate(savedInstance);
         setContentView(R.layout.activity_find_face_camera);
         preview = findViewById(R.id.firePreview);
         graphicOverlay = findViewById(R.id.fireFaceOverlay);
+
 
         findFaceCameraActivity = this;
         txtInstrucaoCamera = findViewById(R.id.txtIntrucaoCamera);

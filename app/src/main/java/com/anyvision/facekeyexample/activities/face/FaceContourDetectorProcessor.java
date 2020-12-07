@@ -106,6 +106,7 @@ public class FaceContourDetectorProcessor extends VisionProcessorBase<List<Fireb
             contador = 0;
         }
 
+
         if (faces.size() == 0 && instrucaoAtual != centralize) {
             findFaceCameraActivity.setTextInstrucaoCamera(centralize);
             instrucaoAtual = centralize;

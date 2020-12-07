@@ -118,7 +118,7 @@ public class FaceContourDetectorProcessor extends VisionProcessorBase<List<Fireb
                 instrucaoAtual = naoSeMexa;
             }
 
-            Log.d("contador", String.valueOf(contador));
+            Log.d("contador01", String.valueOf(contador));
             if (contador >= 40) {
                 if (itemAddLista < 60) {
                     try{

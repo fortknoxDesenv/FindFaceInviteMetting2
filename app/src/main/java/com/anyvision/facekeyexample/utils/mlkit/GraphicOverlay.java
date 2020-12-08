@@ -2,6 +2,10 @@ package com.anyvision.facekeyexample.utils.mlkit;
 
 import android.content.Context;
 import android.graphics.Canvas;
+import android.graphics.Color;
+import android.graphics.Paint;
+import android.graphics.Path;
+import android.graphics.RectF;
 import android.util.AttributeSet;
 import android.view.View;
 
@@ -72,12 +76,16 @@ public class GraphicOverlay extends View {
             return horizontal * overlay.widthScaleFactor;
         }
 
-        /** Adjusts a vertical value of the supplied value from the preview scale to the view scale. */
+        /**
+         * Adjusts a vertical value of the supplied value from the preview scale to the view scale.
+         */
         public float scaleY(float vertical) {
             return vertical * overlay.heightScaleFactor;
         }
 
-        /** Returns the application context of the app. */
+        /**
+         * Returns the application context of the app.
+         */
         public Context getApplicationContext() {
             return overlay.getContext().getApplicationContext();
         }
@@ -109,7 +117,9 @@ public class GraphicOverlay extends View {
         super(context, attrs);
     }
 
-    /** Removes all graphics from the overlay. */
+    /**
+     * Removes all graphics from the overlay.
+     */
     public void clear() {
         synchronized (lock) {
             graphics.clear();
@@ -117,14 +127,18 @@ public class GraphicOverlay extends View {
         postInvalidate();
     }
 
-    /** Adds a graphic to the overlay. */
+    /**
+     * Adds a graphic to the overlay.
+     */
     public void add(Graphic graphic) {
         synchronized (lock) {
             graphics.add(graphic);
         }
     }
 
-    /** Removes a graphic from the overlay. */
+    /**
+     * Removes a graphic from the overlay.
+     */
     public void remove(Graphic graphic) {
         synchronized (lock) {
             graphics.remove(graphic);
@@ -145,21 +159,24 @@ public class GraphicOverlay extends View {
         postInvalidate();
     }
 
-    /** Draws the overlay with its associated graphic objects. */
+    /**
+     * Draws the overlay with its associated graphic objects.
+     */
     @Override
     protected void onDraw(Canvas canvas) {
         super.onDraw(canvas);
 
-        synchronized (lock) {
-            if ((previewWidth != 0) && (previewHeight != 0)) {
-                widthScaleFactor = (float) canvas.getWidth() / (float) previewWidth;
-                heightScaleFactor = (float) canvas.getHeight() / (float) previewHeight;
-            }
+//        synchronized (lock) {
+//            if ((previewWidth != 0) && (previewHeight != 0)) {
+//                widthScaleFactor = (float) canvas.getWidth() / (float) previewWidth;
+//                heightScaleFactor = (float) canvas.getHeight() / (float) previewHeight;
+//            }
+//
+//            for (Graphic graphic : graphics) {
+//                graphic.draw(canvas);
+//            }
+//        }
 
-            for (Graphic graphic : graphics) {
-                graphic.draw(canvas);
-            }
-        }
     }
 }
 

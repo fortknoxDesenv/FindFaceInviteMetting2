@@ -42,9 +42,8 @@ public class FindFaceResultActivity extends AppCompatActivity {
         typeAccount = GetVariables.getInstance().getSpTypeAccount();
         findFaceResultActivity = this;
         GetVariables.getInstance().setIsRecording(false);
-        //File file = GetVariables.getInstance().getFileMediaRecord();
-        File file = new File(getExternalFilesDir(null) + "/faceCamera.mp4");
-        auth.livenessFindFace(file);
+//        File file = new File(getExternalFilesDir(null) + "/faceCamera.mp4");
+//        auth.livenessFindFace(file);
 
         authenticate();
 

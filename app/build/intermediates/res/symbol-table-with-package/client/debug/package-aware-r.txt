@@ -1544,6 +1544,7 @@ id clip_vertical
 id closeActivity
 id cloudy
 id collapseActionView
+id color_screen
 id compression_label
 id compression_seekbar
 id contagemGravacao
@@ -1747,6 +1748,7 @@ id notification_main_column_container
 id off
 id on
 id outline
+id oval_find_face
 id overlay
 id overlayDrawView
 id overlayFocusView

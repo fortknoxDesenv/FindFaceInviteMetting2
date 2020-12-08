@@ -20,12 +20,9 @@ import com.google.firebase.ml.vision.face.FirebaseVisionFace;
 import com.google.firebase.ml.vision.face.FirebaseVisionFaceDetector;
 import com.google.firebase.ml.vision.face.FirebaseVisionFaceDetectorOptions;
 
-import org.jcodec.scale.BitmapUtil;
-
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
-import java.util.concurrent.CompletableFuture;
 
 public class FaceContourDetectorProcessor extends VisionProcessorBase<List<FirebaseVisionFace>> {
     private static final String TAG = "FaceContourDetectorProc";
@@ -41,18 +38,27 @@ public class FaceContourDetectorProcessor extends VisionProcessorBase<List<Fireb
     private Bitmap[] listaBitmap = new Bitmap[60];
     private int itemAddLista = 0;
 
-    private CountDownTimer countDownTimer = new CountDownTimer(4000, 1500) {
+    //teste
+    private int contagemColor = 0;
+    File file = GetVariables.getInstance().getFileMediaRecord();
+    private AndroidSequenceEncoder enc;
 
+        private CountDownTimer countDownTimer = new CountDownTimer(4000, 1500) {
+//    private CountDownTimer countDownTimer = new CountDownTimer(4000, 500) {
         @Override
         public void onTick(long millisUntilFinished) {
             Log.d("tempo", String.valueOf(millisUntilFinished));
             findFaceCameraActivity.setContagemGravacao(contagem);
             contagem = contagem - 1;
+
+//            findFaceCameraActivity.iniciaColorScreen(contagemColor);
+//            contagemColor++;
+//            if (contagemColor == 5)
+//                contagemColor = 0;
         }
 
         @Override
         public void onFinish() {
-            mediaRecorder.stop();
             try {
             } catch (Exception e) {
                 e.printStackTrace();
@@ -99,52 +105,55 @@ public class FaceContourDetectorProcessor extends VisionProcessorBase<List<Fireb
             CameraImageGraphic imageGraphic = new CameraImageGraphic(graphicOverlay, originalCameraImage);
             graphicOverlay.add(imageGraphic);
         }
-
         if (faces.size() == 1) {
             contador++;
         } else {
             contador = 0;
         }
+        if (faces.size() == 0)
+            centralizarFace();
 
+        for (int i = 0; i < faces.size(); ++i)
 
-        if (faces.size() == 0 && instrucaoAtual != centralize) {
-            findFaceCameraActivity.setTextInstrucaoCamera(centralize);
-            instrucaoAtual = centralize;
-        }
+            if(faces.get(i).getBoundingBox().left > 30 && faces.get(i).getBoundingBox().left < 140 &&
+                faces.get(i).getBoundingBox().right > 280 && faces.get(i).getBoundingBox().right < 450 &&
+                    faces.get(i).getBoundingBox().top > 80 && faces.get(i).getBoundingBox().top < 250 &&
+                     faces.get(i).getBoundingBox().bottom > 440 && faces.get(i).getBoundingBox().bottom < 530){
 
-        for (int i = 0; i < faces.size(); ++i) {
-            if (instrucaoAtual != naoSeMexa) {
-                findFaceCameraActivity.setTextInstrucaoCamera(naoSeMexa);
-                instrucaoAtual = naoSeMexa;
-            }
+            instrucaoNaoSeMexa();
 
-            Log.d("contador01", String.valueOf(contador));
-            if (contador >= 40) {
+            //if (contador >= 40) {
                 if (itemAddLista < 60) {
-                    try{
+                    try {
                         listaBitmap[itemAddLista] = originalCameraImage;
-                    }
-                    catch (Exception e){
+                        //if(itemAddLista == 0)
+                        //countDownTimer.start();
+                    } catch (Exception e) {
                         e.printStackTrace();
                     }
                 }
                 if (itemAddLista == 60) {
-                    teste123(listaBitmap);
+                    //findFaceCameraActivity.iniciarConversao(listaBitmap);
+                    //teste123(listaBitmap);
+//                    countDownTimer.start();
+                    findFaceCameraActivity.converteBitmapToVideoMP4(listaBitmap);
+                    countDownTimer.start();
+                    //findFaceCameraActivity.finishFindFaceCameraActivity();
                 }
-                    itemAddLista = itemAddLista + 1;
-                Log.d("findEncoder1", String.valueOf(itemAddLista));
+                itemAddLista = itemAddLista + 1;
+            //}
 
-                //contador = 0;
-
-                if (GetVariables.getInstance().isRecording()) {
-                    //prepareMediaRecorder();
-                    GetVariables.getInstance().setIsRecording(false);
-                }
-            }
+//            if (contador == 40) {
+//                contador = 0;
+//                if (GetVariables.getInstance().isRecording()) {
+//                    prepareMediaRecorder();
+//                    GetVariables.getInstance().setIsRecording(false);
+//                }
+//            }
             FirebaseVisionFace face = faces.get(i);
             FaceContourGraphic faceGraphic = new FaceContourGraphic(graphicOverlay, face);
             graphicOverlay.add(faceGraphic);
-            //Log.d("tamanhoface", "left=" + face.getBoundingBox().left + "   right=" + face.getBoundingBox().right + "   top=" + face.getBoundingBox().top + "   bottom=" + face.getBoundingBox().bottom);
+            Log.d("tamanhoface", "left=" + face.getBoundingBox().left + "   right=" + face.getBoundingBox().right + "   top=" + face.getBoundingBox().top + "   bottom=" + face.getBoundingBox().bottom);
         }
         graphicOverlay.postInvalidate();
     }
@@ -153,57 +162,70 @@ public class FaceContourDetectorProcessor extends VisionProcessorBase<List<Fireb
     protected void onFailure(@NonNull Exception e) {
         Log.e(TAG, "Face detection failed " + e);
     }
-
-    private void prepareMediaRecorder() {
+//    public void teste123(Bitmap[] image) {
 //        try {
-//            int maxDurationInMs = 180000;
-//            long maxFileSizeInBytes = 1000000;
-//
-//            camera = GetVariables.getInstance().getCamera();
-//            findFaceCameraActivity.setTextInstrucaoCamera(validando);
-//            instrucaoAtual = validando;
-//            mediaRecorder = new MediaRecorder();
-//
-//            //camera.unlock();
-//            mediaRecorder.setCamera(camera);
-//            mediaRecorder.setVideoSource(MediaRecorder.VideoSource.CAMERA);
-//            mediaRecorder.setOutputFormat(MediaRecorder.OutputFormat.MPEG_4);
-//            mediaRecorder.setMaxDuration(maxDurationInMs);
 //            File file = GetVariables.getInstance().getFileMediaRecord();
-//            mediaRecorder.setOutputFile(file.getPath());
-//            mediaRecorder.setVideoEncoder(MediaRecorder.VideoEncoder.DEFAULT);
-//            mediaRecorder.setMaxFileSize(maxFileSizeInBytes);
-            //mediaRecorder.setVideoSize(640, 480);
-//            mediaRecorder.setVideoEncodingBitRate(3000000);
-//            try {
-//                mediaRecorder.prepare();
-//                Thread.sleep(2000);
-//            } catch (IOException e) {
-//                e.printStackTrace();
+//            AndroidSequenceEncoder enc = AndroidSequenceEncoder.create25Fps(file);
+//            for (int i = 0; i < image.length; i++) {
+//                enc.encodeNativeFrame(BitmapUtil.fromBitmap(image[i]));
+//                Log.d("findEncoder1", "Inserindo no encoder  =>" + String.valueOf(i));
 //            }
-        mediaRecorder.start();
-        countDownTimer.start();
+//            enc.finish();
+//            Log.d("findEncoder1", "finishing END");
 //        } catch (Exception e) {
 //            e.printStackTrace();
 //        }
+//    }
+
+    public void centralizarFace() {
+        if (instrucaoAtual != centralize) {
+            findFaceCameraActivity.setTextInstrucaoCamera(centralize);
+            instrucaoAtual = centralize;
+        }
     }
 
-    public void teste123(Bitmap[] image) {
+    public void instrucaoNaoSeMexa() {
+        if (instrucaoAtual != naoSeMexa) {
+            findFaceCameraActivity.setTextInstrucaoCamera(naoSeMexa);
+            instrucaoAtual = naoSeMexa;
+        }
+    }
+
+
+
+
+    private void prepareMediaRecorder() {
         try {
+            int maxDurationInMs = 180000;
+            long maxFileSizeInBytes = 1000000;
+
+            camera = GetVariables.getInstance().getCamera();
+            findFaceCameraActivity.setTextInstrucaoCamera(validando);
+            instrucaoAtual = validando;
+            mediaRecorder = new MediaRecorder();
+
+//            camera.unlock();
+            mediaRecorder.setCamera(camera);
+            mediaRecorder.setVideoSource(MediaRecorder.VideoSource.CAMERA);
+            mediaRecorder.setOutputFormat(MediaRecorder.OutputFormat.MPEG_4);
+            mediaRecorder.setMaxDuration(maxDurationInMs);
             File file = GetVariables.getInstance().getFileMediaRecord();
-//            AndroidSequenceEncoder enc = AndroidSequenceEncoder.createSequenceEncoder(file, 25);
-            AndroidSequenceEncoder enc = AndroidSequenceEncoder.create2997Fps(file);
-//            AndroidSequenceEncoder enc = AndroidSequenceEncoder.create25Fps(file);
-            //com 25 foi quase
+            mediaRecorder.setOutputFile(file.getPath());
+            mediaRecorder.setVideoEncoder(MediaRecorder.VideoEncoder.DEFAULT);
+            mediaRecorder.setMaxFileSize(maxFileSizeInBytes);
+            mediaRecorder.setVideoSize(640, 480);
+            mediaRecorder.setVideoEncodingBitRate(3000000);
 
-            for (int i = 0; i < image.length; i++) {
-//                enc.encodeImage(image[i]);
-                enc.encodeNativeFrame(BitmapUtil.fromBitmap(image[i]));
-                Log.d("findEncoder1", "Inserindo no encoder  =>"+ String.valueOf(i));
+            findFaceCameraActivity.iniciaColorScreen(6);
+            camera.unlock();
+            try {
+                mediaRecorder.prepare();
+                //Thread.sleep(2000);
+            } catch (IOException e) {
+                e.printStackTrace();
             }
-
-            enc.finish();
-            Log.d("findEncoder1", "finishing END");
+            mediaRecorder.start();
+            countDownTimer.start();
         } catch (Exception e) {
             e.printStackTrace();
         }

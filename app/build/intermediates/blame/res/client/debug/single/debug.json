@@ -88,12 +88,12 @@
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e767e40bdf571ea3113ccc7f47b7ea27\\res\\drawable-xhdpi-v4\\close.png"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-mdpi-v4_reg_capture_activity_bank_card_front.png.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\b50de4744499faa424d9a7c36a449c47\\res\\drawable-mdpi-v4\\reg_capture_activity_bank_card_front.png"
-    },
-    {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\6b574d83ec66139e81b49a86fbcbe4ed\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-mdpi-v4_reg_capture_activity_bank_card_front.png.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\b50de4744499faa424d9a7c36a449c47\\res\\drawable-mdpi-v4\\reg_capture_activity_bank_card_front.png"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\layout_design_layout_snackbar_include.xml.flat",
@@ -144,24 +144,24 @@
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xxhdpi-v4_shield_error.png.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e767e40bdf571ea3113ccc7f47b7ea27\\res\\drawable-xxhdpi-v4\\shield_error.png"
-    },
-    {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xxhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e5f8c723ff4eb3c7a13c294c834717d9\\res\\drawable-xxhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xxhdpi-v4_shield_error.png.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e767e40bdf571ea3113ccc7f47b7ea27\\res\\drawable-xxhdpi-v4\\shield_error.png"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-mdpi-v4_reg_rfid_activity_biometric.png.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\b50de4744499faa424d9a7c36a449c47\\res\\drawable-mdpi-v4\\reg_rfid_activity_biometric.png"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xxhdpi-v4_reg_expand_frame.png.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfaec53e182b5a7234720f9e6c98a3f2\\res\\drawable-xxhdpi-v4\\reg_expand_frame.png"
-    },
-    {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xxhdpi-v4_reg_expand_frame.png.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfaec53e182b5a7234720f9e6c98a3f2\\res\\drawable-xxhdpi-v4\\reg_expand_frame.png"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xhdpi_login_bg_s8.jpg.flat",
@@ -224,24 +224,24 @@
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\d067143087cd74b050f1a0eb6395bda0\\res\\drawable-mdpi-v4\\edit_alt.png"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xxhdpi-v4_flash.png.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e767e40bdf571ea3113ccc7f47b7ea27\\res\\drawable-xxhdpi-v4\\flash.png"
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-watch-v20_abc_dialog_material_background.xml.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-watch-v20\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
-    },
-    {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-hdpi-v4_reg_flash_on.png.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfaec53e182b5a7234720f9e6c98a3f2\\res\\drawable-hdpi-v4\\reg_flash_on.png"
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xxhdpi-v4_flash.png.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e767e40bdf571ea3113ccc7f47b7ea27\\res\\drawable-xxhdpi-v4\\flash.png"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\color_mtrl_chip_close_icon_tint.xml.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\6b574d83ec66139e81b49a86fbcbe4ed\\res\\color\\mtrl_chip_close_icon_tint.xml"
+    },
+    {
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-hdpi-v4_reg_flash_on.png.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfaec53e182b5a7234720f9e6c98a3f2\\res\\drawable-hdpi-v4\\reg_flash_on.png"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
@@ -272,12 +272,12 @@
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e767e40bdf571ea3113ccc7f47b7ea27\\res\\drawable-xhdpi-v4\\flash_off.png"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\layout_notification_media_action.xml.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dba7a81331f0adbff93a3c50a5d10b3e\\res\\layout\\notification_media_action.xml"
-    },
-    {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dba7a81331f0adbff93a3c50a5d10b3e\\res\\layout\\notification_media_action.xml"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
@@ -336,12 +336,12 @@
         "source": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\src\\main\\res\\layout\\activity_instructions.xml"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-hdpi-v4_reg_skip_page.png.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\b50de4744499faa424d9a7c36a449c47\\res\\drawable-hdpi-v4\\reg_skip_page.png"
-    },
-    {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable_common_google_signin_btn_icon_disabled.xml.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e5f8c723ff4eb3c7a13c294c834717d9\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-hdpi-v4_reg_skip_page.png.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\b50de4744499faa424d9a7c36a449c47\\res\\drawable-hdpi-v4\\reg_skip_page.png"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
@@ -360,12 +360,12 @@
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e767e40bdf571ea3113ccc7f47b7ea27\\res\\xml\\provider_paths.xml"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\layout_activity_find_face_camera.xml.flat",
-        "source": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\src\\main\\res\\layout\\activity_find_face_camera.xml"
-    },
-    {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\layout_activity_find_face_camera.xml.flat",
+        "source": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\src\\main\\res\\layout\\activity_find_face_camera.xml"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
@@ -376,20 +376,20 @@
         "source": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\src\\main\\res\\drawable-hdpi\\failure.png"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xhdpi_ic_ok_g.png.flat",
-        "source": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\src\\main\\res\\drawable-xhdpi\\ic_ok_g.png"
-    },
-    {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\layout-sw600dp-v13_mtrl_layout_snackbar.xml.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\6b574d83ec66139e81b49a86fbcbe4ed\\res\\layout-sw600dp-v13\\mtrl_layout_snackbar.xml"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\color_mtrl_tabs_colored_ripple_color.xml.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\6b574d83ec66139e81b49a86fbcbe4ed\\res\\color\\mtrl_tabs_colored_ripple_color.xml"
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xhdpi_ic_ok_g.png.flat",
+        "source": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\src\\main\\res\\drawable-xhdpi\\ic_ok_g.png"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\layout_abc_action_bar_up_container.xml.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\color_mtrl_tabs_colored_ripple_color.xml.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\6b574d83ec66139e81b49a86fbcbe4ed\\res\\color\\mtrl_tabs_colored_ripple_color.xml"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\layout_activity_solicitation_extension.xml.flat",
@@ -408,24 +408,24 @@
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\color\\abc_tint_default.xml"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable_rounded_bg.xml.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\d067143087cd74b050f1a0eb6395bda0\\res\\drawable\\rounded_bg.xml"
+    },
+    {
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
-    },
-    {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xxhdpi_ic_ok_g.png.flat",
         "source": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\src\\main\\res\\drawable-xxhdpi\\ic_ok_g.png"
+    },
+    {
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
@@ -448,12 +448,12 @@
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable_abc_vector_test.xml.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable\\abc_vector_test.xml"
-    },
-    {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-hdpi-v4_reg_rfid_activity_biometric.png.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\b50de4744499faa424d9a7c36a449c47\\res\\drawable-hdpi-v4\\reg_rfid_activity_biometric.png"
+    },
+    {
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable_abc_vector_test.xml.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable\\abc_vector_test.xml"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
@@ -484,12 +484,12 @@
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\b50de4744499faa424d9a7c36a449c47\\res\\drawable-xxxhdpi-v4\\battery_0.png"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-mdpi-v4_reg_skip_page.png.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\b50de4744499faa424d9a7c36a449c47\\res\\drawable-mdpi-v4\\reg_skip_page.png"
-    },
-    {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable_ic_no_g.xml.flat",
         "source": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\src\\main\\res\\drawable\\ic_no_g.xml"
+    },
+    {
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-mdpi-v4_reg_skip_page.png.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\b50de4744499faa424d9a7c36a449c47\\res\\drawable-mdpi-v4\\reg_skip_page.png"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xhdpi-v4_reg_skip_page.png.flat",
@@ -500,12 +500,12 @@
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xxxhdpi-v4_reg_icon.png.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\b50de4744499faa424d9a7c36a449c47\\res\\drawable-xxxhdpi-v4\\reg_icon.png"
-    },
-    {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\layout-v21_notification_template_icon_group.xml.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\6b53f120382886930776e64b892bf5ac\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xxxhdpi-v4_reg_icon.png.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\b50de4744499faa424d9a7c36a449c47\\res\\drawable-xxxhdpi-v4\\reg_icon.png"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\anim_design_snackbar_out.xml.flat",
@@ -688,12 +688,12 @@
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e767e40bdf571ea3113ccc7f47b7ea27\\res\\drawable-mdpi-v4\\protect.png"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable_border_drawable_orange.xml.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e767e40bdf571ea3113ccc7f47b7ea27\\res\\drawable\\border_drawable_orange.xml"
-    },
-    {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xxhdpi_microphone.png.flat",
         "source": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\src\\main\\res\\drawable-xxhdpi\\microphone.png"
+    },
+    {
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable_border_drawable_orange.xml.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e767e40bdf571ea3113ccc7f47b7ea27\\res\\drawable\\border_drawable_orange.xml"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -808,12 +808,12 @@
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\6b53f120382886930776e64b892bf5ac\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
-    },
-    {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\layout_activity_facilities.xml.flat",
@@ -840,12 +840,12 @@
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\raw_too_dark.json.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e767e40bdf571ea3113ccc7f47b7ea27\\res\\raw\\too_dark.json"
-    },
-    {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\layout_activity_photo.xml.flat",
         "source": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\raw_too_dark.json.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e767e40bdf571ea3113ccc7f47b7ea27\\res\\raw\\too_dark.json"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xhdpi_red_dots.png.flat",
@@ -1000,12 +1000,12 @@
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e767e40bdf571ea3113ccc7f47b7ea27\\res\\drawable-xxxhdpi-v4\\protect.png"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xxxhdpi-v4_noun_close.png.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\d067143087cd74b050f1a0eb6395bda0\\res\\drawable-xxxhdpi-v4\\noun_close.png"
-    },
-    {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-xxxhdpi-v4_noun_close.png.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\d067143087cd74b050f1a0eb6395bda0\\res\\drawable-xxxhdpi-v4\\noun_close.png"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -1148,16 +1148,16 @@
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\color_common_google_signin_btn_tint.xml.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e5f8c723ff4eb3c7a13c294c834717d9\\res\\color\\common_google_signin_btn_tint.xml"
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\font_nunito_extralightitalic.ttf.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e767e40bdf571ea3113ccc7f47b7ea27\\res\\font\\nunito_extralightitalic.ttf"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\font_nunito_extralightitalic.ttf.flat",
-        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e767e40bdf571ea3113ccc7f47b7ea27\\res\\font\\nunito_extralightitalic.ttf"
+        "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\color_common_google_signin_btn_tint.xml.flat",
+        "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\e5f8c723ff4eb3c7a13c294c834717d9\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
         "merged": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\res\\merged\\client\\debug\\drawable_notification_tile_bg.xml.flat",

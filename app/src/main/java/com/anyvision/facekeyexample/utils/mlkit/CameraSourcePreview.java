@@ -168,8 +168,11 @@ public class CameraSourcePreview extends ViewGroup {
 
     @Override
     protected void onLayout(boolean changed, int left, int top, int right, int bottom) {
-        int width = 320;
+//        int width = 320;
+//        int height = 240;
+        int width = 400;
         int height = 240;
+
         if (cameraSource != null) {
             Size size = cameraSource.getPreviewSize();
             if (size != null) {
@@ -202,7 +205,6 @@ public class CameraSourcePreview extends ViewGroup {
             getChildAt(i).layout(0, 0, childWidth, childHeight);
             Log.d(TAG, "Assigned view: " + i);
         }
-
         try {
             startIfReady();
         } catch (IOException e) {

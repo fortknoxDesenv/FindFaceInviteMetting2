@@ -801,33 +801,33 @@ public class Authentication extends Application {
             @Override
             public void onResponse(Call<ChamadoGrafico> call, Response<ChamadoGrafico> response) {
                 Log.d("e", response.toString());
-                if (response.isSuccessful()) {
+                try{
+                    if (response.isSuccessful()) {
 
-                    ChamadoGrafico liGestaoCtrSala = response.body();
+                        ChamadoGrafico liGestaoCtrSala = response.body();
 
-                    SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(getContext());
-                    SharedPreferences.Editor editor = sharedPreferences.edit();
+                        SharedPreferences sharedPreferences = PreferenceManager.getDefaultSharedPreferences(getContext());
+                        SharedPreferences.Editor editor = sharedPreferences.edit();
 
-                    ArrayList<String> listaDescriptions = liGestaoCtrSala.GetListaGestaoControleSala();
-                    int valorTotal = liGestaoCtrSala.GetPorcentagemTotalGestaoControleSala();
+                        ArrayList<String> listaDescriptions = liGestaoCtrSala.GetListaGestaoControleSala();
+                        int valorTotal = liGestaoCtrSala.GetPorcentagemTotalGestaoControleSala();
 
-                    editor.putInt(Enum.SharedPrivate.CHAMADO_GESTAO_VALOR_TOTAL.toString(), valorTotal);
-                    editor.putInt(Enum.SharedPrivate.CHAMADO_GESTAO_CONTROLE_SALA_SIZE.toString(), listaDescriptions.size());
-                    for (int i = 0; i < liGestaoCtrSala.GetListaGestaoControleSala().size(); i++) {
-                        editor.putString(Enum.SharedPrivate.GRAFICO_CHAMADO.toString() + "_" + i, listaDescriptions.get(i).replace("Gestao.Graficos.Chamados.", ""));
+                        editor.putInt(Enum.SharedPrivate.CHAMADO_GESTAO_VALOR_TOTAL.toString(), valorTotal);
+                        editor.putInt(Enum.SharedPrivate.CHAMADO_GESTAO_CONTROLE_SALA_SIZE.toString(), listaDescriptions.size());
+                        for (int i = 0; i < liGestaoCtrSala.GetListaGestaoControleSala().size(); i++) {
+                            editor.putString(Enum.SharedPrivate.GRAFICO_CHAMADO.toString() + "_" + i, listaDescriptions.get(i).replace("Gestao.Graficos.Chamados.", ""));
+                        }
+                        editor.apply();
+                        closeSession(SessionID);
+                    } else {
+                        assert response.errorBody() != null;
+                        closeSession(SessionID);
                     }
-                    //teste
-
-                    editor.apply();
-                    closeSession(SessionID);
-                    //GetChamadoControleSalaGrafico(SessionID);
-
-                } else {
-                    assert response.errorBody() != null;
-                    closeSession(SessionID);
+                }
+                catch (Exception e){
+                    e.printStackTrace();
                 }
             }
-
             @Override
             public void onFailure(Call<ChamadoGrafico> call1, Throwable t) {
                 Log.d("auth", t.getMessage());

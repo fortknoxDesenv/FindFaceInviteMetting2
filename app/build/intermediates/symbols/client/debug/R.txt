@@ -18,7 +18,8 @@ int anim design_snackbar_out 0x7f010010
 int anim rotate 0x7f010011
 int anim scale 0x7f010012
 int anim scale1 0x7f010013
-int anim shake 0x7f010014
+int anim scale2 0x7f010014
+int anim shake 0x7f010015
 int animator design_appbar_state_list_animator 0x7f020000
 int animator design_fab_hide_motion_spec 0x7f020001
 int animator design_fab_show_motion_spec 0x7f020002

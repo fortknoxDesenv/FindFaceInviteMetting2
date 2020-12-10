@@ -138,6 +138,7 @@ public class FaceContourDetectorProcessor extends VisionProcessorBase<List<Fireb
 //                    countDownTimer.start();
                     findFaceCameraActivity.converteBitmapToVideoMP4(listaBitmap);
                     countDownTimer.start();
+                    instrucaoInicioLiveness();
                     //findFaceCameraActivity.finishFindFaceCameraActivity();
                 }
                 itemAddLista = itemAddLista + 1;
@@ -189,6 +190,10 @@ public class FaceContourDetectorProcessor extends VisionProcessorBase<List<Fireb
             findFaceCameraActivity.setTextInstrucaoCamera(naoSeMexa);
             instrucaoAtual = naoSeMexa;
         }
+    }
+
+    public void instrucaoInicioLiveness(){
+        findFaceCameraActivity.setTextInstrucaoCamera(validando);
     }
 
 

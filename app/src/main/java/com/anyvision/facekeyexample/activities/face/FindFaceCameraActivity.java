@@ -5,17 +5,12 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
-import android.graphics.Color;
 import android.graphics.drawable.GradientDrawable;
-import android.graphics.drawable.shapes.Shape;
 import android.hardware.Camera;
 import android.os.Bundle;
 import android.util.Log;
-import android.view.TextureView;
-import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
-import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
@@ -47,6 +42,7 @@ public class FindFaceCameraActivity extends AppCompatActivity {
     private static TextView contagemGravacao;
     private static int centralize = 1;
     private static int naoSeMexa = 2;
+    private static int iniciarValidacao = 3;
     private static String txtCentralizeRosto;
     private static String txtNaoSeMexa;
     private static String txtValidandoLiveness;
@@ -87,10 +83,10 @@ public class FindFaceCameraActivity extends AppCompatActivity {
         startCameraSource();
 
         animScale = AnimationUtils.loadAnimation(this, R.anim.scale1);
-
         color_screen = findViewById(R.id.oval_find_face);
 
-        final Animation animScale = AnimationUtils.loadAnimation(this, R.anim.scale);
+        final Animation animScale = AnimationUtils.loadAnimation(this, R.anim.scale2);
+        color_screen.startAnimation(animScale);
     }
 
     private void createCameraSource() {
@@ -165,17 +161,17 @@ public class FindFaceCameraActivity extends AppCompatActivity {
         if (instrucao == centralize)
             txtInstrucaoCamera.setText(txtCentralizeRosto);
 
-        else if (instrucao == naoSeMexa) {
+        if (instrucao == naoSeMexa)
             txtInstrucaoCamera.setText(txtNaoSeMexa);
-        } else {
+
+        if (instrucao == iniciarValidacao)
             txtInstrucaoCamera.setText(txtValidandoLiveness);
-        }
     }
 
     @SuppressLint("WrongConstant")
     public static void iniciaColorScreen(int i) {
-        try{
-           final GradientDrawable drawable = new GradientDrawable();
+        try {
+            final GradientDrawable drawable = new GradientDrawable();
             switch (i) {
                 case 1:
                     drawable.setColor(vermelho);
@@ -220,13 +216,12 @@ public class FindFaceCameraActivity extends AppCompatActivity {
                     color_screen.startAnimation(animScale);
                     //color_screen.setBackgroundColor(azulclaro);
             }
-        }
-        catch (Exception e){
+        } catch (Exception e) {
             e.printStackTrace();
         }
     }
 
-    public static void converteBitmapToVideoMP4(final Bitmap[] image){
+    public static void converteBitmapToVideoMP4(final Bitmap[] image) {
         Executor service = Executors.newCachedThreadPool();
         service.execute(new Runnable() {
             @Override
@@ -255,9 +250,9 @@ public class FindFaceCameraActivity extends AppCompatActivity {
         findFaceCameraActivity.finish();
     }
 
-    public static void setContagemGravacao(int i){
+    public static void setContagemGravacao(int i) {
         contagemGravacao.setText(String.valueOf(i));
-        contagemGravacao.startAnimation(animScale);
+        //contagemGravacao.startAnimation(animScale);
     }
 
 //        public static void setContagemGravacao(int color) {

@@ -28,7 +28,7 @@ public final class R {
         public static final int design_bottom_sheet_slide_out = 0x7f01000e;
         public static final int design_snackbar_in = 0x7f01000f;
         public static final int design_snackbar_out = 0x7f010010;
-        public static final int shake = 0x7f010014;
+        public static final int shake = 0x7f010015;
     }
     public static final class animator {
         private animator() {}

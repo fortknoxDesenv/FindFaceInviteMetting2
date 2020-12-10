@@ -29,7 +29,8 @@ public final class R {
     public static final int rotate=0x7f010011;
     public static final int scale=0x7f010012;
     public static final int scale1=0x7f010013;
-    public static final int shake=0x7f010014;
+    public static final int scale2=0x7f010014;
+    public static final int shake=0x7f010015;
   }
   public static final class animator {
     public static final int design_appbar_state_list_animator=0x7f020000;

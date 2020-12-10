@@ -19,6 +19,7 @@ anim design_snackbar_out
 anim rotate
 anim scale
 anim scale1
+anim scale2
 anim shake
 animator design_appbar_state_list_animator
 animator design_fab_hide_motion_spec

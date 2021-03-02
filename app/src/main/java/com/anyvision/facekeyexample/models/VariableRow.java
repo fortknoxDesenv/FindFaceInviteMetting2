@@ -68,8 +68,6 @@ public class VariableRow {
     @Path("VariableRow[15]")
     private String description15;
 
-
-
     @Element(name = "Description", required = false)
     @Path("VariableRow[16]")
     private String description16;
@@ -100,8 +98,6 @@ public class VariableRow {
         listaDescriptions.add(description7);
         listaDescriptions.add(description15);
         listaDescriptions.add(description17);
-        //listaDescriptions.add(description16);
-
 
         return listaDescriptions;
     }

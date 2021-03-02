@@ -54,6 +54,7 @@
         android:testOnly="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
+        <activity android:name="com.anyvision.facekeyexample.activities.logged.RegisterInvateActivity" />
         <activity
             android:name="com.anyvision.facekeyexample.activities.face.FindFaceResultActivity"
             android:screenOrientation="portrait" />
@@ -79,13 +80,13 @@
             android:name="com.anyvision.facekeyexample.activities.logged.FacilitiesControleActivity"
             android:screenOrientation="portrait" />
         <activity
+            android:name="com.anyvision.facekeyexample.activities.logged.FacilitiesActivity"
+            android:screenOrientation="portrait" />
+        <activity
             android:name="com.anyvision.facekeyexample.activities.logged.ChamadoGraficoBarraActivity"
             android:screenOrientation="portrait" />
         <activity
             android:name="com.anyvision.facekeyexample.activities.logged.ChamadoGraficoActivity"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name="com.anyvision.facekeyexample.activities.logged.FacilitiesActivity"
             android:screenOrientation="portrait" />
         <activity
             android:name="com.anyvision.facekeyexample.activities.logged.GestaoActivity"

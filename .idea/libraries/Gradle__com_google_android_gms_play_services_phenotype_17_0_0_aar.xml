@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.gms:play-services-phenotype:17.0.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f802137f69c4fedde4b0291a4b94e398/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f802137f69c4fedde4b0291a4b94e398/res" />
+      <root url="jar://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/dd2c6aa6826c220d565ff9ad3071fa9c/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/dd2c6aa6826c220d565ff9ad3071fa9c/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

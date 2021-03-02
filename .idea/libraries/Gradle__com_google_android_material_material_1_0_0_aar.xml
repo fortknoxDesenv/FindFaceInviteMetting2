@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.material:material:1.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b574d83ec66139e81b49a86fbcbe4ed/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/cc89b3ebbe595b32ecf2024dae3c5cc6/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b574d83ec66139e81b49a86fbcbe4ed/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6b574d83ec66139e81b49a86fbcbe4ed/res" />
+      <root url="jar://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/cc89b3ebbe595b32ecf2024dae3c5cc6/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/cc89b3ebbe595b32ecf2024dae3c5cc6/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

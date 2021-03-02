@@ -36,7 +36,10 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true"
         tools:replace="android:theme">
-        <activity android:name=".activities.face.FindFaceResultActivity" android:screenOrientation="portrait"></activity>
+        <activity android:name=".activities.logged.RegisterInvateActivity"></activity>
+        <activity
+            android:name=".activities.face.FindFaceResultActivity"
+            android:screenOrientation="portrait" />
         <activity android:name=".activities.face.TesteActivity" />
         <activity
             android:name=".activities.face.CustomVideoCameraActivity"
@@ -59,13 +62,13 @@
             android:name=".activities.logged.FacilitiesControleActivity"
             android:screenOrientation="portrait" />
         <activity
+            android:name=".activities.logged.FacilitiesActivity"
+            android:screenOrientation="portrait" />
+        <activity
             android:name=".activities.logged.ChamadoGraficoBarraActivity"
             android:screenOrientation="portrait" />
         <activity
             android:name=".activities.logged.ChamadoGraficoActivity"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name=".activities.logged.FacilitiesActivity"
             android:screenOrientation="portrait" />
         <activity
             android:name=".activities.logged.GestaoActivity"

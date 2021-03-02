@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: :lottie-3.0.0:@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6de7b334101c4ac918b50b4a87533e5a/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/6de7b334101c4ac918b50b4a87533e5a/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6de7b334101c4ac918b50b4a87533e5a/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6de7b334101c4ac918b50b4a87533e5a/res" />
+      <root url="jar://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/6de7b334101c4ac918b50b4a87533e5a/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/6de7b334101c4ac918b50b4a87533e5a/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

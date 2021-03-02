@@ -1,17 +1,15 @@
 <component name="libraryTable">
   <library name="Gradle: com.xw.repo:bubbleseekbar:3.10-lite@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6813064fe7592e53d4e220badac16dca/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/9bf0898d81d4a8ab3e5d5fe0935d620b/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6813064fe7592e53d4e220badac16dca/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6813064fe7592e53d4e220badac16dca/res" />
+      <root url="jar://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/9bf0898d81d4a8ab3e5d5fe0935d620b/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/9bf0898d81d4a8ab3e5d5fe0935d620b/res" />
     </CLASSES>
-    <JAVADOC>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.xw.repo/bubbleseekbar/3.10-lite/8cdd230d70279141b8259bdada166806d851730e/bubbleseekbar-3.10-lite-javadoc.jar!/" />
-    </JAVADOC>
+    <JAVADOC />
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.xw.repo/bubbleseekbar/3.10-lite/b78f4af6b986eec169ba8311d8fb183ec496378e/bubbleseekbar-3.10-lite-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/modules-2/files-2.1/com.xw.repo/bubbleseekbar/3.10-lite/b78f4af6b986eec169ba8311d8fb183ec496378e/bubbleseekbar-3.10-lite-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

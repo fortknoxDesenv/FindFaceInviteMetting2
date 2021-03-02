@@ -4,7 +4,7 @@
             "outputFile": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\incremental\\mergeClientDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "D:\\Projeto-Android\\PROJETOS\\rtsp testados\\VitamioBundle-master\\VitamioBundle-master\\.gradle\\6.1.1\\caches\\transforms-2\\files-2.1\\ae357b97d84b66e38adfee1626966950\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\6b53f120382886930776e64b892bf5ac\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "D:\\Projeto-Android\\PROJETOS\\rtsp testados\\VitamioBundle-master\\VitamioBundle-master\\.gradle\\6.1.1\\caches\\transforms-2\\files-2.1\\f4788e7b1e8f718836c702f3c0dabf49\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

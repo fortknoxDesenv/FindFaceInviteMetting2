@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.gms:play-services-mlkit-face-detection:16.0.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/deedabd90c0397c5044ab868e51dff4e/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/deedabd90c0397c5044ab868e51dff4e/res" />
+      <root url="jar://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/efa77444bad12c542179ebf5f4eecc77/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/efa77444bad12c542179ebf5f4eecc77/res" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-mlkit-face-detection/16.0.0/4c56396e75f45e37f0c685ced591b3623541c0ef/play-services-mlkit-face-detection-16.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/modules-2/files-2.1/com.google.android.gms/play-services-mlkit-face-detection/16.0.0/4c56396e75f45e37f0c685ced591b3623541c0ef/play-services-mlkit-face-detection-16.0.0-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES />
   </library>

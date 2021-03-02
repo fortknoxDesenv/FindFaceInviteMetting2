@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.datatransport:transport-runtime:2.2.2@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6dbf90a4fc6955d0629532a5f918422c/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6dbf90a4fc6955d0629532a5f918422c/res" />
+      <root url="jar://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/6fb32d237b20c88afd570c32a2856126/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/6fb32d237b20c88afd570c32a2856126/res" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.datatransport/transport-runtime/2.2.2/d79e8348614344bec1809c00f0756c550365974e/transport-runtime-2.2.2-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/modules-2/files-2.1/com.google.android.datatransport/transport-runtime/2.2.2/d79e8348614344bec1809c00f0756c550365974e/transport-runtime-2.2.2-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES />
   </library>

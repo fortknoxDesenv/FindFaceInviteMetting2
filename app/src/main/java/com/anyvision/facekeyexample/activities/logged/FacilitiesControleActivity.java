@@ -8,7 +8,6 @@ import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.view.inputmethod.InputMethodManager;
-import android.view.inputmethod.InputMethodSubtype;
 import android.widget.Button;
 import android.widget.CalendarView;
 import android.widget.CheckBox;
@@ -21,14 +20,11 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.anyvision.facekeyexample.R;
-import com.anyvision.facekeyexample.activities.login.ListaNewValueName;
-import com.anyvision.facekeyexample.models.FacilitiesModel.FacilitiesModel;
 import com.anyvision.facekeyexample.models.GetVariables;
 import com.anyvision.facekeyexample.prysm.Authentication;
 import com.anyvision.facekeyexample.utils.Enum;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class FacilitiesControleActivity extends AppCompatActivity {
 
@@ -77,7 +73,7 @@ public class FacilitiesControleActivity extends AppCompatActivity {
         if (profissaoEscolhida.equals(Enum.Facilities.VIGILANTE.toString())) {
             checkboxOpcao.setText("Noturno");
             numero_request = 1;
-            nomeProfissaoSeFlagSelecionado = "Arma";
+            nomeProfissaoSeFlagSelecionado = "Noturno";
             txtInfoTelaAtual.setText("Solicitação de Vigilante");
         }
 
@@ -103,9 +99,9 @@ public class FacilitiesControleActivity extends AppCompatActivity {
                 checkboxOpcao.setVisibility(View.GONE);
                 edtTxtQtdProfissionais.setVisibility(View.GONE);
 
-                InputMethodManager im = (InputMethodManager)getSystemService(INPUT_METHOD_SERVICE);
-                if(getCurrentFocus() != null)
-                im.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(), 0);
+                InputMethodManager im = (InputMethodManager) getSystemService(INPUT_METHOD_SERVICE);
+                if (getCurrentFocus() != null)
+                    im.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(), 0);
             }
         });
 
@@ -119,7 +115,7 @@ public class FacilitiesControleActivity extends AppCompatActivity {
                     checkboxOpcao.setVisibility(View.GONE);
                     edtTxtQtdProfissionais.setVisibility(View.GONE);
                     //teste
-                    InputMethodManager im = (InputMethodManager)getSystemService(INPUT_METHOD_SERVICE);
+                    InputMethodManager im = (InputMethodManager) getSystemService(INPUT_METHOD_SERVICE);
                     im.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(), 0);
                     edittxtData.setInputType(InputType.TYPE_NULL);
 
@@ -135,7 +131,6 @@ public class FacilitiesControleActivity extends AppCompatActivity {
                 String mesSelecionado = meses[month];
                 String Date = dayOfMonth + "/" + (mesSelecionado) + "/" + year;
                 edittxtData.setText(Date);
-                //String Date = dayOfMonth + "-" + (month + 1) + "-" + year;
             }
         });
 
@@ -155,7 +150,7 @@ public class FacilitiesControleActivity extends AppCompatActivity {
             public void onClick(View view) {
                 edittxtData.setInputType(InputType.TYPE_CLASS_TEXT);
                 edittxtData.requestFocus();
-                InputMethodManager im = (InputMethodManager)getSystemService(Context.INPUT_METHOD_SERVICE);
+                InputMethodManager im = (InputMethodManager) getSystemService(Context.INPUT_METHOD_SERVICE);
                 im.showSoftInput(edittxtData, InputMethodManager.SHOW_IMPLICIT);
 
             }
@@ -179,7 +174,7 @@ public class FacilitiesControleActivity extends AppCompatActivity {
 
                         String regexHoras = "[0-9]+";
                         Boolean validaQtdHoras = editTxtqtdHoras.getText().toString().matches(regexHoras);
-                        if (!validaQtdHoras){
+                        if (!validaQtdHoras) {
                             editTxtqtdHoras.setError("Digite apenas números");
                             return;
                         }

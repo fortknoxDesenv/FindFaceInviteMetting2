@@ -1295,6 +1295,7 @@ drawable microphone
 drawable mtrl_snackbar_background
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+drawable new_face
 drawable no_face_oval_shape
 drawable not_live
 drawable notification_action_background
@@ -1485,10 +1486,12 @@ id btnAtivaBtnRegisterLogin
 id btnBombeiro
 id btnCFTV
 id btnCalendarioFacilities
+id btnCalendarioInvite
 id btnChamado
 id btnChamadoGestao
 id btnControladorAcesso
 id btnEnviar
+id btnEnviarInvite
 id btnExtend
 id btnExtend2
 id btnFacilitiesGestao
@@ -1511,6 +1514,7 @@ id btnVigilante
 id buttonPanel
 id buttonsLayout
 id calendarioFacilities
+id calendarioInvite
 id calligraphy_tag_id
 id camBackButton
 id camera
@@ -1952,9 +1956,14 @@ id try_again_find_face
 id tutorialBackBtn
 id tutorialPageDescription
 id tutorialTryAgain
+id txtDataInvite
+id txtDuracaoReuniao
+id txtEmailInvite
 id txtInfoTelaProfissao
+id txtInfoTelaReuniao
 id txtIntrucaoCamera
 id txtMenuAprovReprov
+id txtNomeUserInvite
 id txtSolicitation
 id txtsenha
 id uniform
@@ -2055,6 +2064,7 @@ layout activity_login_result
 layout activity_main
 layout activity_photo
 layout activity_register
+layout activity_register_invate
 layout activity_result
 layout activity_settings
 layout activity_solicitation_extension

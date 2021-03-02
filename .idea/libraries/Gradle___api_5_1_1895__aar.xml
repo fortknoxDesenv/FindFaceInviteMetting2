@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: :api-5.1.1895:@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b50de4744499faa424d9a7c36a449c47/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/884846f0f854dcb377cbea530aeab4e8/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b50de4744499faa424d9a7c36a449c47/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b50de4744499faa424d9a7c36a449c47/res" />
+      <root url="jar://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/884846f0f854dcb377cbea530aeab4e8/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/884846f0f854dcb377cbea530aeab4e8/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -32,6 +32,7 @@ import androidx.core.app.ActivityCompat;
 
 import com.anyvision.facekeyexample.R;
 import com.anyvision.facekeyexample.activities.face.FindFaceCameraActivity;
+import com.anyvision.facekeyexample.activities.logged.RegisterInvateActivity;
 import com.anyvision.facekeyexample.firebase.Firebase;
 import com.anyvision.facekeyexample.models.GetVariables;
 import com.anyvision.facekeyexample.models.InfoMobile;
@@ -95,6 +96,7 @@ public class LoginActivity extends BaseActivity {
 
         //teste
         //FindFaceCameraActivity.startActivity(LoginActivity.this);
+        RegisterInvateActivity.startActivity(LoginActivity.this);
 
         AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(this);
         View view = getLayoutInflater().inflate(R.layout.alert_dialog, null);

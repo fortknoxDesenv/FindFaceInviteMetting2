@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.mlkit:vision-common:16.0.0@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/765c1265d9d787f2cda2fcfa43fb0273/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/765c1265d9d787f2cda2fcfa43fb0273/res" />
+      <root url="jar://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/4b6a2888b54cb7779c08c87f7a02f9c3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/4b6a2888b54cb7779c08c87f7a02f9c3/res" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.mlkit/vision-common/16.0.0/d5dbc848b5ea1227c1851e25210f4f1d19f4668f/vision-common-16.0.0-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/modules-2/files-2.1/com.google.mlkit/vision-common/16.0.0/d5dbc848b5ea1227c1851e25210f4f1d19f4668f/vision-common-16.0.0-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES />
   </library>

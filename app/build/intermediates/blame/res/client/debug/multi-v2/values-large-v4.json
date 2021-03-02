@@ -4,7 +4,7 @@
             "outputFile": "D:\\Projeto-Android\\PROJETOS\\FindFace-Security-V4\\app\\build\\intermediates\\incremental\\mergeClientDebugResources\\merged.dir\\values-large-v4\\values-large-v4.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\dfa17af06254ea2f63fbed428f16b3c3\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "D:\\Projeto-Android\\PROJETOS\\rtsp testados\\VitamioBundle-master\\VitamioBundle-master\\.gradle\\6.1.1\\caches\\transforms-2\\files-2.1\\ae357b97d84b66e38adfee1626966950\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\ewerton.richieri\\.gradle\\caches\\transforms-2\\files-2.1\\6b574d83ec66139e81b49a86fbcbe4ed\\res\\values-large-v4\\values-large-v4.xml",
+                    "source": "D:\\Projeto-Android\\PROJETOS\\rtsp testados\\VitamioBundle-master\\VitamioBundle-master\\.gradle\\6.1.1\\caches\\transforms-2\\files-2.1\\cc89b3ebbe595b32ecf2024dae3c5cc6\\res\\values-large-v4\\values-large-v4.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

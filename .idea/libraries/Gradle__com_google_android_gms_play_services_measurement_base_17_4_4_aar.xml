@@ -1,11 +1,11 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.android.gms:play-services-measurement-base:17.4.4@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/79f59ec1d145b53e37da3aa5fe739389/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/79f59ec1d145b53e37da3aa5fe739389/res" />
+      <root url="jar://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/44038550283a2854b1aaff8066e6a0a3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/transforms-2/files-2.1/44038550283a2854b1aaff8066e6a0a3/res" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-base/17.4.4/3595118ed0ead1cee5178fbd6258f9199eb969a5/play-services-measurement-base-17.4.4-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../rtsp testados/VitamioBundle-master/VitamioBundle-master/.gradle/6.1.1/caches/modules-2/files-2.1/com.google.android.gms/play-services-measurement-base/17.4.4/3595118ed0ead1cee5178fbd6258f9199eb969a5/play-services-measurement-base-17.4.4-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES />
   </library>

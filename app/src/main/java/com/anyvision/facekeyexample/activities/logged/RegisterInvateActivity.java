@@ -20,6 +20,7 @@ public class RegisterInvateActivity extends AppCompatActivity {
     private CalendarView calendarioInvite;
     private ImageView btnCalendarioInvite;
     private EditText txtNomeUserInvite;
+    private EditText txtSobrenomeUserInvite;
     private EditText txtDuracaoReuniao;
     private EditText txtEmailInvite;
     private EditText txtDataInvite;
@@ -34,6 +35,7 @@ public class RegisterInvateActivity extends AppCompatActivity {
 
             txtEmailInvite = findViewById(R.id.txtEmailInvite);
             txtNomeUserInvite = findViewById(R.id.txtNomeUserInvite);
+            txtSobrenomeUserInvite = findViewById(R.id.txtSobrenomeUserInvite);
             txtDataInvite = findViewById(R.id.txtDataInvite);
             txtDuracaoReuniao = findViewById(R.id.txtDuracaoReuniao);
             btnCalendarioInvite = findViewById(R.id.btnCalendarioInvite);
@@ -73,7 +75,7 @@ public class RegisterInvateActivity extends AppCompatActivity {
                 @Override
                 public void onSelectedDayChange(@NonNull CalendarView view, int year, int month, int dayOfMonth) {
                     try {
-                        String date = getMonthSelectedInPortuguese(dayOfMonth, month, year);
+                        String date = getMonthSelectedAndTranslateToPortuguese(dayOfMonth, month, year);
                         txtDataInvite.setText(date);
                     } catch (Exception ex) {
                         ex.printStackTrace();
@@ -124,7 +126,7 @@ public class RegisterInvateActivity extends AppCompatActivity {
         btnEnviarInvite.setVisibility(View.VISIBLE);
     }
 
-    public String getMonthSelectedInPortuguese(int dayOfMonth, int month, int year) {
+    public String getMonthSelectedAndTranslateToPortuguese(int dayOfMonth, int month, int year) {
         String[] meses = new String[]{"Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"};
         String mesSelecionado = meses[month];
         String date = dayOfMonth + "/" + (mesSelecionado) + "/" + year;

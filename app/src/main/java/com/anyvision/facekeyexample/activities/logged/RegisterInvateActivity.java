@@ -143,3 +143,5 @@ public class RegisterInvateActivity extends AppCompatActivity {
         from.startActivity(intent);
     }
 }
+
+//http://192.168.5.233:8093/api/invite/PostRegisterInvite?firstName=James&lastName=groop&email=ewerton.richieri@fortknox.com.br&dataInvite=03/05/2021 13:00&duracaoHorasTotalInvite=5

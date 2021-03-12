@@ -161,7 +161,7 @@ public class RegisterInvateActivity extends AppCompatActivity {
     public static void feedbackUserResponseApiRegister(String message){
 
     }
-
+//teste
     public static void startActivity(Context from) {
         Intent intent = new Intent(from, RegisterInvateActivity.class);
         from.startActivity(intent);

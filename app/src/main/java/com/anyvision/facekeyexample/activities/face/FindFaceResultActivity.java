@@ -12,6 +12,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.anyvision.facekeyexample.R;
 import com.anyvision.facekeyexample.activities.logged.MainActivity;
+import com.anyvision.facekeyexample.activities.logged.RegisterInvateActivity;
 import com.anyvision.facekeyexample.activities.logged.SolicitationExtensionActivity;
 import com.anyvision.facekeyexample.models.GetVariables;
 import com.anyvision.facekeyexample.prysm.Authentication;
@@ -42,8 +43,6 @@ public class FindFaceResultActivity extends AppCompatActivity {
         typeAccount = GetVariables.getInstance().getSpTypeAccount();
         findFaceResultActivity = this;
         GetVariables.getInstance().setIsRecording(false);
-//        File file = new File(getExternalFilesDir(null) + "/faceCamera.mp4");
-//        auth.livenessFindFace(file);
 
         authenticate();
 
@@ -71,15 +70,9 @@ public class FindFaceResultActivity extends AppCompatActivity {
     }
 
     public static void onSuccess() {
-        if (typeAccount.equals("REGIONAL")) {
-            FirebaseMessaging.getInstance().unsubscribeFromTopic("AGENCIA");
-            FirebaseMessaging.getInstance().subscribeToTopic("REGIONAL");
-
-            auth.requestToken("aprovaReprovaExtesao", "geral");
-            SolicitationExtensionActivity.startActivity(findFaceResultActivity);
-        } else {
-            MainActivity.startActivity(findFaceResultActivity);
-        }
+//            FirebaseMessaging.getInstance().unsubscribeFromTopic("AGENCIA");
+//            FirebaseMessaging.getInstance().subscribeToTopic("REGIONAL");
+            RegisterInvateActivity.startActivity(findFaceResultActivity);
         findFaceResultActivity.finish();
     }
 
@@ -89,16 +82,7 @@ public class FindFaceResultActivity extends AppCompatActivity {
         tryAgainContainer.setVisibility(View.VISIBLE);
         horizontalSeparator.setVisibility(View.VISIBLE);
         progressBar.setVisibility(View.GONE);
-
         resultText.setText(msg);
-//        if (isSuccess) {
-//            resultImage.setImageDrawable(getDrawable(R.drawable.success));
-//        } else {
-//            resultImage.setImageDrawable(getDrawable(R.drawable.failure));
-//        }
-//        File videoAndImageDir = AppData.getVideo().getParentFile();
-//        AppData.getVideo().delete();
-//        videoAndImageDir.delete();
     }
 
     public static void startActivity(Context from) {

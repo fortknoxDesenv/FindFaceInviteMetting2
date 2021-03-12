@@ -5,6 +5,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.text.InputType;
 import android.view.View;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.Button;
 import android.widget.CalendarView;
@@ -49,6 +51,7 @@ public class RegisterInvateActivity extends AppCompatActivity {
             btnSelecionarData = findViewById(R.id.btnSelecionarData);
             btnSelecionarData.setVisibility(View.GONE);
             calendarioInvite.setVisibility(View.GONE);
+            final Animation animScale = AnimationUtils.loadAnimation(this, R.anim.scale);
 
             btnCalendarioInvite.setOnClickListener(new View.OnClickListener() {
                 @Override
@@ -68,21 +71,8 @@ public class RegisterInvateActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View view) {
                     try {
+                        view.startAnimation(animScale);
                         hideCalendarAndShowAllOthersButtons();
-                    } catch (Exception ex) {
-                        ex.printStackTrace();
-                    }
-                }
-            });
-
-            btnEnviarInvite.setOnClickListener(new View.OnClickListener() {
-                @Override
-                public void onClick(View view) {
-                    try {
-                        Invite invite = new Invite();
-                        invite.postRegisterInvite(txtNomeUserInvite.getText().toString(),
-                                txtSobrenomeUserInvite.getText().toString(), txtEmailInvite.getText().toString(),
-                                txtDataInvite.getText().toString(), txtDuracaoReuniao.getText().toString());
                     } catch (Exception ex) {
                         ex.printStackTrace();
                     }
@@ -121,6 +111,21 @@ public class RegisterInvateActivity extends AppCompatActivity {
                 }
             });
 
+            btnEnviarInvite.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    try {
+                        view.startAnimation(animScale);
+                        Invite invite = new Invite();
+                        invite.postRegisterInvite(txtNomeUserInvite.getText().toString(),
+                                txtSobrenomeUserInvite.getText().toString(), txtEmailInvite.getText().toString(),
+                                txtDataInvite.getText().toString(), txtDuracaoReuniao.getText().toString());
+                    } catch (Exception ex) {
+                        ex.printStackTrace();
+                    }
+                }
+            });
+
         } catch (Exception ex) {
             ex.printStackTrace();
         }
@@ -148,16 +153,13 @@ public class RegisterInvateActivity extends AppCompatActivity {
         btnEnviarInvite.setVisibility(View.VISIBLE);
     }
 
-//    public String getMonthSelectedAndTranslateToPortuguese(int dayOfMonth, int month, int year) {
-//        String[] meses = new String[]{"Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"};
-//        String mesSelecionado = meses[month];
-//        String date = dayOfMonth + "/" + (mesSelecionado) + "/" + year;
-//        return date;
-//    }
-
     public void hideKeyboardAndroid() {
         InputMethodManager keyboard = (InputMethodManager) getSystemService(INPUT_METHOD_SERVICE);
         keyboard.hideSoftInputFromWindow(getWindow().getDecorView().getRootView().getWindowToken(), 0);
+    }
+
+    public static void feedbackUserResponseApiRegister(String message){
+
     }
 
     public static void startActivity(Context from) {
@@ -166,4 +168,3 @@ public class RegisterInvateActivity extends AppCompatActivity {
     }
 }
 
-//http://192.168.5.233:8093/api/invite/PostRegisterInvite?firstName=James&lastName=groop&email=ewerton.richieri@fortknox.com.br&dataInvite=03/05/2021 13:00&duracaoHorasTotalInvite=5

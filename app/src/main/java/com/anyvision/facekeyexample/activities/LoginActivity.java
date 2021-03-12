@@ -112,7 +112,7 @@ public class LoginActivity extends BaseActivity {
                 }
             }
         });
-
+ //teste
         alertDialogBuilder.setNegativeButton("SAIR", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
@@ -242,13 +242,7 @@ public class LoginActivity extends BaseActivity {
                             if (typeAccount.equals(Enum.AgReg.AGENCIA.toString())) {
                                 auth.requestToken(Enum.request.aprovaReprovaExtesao.toString(), Enum.request.descriptions.toString());
                             }
-
-                            //LoginCameraActivity.startActivity(LoginActivity.this);
-
                             FindFaceCameraActivity.startActivity(LoginActivity.this);
-//                            File file = new File(getExternalFilesDir(null) + "/faceCamera.mp4");
-//                            auth.livenessFindFace(file);
-
                         }
                     } else {
                         Toast.makeText(LoginActivity.this, getString(R.string.verifique_status_servidor), Toast.LENGTH_LONG).show();

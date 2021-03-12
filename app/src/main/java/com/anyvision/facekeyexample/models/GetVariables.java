@@ -1,5 +1,6 @@
 package com.anyvision.facekeyexample.models;
 
+import android.content.SharedPreferences;
 import android.hardware.Camera;
 import android.media.MediaRecorder;
 import android.view.SurfaceView;

@@ -112,7 +112,7 @@ public class LoginActivity extends BaseActivity {
                 }
             }
         });
- //teste
+
         alertDialogBuilder.setNegativeButton("SAIR", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {

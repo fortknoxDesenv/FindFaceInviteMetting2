@@ -15,6 +15,10 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.anyvision.facekeyexample.R;
+import com.anyvision.facekeyexample.api.Invite;
+
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
 
 public class RegisterInvateActivity extends AppCompatActivity {
     private CalendarView calendarioInvite;
@@ -71,11 +75,29 @@ public class RegisterInvateActivity extends AppCompatActivity {
                 }
             });
 
+            btnEnviarInvite.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    try {
+                        Invite invite = new Invite();
+                        invite.postRegisterInvite(txtNomeUserInvite.getText().toString(),
+                                txtSobrenomeUserInvite.getText().toString(), txtEmailInvite.getText().toString(),
+                                txtDataInvite.getText().toString(), txtDuracaoReuniao.getText().toString());
+                    } catch (Exception ex) {
+                        ex.printStackTrace();
+                    }
+                }
+            });
+
             calendarioInvite.setOnDateChangeListener(new CalendarView.OnDateChangeListener() {
                 @Override
                 public void onSelectedDayChange(@NonNull CalendarView view, int year, int month, int dayOfMonth) {
                     try {
-                        String date = getMonthSelectedAndTranslateToPortuguese(dayOfMonth, month, year);
+                        final SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
+                        Calendar calendar = Calendar.getInstance();
+                        calendar.set(year, month, dayOfMonth);
+                        String date = sdf.format(calendar.getTime());
+
                         txtDataInvite.setText(date);
                     } catch (Exception ex) {
                         ex.printStackTrace();
@@ -126,12 +148,12 @@ public class RegisterInvateActivity extends AppCompatActivity {
         btnEnviarInvite.setVisibility(View.VISIBLE);
     }
 
-    public String getMonthSelectedAndTranslateToPortuguese(int dayOfMonth, int month, int year) {
-        String[] meses = new String[]{"Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"};
-        String mesSelecionado = meses[month];
-        String date = dayOfMonth + "/" + (mesSelecionado) + "/" + year;
-        return date;
-    }
+//    public String getMonthSelectedAndTranslateToPortuguese(int dayOfMonth, int month, int year) {
+//        String[] meses = new String[]{"Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho", "Julho", "Agosto", "Setembro", "Outubro", "Novembro", "Dezembro"};
+//        String mesSelecionado = meses[month];
+//        String date = dayOfMonth + "/" + (mesSelecionado) + "/" + year;
+//        return date;
+//    }
 
     public void hideKeyboardAndroid() {
         InputMethodManager keyboard = (InputMethodManager) getSystemService(INPUT_METHOD_SERVICE);

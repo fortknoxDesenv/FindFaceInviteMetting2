@@ -1546,23 +1546,23 @@ public final class R {
         public static final int tutorialBackBtn = 0x7f090248;
         public static final int tutorialPageDescription = 0x7f090249;
         public static final int tutorialTryAgain = 0x7f09024a;
-        public static final int uniform = 0x7f090255;
-        public static final int unlabeled = 0x7f090256;
-        public static final int up = 0x7f090257;
-        public static final int video = 0x7f090260;
-        public static final int view1 = 0x7f090261;
-        public static final int view2 = 0x7f090262;
-        public static final int view3 = 0x7f090263;
-        public static final int view4 = 0x7f090264;
-        public static final int view5 = 0x7f090265;
-        public static final int view_offset_helper = 0x7f090266;
-        public static final int viewpager = 0x7f090267;
-        public static final int visible = 0x7f090268;
-        public static final int vvMainLayout = 0x7f090269;
-        public static final int wide = 0x7f09026a;
-        public static final int wrap = 0x7f09026c;
-        public static final int wrap_content = 0x7f09026d;
-        public static final int zoom = 0x7f09026e;
+        public static final int uniform = 0x7f090256;
+        public static final int unlabeled = 0x7f090257;
+        public static final int up = 0x7f090258;
+        public static final int video = 0x7f090261;
+        public static final int view1 = 0x7f090262;
+        public static final int view2 = 0x7f090263;
+        public static final int view3 = 0x7f090264;
+        public static final int view4 = 0x7f090265;
+        public static final int view5 = 0x7f090266;
+        public static final int view_offset_helper = 0x7f090267;
+        public static final int viewpager = 0x7f090268;
+        public static final int visible = 0x7f090269;
+        public static final int vvMainLayout = 0x7f09026a;
+        public static final int wide = 0x7f09026b;
+        public static final int wrap = 0x7f09026d;
+        public static final int wrap_content = 0x7f09026e;
+        public static final int zoom = 0x7f09026f;
     }
     public static final class integer {
         private integer() {}

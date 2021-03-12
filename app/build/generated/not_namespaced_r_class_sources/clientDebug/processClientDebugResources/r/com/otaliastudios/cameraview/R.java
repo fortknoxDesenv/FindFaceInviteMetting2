@@ -211,8 +211,8 @@ public final class R {
         public static final int title = 0x7f090230;
         public static final int top = 0x7f090234;
         public static final int torch = 0x7f090237;
-        public static final int video = 0x7f090260;
-        public static final int zoom = 0x7f09026e;
+        public static final int video = 0x7f090261;
+        public static final int zoom = 0x7f09026f;
     }
     public static final class integer {
         private integer() {}

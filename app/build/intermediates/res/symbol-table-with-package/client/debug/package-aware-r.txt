@@ -1964,6 +1964,7 @@ id txtInfoTelaReuniao
 id txtIntrucaoCamera
 id txtMenuAprovReprov
 id txtNomeUserInvite
+id txtSobrenomeUserInvite
 id txtSolicitation
 id txtsenha
 id uniform

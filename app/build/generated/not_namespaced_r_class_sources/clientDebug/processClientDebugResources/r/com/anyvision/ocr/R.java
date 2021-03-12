@@ -1206,14 +1206,14 @@ public final class R {
         public static final int torchStatusLl = 0x7f09023b;
         public static final int torchStatusRightLl = 0x7f09023c;
         public static final int tryAgainNoFace = 0x7f090243;
-        public static final int uniform = 0x7f090255;
-        public static final int up = 0x7f090257;
-        public static final int userImageContainer = 0x7f09025c;
-        public static final int video = 0x7f090260;
-        public static final int wide = 0x7f09026a;
-        public static final int wrap = 0x7f09026c;
-        public static final int wrap_content = 0x7f09026d;
-        public static final int zoom = 0x7f09026e;
+        public static final int uniform = 0x7f090256;
+        public static final int up = 0x7f090258;
+        public static final int userImageContainer = 0x7f09025d;
+        public static final int video = 0x7f090261;
+        public static final int wide = 0x7f09026b;
+        public static final int wrap = 0x7f09026d;
+        public static final int wrap_content = 0x7f09026e;
+        public static final int zoom = 0x7f09026f;
     }
     public static final class integer {
         private integer() {}
